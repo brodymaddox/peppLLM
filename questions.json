@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are the key components of a RAG system?",
+    "ideal_response": "The key components of a RAG (Retrieval-Augmented Generation) system typically include: 1) A document loader to ingest various types of documents, 2) A text splitter to break documents into manageable chunks, 3) An embedding model to convert text into vector representations, 4) A vector store to efficiently store and retrieve these embeddings, 5) A retriever to find relevant information based on a query, 6) A language model (LLM) to generate responses, and 7) A chain or pipeline that combines these components to process queries and generate answers."
+  },
+  {
+    "question": "How does fine-tuning improve the performance of an LLM in a RAG system?",
+    "ideal_response": "Fine-tuning improves the performance of an LLM in a RAG system by adapting the model to the specific domain and context of the ingested documents. It helps the model better understand the nuances and terminology of the particular subject matter, potentially leading to more accurate and relevant responses. Fine-tuning can also help the model generate outputs that are more consistent with the style and format of the training data, which can be particularly useful in specialized applications."
+  },
+  {
+    "question": "What is the purpose of the RecursiveCharacterTextSplitter in the given code?",
+    "ideal_response": "The RecursiveCharacterTextSplitter in the given code is used to split the loaded documents into smaller, more manageable chunks. It breaks down large texts into smaller segments with a specified chunk size (1000 characters) and overlap (200 characters). This splitting is crucial for effective embedding and retrieval, as it allows the system to work with more granular pieces of information, improving the precision of retrieval and the relevance of generated responses."
+  }
+]
