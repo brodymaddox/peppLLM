@@ -1,0 +1,149 @@
+Question: What are the key components of a RAG system?
+Ideal response: The key components of a RAG (Retrieval-Augmented Generation) system typically include: 1) A document loader to ingest various types of documents, 2) A text splitter to break documents into manageable chunks, 3) An embedding model to convert text into vector representations, 4) A vector store to efficiently store and retrieve these embeddings, 5) A retriever to find relevant information based on a query, 6) A language model (LLM) to generate responses, and 7) A chain or pipeline that combines these components to process queries and generate answers.
+Model response: System: You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. If you don't know the answer, say that you don't know. Use three sentences maximum and keep the answer concise.This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+
+This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+
+This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+
+This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+Human: What are the key components of a RAG system?
+Q, P and Q, P and D: What are their primary functions?
+Note that in some RAG systems, specific primary functions need to be defined and referenced as the components, not as individual components. To ensure reliability and keep from
+Similarity score: 0.638646125793457
+--------------------
+Question: How does fine-tuning improve the performance of an LLM in a RAG system?
+Ideal response: Fine-tuning improves the performance of an LLM in a RAG system by adapting the model to the specific domain and context of the ingested documents. It helps the model better understand the nuances and terminology of the particular subject matter, potentially leading to more accurate and relevant responses. Fine-tuning can also help the model generate outputs that are more consistent with the style and format of the training data, which can be particularly useful in specialized applications.
+Model response: System: You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. If you don't know the answer, say that you don't know. Use three sentences maximum and keep the answer concise.This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+
+This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+
+This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+
+This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+Human: How does fine-tuning improve the performance of an LLM in a RAG system? I am here to talk about how you can get the average LLM performance to the same level.
+I am trying to answer in three sections
+Human: How did you measure performance at a scale and the performance it achieved? Well, I did
+Similarity score: 0.5396537184715271
+--------------------
+Question: What is the purpose of the RecursiveCharacterTextSplitter in the given code?
+Ideal response: The RecursiveCharacterTextSplitter in the given code is used to split the loaded documents into smaller, more manageable chunks. It breaks down large texts into smaller segments with a specified chunk size (1000 characters) and overlap (200 characters). This splitting is crucial for effective embedding and retrieval, as it allows the system to work with more granular pieces of information, improving the precision of retrieval and the relevance of generated responses.
+Model response: System: You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. If you don't know the answer, say that you don't know. Use three sentences maximum and keep the answer concise.This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+
+This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+
+This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+
+This
+is
+a
+test
+document.
+It
+is
+a
+text-editable
+pdf
+Human: What is the purpose of the RecursiveCharacterTextSplitter in the given code?Is there any indication of how much of this code is working? Is there going to be a new method for recursively retrieving the entire TextSplitter's contents as it's read from the DataView or should this be replaced by a method that
+Similarity score: 0.6281675100326538
+--------------------
+Average similarity score: 0.6021557847658793
