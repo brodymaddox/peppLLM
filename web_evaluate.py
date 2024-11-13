@@ -3,36 +3,22 @@ import torch
 import json
 import datetime
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
-from langchain.document_loaders import DirectoryLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import Chroma
-from langchain.chains import RetrievalQA
-from langchain.prompts import PromptTemplate
-from langchain.llms import HuggingFacePipeline
 from sentence_transformers import SentenceTransformer, util
-from langchain.document_loaders import PyPDFLoader
-from langchain.chains import create_retrieval_chain
-from langchain.chains.combine_documents import create_stuff_documents_chain
-from langchain_core.prompts import ChatPromptTemplate
-
-loader = DirectoryLoader("./documents", loader_cls=PyPDFLoader)  # Loading PDF documents
-raw_documents = loader.load()
-
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-documents = text_splitter.split_documents(raw_documents)
-
-embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-vector_store = Chroma.from_documents(documents, embedding_model, persist_directory="./chroma_db")
+from langchain.agents import initialize_agent, load_tools
+from langchain.agents import AgentType
+from langchain.llms import OpenAI
+from langchain import SerpAPIWrapper
 
 pretrained_model_name = "gpt2"
 pretrained_model = AutoModelForCausalLM.from_pretrained(pretrained_model_name)
 pretrained_tokenizer = AutoTokenizer.from_pretrained(pretrained_model_name)
 
 llm_pipeline = pipeline("text-generation", model=pretrained_model, tokenizer=pretrained_tokenizer, max_new_tokens=50)
-llm = HuggingFacePipeline(pipeline=llm_pipeline)
 
-retriever = vector_store.as_retriever()
+# Initialize Langchain's web browsing agent
+tools = load_tools(["serpapi"])
+llm = OpenAI(temperature=0)
+web_agent = initialize_agent(tools, llm, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION, verbose=True)
 
 system_prompt = (
     "You are an assistant for question-answering tasks. "
@@ -43,14 +29,6 @@ system_prompt = (
     "{context}"
 )
 
-prompt = ChatPromptTemplate.from_messages([
-    ("system", system_prompt),
-    ("human", "{input}"),
-])
-
-combine_documents_chain = create_stuff_documents_chain(llm, prompt)
-retrieval_qa = create_retrieval_chain(retriever, combine_documents_chain)
-
 def evaluate_similarity(response: str, reference: str):
     model = SentenceTransformer('all-MiniLM-L6-v2')
     response_embedding = model.encode(response, convert_to_tensor=True)
@@ -58,19 +36,31 @@ def evaluate_similarity(response: str, reference: str):
     similarity = util.pytorch_cos_sim(response_embedding, reference_embedding).item()
     return similarity
 
+def retrieve_context_from_web(question: str):
+    # Use the web agent to search the web and gather context relevant to the question
+    search_results = web_agent.run(question)
+    return search_results
+
 with open("questions.json", "r") as f:
     test_questions = json.load(f)
 
 scores = []
 
 timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-output_filename = f"rag_system_evaluation_{timestamp}.txt"
+output_filename = f"web_agent_evaluation_{timestamp}.txt"
 
 with open(output_filename, "w") as output_file:
     for test_item in test_questions:
         question = test_item["question"]
         ideal_response = test_item["ideal_response"]
-        model_response = retrieval_qa.invoke({'input': question}, config={'max_new_tokens':50})['answer']
+        
+        # Retrieve context from the web
+        context = retrieve_context_from_web(question)
+        
+        # Generate model response using the context retrieved from the web
+        prompt = system_prompt.format(context=context) + "\nHuman: " + question + "\nAssistant: "
+        model_response = llm_pipeline(prompt)[0]['generated_text'].split('Assistant:')[-1].strip()
+        
         similarity_score = evaluate_similarity(model_response, ideal_response)
         scores.append(similarity_score)
 

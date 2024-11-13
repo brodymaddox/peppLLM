@@ -20,6 +20,7 @@ text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=500,
     chunk_overlap=50,
 )
+
 texts = text_splitter.split_text("\n".join(pdf_texts))
 
 model_name = "gpt2"
