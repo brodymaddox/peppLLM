@@ -16,7 +16,7 @@ from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 
-loader = DirectoryLoader("./documents", loader_cls=PyPDFLoader)  # Loading PDF documents
+loader = DirectoryLoader("./documents", loader_cls=PyPDFLoader)
 raw_documents = loader.load()
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
@@ -25,7 +25,7 @@ documents = text_splitter.split_documents(raw_documents)
 embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 vector_store = Chroma.from_documents(documents, embedding_model, persist_directory="./chroma_db")
 
-pretrained_model_name = "gpt2"
+pretrained_model_name = "meta-llama/llama-3.1-8B"
 pretrained_model = AutoModelForCausalLM.from_pretrained(pretrained_model_name)
 pretrained_tokenizer = AutoTokenizer.from_pretrained(pretrained_model_name)
 
