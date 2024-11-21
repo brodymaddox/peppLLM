@@ -1,0 +1,806 @@
+[
+    {
+        "Question": "Which course satisfies the English GE requirement? ",
+        "Expected Response": "ENG 101"
+    },
+    {
+        "Question": "Which course satisfies the Literature GE requirement? ",
+        "Expected Response": "ENG 315, ENG 325, ENG 326, ENG 370, ENG 380, FRE 346, FRE 348, FRE 355, FRE 356, ITAL 451, SPAN 449, SPAN 451, SPAN 453, SPAN 455"
+    },
+    {
+        "Question": "Which courses satisfy the Religion GE requirements? ",
+        "Expected Response": "REL 101, REL 102, REL 301"
+    },
+    {
+        "Question": "Which courses satisfy the Humanities GE requirements? ",
+        "Expected Response": "HUM 111, HUM 212, HUM 313"
+    },
+    {
+        "Question": "Which course satisfies the World Civilizations GE requirement? ",
+        "Expected Response": "ARTH 300, ARTH 442, ARTH 446, ASIA 301, ASIA 305, ASIA/HIST 310, ASIA 325, ASIA/HIST 330, ASIA/HIST 331, ASIA 340, ASIA 345, ASIA 350, ASIA 365, ASIA 370, COM 313, FILM 365, GSHU 425, HIST 320, HIST 390, HIST 409, INTS 445, POSC 456, REL 501, and REL 526"
+    },
+    {
+        "Question": "Which courses satisfy the Amerian Experience/American History GE requirements? ",
+        "Expected Response": "POSC 104, HIST 204"
+    },
+    {
+        "Question": "Which course satisfy the Human Institutions and Behavior GE requirements? ",
+        "Expected Response": "ECON 200, PSYC 200, SOC 200"
+    },
+    {
+        "Question": "Which course satisfies the Foreign Language GE requirement? ",
+        "Expected Response": "Student must complete the third (college-level) semester of the language, selected from the following:\nPlacement is based on competency testing or prior college classes. CHIN 251, FRE 251, FRE 282, GER 251, GER 282, ITAL 251,\nJAPN 251, SPAN 251, SPAN 282, GRE 320, HEB 502"
+    },
+    {
+        "Question": "Which course satisfies the Lab Science GE requirement? ",
+        "Expected Response": "BIOL 105, BIOL 106, BIOL 107, BIOL 108, BIOL 109, BIOL/SPME 230, BIOL/SPME 270, CHEM 120 & CHEM 120L, NASC 101, NASC 108, NASC 109, NASC 155, NASC 156, NUTR 210, PHYS 202, PHYS 210, SPME 106, SPME 108"
+    },
+    {
+        "Question": "Which courses satisfiy the Math GE requirement? ",
+        "Expected Response": "MATH 120. This requirement may also be satisfied by COM 240, MATH 140, MATH 141, MATH 150, POSC/PSYC/SOC 250, MATH 270 (for the liberal arts major), or MATH 316"
+    },
+    {
+        "Question": "Which course satisfies the Speech and Rhetoric GE requirement? ",
+        "Expected Response": "COM 180"
+    },
+    {
+        "Question": "Which courses satisfies the Fine Arts GE requirement? ",
+        "Expected Response": "ART 101, ART 103, ART 210, ART 230, ART 250, ART 315, ART 368, ART 372, ART 374, ARTH 200, ARTH 300, ARTH 422, ARTH 424, ARTH 425, ARTH 426, ARTH 428, ARTH 430, ARTH 432, ARTH 434, ARTH 436, ARTH 440, ARTH 442, ARTH 446, FA 240, FA 241, FA 313 (for liberal arts majors only), FA 314 (for liberal arts majors only), FILM 111, FILM 311, GSHU 111, GSHU 112, GSHU 113, MUS 105, MUS 106, MUS 110, MUS 114, MUS 118, MUS 135, MUS 136, MUS 137, MUS 138, MUS 139, MUS 140, MUS 141, MUS 143, MUS 145, MUS 184, MUS 200, MUS 280, MUS 305, MUS 335, MUS 336, MUS 337, MUS 338, MUS 339, MUS 340, MUS 341, MUS 343, MUS 384, MUS 467, MUS 468, THEA 200, THEA 210, THEA 226, THEA 227, THEA 243, THEA 342, PE 180, PE 185"
+    },
+    {
+        "Question": "How is the First Year Seminar requirement fulfilled? ",
+        "Expected Response": "GS 199 First-Year Seminars * Students enrolled in the Great Books Colloquium or the Social Action and Justice Colloquium complete the FirstYear Seminar requirement by completing the colloquium"
+    },
+    {
+        "Question": "How is the Junior Writing Portfolio requirement fulfilled?",
+        "Expected Response": "A cover letter from the student, approximately two pages, double-spaced, that explains the choice of papers included in the portfolio and describes their writing experiences during first two years at Pepperdine. See sample cover letter. Four papers from classes taken at Pepperdine. Record of Portfolio Submission form, detailing the name of the instructor and the class for which the paper was written, and the date the paper was submitted for grading. All papers that are submitted are subject to verification for plagiarism and authorship."
+    },
+    {
+        "Question": "What are suggestions for completing Junior Writing Portfolio?",
+        "Expected Response": "A selection of papers from at least 3 different courses. One paper from the student's major. (If no class has been taken in the student's major then submit a paper in a related discipline.) One paper that required research, At least two papers written during the sophomore and/or junior years. One paper from your first year as a college student (if available). If you did not take any of these courses, please substitute another paper. The entire portfolio should include at least 20 pages of writing. (20 pages is the minimum required number of pages. It is fine to include more than 20 pages.) Transfer students may use up to two (2) papers from other institutions. At least two (2) papers should be from Pepperdine University."
+    },
+    {
+        "Question": "What are the Foundations Requirements? ",
+        "Expected Response": "COM 180, ENG 101, REL 100, REL 200, REL 300, FOR 101"
+    },
+    {
+        "Question": "What are the Connections Requirements? ",
+        "Expected Response": "A course in each of the following requirements: Creative Arts, Diverse Perpsectives, Global Perspectives, Historical Thinking, Human Institutions and Behavior, Interpretation, Laboratory Science, Language and Culture, Mathematical Reasoning, U.S. Experience"
+    },
+    {
+        "Question": "What are the skills requirements?",
+        "Expected Response": "RISE 101, BA 101, GSGS 200, 1 PE class taken in Malibu or abroad."
+    },
+    {
+        "Question": "Which courses satisfy the cultural competence requirement?",
+        "Expected Response": "BA 354, BA 366, BA 498, COM 313, COM 410, COM 412, COM 413, COM 485, EDUC 465, ENG 301, ENG 340, ENG 370, ENG 440, ENG 475, FILM 321, FRE 345, FRE 366, FRE 430, FRE 470, GSHU 333, HIST 326, HIST 335, HIST 336, HIST 405, HIST 420, HIST 422, HIST 424, HIST 425, HIST 428, HIST 433, HIST 450, HIST 530, INTS 250, INTS 459, NPM 300, NPM 301, NPM 302, NPM 330, NUTR 210, NUTR 212, NUTR 370, NUTR 440, NUTR 460, POSC 435, POSC 437, POSC 455, PSYC 458, REL 300C, REL 544, SART 202, SAAJ 100, SOC 200, SOC 421, SOC 422, SOC 431, SOC 436, SOC 444, SOC 450, SOC 452, SOC 455, SOC 458, SOC 462, SOC 497, SPAN 348, SPAN 430, SPAN 461, SPAN 470, THEA 313."
+    },
+    {
+        "Question": "What is required as part of the IP application?",
+        "Expected Response": "Applicants must complete the online application which includes providing personal data and background information and answering short answer and essay questions. Some programs also require applicants to complete an interview, video question, audition, or submit additional materials such as a resume. More information on the application process is available here."
+    },
+    {
+        "Question": "Should I apply for one semester or a year?",
+        "Expected Response": "Many students who choose to study abroad for one semester later ask to extend their contract to remain abroad for a longer period of time. We accommodate these students when possible, but can only accommodate extensions on a space available basis and if visas regulations allow for it. Therefore it's best for students to apply for the academic year from the beginning (if their academic plan can allow for it) in order to hold their space in that program and in order to secure a visa if necessary. Students who have only attended one semester tell us time and time again that they wished they had stayed the full academic year."
+    },
+    {
+        "Question": "Should I have other study abroad locations in mind when I apply?",
+        "Expected Response": "Yes! Due to space constraints, our programs cannot always accommodate all applicants. Historically, about 2 out of 3 students who apply are admitted to their first choice program. Therefore we ask students to be open to multiple locations and apply by the priority deadline for the greatest chance of admission."
+    },
+    {
+        "Question": "Can I apply for more than one program?",
+        "Expected Response": "Students have the option to be considered for up to six programs and terms with one application. Students will be considered for their first choice first, then their second choice, etc. Programs and terms that have reached capacity will not be available as an alternate choice. Programs that require an interview or audition, such as Faculty-led, internship, and language-intensive programs will not be available as an alternate choice."
+    },
+    {
+        "Question": "When will I know whether or not I am accepted?",
+        "Expected Response": "First, ensure that you have completed all required steps including submitting all parts of your online application, and interviewing or auditioning if required. Be sure to pay attention to all deadlines indicated on the application. Click here to learn more about the requirements for each program.\n\nApplicants who apply by the priority deadline (September 23, 2024) will receive a decision on October 11, 2024. Applicants will be notified via email (make sure to allow emails from @via-trm.com to be able to receive a decision). Applicants who apply after the priority deadline will be notified on a rolling basis, usually on Fridays (this usually takes 2-4 weeks)."
+    },
+    {
+        "Question": "Are there jobs for students while abroad?",
+        "Expected Response": "Yes, we have many student positions available. IPRAs, media coordinators, and librarians are hired in Malibu before studying abroad. Check out the positions and applications here. Other positions are also available once in your program. Program directors will be reaching out to students the first month of the program"
+    },
+    {
+        "Question": "Why are priority applications due about a month after the beginning of the fall semester?",
+        "Expected Response": "Prior to going on a semester or Academic Year International Program, students are required to take the first level of a language class (151) for all fall and spring programs (except Washington, D.C. and London programs), as well as other prerequisite courses prior to attending their international program. Students will register for these spring classes in early to mid-November. Due to this registration timeline, International Programs has created an application process and timeline to review students, give them a decision, and leave enough time for them to review their contracts and commit to the program prior to the November registration dates. This allows students to register in the appropriate classes before going abroad, so that they can complete all necessary prerequisites."
+    },
+    {
+        "Question": "Who teaches the courses in International Programs?",
+        "Expected Response": "The Pepperdine Program Director, the faculty-in-residence, and local faculty who are approved by academic divisional deans at the Malibu campus teach courses."
+    },
+    {
+        "Question": "What does it mean if I was waitlisted for a program and what should I do?",
+        "Expected Response": "Due to space constraints and other factors, we often cannot accept all applicants for a given program. Students placed on the waitlist may choose to remain on the waitlist for the chance to be admitted at a later date if space becomes available, or they may choose to reapply for an alternate program, as long as that program is accepting new applications. Click here for more information."
+    },
+    {
+        "Question": "What happens after I am accepted?",
+        "Expected Response": "Students who have been accepted are asked to sign an IP contract to officially commit to their program and term. The contract is a legally binding document that details your responsibilities as an IP student, so make sure you read it carefully and have consulted your family, healthcare providers, academic and financial aid advisors, etc. before signing. Once you have signed a contract, if you need to withdraw for any reason in the future, financial penalties as detailed in the contract apply. Students who have signed a contract should begin preparing to go abroad. Information on preparation is available here."
+    },
+    {
+        "Question": "Do Pepperdine's international programs have Monday-Friday classes?",
+        "Expected Response": "The programs in Buenos Aires and D.C. have classes 5 days per week. The European campus programs may have classes 4 or 5 days per week."
+    },
+    {
+        "Question": "From where do the programs depart?",
+        "Expected Response": "Students in most programs* can request their preferred departure location when booking their flight. Students are required to book flights through Pepperdine's travel partner, Corniche Travel. Detailed instructions on flight booking will be provided to students as part of their preparation process. *Some Faculty-led programs require students to join a group flight departing from and returning to Los Angeles International Airport (LAX). Review our flight policies here."
+    },
+    {
+        "Question": "Can I arrange my own travel to the program?",
+        "Expected Response": "No. When signing a contract, a student agrees to the flight policies, which require them to book through Pepperdine's travel partner, Corniche Travel. Booking with Corniche provides students with a variety of benefits, including:"
+    },
+    {
+        "Question": "What opportunities are there for travel?",
+        "Expected Response": "Traveling to selected destinations will definitely be a part of your educational experience. However, these are serious academic programs and your studies must come first. Also, don't overlook exploring and learning about the city and country in which your program is located by visiting only distant places. There is an educational field trip in both the fall and spring terms of each academic year program. Be sure to review our flight policies here."
+    },
+    {
+        "Question": "I'm going overseas for a year. What do I do over the winter break?",
+        "Expected Response": "Pepperdine campuses close at the end of the fall term and re-open at the beginning of the spring term. Students cannot stay on campuses during winter break. Students living in a homestay may inquire about accommodations with their host family but it is not guaranteed. Students studying abroad for the full academic year may leave their belongings in their rooms during the winter break, but they will not be able to access them until the campus reopens."
+    },
+    {
+        "Question": "Is there any support for returning students who are struggling with being back in Malibu?",
+        "Expected Response": "Yes! We have the Landed chapel series for students returning for the spring semester. Together we meet to process the transition of returning from abroad and to help evaluate how we have changed from our experiences. We also have Landed events in the fall for students returning from the spring semester or academic year."
+    },
+    {
+        "Question": "How can I get involved after returning from my program?",
+        "Expected Response": "We love having program alumni participate back in Malibu! In the beginning of the year we have our annual event, The Return! Join us as we celebrate your time abroad and share all your adventures with the new freshmen class. We also partner with alumni for all our events and orientations. If you are interested in sharing about your time abroad, please reach out to the program ambassador."
+    },
+    {
+        "Question": "What are the withdrawal fees if I decide to break my contract?",
+        "Expected Response": "It depends on the term for which you signed your contract, and the date that you withdraw. The withdrawal fees can be found in your contract, as well as below: If you are considering withdrawing from your program, you must contact the International Programs Office in order complete a withdrawal form. Please contact us at 310.506.4230 or at international.programs@pepperdine.edu for more information."
+    },
+    {
+        "Question": "Do I need any vaccinations to study abroad?",
+        "Expected Response": "It is a student's responsibility to get information about vaccinations that are specific to their program. Sometimes vaccinations are required by a country and other times vaccinations are recommended. If you have any questions, you can call International SOS at (215) 942-8226. You can also find helpful information on the CDC website."
+    },
+    {
+        "Question": "Can I only study abroad sophomore year?",
+        "Expected Response": "No! Any Pepperdine student who meets the minimum admissions requirements and prerequisites can apply for any program that is currently accepting new applications. Our abroad locations offer many courses during the fall, spring, and summer terms so start planning with your academic advisor as early as possible to ensure your study abroad plans keep you on track to make progress toward graduation. Let's say you want to travel abroad your junior year or during a summer session: go for it! Don't you hear the bells of the Heidelberg church, don't you smell the buttery croissant calling your name?"
+    },
+    {
+        "Question": "If I didn't apply by the IP Priority Deadline, can I still apply?",
+        "Expected Response": "While some programs may stop accepting new applications after the priority deadline, many programs may still be accepting new applications, and students may apply and be admitted to programs on a rolling basis throughout the year. You can see a list of programs accepting new applications on the programs page. Apply as soon as you can to secure your spot."
+    },
+    {
+        "Question": "Do I travel on every weekend while abroad?",
+        "Expected Response": "Studying abroad is an invitation to learn more about your host county, culture, and its people. So feel free to travel all the time or none of the time, have adventures in your host country and see what you find. Do you travel every weekend now? No! Do you know how tired you would be if you travelled every weekend? Very! Consider what you would miss out on in the place you decided to study in the first place! Maybe you'll find some good gelato, maybe some friends, and *disclaimer for this wild thought* maybe yourself (Shhhh this is the best kept secret about studying abroad but I'll share it just with you)"
+    },
+    {
+        "Question": "Should I get a smartphone that works abroad?",
+        "Expected Response": "Yes. Students are required to have a smartphone with an international calling and data plan in order to take advantage of all International SOS applications and to be able to reach someone in cases of emergency. Campus-based program locations will provide suggestions and support on how to secure a local phone and sim card once students arrive to the program location. Please visit our technology abroad page for further information."
+    },
+    {
+        "Question": "What is the Tyler Campus Center and where is it?",
+        "Expected Response": "Tyler Campus Center is the focal point for undergraduate social life and cocurricular activity. Students, visitors, and staff can be found throughout the day at the bookstore and the various dining facilities. Numerous patio seating areas are available for outdoor dining and socializing. The Light House, the Hub for Spiritual Life, the offices of Seaver College's International Programs, and Student Affairs departments are in TCC. Access 2nd floor from Joslyn Plaza adjacent to Rockwell Academic Center and fountain; 1st floor access from Adamson Plaza north end, downstairs from Joslyn; or from Amphitheatre area/Adamson Plaza south end; or from patio areas."
+    },
+    {
+        "Question": "What is the Pendleton Learning Center (PLC) and where is it?",
+        "Expected Response": "Pendleton Learning Center houses separate study rooms for Payson Library, classrooms, and offices, and one of Seaver College's largest lecture halls."
+    },
+    {
+        "Question": "What is the Thornton Administrative Center and where is it?",
+        "Expected Response": "Thornton Administrative Center houses University administrative offices, admissions, fundraising offices, numerous conference and meeting rooms, and the dean's office of Seaver College; also contains historical displays of founder George Pepperdine and college namesake Blanche Seaver. It is the first building visitors encounter after entering through the main gate. Visitor parking in small lot in front of the building by the flagpoles, in the visitors' lot (token required) behind TAC (taking the right fork), and on adjacent streets, Seaver Drive and Banowsky Blvd. Access via front lot, or via bridge to third floor from visitor's lot."
+    },
+    {
+        "Question": "What is the Rockwell Academic Center and where is it?",
+        "Expected Response": "Rockwell Academic Center houses classrooms, laboratories, and faculty offices for the Natural Science Division."
+    },
+    {
+        "Question": "What is the Keck Science Center and where is it?",
+        "Expected Response": "The Keck Science Center houses the Natural Science Division; contains classrooms, laboratories, and faculty offices. Access via service road at the top of stairway leading to Firestone Fieldhouse; internal connecting access through Appleby Center (to KSC 4th floor) and Rockwell Academic Center (to KSC 3rd floor)."
+    },
+    {
+        "Question": "What is the Appleby Center and where is it?",
+        "Expected Response": "Appleby Center houses the offices for the Social Science Division and the Religion Division; contains classrooms and faculty offices. Access via Seaver Main Parking Lot level, adjacent to Weisman Museum; also internal connecting access through Rockwell Academic Center, and Keck Science Center."
+    },
+    {
+        "Question": "What is the Elkins Auditorium and where is it?",
+        "Expected Response": "The University's largest lecture hall on the Seaver campus; located at the north side of Joslyn Plaza. Access via Joslyn Plaza, adjacent to Rockwell Academic Center and the Black Family Plaza Classrooms and the fountain; internal connecting access via Plaza Classrooms and Rockwell Academic Center."
+    },
+    {
+        "Question": "What is the Cultural Arts Center and where is it?",
+        "Expected Response": "Home of the Fine Arts Division and the Humanities and Teacher Preparation Division offices; contains classrooms, faculty offices, art studios, and smaller performance venues. Access via Seaver Main Parking Lot level via walkway alongside Weisman Museum and Smothers Theatre; internal connecting access to Smothers Theatre."
+    },
+    {
+        "Question": "What is Smothers Theatre and where is it?",
+        "Expected Response": "Smothers Theatre is the primary performance space of the Center for the Arts. It is also the only professional performing arts center in the City of Malibu; its yearlong schedule performances include student theatrical productions and musical performances, as well as national tours of major performers; also contains the business and box offices of the Center for the Arts. Access from Main Seaver Parking Lot; internal connecting access through Ahmanson Music Building and Cultural Arts Center."
+    },
+    {
+        "Question": "What is Firestone Fieldhouse and where is it?",
+        "Expected Response": "The primary athletic facility on the Malibu campus, home to the award-winning Waves basketball and volleyball teams; serves as the largest indoor assembly venue on campus (seats 5,000); used Wednesday mornings for regular chapel meetings during the school term; the Weight Center is located in the basement; athletics department offices are located on the second floor. Access via John Tyler Drive; unrestricted adjacent parking lot located south of the building. Pedestrian access via stairs (200+) from Joslyn Plaza (using KSC elevator between service road and plaza levels will eliminate some stairs)."
+    },
+    {
+        "Question": "What is the Center for Communication and Business and where is it?",
+        "Expected Response": "The Center for Communication and Business houses the two academic divisions for which it is named; contains classrooms and offices, as well as the University's live-feed broadcast studio, and Pepperdine's own TV station, NewsWaves, which is broadcast to over 13,000 people in the Malibu and Calabasas area; also contains headquarters for the Department of Public Safety. Access via Seaver Drive. Restricted parking in CCB Parking Lot--card key only."
+    },
+    {
+        "Question": "What is Payson Library and where is it? ",
+        "Expected Response": "Payson Library is the primary library facility on the Malibu campus and is the headquarters of the Pepperdine Libraries serving students both online and at all of the University's remote campuses; contains book stacks, periodicals, audio/visual materials, special collections, University archives, reading areas, study carrels, computer labs, group study areas, photocopiers, and library offices, as well as the Kresge Reading Room."
+    },
+    {
+        "Question": "What is Stauffer Chapel and where is it? ",
+        "Expected Response": "Stauffer Chapel provides a focal point for worship, prayer, and meditation on the Seaver Campus; the chapel is also used as a space for meetings, lectures, musical performances, and other special events. Access via the Chapel Parking Lot (card key access only), and stairways and paved walkways from Banowsky Blvd.; located at the foot of the stairs leading down from the Amphitheatre; also access via the service road below Tyler Campus Center."
+    },
+    {
+        "Question": "How can I apply to speak at the ceremony?",
+        "Expected Response": "Graduated seniors of 2024 may apply to speak at commencement. Two student participants are needed for each graduation: 1) Graduation Speaker; 2) Graduate to lead the Pledge of Allegiance. For additional information, please visit the Senior Speaker page."
+    },
+    {
+        "Question": "Will the ceremony be broadcast for those unable to attend?",
+        "Expected Response": "Yes, for those who cannot join us in Malibu, all in-person activities will be broadcast online, live, and on-demand for future viewing. The link will be available on the commencement website. Livestreams will begin 15 minutes prior to the start of each commencement ceremony."
+    },
+    {
+        "Question": "Do I need to attend the in-person commencement ceremony at Alumni Park to have my degree conferred?",
+        "Expected Response": "No, graduates do not need to attend to have their degree conferred. Diplomas will be mailed to you at the diploma address on file approximately 120 days after you graduate. Make sure you have a valid mailing address recorded with OneStop to ensure you receive your diploma. If you would like to pick up your diploma instead of having it mailed to you, please contact OneStop."
+    },
+    {
+        "Question": "Will there be accessible parking and shuttles?",
+        "Expected Response": "Graduation event parking is available on campus on a first-come, first-serve basis. A designated parking area in the Firestone Fieldhouse parking lot (parking lot P) will be available for guests with accessibility needs. Follow the directions of traffic control staff. Carpooling is recommended due to possible traffic delays and limited availability of parking. Shuttles will be in service, available at any marked campus shuttle stop. For more information, see the Parking and Shuttle Information page."
+    },
+    {
+        "Question": "Do I need to order or reserve regalia?",
+        "Expected Response": "Graduates attending the ceremony in person can reserve graduation regalia online on Herff Jones' website. In-person assistance is available during Graduation Kickoff, held on the Malibu campus at the bookstore on Tuesday, February 13 and Wednesday, February 14 from 10am-4pm."
+    },
+    {
+        "Question": "How do graduates get honor cords?",
+        "Expected Response": "Honor cords are only given to undergraduate students who have a minimum 3.5 GPA. You will be contacted by your school's commencement coordinator or academic advisor during the spring semester if you are eligible to receive one. They are free of charge."
+    },
+    {
+        "Question": "Where do I pick up my honor cord?",
+        "Expected Response": "Honor cords will be available for pickup prior to your commencement at the Graduate Check-In area. Honors students are asked to arrive at Alumni Park at 9am on the morning of the ceremony."
+    },
+    {
+        "Question": "When will I get my diploma?",
+        "Expected Response": "Diplomas will be mailed to you at the diploma address on file approximately 120 days after degrees are conferred on April 27. Make sure you have a valid mailing address recorded with OneStop to ensure you receive your diploma. If you would like to pick up your diploma instead of having it mailed to you, please contact OneStop."
+    },
+    {
+        "Question": "What if I have pending financial obligations?",
+        "Expected Response": "It is important to clear all financial obligations with the Library, the Student Health Center, the Student Accounts Office, and the Financial Aid Office prior to graduation. For Student Accounts information, call 310.506.8000. If you have borrowed a Federal Direct Stafford, Federal Perkins, or Pepperdine Institutional loan at any time while at Pepperdine, please complete an online Loan Exit Counseling session prior to graduation. For additional information, visit the Federal Direct Loan Exit Counseling Information web page."
+    },
+    {
+        "Question": "Can I rent regalia on the day of my commencement ceremony?",
+        "Expected Response": "A limited amount of regalia will be available at Alumni Park on the day of your ceremony; however, to avoid waiting in possibly long lines, we strongly recommend picking up your regalia at Grad Fest on the Malibu Campus at Mullin Town Square."
+    },
+    {
+        "Question": "Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park?",
+        "Expected Response": "Seaver College's Commencement Ceremony, held at Alumni Park, is open to all guests of graduating students. In the unlikely event that the weather requires us to hold the ceremony somewhere other than Alumni Park, this may change. We recommend checking back to the Seaver graduation webpage frequently."
+    },
+    {
+        "Question": "How do I apply for graduation? ",
+        "Expected Response": "Log in to WaveNet: Navigate to the \"Other Academic\" drop-down menu, select \"Apply for Graduation,\" and submit your intent. Verify Your Major and Ceremony Attendance: In the graduation area, confirm your major and indicate if you plan to attend the ceremony by checking the appropriate box. Select Diploma Mailing Address and Update Name: For diploma name changes, go to the \"Names\" link in the Personal Information section and add your desired name with the \"Diploma\" type. To update your diploma mailing address, go to the \"Addresses\" link in the Personal Information drop-down, add the new address, save it, and select it as the \"Diploma\" address type. Consult Your Academic Advisor: Contact your Academic Advising Associate with any questions about meeting graduation requirements. Monitor Your Pepperdine Email: Regularly check your Pepperdine email for important updates regarding your graduation. This will be the primary communication channel from the graduation office."
+    },
+    {
+        "Question": "What is the equivalent of ENG 101 at Santa Monica College?",
+        "Expected Response": "ENGL 1"
+    },
+    {
+        "Question": "What is the equivalent of HUM 111 at Santa Monica College?",
+        "Expected Response": "HIST 1 OR HIST 33"
+    },
+    {
+        "Question": "What is the equivalent of HUM 212 at Santa Monica College?",
+        "Expected Response": "HIST 2 OR HIST 34"
+    },
+    {
+        "Question": "What is the equivalent of POSC 104 at Santa Monica College?",
+        "Expected Response": "POL SC 1"
+    },
+    {
+        "Question": "What is the equivalent of HIST 204 at Santa Monica College?",
+        "Expected Response": "HIST 11 AND 12"
+    },
+    {
+        "Question": "What is the equivalent of ECON 200 at Santa Monica College?",
+        "Expected Response": "ECON 1 OR 2"
+    },
+    {
+        "Question": "What is the equivalent of PSYC 200 at Santa Monica College?",
+        "Expected Response": "PSYCH 1"
+    },
+    {
+        "Question": "What is the equivalent of SOC 200 at Santa Monica College?",
+        "Expected Response": "SOCIOL 1"
+    },
+    {
+        "Question": "What is the equivalent of the foreign language requirement at Santa Monica College?",
+        "Expected Response": "One course is Equivalent to third semester college level, selected from the following: Placement is based on competency testing or prior college classes. CHINESE 3, FRENCH 3, GERMAN 3, HEBREW 3, ITAL 3, JAPANESE 3, KOREAN 3, SPANISH 3"
+    },
+    {
+        "Question": "What is the equivalent of the lab science requirement at Santa Monica College?",
+        "Expected Response": "ANATMY 1; ASTRON 3,4; BIOL 3, 4, 15, 21; BOTANY 1; CHEM 10, 11, 12; GEOL 4, 5; MCRBIO 1; PHYSCS 14, 21; ZOOL 5"
+    },
+    {
+        "Question": "What is the equivalent of ENG 101 at Orange Coast College?",
+        "Expected Response": "ENGL1 A100"
+    },
+    {
+        "Question": "What is the equivalent of HUM 111 at Orange Coast College?",
+        "Expected Response": "HIST A180 or HIST A180H"
+    },
+    {
+        "Question": "What is the equivalent of HUM 212 at Orange Coast College?",
+        "Expected Response": "HIST A185 or HIST A185H"
+    },
+    {
+        "Question": "What is the equivalent of POSC 104 at Orange Coast College?",
+        "Expected Response": "PSCI A180 or A180H"
+    },
+    {
+        "Question": "What is the equivalent of HIST 204 at Orange Coast College?",
+        "Expected Response": "HIST A170 and A175"
+    },
+    {
+        "Question": "What is the equivalent of ECON 200 at Orange Coast College?",
+        "Expected Response": "ECON A170, A170H, A175, or A175H"
+    },
+    {
+        "Question": "What is the equivalent of PSYC 200 at Orange Coast College?",
+        "Expected Response": "PSYC A100 or A100H"
+    },
+    {
+        "Question": "What is the equivalent of SOC 200 at Orange Coast College?",
+        "Expected Response": "SOC A100 or A100H"
+    },
+    {
+        "Question": "What is the equivalent of the foreign language requirement at Orange Coast College?",
+        "Expected Response": "FREN A280 ITAL A280 JPNS A280 SPAN A280"
+    },
+    {
+        "Question": "What is the equivalent of the lab science requirement at Orange Coast College?",
+        "Expected Response": "ASTR A100/A100H & A100L; BIOL A100, A180, A182 &A182L, A183 & A183L, A220, A221, A225; CHEM A110, A130, A180; GEOL A105 & A105L; MR SC A100/100H & A100L, A180 &A180L, A185 &A185L; PHYS A110 & A111, A120, A130, A185"
+    },
+    {
+        "Question": "What is the equivalent of ENG 101 at Moorpark College?",
+        "Expected Response": "ENGL M01A, M01AH"
+    },
+    {
+        "Question": "What is the equivalent of HUM 111 at Moorpark College?",
+        "Expected Response": "HIST M170 or HUM M10A"
+    },
+    {
+        "Question": "What is the equivalent of HUM 212 at Moorpark College?",
+        "Expected Response": "HIST M180 or HUM M01B"
+    },
+    {
+        "Question": "What is the equivalent of POSC 104 at Moorpark College?",
+        "Expected Response": "POLS M03 or M03H"
+    },
+    {
+        "Question": "What is the equivalent of HIST 204 at Moorpark College?",
+        "Expected Response": "HIST M130 AND M140"
+    },
+    {
+        "Question": "What is the equivalent of ECON 200 at Moorpark College?",
+        "Expected Response": "ECON M201, M202 or M202H"
+    },
+    {
+        "Question": "What is the equivalent of PSYC 200 at Moorpark College?",
+        "Expected Response": "PSY M01 or M01H"
+    },
+    {
+        "Question": "What is the equivalent of SOC 200 at Moorpark College?",
+        "Expected Response": "SOC M01 or M01H"
+    },
+    {
+        "Question": "What is the equivalent of the foreign language requirement at Moorpark College?",
+        "Expected Response": "SPAN M03"
+    },
+    {
+        "Question": "What is the equivalent of the lab science requirement at Moorpark College?",
+        "Expected Response": "ANAT M01; ANTH M01/M01H & M01L; AST M01 & M01L; BIOL M01, M02A, M02AH, M02B, M02C, M03, M05; BOT M01, M06; CHEM M01A, M01AH, M01B, M07A, M07B, M11, M13; ENSC M01 & M01L, M02; GEOG M01 & M01L; GEOL M02 (H) & M02L, M03 & M03L, M04, M121; MICR M01; PHYS M01 & M01L, M10A &M10AL, M10B & M10BL, M20A & M20AL, M20B & M20BL; PHSC M01 & MO1L; ZOO M01"
+    },
+    {
+        "Question": "How do I add a class by number?",
+        "Expected Response": "Within the Home view in the current or upcoming term, click the \"Class Search\" link under the Shopping Cart to add classes to your shopping cart. In the pop-up, add classes to the shopping cart by entering the class number (not the catalog number, i.e. For COM 180 do not input 180 but input 1156) into the \"Enter Class Nbr.\" box and click the \"Enter\" button to continue. Click the \"Next\" button to add the class to your shopping cart.  A new pop-up window appears with the class added to the shopping cart. Then go back to the home page. Your shopping cart will display the class added. Once all of your classes are selected, click the \"Add/Submit/Edit\" button and again the \"Add Classes to Shopping Cart\" pop-up appears. Check the boxes to select the classes you wish to enroll.\nClick the Validate button to determine any potential problems.  A pop-up window appears with a status report.If the class(es) are OK to add, click the Shopping Cart button. Note: Use the Delete button to remove unwanted classes (select the check box for those classes you wish to delete). Back on the Add Classes to Shopping Cart window, select the check box for the class and click the Enroll button. A Confirm classes pop-up window appears, look over your schedule and click the \"Finish Enrolling\" button to complete registration.  You can also use the \"Cancel\" or \"Previous\" buttons to cancel your session or go back and change classes. Note: check the \"I Agree\" box and select the \"Finish Enrolling\" button. Your enrollment results will display on the next page.  To view your classes, click the \"My Class Schedule\" button. Click the \"X\" to dismiss the \"View Results\" pop-up window. To end your session, click \"Logout\" in the upper right-hand corner of the screen to end your WaveNet session. Close your browser window."
+    },
+    {
+        "Question": "How do I add a class by search?",
+        "Expected Response": "Within the Home view in the current or upcoming term, click the \"Class Search\" link under the Shopping Cart to add classes to your shopping cart. In the pop-up, add classes to the shopping cart by clicking the \"Search\" button to search for classes. Enter Search Criteria by Subject or enter a course number. Note: use the Subject pull down to narrow the search results by program.  Click on the Additional Search Criteria to expand and get a more comprehensive search criteria. Your results will pop up on the next page.  Click the \"Select\" button next to the class you wish to add.\nAn enrollment preference box appears, click the \"Next\" button to add the class to your shopping cart.  Repeat this step as often as necessary to complete your course schedule. Back in the shopping cart, select the check box for those classes you wish to enroll.  Once all of your classes are selected, click the \"Enroll\" button.  Note: you may wish to validate to determine any potential problems.  A pop-up window appears with a status report. When you are ready to enroll, select your classes and then click the \"enroll\" button. Close your browser window. A Confirm Classes pop-up appears, look over your schedule and click the \"Finish Enrolling\" button to complete registration. You can also use the \"Cancel\" or \"Previous\" buttons to cancel your session or go back and change classes. Note: check the \"I Agree\" box and select the \"Finish Enrolling\" button. Your enrollment results will display on the next page. To view your classes, click the \"My Class Schedule\" button. If you still wish to add more classes, click the \"Add Another Class\" button. Click the \"X\" to dismiss the View Results light box. To end your session, click \"Logout\" in the upper right-hand corner of the screen to end your WaveNet session. "
+    },
+    {
+        "Question": "How do I drop a class?",
+        "Expected Response": "In the Home view, select a term, and your enrolled classes will be listed.  Select the Drop button.\nOn the next page, select the classes that you wish to drop by clicking the boxes directly to their left then click the \"Drop Selected Classes\" button. A page listing the classes that you selected for drop will come up.  Review these selections and click the \"Finish Dropping\" button to finalize the drop.\nThe results of the drop will show up on the next page.  Click the \"My Class Schedule\" link to review your class schedule post-drop. Close the window to return to the Student Center. Click \"Logout\" in the upper right-hand corner of the screen to end your WaveNet session. Close your browser window."
+    },
+    {
+        "Question": "How do I view my finances on my student account?",
+        "Expected Response": "Log in to WaveNet and click on the Student tab. Scroll down and click on the \"Finances\" Icon.\nThe next page will display all your financial services. To check account activity, scroll down to \"Account Activity\". To view activity between certain dates or during specific terms, change the \"From\" date and \"To\" date or select a term from the drop-down menu at the top of the activity summary. To return to the main screen, select the \"Home\" icon. Otherwise, to end your session, click \"Logout\" in the upper right-hand corner of the screen. Close your browser window."
+    },
+    {
+        "Question": "How do I view my financial aid? ",
+        "Expected Response": "Log in to WaveNet and click on the Student tab. Scroll down and click on the \"Finances\" Icon. The next page will display all your financial services, starting with View Financial Aid Status. Select the year that you wish to view by clicking on its corresponding tab. An awards summary will come up, showing all awards that have been offered and accepted that year. On Mobile: Click \"View Financial Aid\" and then select the year to see your awards summary. If any awards have not been accepted or declined. Click on the \"Accept/Decline Awards\" button at the top right to open the Accept/Decline window. On Mobile: The \"Accept/Decline Awards button is underneath the awards summary. Choose the Aid Year from the list and you will be directed to a new list of awards for that year. On Mobile: Skip this step. Select the checkbox under the \"Accept\" column for each award you wish to accept, then select \"Update Totals\". Alternatively, you can simply select \"Accept All\" or \"Decline All\". Select \"Submit\" once you have accepted the awards you intend to include. Next, you will be prompted to the Accept/Decline authorization page. Select \"Yes\" to confirm your changes. Then select \"OK\". To return to View Financial Aid Status, close the pop-up window. To return to the main screen, select the \"Home\" icon. Otherwise, to end your session, click \"Logout\" in the upper right-hand corner of the screen. Close your browser window."
+    },
+    {
+        "Question": "How do I make a payment?",
+        "Expected Response": "Log in to WaveNet\tClick on the Student tab.\nAccess Finances\tScroll down and click on the \"Finances\" icon.\nView Account Summary\tScroll to the \"Account Summary\" section to view outstanding charges. Note the amount owed and ensure pop-up blocker is off before proceeding.\nInitiate Payment\tClick the \"Make a Payment\" button under the outstanding charges summary.\nComplete Payment\tIn the new browser window, select the \"Student Account Payment\" link and follow on-screen instructions. You will receive an email receipt after the transaction.\nReturn to Main Screen or Log Out\tTo return, select the \"Home\" icon. To end the session, click \"Logout\" in the upper right, then close the browser window."
+    },
+    {
+        "Question": "How do I enroll in e Refund?",
+        "Expected Response": "Log in to WaveNet\tClick on the Student tab.\nAccess Finances\tScroll down and click on the \"Finances\" icon.\nOpen Account Summary\tScroll to \"Account Summary\" and ensure pop-up blocker is off before continuing.\nAccess eRefund\tClick the \"eRefund Account\" link. A white box will appear with instructions to enable pop-ups and provide accurate bank details to prevent delays in receiving funds.\nEnable eRefund\tIn the new browser window, select \"Yes, I want refunds deposited directly into my bank account\" and click \"Continue.\" Follow the on-screen instructions to complete the setup.\nClose eRefund Window\tOnce complete, close the new browser window, then close the white box by clicking \"X.\"\nLog Out and Close Browser\tTo end the session, click \"Logout\" in the upper right corner, then close the browser window."
+    },
+    {
+        "Question": "How do I access my degree progress?",
+        "Expected Response": "Access Academics\tSelect the \"Academics\" icon.\nOpen Degree Audit Report\tClick on the \"Degree Audit Report\" link. A pop-up will appear with a button to view the report.\nView Degree Audit\tClick the button in the pop-up to view your Degree Audit Report, which will display on the next page.\nReturn to Previous Page\tTo go back, click the \"X\" in the upper right corner of the pop-up window.\nLog Out and Close Browser\tClick \"Logout\" in the upper right corner to end your WaveNet session, then close your browser window."
+    },
+    {
+        "Question": "How do I check my grades? ",
+        "Expected Response": "Select the \"Academics\" icon. Scroll down the page to view the most recent academic year at the top followed by the previous academic years. On Mobile: Select the term you would like to view and then use the left and right arrows.  Change the term by selecting the \"Change Term\" option and selecting a new term. Click \"Logout\" in the upper right-hand corner of the screen to end your WaveNet session.  Close your browser window."
+    },
+    {
+        "Question": "How do I view my class schedule?",
+        "Expected Response": "On the Home page, a Weekly Schedule link will be under the Enrolled Courses section.\nOn Mobile: Select the \"Student Center\" icon and scroll down to see \"This Week's Schedule.\"\nFor a detailed view of your classes, click \"Weekly Schedule.\"  A pop-up appears displaying the current week with buttons to advance or go back a week at a time.  Additionally, the \"Open Calendar\" icon provides a way to advance weeks or months ahead.  Remember to select the \"Refresh Calendar\" button to update the selected week. \nOn Mobile: Click \"Weekly Schedule\" in \"Other Links\" under \"This Week's Schedule\".  The \"Open Calendar\" option is called \"Display Options\" on Mobile found at the bottom of the mobile page.\nSelect the List View radio button to view the schedule in list detail sorted by date and time.\nOn the next screen, select the term that you wish to view and click the \"Continue\" button.\nThe following page will show your schedule in detail sorted by date and time\nTo return the view your weekly schedule, click the \"Weekly Calendar View\" toward the top of the page.\nClick the \"X\" in the upper right-hand corner of the light box to dismiss the schedule view.\nClick \"Logout\" in the upper right-hand corner of the screen to end your WaveNet session.  Close your browser window."
+    },
+    {
+        "Question": "How do I view registration and account holds?",
+        "Expected Response": "In the Home view of the student center, a box titled \"Holds\" will display any holds such as Transcript or Financial Aid holds.Click the link(s) to view details on the holds. \nClick the link(s) to view details on the holds.\nClick \"Logout\" in the upper right-hand corner of the screen to end your WaveNet session.  Close your browser window.\n"
+    },
+    {
+        "Question": "How do I view or contact my advisor?",
+        "Expected Response": "On the left hand side of the home page, click the \"Advising\" icon.\nView the \"My Advising Network\" section to view and/or contact one or more advisors.\nOn Mobile: Your advisors will be listed under the \"My Advisors\" section.  You can not view your advisor on Mobile.\nAt the bottom of the Advisor profile, click the email link of the advisor you wish to contact.\nOn Mobile: Click the checkbox next to your advisor's name and select \"Notify Selected Advisors\" at the bottom of the page or select \"Notify All Advisors\" to email all of your listed advisors.\nA pop-up window appears in email message form. Compose your message to the selected advisor and click \"Send\" to finish.\nClick the \"X\" in the upper right to exit\nClick \"Logout\" in the upper right-hand corner of the screen to end your WaveNet session.  Close your browser window."
+    },
+    {
+        "Question": "How do I add a class by number on mobile?",
+        "Expected Response": "From the Student Center, on the Student Tab, scroll down and select the \"Enrollment Shopping Cart\" link from the Other Links section.\nChoose the correct Term.\nAdd classes to the shopping cart by entering the class number (not the catalog number, i.e. For COM 180 do not input 180. Instead, input 1156) into the \"Enter Class Nbr.\" box and click the \"Enter\" button to continue.\nClick the \"Next\" button to add the class to your shopping cart.\nA confirmation will appear that reads \"(Class #) has been added to your Shopping Cart.\" Your shopping cart will also display the class added.\nOnce all of your classes are selected, check the boxes to select the classes you wish to enroll.\nClick the Validate button to determine any potential problems. A pop-up window appears with a status report.\nIf the class(es) are OK to add, click the Shopping Cart button. NOTE: Use the Delete button to remove unwanted classes (select the check box for those classes you wish to delete).\nBack on the Add Classes to Shopping Cart window, select the check box for the class and click the Enroll button.\nLook over your schedule and click the \"I Agree\" box to confirm. Select the \"Finish Enrolling\" button to complete registration. You can also use the \"Cancel\" or \"Previous\" buttons to cancel your session or go back and change classes.\nYour enrollment results will display on the next page with a message that says \"Success: This class has been added to your schedule.\" To view your classes, click the \"My Class Schedule\" button.."
+    },
+    {
+        "Question": "How do I add a class by search on mobile?",
+        "Expected Response": "From the Student Center, on the Student Tab, scroll down and select the \"Enrollment Shopping Cart\" link from the Other Links section.\nChoose the correct Term.\nAdd classes to the shopping cart by clicking the \"Search\" button to search for classes.\nClick on the small down arrow next to \"Class Search\" to open the search menu. You will need to enter at least two search terms. Select the Search button to perform your search. NOTE: Click on the Additional Search Criteria to include a more comprehensive search criteria selection.\nYour results will appear on the next page. Find the class you wish to select and use the right arrow key at the top right of the class to view more columns.\nClick the \"Select\" button next to the class you wish to add.\nClick the \"Next\" button to add the class to your shopping cart. Repeat this step as often as necessary to complete your course schedule.\nOnce all of your classes are added, check the boxes to select the classes you wish to enroll.\nClick the Validate button to determine any potential problems. A pop-up window appears with a status report.\nIf the class(es) are OK to add, click the Shopping Cart button. NOTE: Use the Delete button to remove unwanted classes (select the check box for those classes you wish to delete).\nBack on the Add Classes to Shopping Cart window, select the check box for the class and click the Enroll button.\nLook over your schedule and click the \"I Agree\" box to confirm. Select the \"Finish Enrolling\" button to complete registration. You can also use the \"Cancel\" or \"Previous\" buttons to cancel your session or go back and change classes.\nYour enrollment results will display on the next page with a message that says \"Success: This class has been added to your schedule.\" To view your classes, click the \"My Class Schedule\" button."
+    },
+    {
+        "Question": "How do I drop a class on mobile?",
+        "Expected Response": "From the Academics Tab, select a term, and your enrolled classes will be listed. From the Menu button on the right side of the screen, select Drop.\nOn the next page, choose the term from which you need to drop classes. Select the classes that you wish to drop by clicking the boxes directly to their left then click the \"Drop Selected Classes\" button.\nA page listing the classes that you selected for drop will come up. Review these selections and click the \"Finish Dropping\" button to finalize the drop.\nThe results of the drop will show up on the next page, along with a success message that the class has been removed. Click the \"My Class Schedule\" link to review your class schedule post-drop."
+    },
+    {
+        "Question": "How do I invite a guest on wavenet?",
+        "Expected Response": "Each student can assign guest access so that others can review information, make payments, etc.\nLog into WaveNet.\nOn the Student Center homepage, click Manage Guest Access under the heading \"Popular Links.\" On the Student Guest Access page, click Add Guest Access. In the \"Current Email Address\" field, enter the guest's email address. Under \"Guest Status\", select the access permissions for the guest. Examples include:\nShow schedule\nShow grades\nShow financial aid\nShow account detail\nAllow making payment\nReceive billing reminder email\nClick Invite Guest to send an email invitation to the person.\n"
+    },
+    {
+        "Question": "How does a invited Wavenet guest receive their invitation?",
+        "Expected Response": "When a student authorizes a guest to access his/her student information, the guest is sent an invitation via email. The email invitation includes a link to the Guest Access Account Creation page.\nThe guest should click the link in the email to initiate the guest account creation process."
+    },
+    {
+        "Question": "How does an invited Wavenet guest create their account?",
+        "Expected Response": "After clicking the link in the invitation email, the Guest Access Account Creation form will appear. The required fields are indicated with the asterisk (*) character (e.g. first name, last name, date of birth, etc.). This information allows Pepperdine to create a unique account for each guest within WaveNet, the University's online portal. The guest will enter the required personal information.\nSelect and provide the answer for a \"Guest Security Question\" for validation purposes. Click Submit when finished. An email will be sent to the guest upon successful account creation. An additional email will be sent with the WaveNet link and login details."
+    },
+    {
+        "Question": "How does a Wavenet guest use the guest access center?",
+        "Expected Response": "Once a guest has created an account, the person may now log into WaveNet and use the Guest Access Center. The guest user will log into WaveNet. Click the Guest Access Center link under the \"Guest\" tab. Navigate the options and information available. The details and links will vary based on the permissions chosen by the student. The following image is an example of the following options: Show schedule, Show financial aid, Show account detail, and allow making payment. "
+    },
+    {
+        "Question": "What should a Wavenet guest do if they have forgotten their login information?",
+        "Expected Response": "\nIf you forgot your login information, contact Tech Central at 310.506.4357 (HELP)."
+    },
+    {
+        "Question": "Can I change the access the guest has to certain features on Wavenet?",
+        "Expected Response": "Once a guest account has been created, the student may update the guest's access at any time. The student may add or remove access to different features."
+    },
+    {
+        "Question": "How do I help mutiple students as a guest?",
+        "Expected Response": "If the guest helps multiple students, the guest may click the \"Select Another Student\" link at the bottom of the current student's Guest Access summary to switch to another student."
+    },
+    {
+        "Question": "How do I edit guest access permisions?",
+        "Expected Response": "The student logs into WaveNet. On the Student Center homepage, click Manage Guest Access under the heading \"Popular Links.\" On the Student Guest Access page, click the Edit button next to the guest's listing. Modify the information for the guest, e.g. check or uncheck options. Click Save when finished."
+    },
+    {
+        "Question": "Do I have to remove guest access when I graduate?",
+        "Expected Response": "When you graduate, the guest access feature in WaveNet will automatically be revoked for your guests. However, your information sharing preferences will remain after you graduate for any guests. If you wish to prevent future disclosure after graduation, be sure to use the edit guest access steps to edit guest access before your account transitions from student to alumni."
+    },
+    {
+        "Question": "Explain the steps of the class registration process. ",
+        "Expected Response": "Look over your degree audit report(DAR), build a course schedule and choose alternate course options in the event some get taken, clear all registration holds, add/drop classes within the designated period, and view your new schedule."
+    },
+    {
+        "Question": "How do I use the Wavenet wishlist?",
+        "Expected Response": "Log in to WaveNet. Click on Student Services, then wish list. Pick the appropriate term and then search for classes. Each selected class will appear in your wish list. When your registration time comes, you can select classes from your wish list instead of browsing for each class. Keep in mind, just because a class is in your wish list doesn't mean that you are in the class or that you are guaranteed to get in a class. You still need to complete your registration at your appointed time."
+    },
+    {
+        "Question": "How do I view my DAR? ",
+        "Expected Response": "Navigate to Wavenet\nLog in using your username and password\nSelect the Student Services tab\nLocate the Degree Audit link in the Student Records area"
+    },
+    {
+        "Question": "How do I become eligible for the Dean's List?",
+        "Expected Response": "A Dean's List of Seaver undergraduate students achieving high scholarship is published each semester (excluding the summer term).  To be eligible, a student must:\n\nComplete at least twelve letter-graded units during the semester,\n\nReceive no grade below \"C\" for the semester,\n\nReceive no grades of \"I\" or \"NC,\"\n\nBe in the top 10 percent of the class, and\n\nHave a term grade point average of at least 3.5."
+    },
+    {
+        "Question": "How do I document an incomplete?",
+        "Expected Response": "If your professor allows you to have an incomplete (\"I\") this term, please follow the procedure below.   This procedure must be followed for each \"I\" assigned. \n\n1.  Student Starts the Request in Etrieve (after having a verbal conversation with the instructor as a heads up regarding an emergency); Incomplete Course Agreement Form\n2.  The form is routed to the Director of Academic Advising (the academic director verifies the emergency and approves or denies)\n3.  The Director of Academic Advisor then routes it to the Instructor for approval or deny\n4.  The Instructor then routes it to the Divisional Dean for approval or denial. The instructor fills in the box regarding what final work is to be done for a final grade and the date of when it's to be done.\n5.  Process ends and into the student file.\n6.  Confirmation emails are sent upon completion of all signatures."
+    },
+    {
+        "Question": "How do I request my transcript?",
+        "Expected Response": "Order your transcript by filling out a Transcript Order Form and returning it to Pepperdine University. $10.00 per copy Payment options: Cash, check or money order"
+    },
+    {
+        "Question": "What is the grade point scale? ",
+        "Expected Response": "A\t4.0\nA-\t3.7\nB+\t3.3\nB\t3.0\nB-\t2.7\nC+\t2.3\nC\t2.0\nC-\t1.7\nD+\t1.3\nD\t1.0\nD-\t0.7\nF\t0.0"
+    },
+    {
+        "Question": "What is the grade dispute process? ",
+        "Expected Response": "\nThis policy outlines the procedure that a student must follow in the event that he/she wishes to dispute the grade\nreceived in a course at Seaver College.\n\n\nThis process must be initiated by the student before the midpoint of the next non-summer semester, which\nimmediately follows the course in question.\n\n\nMost grade issues can and should be resolved privately between the student and instructor. This is the starting\npoint with all grade disputes. In case the matter is not satisfactorily resolved by these means, the following appeals\nprocedure shall apply:\n\n\n1. The student shall submit a written appeal to the division dean with a copy to the instructor identifying the\ncourse, semester, grade received, and the reason for the appeal.\n2. The student shall assemble all relevant class materials (syllabi, returned assignments, tests, papers, etc.)\ndistributed or returned by the instructor to the student. These materials need to be compiled within two\nweeks of the date of the written appeal. If the student cannot assemble all such documents, the grade dispute\nis concluded with no grade change.\n3. Concurrently, the instructor will assemble all relevant class materials that he or she retained for this student\n(final exams, midterms, etc.) within two weeks of the date of the written appeal. A copy of these documents\nalong with the syllabus, grade book, and the instructor's written response to the student appeal is to be\nforwarded by the instructor to the division dean. If the instructor cannot produce all relevant documents\npertinent to the student's work in the course, the grade dispute will be taken up by the instructor's division\ndean in consultation with the associate dean.\n4. The chair will appoint an ad hoc committee of two faculty members within the division who teach the course\n(or a similar one) in question. This committee will then evaluate the student's course materials based on the\nfollowing criteria:\n\n\n\u25cf Have all assignments and examinations been administered in accordance with the guidelines set forth in\nthe class syllabus?\n\u25cf Has all student work been graded fairly, consistently, and accurately?\nAt the conclusion of the committee's evaluation of the course material, it will submit a written recommendation\nand explanation to the division dean. The recommendation must be one of the following:\n\n\n1. Uphold the grade given by the instructor, or\n2. Require that the instructor re-grade one or more assignments, followed by a recalculation of the student's\ngrade, or\n3. Require that the instructor formulate a repeat of one or more class assignments or assessments, followed by\na recalculation of the student's grade, or\n4. Recommend a specified grade change\n\n\nBased on the ad hoc committee's findings, it shall be the division dean's decision, in consultation with the\nassociate dean of Seaver College, as to whether the grade shall be changed. This decision will be final. No further\nappeal is possible."
+    },
+    {
+        "Question": "How do I apply to graduate?",
+        "Expected Response": "In order to submit your application to graduate, please follow these easy steps:\n\nLog on to WaveNet.\nClick on the \"Other Academic\" drop-down and select the \"Apply for Graduation\" link and submit your intent.\nOnce you are in the graduation area, please be sure to verify your major and let us know if you are planning to attend the ceremony by checking the box.\nYou will also be able to select your diploma mailing address and make any name changes (such as adding a middle name, etc). Obviously, we will need to validate with official documentation any totally strange name changes, so please keep that in mind. You can make these changes in the \"Personal Information\" section of your Student Center.\nTo change your diploma name, please go to the \"Names\" link in the personal information box. Add the name that you wish and select the \"Diploma\" type.\nTo change your diploma mailing address, go the \"Addresses\" link in the other personal information drop-down, add the address. After you save it, please select the \"Diploma\" address type.\nContact your Academic Advising Associate should you have questions about how to meet your remaining requirements."
+    },
+    {
+        "Question": "How do I get on campus housing as a first year student? ",
+        "Expected Response": "Newly admitted students for the 2024-2025 academic year follow a separate process. For more new student information, please visit our first-year housing or transfer housing web pages. "
+    },
+    {
+        "Question": "How do I access the housing waitlist?",
+        "Expected Response": "To access the waitlist page please go to the Housing Portal > Academic Year Application > Application Status > Additional Steps > Waitlist. Students are welcome to sign up for one, some, or all waitlists that are available to them. Placements will be offered to students who sign up on a waitlist on a rolling basis based on availability. Offers will expire within 24 - 48 hours, so please be sure to monitor your Pepperdine email account consistently throughout the summer to avoid missing an offer.\n"
+    },
+    {
+        "Question": "How do I apply for a housing accomodation?",
+        "Expected Response": "Students should work with the Office of Student Accessibility (OSA) to register for a housing accommodation. All current students with approved housing accommodations must renew and update their accommodations on an annual basis. For more information, please visit our Student Accessibility webpage.\n\nOnce a student receives approval for their housing accommodation(s), Housing and Residence Life (HRL) and OSA will work with the student to address the specifics of the accommodation, based on availability."
+    },
+    {
+        "Question": "How do I sign up for a single room?",
+        "Expected Response": "At this time, we are not offering additional single-room options beyond what is provided at the Drescher Campus Apartments and through the disability accommodation process. Should you feel you need a single room accommodation or would like to request an exemption from the on-campus housing requirement, please follow these processes: Single Room Accommodation and Residency Exemption."
+    },
+    {
+        "Question": "How do I apply for summer housing?",
+        "Expected Response": "The Housing Portal opens for summer housing applications on March 20 at 9 AM. For more information, please visit our Summer Housing webpage. "
+    },
+    {
+        "Question": "How do I cancel my housing application? ",
+        "Expected Response": "Please email housing@pepperdine.edu and visit the Housing Portal to start the cancellation process. Please note that cancellation fees may apply. "
+    },
+    {
+        "Question": "How do I select a meal plan? Am I required to have a meal plan?",
+        "Expected Response": "Meal plan requirements correspond with living areas and student classifications, so students will not be able to select a meal plan until they are officially placed in housing. Students may be required to purchase a meal plan depending on placement. For more details on required meal plans, please visit our Meal Plan Information or Meal Plan Rates page. If you are a commuter (off-campus) student, please email housing@pepperdine.edu with any meal plan requests! We are happy to assist you in enrolling in a meal plan."
+    },
+    {
+        "Question": "How do parking permits work?",
+        "Expected Response": "Enter the vehicle information and purchase a parking permit in the parking portal website.\nLicense Plate Recognition (LPR) cameras scan license plates of vehicles entering and parking on campus. Using a mobile, hand-held, or vehicle-mounted system, they will scan license plates one vehicle and one area at a time.\nThe system will identify unregistered vehicles or parked in an unauthorized location. Enforcement officers will determine whether to issue a citation when the system identifies a vehicle that does not have a permit or has the incorrect permit for the parking space.\nPhysical permits allow for easy idenfication of registered community members."
+    },
+    {
+        "Question": "What if I get a new license plate or new vehicle?",
+        "Expected Response": "It is important that your license plate and vehicle information is current and correct to avoid a citation. Please update your information immediately after any change in the license plate number. It is also important to delete all old or unused vehicle listings from your account."
+    },
+    {
+        "Question": "What if I have a personalized plate or special characters/symbols?",
+        "Expected Response": "If you have a personalized plate with less than 7 characters, or if you have a special character within your plate (heart, star, etc.), skip the special character when entering the number into the system and simply include the remaining characters on the plate."
+    },
+    {
+        "Question": "What do I need to do if I want to store my vehicle on campus? ",
+        "Expected Response": "If you would like to leave your personal vehicle on campus for an extended period of time you must receive prior approval from the Department of Public Safety. All vehicles must be registered and display a valid parking permit to be eligible for storage on campus. A Vehicle Storage form must be filled out and approved by the department prior to your departure from campus, or the vehicle in question may be relocated or impounded off campus at the owner's expense."
+    },
+    {
+        "Question": "Where can I get an ID card?",
+        "Expected Response": "If you are a student you may get an ID at Tech Central on the 2nd floor of Payson Library. Replacement I.D.s may be obtained at One Stop on the 2nd floor of the Thorton Administrative Center. The replacement fee can be charged to your student account. Faculty and staff may obtain a replacement card at the Center for Human Resources."
+    },
+    {
+        "Question": "How do I reserve a room for a function?",
+        "Expected Response": "Special Programs is in charge of most room reservations; call 310.506.4264. If it is not an area reserved by Special Programs, they should be able to direct you. To reserve rooms in the HAWC, call Student Activities at 310.506.4201. Public Safety is not authorized to grant access to areas not previously reserved."
+    },
+    {
+        "Question": "Who can let me into my room when I'm locked out?",
+        "Expected Response": "If you are locked out between:\n\n8 AM and 5 PM on a weekday, proceed to the Housing Office in Rho Parking Lot to pick up a temporary key 310.506.7586.\n5 PM and 1 AM on a weekday, or between 8 AM and 1 AM on a weekend, call the RA on duty 424.346.0591.\n1 AM and 8 AM on a weekday OR a weekend, call the DPS non-emergency line at 310.506.4442."
+    },
+    {
+        "Question": "What on-campus parking areas may I utilize if I have an FY - First Year parking permit? ",
+        "Expected Response": "FY - First Year parking permits allow for parking in designated locations in the following areas:\n\nDesignated areas of the Drescher Parking Structure (Parking Lot Q); \nDesignated areas of the Drescher Lots (Parking Lots R and S); and \nLower Benton Way (Street Parking). "
+    },
+    {
+        "Question": "Are there any periods of time where FY - First Year parking permit holders may park in other on-campus parking lots?",
+        "Expected Response": "Yes. Vehicles with the FY - First Year parking permit may, unless otherwise specified, park in all legal campus parking areas between Friday at 3 PM through Sunday at 3 PM."
+    },
+    {
+        "Question": "Can I walk to-and-from my designated parking area and student residences?",
+        "Expected Response": "Yes. First-year parking areas are within walking distance of student residences. Students may also use campus shuttles to more quickly reach these areas. "
+    },
+    {
+        "Question": "Who can I contact with questions about parking on campus?",
+        "Expected Response": "Please contact the Department of Public Safety at parking@pepperdine.edu or 310.506.4700 with any on-campus parking questions."
+    },
+    {
+        "Question": "What do I do in the event of a crime?",
+        "Expected Response": "At Malibu and all other locations: call 911. Then call the Department of Public Safety at 310.506.4441.\nGive your name, location, and telephone number. Do not hang up until the dispatcher tells you to do so. Advise the dispatcher of the situation and remain where you are until contacted by an officer.\nDo not attempt to apprehend, or interfere with, the criminal except for self-protection.\nIf safe to do so, stop and take time to get a good description of the criminal. Note height, weight, sex, race, approximate age, clothing, method and direction of travel, and his/her name if known. If the criminal is entering a vehicle, note the license plate number, make and model, color, and outstanding characteristics. all of this takes only a few seconds and is of the utmost help to the investigating officers.\nIn the event of a civil disturbance, continue inasmuch a possible with your normal routine. If the disturbance is outside, stay away from the doors and windows.\nDo not interfere with those persons creating the disturbance or with authorities on the scene.\nAnonymous Tip Line   Leave any crime tip as to who, what, why, when, and or where? You need not leave your name or how you came across the information. The crime tip line is completely anonymous. For the Tip Hotline please call 310.506.7634 or ext. 7634.  You may also send a confidential email message to the Director of Public Safety, Meghan McGuire."
+    },
+    {
+        "Question": "How do I submit an event request on Peppervine? ",
+        "Expected Response": "All event requests must be submitted two weeks in advance of the event to ensure enough time for approvals, space confirmation, and setup request. To submit the event request on Peppervine, follow these steps: \n\nLogin to vine.pepperdine.edu\nGo to your club's membership page\nGo to the left hand side on the side bar\nClick \u201cEvents\u201d\nOnce on the page, click \u201ccreate event\u201d on the top right corner\nFill out with necessary information \nSelect a location using the \u201cBook Rooms\u201d feature. Be sure to add time for setup and breakdown. \nSubmit event by clicking \u201cCreate Event\u201d \nPepperdine has a strict \u201cfour or more\u201d rule, meaning that if four or more people from your organization are in attendance, you need to make an event request. An event is any activity or situation, sponsored, co-sponsored or endorsed by the organization, or any event a reasonable person would associate with the organization."
+    },
+    {
+        "Question": "How do I reserve a space for my club?",
+        "Expected Response": "\nAll groups can reserve a space through the event request form. To avoid confusion, please do not go through Office Managers unless advised to do so by the Student Organizations Coordinator. If the room you are requesting is not available, that means it is reserved by another group. Select a different room or find another date or time that room is available. "
+    },
+    {
+        "Question": "How does ICC allocate funds for clubs?",
+        "Expected Response": "ICC allocates club funds into two categories: Student Development and General Fund. During ClubCon, clubs and organizations decide if they would like to receive up to $3,000 in one category and up to $4,000 in the other category. Additionally, clubs and organizations have up to $500 per year for marketing requests. Please note: Groups can ask up to these amounts, however it does not guarantee that ICC will fund the request made. It is up to the discretion of the ICC E-Board during funding meetings whether or not to fund certain requests."
+    },
+    {
+        "Question": "How do I access funding for clubs?",
+        "Expected Response": "All funding requests must be submitted at least four weeks prior to the event to ensure enough time for approval, purchasing, and shipment of the items. To submit the funding request on Peppervine, follow these steps: \n\nLog in to vine.pepperdine.edu\nGo to your club's membership page\nGo to the left hand side on the side bar\nClick \u201cMoney\u201d\nOnce on the page, click \u201cBudgeting\u201d\nFill out the necessary information\nSpecify between Promotional Material Request and ICC Funds Request\nICC will review each funding request during their weekly funding meeting. ICC will respond to requests within 48 hours of the funding meeting. If you do not hear back from ICC, please email iccfinance@pepperdine.edu to follow up on your request.\n\nFor funding requests over $1,000, please schedule a time to discuss this request with the ICC E-Board during the weekly funding meetings. "
+    },
+    {
+        "Question": "Who should I reach out to regarding the tranfer program?",
+        "Expected Response": "For questions regarding our transfer program, transfer mentors, or commuter life, please reach out to Danielle Minke, danielle.minke@pepperdine.edu."
+    },
+    {
+        "Question": "Where can I find more information about where to park on Pepperdine campus?",
+        "Expected Response": "Please visit the DPS website!"
+    },
+    {
+        "Question": "How can I use the carpool spots on campus?",
+        "Expected Response": "As you may know, Pepperdine has specific spots (green curb) for students who commute together. If you are able to commute with your roommates or neighbors, on your way onto campus stop by the guard booth for a carpool pass. "
+    },
+    {
+        "Question": "How do I know when and where to catch a shuttle?",
+        "Expected Response": "Shuttles run all over campus Monday thru Friday from 7:22 AM to 10:10 PM, and noon to 8 PM on weekends. For the complete schedule, visit the Transit Services website."
+    },
+    {
+        "Question": "What are the requirements of an orientation leader?",
+        "Expected Response": "Must have a GPA of 2.0 or above\nMust be in good standing with the university (not on academic or disciplinary probation)\nMust be studying on the Malibu Campus for the fall semester\nReturn to campus on Thursday, August 8 at 2 PM for training prior to New Student Orientation\nAvailable for all of training (Thursday, August 8  to  Saturday, August 10) and New Student Orientation (Monday,  August 12  to  Friday,  August 16)"
+    },
+    {
+        "Question": "What are the duties of an orientation leader?",
+        "Expected Response": "Help new students move into on-campus housing\nAnswer parent and students questions\nAssist new students and families around campus\nLead small group activities with new students\nKeep the flow of the orientation schedule \nBe a friendly face and positive presence \nSupport NSO team in other duties as assigned"
+    },
+    {
+        "Question": "How do I apply to be an orientation leader?",
+        "Expected Response": "There are three steps to follow when applying to be an Orientation Leader (OL):\n\nFill out the online application by clicking the button below. The application includes signing up for an OL interview.\nObtain a faculty/staff recommendation (by sending this webpage to your faculty/staff recommender and directing them to the \"Recommendation Form\" button below OR sending the recommender this link: https://forms.gle/iLcrphKD7yFgpktW9)\nComplete a 10-minute OL interview, which will take place in person or on Zoom. OL interview sign-ups are included in the OL Application form.\nAn application and faculty/staff recommendation are required. "
+    },
+    {
+        "Question": "What are the requirements of an orientation coordinator?",
+        "Expected Response": "Must have a GPA of 2.0 or above\nMust be in good standing with the university (not on academic or disciplinary probation)\nMust have previously served as an Orientation Leader \nArrive on Sunday, August 6 at 5 PM to help prepare for Orientation Leader Training\nLead the OL training prior to New Student Orientation\nAvailable for all trainings (Sunday, August 4  to  Saturday, August 10) and New Student Orientation (Monday, August 12  to  Friday, August 16)"
+    },
+    {
+        "Question": "What are the duties of an orientation coordinator?",
+        "Expected Response": "Plan and execute Orientation Leader Training\nEncourage and motivate Orientation Leader\nCheck new students in for orientation\nAnswer parent and students questions\nParticipate in Parent panel during NSO\nSupport the NSO team by helping implement the orientation schedule\nBe a friendly face and positive presence"
+    },
+    {
+        "Question": "How do I apply to be an orientation coordinator?",
+        "Expected Response": "There are three steps to follow when applying to be an Orientation Coordinator (OC): \nNote: You must have served as an Orientation Leader previously.\n\nFill out the online application by clicking the button below, which includes uploading your resume and signing up for an OC interview. \nObtain a faculty/staff recommendation (by sending this webpage to your faculty/staff recommender and directing them to the \"Recommendation Form\" button below OR sending recommender this link: https://forms.gle/S6HV6VxEqDVVdm6B7)\nComplete a 30-minute OC interview, which will take place on Zoom. OC interview sign-ups are included in the OC Application form."
+    },
+    {
+        "Question": "Who do I contact for more information regarding fraternity and sorority life?",
+        "Expected Response": "Molleigh Pompilio"
+    },
+    {
+        "Question": "What should I do if I'm interested in working with SWAB?",
+        "Expected Response": "All SWAB positions include an application and interview process. Positions are listed, and applications are available on Handshake in the spring prior to the upcoming academic year.\n\nHave questions about being on the SWAB or collaborating/partnering with the SWAB? Check out SWAB's Instagram account @pepperdineswab, or for more in-depth information and/or questions, email us at swab@pepperdine.edu."
+    },
+    {
+        "Question": "What will student leaders do as part of SWAB?",
+        "Expected Response": "Demonstrate an increased understanding of healthy behaviors and practices that create a safe community\nEngage in cognitions and behaviors that will improve their own health and enable students to care for others\nDemonstrate skills to empathize with and assist others from diverse backgrounds who have safety or health-related concerns"
+    },
+    {
+        "Question": "What are the general expectations as part of SWAB?",
+        "Expected Response": "Serve as a liaison between the student body and University departments represented by SWAB\nAttend all meetings\nCollaboratively participate in event planning\nMaintain and uphold the integrity of health and well-being of the university"
+    },
+    {
+        "Question": "How do I register a new club?",
+        "Expected Response": "If there is a club or organization that you would like to start on our campus, ICC is here to help. In order to be approved and recognized as a registered student organization of Seaver College, clubs must establish the following:\n\nAn official club name\nA mission/purpose statement\nA faculty/staff advisor (advising by an outside entity or individual is not permitted, with the exception of national sorority and fraternity advisors)\nA governing constitution\nA process for selecting and replacing leadership\nA membership roster; with a minimum of 10 members*\nA preliminary calendar of events, meetings, and activities*\n*Note: These will be modified or enhanced as the club grows and develops into an established organization. \n\nThe process of becoming an officially registered student organization with Seaver College is as follows:\n\nStep 1: Contact the Student Organizations Coordinator with the intent of establishing a club.\nStep 2: Compile and fill out the appropriate documents of the requirements listed above.\nStep 3: Apply/Submit all required materials through Peppervine. (Note: The Fall 2024 new club application is closed) .\nStep 4: The ICC President in conjunction with the Student Advisory Committee (composed of Student Affairs and university staff) will review the application for University approval.\nStep 5: The club representative will receive a notification of approval, denial, or  to request additional information to  from the Advisory Committee through Peppervine."
+    },
+    {
+        "Question": "What is the SGA Election schedule?",
+        "Expected Response": "Interest Meeting: Tuesday, August 27 at 6:30 PM in Black Plaza Classrooms (BPC) Room 189 \nStrongly encouraged for anyone considering a position in SGA to attend one of these meetings.\n\nRSVP in advance. \nCandidates Meeting: Wednesday, September 4 at 9 AM in Thornton Administrative Center (TAC) Room 100\nThis meeting is mandatory for all candidates who are running. Dress is business professional. \nComplete a Candidate Form prior to the Candidates Meeting:\nFreshman Election Form\nRSVP in advance\nElection Day: Wednesday, September 11 at 8 AM - Thursday, September 12 at 8 AM\nElections on Peppervine.\nRunoff Election Day: Wednesday, September 18 at 8 AM - Thursday, September 19 at 8 AM\nA runoff election is only held if needed.\nSGA Retreat: Friday, September 20 - Sunday, September 22 \nRequired for all members of SGA. "
+    },
+    {
+        "Question": "When does the RISE application open?",
+        "Expected Response": "Applications open March 30 and interviews begin April 17. "
+    },
+    {
+        "Question": "How do I get a job on campus?",
+        "Expected Response": "As a student, you can access Handshake for part-time jobs on and off campus with local employers, as well as internship opportunities."
+    },
+    {
+        "Question": "What are some job search tips for success?",
+        "Expected Response": "Prepare a resume and cover letter. \nLogin to the Handshake website.\nUpload your completed resume to the Handshake website.\nSearch and apply for jobs.\nReview listings daily and respond quickly to positions that you are interested in.\nPrepare for your interview; you may also connect with your Career Center for assistance\nCareer Center Interview Tips\nPlease follow up with your supervisor if you haven't received a response regarding your job applications.\nBe sure to send a thank you email after your interview."
+    },
+    {
+        "Question": "How do I search for jobs?",
+        "Expected Response": "Login to your Wavenet homepage\nClick on Student Services, which is located on the top-left of your Wavenet homepage\nClick on Handshake\nYou will be directed to the Handshake website\nClick on Jobs\nFor Job Type, select On-campus Student Employment to see all current postings for on-campus student employment.\nFor Off-campus student employment, seek out part-time jobs with the tags \"off-campus student employment.\"\nClick Search\nLook through each job posting to see if you are interested. Follow the instructions for each job posting and apply as instructed. Note that there may be different document requirements for each position."
+    },
+    {
+        "Question": "How do I get mental health counseling?",
+        "Expected Response": "Making an appointment at the Counseling Center is quite easy. The quickest way to make an appointment is to call between the hours of 8am-5pm, Monday- Friday. You can also e-mail us and someone will respond to your e-mail within a day. Once you speak with someone at the Counseling Center, you will be scheduled for an intake appointment with a clinical staff member. While most students are seen within a few days, depending on your availability and the Counseling Center's schedule of openings, it can sometimes take up to a week or so."
+    },
+    {
+        "Question": "How do I contact the Pepperdine Counseling Center?",
+        "Expected Response": "student.counseling.center@pepperdine.edu | (310) 506-4210"
+    },
+    {
+        "Question": "What requirements are there to apply for an IP program? ",
+        "Expected Response": "Applicants must:\n\nbe a current Seaver College Pepperdine student in good standing (NOT currently on academic probation or an Office of Community Standards sanction that prohibits participation, such as probation, suspension, or expulsion).\nhave completed one full-time semester (fall or spring) at Seaver College in Malibu by the time the International Program offering commences.\nhave at least a 2.5 cumulative GPA.\nagree to comply with International Programs' COVID-19 vaccine policy."
+    },
+    {
+        "Question": "How do I apply for an international program? ",
+        "Expected Response": "1) Either use the \"Apply\" button on the IP website pages (beginning Aug. 19, 2024) -or- sign in to WaveNet, then click \"IP Apps Sum '25 thru Spr '26\" under \"Popular Links\":                                                                                                                        2) Complete the intake questions and traveler profile (if you have not already done so).\n3) Select your first choice program (ex. Academic Year or Semester - Buenos Aires, Argentina) from the program tiles. Then, under \"available terms,\" select the term that you would like to apply for as your first choice (ex. Academic Year 2025-26) and click \"Apply Now.\"\n4) Fill out and submit the online application. Be sure to save your application frequently. You can save, exit and return to your work at any time before the application deadline. You will be asked to complete information about the following: personal and academic information, short essay questions, video question, emergency contacts, consent, and alternate program choices.                    5) When your application is complete, click \"Submit\". Students who apply by 12 noon Pacific Time on September 23, 2024 and complete an interview or audition (if required) by October 1 will receive a decision on October 11, 2024. After the priority deadline, applications are reviewed on a rolling basis and you will receive a decision usually 2-4 weeks after completing your application. Decisions are usually sent on Fridays.\n\n6) Upon starting an application, a required Demographic Form will populate in your \"My Programs\" dashboard in ViaTRM. Please complete this form by the priority deadline. This information will not be used in admissions decisions. "
+    },
+    {
+        "Question": "How should I prepare for an IP interview?",
+        "Expected Response": "Treat this like a job interview. Dress nicely and arrive on time.\nBe yourself! Your Faculty-in-Residence wants to get to know you.\nThink about your answers to these questions:\nWhy did you apply for this specific program?\nWhat do you hope to gain from this experience?\nWhat challenges do you expect to face abroad and how will you manage them?"
+    },
+    {
+        "Question": "How do I apply for an IP scholarship?",
+        "Expected Response": "When a student begins an application for any Pepperdine IP program through the ViaTRM portal, they will automatically receive instructions and an optional form to apply for the International Programs Scholarship through the ViaTRM portal, as well. \n\nPlease reach out to international.programs@pepperdine.edu with any questions."
+    },
+    {
+        "Question": "How does International Programs make admissions decisions?",
+        "Expected Response": "The goal of the IP admissions process is to build diverse communities of motivated and qualified students who are committed to intellectual, social, personal, and spiritual transformation. The IP Selection Committee makes admissions decisions based on the following criteria:\n\nGPA\nCampus Citizenship\nEssay and Application Information\nInterview and supplemental materials (where applicable)\nNote: certain degree requirements will also be considered (declared languge major/minor, etc.)"
+    },
+    {
+        "Question": "How do I get a passport?",
+        "Expected Response": "All students studying abroad with International Programs, including students studying in Washington, D.C., must have a valid passport. Passports must be valid for at least 6 months past the student's anticipated return date, per airline policy. Students applying to go abroad should immediately begin renewing or applying for a passport. Visit the US Department of State's Passport Services website for more information such as passport offices nationwide, passport applications, and passport renewals. Refer to our passport page for more information. \n\nStudents who are required to obtain a visa and who are planning on traveling internationally before their departure may be asked to obtain a second passport. Additional information will be sent to students after admission."
+    },
+    {
+        "Question": "How do I extend my stay overseas and what are flight implications?",
+        "Expected Response": "Students can request to extend the return date of their flight at the time of booking, to facilitate personal travel. Detailed instructions on flight bookings will be provided to students as part of their preparation process. \n\nStudents that have already booked their flight with Corniche Travel and would like to adjust their travel dates should contact Corniche Travel by emailing pepperdinetravel@corniche.com or by calling (310) 854-6000. Be sure to include details of your request in the email.\n\nStudents must ensure that lengthening their stay does not impact their immigration status. Not all flights can be changed. The flight route (departure and arrival locations) cannot be changed. Departure dates cannot usually be changed.\n\nStudents are responsible for any paying associated change fees (usually ranging from $50 - $500, depending on the airline) and any increases in airfare. Students are encouraged to request flight changes as early as possible after booking to receive the lowest change fee.  Please review our flight policies here. \n\nThere is a 30-day health insurance coverage deviation for students studying away at international locations per semester which means that travelers are covered with health insurance for a total of 30 days outside of the official program dates per semester. Coverage can be before and/or after the program. Students should purchase additional insurance if traveling more than 30 days outside of each semester program."
+    },
+    {
+        "Question": "How can I contact for technical support? ",
+        "Expected Response": "310.506.4357 (HELP)"
+    },
+    {
+        "Question": "Why isn't Pepperdine wifi letting me connect/how do I disable MAC randomization?",
+        "Expected Response": "Open the Settings app, then tap Wi-Fi.\nTap the More Info button (i icon) next to a network.\nTap Private Wi-Fi Address to turn it off."
+    },
+    {
+        "Question": "How do I get my ID card?",
+        "Expected Response": "Step 1: Submit or Take Your ID Card Photo\nThe easiest way to start the ID card process is to Submit Your ID Card Selfie. In addition to the selfie process, some new student orientation events will offer dedicated stations to take your ID card photo. \n\nStep 2: Receive Your ID Card\nMost students receive ID cards during New Student Orientation (NSO) or at OneStop at the Malibu campus in the Thortnon Administrative Center (TAC). The Human Resources department issues faculty and staff ID cards at the time of hire. The first ID card is free. Should a card become damaged, return it to OneStop (students) or the Human Resources department (faculty and staff); and get a new card free of charge. If a card is lost or stolen, there is a $15 fee for a replacement card. For a replacement card, students should visit OneStop, and faculty and staff should visit the Human Resources department at the Malibu campus in Thornton Administrative Center (TAC). For faculty, staff, or students at the West Los Angeles or Irvine graduate campuses, they may see the Tech Central support desk."
+    },
+    {
+        "Question": "What should I do if Wifi connection in the dorm is unstable?",
+        "Expected Response": "Try moving closer to an access point or connect the device to ethernet. If these option don't work or are not applicable, please contact Tech Central at 310.506.4357 (HELP) or email tech.central@pepperdine.edu. We will investigate the issue and attempt to resolve it as soon as possible."
+    },
+    {
+        "Question": "How do I add money to my Pepperdine ID card online? ",
+        "Expected Response": "Visit https://get.cbord.com/pepperdine/full/prelogin.php.\nClick \"Deposit into a Student or Community User Card's Account.\"\nEnter Student's CWID (Campus Wide ID) and click \u201cContinue.\u201d\n\nEnter the amount to deposit and an email for a receipt and then click \"Continue.\"\nComplete the credit card (Visa and MasterCard only) holder information.\nClick \"Submit.\"\nLog out and close the browser."
+    },
+    {
+        "Question": "How do I add money to my Pepperdine ID card in person? ",
+        "Expected Response": "Visit OneStop in the Thornton Administrative Center.\nPayment methods accepted are cash or check.\nPayments are immediately applied to the ID card."
+    },
+    {
+        "Question": "How do I receive techical support?",
+        "Expected Response": "Tech Central provides hands-on tech support for Pepperdine students, faculty, and staff. The primary Tech Central office is located in B100 in the Thornton Administrative Center (TAC) on the Malibu campus, with local offices at most Southern California campuses as well.\n\nSupport is available 24 hours a day, 7 days a week, 365 days a year. You can also complete the techincal support form to submit your inquiry. "
+    },
+    {
+        "Question": "I'm a student with a disability. How do I apply for accomodations?",
+        "Expected Response": "Step One\nComplete an online inquiry to begin the process of applying for accommodations.\nStep Two\nAfter completing the online inquiry, students will receive the following in an email to guide them in providing appropriate documentation. Students should upload said documentation to their file through Wavenet (instructions will be in the email):\nDocumentation/Pepperdine Accessibility Form: The Pepperdine Accessibility Form is a tool that students may use to provide guidance to medical or psychological professionals regarding the information needed to complete the file. Please choose the form(s) most appropriate to your needs. There are two types of Pepperdine Accessibility Forms including:\nPepperdine Accessibility Form - Initial form\nHousing and ESA Addendum - To be submitted (in addition to the Pepperdine Accessibility Form) for housing and esa requests\nGuidelines for Documentation of a Disability: This is a comprehensive guide to the information needed to complete the file. For students seeking accommodations for ADD or for a learning disability, the OSA requests additional documentation to the disability verification form (this information is listed in the guidelines).\nAccommodation letters should be included in the documentation submitted for those who have received prior accommodations in high school, other undergraduate or graduate institutions, or on the ACT/SAT/GMAT/LSAT etc.\nStep Three\nOnce you have submitted the documentation, OSA will be notified through the Accommodate System.  OSA will send you a scheduling link to your Pepperdine email to arrange a conversation with an Accessibility Specialist.  Please be on the lookout for the scheduling link.\nThis conversation is designed to give the directors a narrative about a student's disability and the barriers it presents to their education. The student and specialist will together discern how Pepperdine can best support the student.\nIn most cases, students may expect a written communication from OSA within five to ten business days of meeting with the Accessibility Specialist.  This communication will include either an accommodation decision, a request for more information, or instructions on next steps.  Students choose with whom to share this letter. Accommodations will not be offered until a letter is presented to professors or appropriate staff."
+    },
+    {
+        "Question": "How do I make a payment as an INTL student?",
+        "Expected Response": "Log into WaveNet to access your bill. At checkout, click on the International Payments  to  Flywire option.\nSelect your country and enter the amount due.\nSelect your preferred payment option and provide the requested payer and student information\nFollow the payment instructions displayed to send the money to Flywire. Once your payment is received, Flywire will process your payment and send it to Pepperdine along with your student information.\nYou can track your payment with the link provided, or create a Flywire user account to view your payment record anytime by logging in."
+    },
+    {
+        "Question": "How do I obtain my F-1 student Visa? ",
+        "Expected Response": "Request your Pepperdine I-20, complete your International Student Data Form, and apply for your F-1 Visa. "
+    },
+    {
+        "Question": "How do I request my Pepperdine I-20?",
+        "Expected Response": "To request your Form I-20 complete all the required steps on the International Student Data (ISD) form. (Note: You will not be able to access the ISD until your Intent to Enroll/Deposit has been processed.)"
+    },
+    {
+        "Question": "Where do I complete my International Student Data Form (ISD)?",
+        "Expected Response": "The International Student Data (ISD) form can be completed via the OISS portal. "
+    },
+    {
+        "Question": "How do I apply for my F-1 visa and status?",
+        "Expected Response": "All persons who intend to visit the United States (US) temporarily to pursue a full course of study at an academic institution must be classified as an alien in F-1 student-visa status. The Form I-20 is the document you will present to the US Embassy or Consulate abroad when making application for a student visa, and also when making application for admission at the US port of entry."
+    },
+    {
+        "Question": "How can graduates get a copy of transcripts or a Degree Verification?",
+        "Expected Response": "Please follow the instructions on the Registrar's website."
+    },
+    {
+        "Question": "How do students get involved with alumni?",
+        "Expected Response": "Please reach out to Pepperdine Alumni Affairs to get involved as an alumnus."
+    },
+    {
+        "Question": "How do I rent equipment for myself?",
+        "Expected Response": "To reserve equipment:\n\nStep 1 - Head to the Pepperdine Fitness Center front desk and let the staff know that you are wanting to rent some equipment.\n\nStep 2 - Create a DSE membership for rentals if you do not have one already.\n\nStep 3 - Select which item(s) you would like to rent.\n\nStep 4 -  Review and sign the Informal Rental Equipment contract and the Instructions for Informal Rental Equipment Care.\n\nStep 5 - Collect your equipment and have fun!"
+    },
+    {
+        "Question": "How do I rent equipment for a group?",
+        "Expected Response": "This rental process applies to groups of two or more people. All group rentals can be made up to three weeks in advance and are based on inventory availability. Groups may reserve equipment for a duration period of up to five days at a time.\n\nPlease contact julian.baker@pepperdine.edu to make any group reservations and special requests."
+    },
+    {
+        "Question": "How can I request a refund?",
+        "Expected Response": "Refunds from federal aid will be processed automatically at the start of each term. You do not need to do anything other than make sure you have a valid eRefund account set up about two weeks prior to the start of the term.\n\nIn order to expedite the process, we ask that you do not call the office regarding the status of your refund during the following times of the term: the week prior to the start of the term or the first two weeks of the term. \n\nStudents may check their WaveNet account to see when the refund has been processed. It will show up in the \"Refund\" column under the Account Activity. Once on the student account, the funds will be released to the banks (for those with an eRefund) at the close of business the following day. It then takes generally 3-7 business days for the bank to deposit the funds into the bank account designated on the eRefund.\n\nFor refund requests on any other credit balance throughout the semester, students may contact the Office of Student Accounts by phone at (310) 506-8000 or using their Pepperdine email account, send an email to SeaverSA@pepperdine.edu. All requests for refunds must come from the student."
+    },
+    {
+        "Question": "How do I obtain the 1098-T form? ",
+        "Expected Response": "Download the instructions from Pepperdine's Student Accounts webpage. "
+    }
+]

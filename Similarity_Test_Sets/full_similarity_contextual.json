@@ -1,0 +1,390 @@
+[
+    {
+        "Question": "Which course satisfies the English GE requirement? ",
+        "Expected Response": "ENG 101"
+    },
+    {
+        "Question": "Which course satisfies the Literature GE requirement? ",
+        "Expected Response": "ENG 315, ENG 325, ENG 326, ENG 370, ENG 380, FRE 346, FRE 348, FRE 355, FRE 356, ITAL 451, SPAN 449, SPAN 451, SPAN 453, SPAN 455"
+    },
+    {
+        "Question": "Which courses satisfy the Religion GE requirements? ",
+        "Expected Response": "REL 101, REL 102, REL 301"
+    },
+    {
+        "Question": "Which courses satisfy the Humanities GE requirements? ",
+        "Expected Response": "HUM 111, HUM 212, HUM 313"
+    },
+    {
+        "Question": "Which course satisfies the World Civilizations GE requirement? ",
+        "Expected Response": "ARTH 300, ARTH 442, ARTH 446, ASIA 301, ASIA 305, ASIA/HIST 310, ASIA 325, ASIA/HIST 330, ASIA/HIST 331, ASIA 340, ASIA 345, ASIA 350, ASIA 365, ASIA 370, COM 313, FILM 365, GSHU 425, HIST 320, HIST 390, HIST 409, INTS 445, POSC 456, REL 501, and REL 526"
+    },
+    {
+        "Question": "Which courses satisfy the Amerian Experience/American History GE requirements? ",
+        "Expected Response": "POSC 104, HIST 204"
+    },
+    {
+        "Question": "Which course satisfy the Human Institutions and Behavior GE requirements? ",
+        "Expected Response": "ECON 200, PSYC 200, SOC 200"
+    },
+    {
+        "Question": "Which course satisfies the Foreign Language GE requirement? ",
+        "Expected Response": "Student must complete the third (college-level) semester of the language, selected from the following:\nPlacement is based on competency testing or prior college classes. CHIN 251, FRE 251, FRE 282, GER 251, GER 282, ITAL 251,\nJAPN 251, SPAN 251, SPAN 282, GRE 320, HEB 502"
+    },
+    {
+        "Question": "Which course satisfies the Lab Science GE requirement? ",
+        "Expected Response": "BIOL 105, BIOL 106, BIOL 107, BIOL 108, BIOL 109, BIOL/SPME 230, BIOL/SPME 270, CHEM 120 & CHEM 120L, NASC 101, NASC 108, NASC 109, NASC 155, NASC 156, NUTR 210, PHYS 202, PHYS 210, SPME 106, SPME 108"
+    },
+    {
+        "Question": "Which courses satisfiy the Math GE requirement? ",
+        "Expected Response": "MATH 120. This requirement may also be satisfied by COM 240, MATH 140, MATH 141, MATH 150, POSC/PSYC/SOC 250, MATH 270 (for the liberal arts major), or MATH 316"
+    },
+    {
+        "Question": "Which course satisfies the Speech and Rhetoric GE requirement? ",
+        "Expected Response": "COM 180"
+    },
+    {
+        "Question": "Which courses satisfies the Fine Arts GE requirement? ",
+        "Expected Response": "ART 101, ART 103, ART 210, ART 230, ART 250, ART 315, ART 368, ART 372, ART 374, ARTH 200, ARTH 300, ARTH 422, ARTH 424, ARTH 425, ARTH 426, ARTH 428, ARTH 430, ARTH 432, ARTH 434, ARTH 436, ARTH 440, ARTH 442, ARTH 446, FA 240, FA 241, FA 313 (for liberal arts majors only), FA 314 (for liberal arts majors only), FILM 111, FILM 311, GSHU 111, GSHU 112, GSHU 113, MUS 105, MUS 106, MUS 110, MUS 114, MUS 118, MUS 135, MUS 136, MUS 137, MUS 138, MUS 139, MUS 140, MUS 141, MUS 143, MUS 145, MUS 184, MUS 200, MUS 280, MUS 305, MUS 335, MUS 336, MUS 337, MUS 338, MUS 339, MUS 340, MUS 341, MUS 343, MUS 384, MUS 467, MUS 468, THEA 200, THEA 210, THEA 226, THEA 227, THEA 243, THEA 342, PE 180, PE 185"
+    },
+    {
+        "Question": "How is the First Year Seminar requirement fulfilled? ",
+        "Expected Response": "GS 199 First-Year Seminars * Students enrolled in the Great Books Colloquium or the Social Action and Justice Colloquium complete the FirstYear Seminar requirement by completing the colloquium"
+    },
+    {
+        "Question": "How is the Junior Writing Portfolio requirement fulfilled?",
+        "Expected Response": "A cover letter from the student, approximately two pages, double-spaced, that explains the choice of papers included in the portfolio and describes their writing experiences during first two years at Pepperdine. See sample cover letter. Four papers from classes taken at Pepperdine. Record of Portfolio Submission form, detailing the name of the instructor and the class for which the paper was written, and the date the paper was submitted for grading. All papers that are submitted are subject to verification for plagiarism and authorship."
+    },
+    {
+        "Question": "What are suggestions for completing Junior Writing Portfolio?",
+        "Expected Response": "A selection of papers from at least 3 different courses. One paper from the student's major. (If no class has been taken in the student's major then submit a paper in a related discipline.) One paper that required research, At least two papers written during the sophomore and/or junior years. One paper from your first year as a college student (if available). If you did not take any of these courses, please substitute another paper. The entire portfolio should include at least 20 pages of writing. (20 pages is the minimum required number of pages. It is fine to include more than 20 pages.) Transfer students may use up to two (2) papers from other institutions. At least two (2) papers should be from Pepperdine University."
+    },
+    {
+        "Question": "What are the Foundations Requirements? ",
+        "Expected Response": "COM 180, ENG 101, REL 100, REL 200, REL 300, FOR 101"
+    },
+    {
+        "Question": "What are the Connections Requirements? ",
+        "Expected Response": "A course in each of the following requirements: Creative Arts, Diverse Perpsectives, Global Perspectives, Historical Thinking, Human Institutions and Behavior, Interpretation, Laboratory Science, Language and Culture, Mathematical Reasoning, U.S. Experience"
+    },
+    {
+        "Question": "What are the skills requirements?",
+        "Expected Response": "RISE 101, BA 101, GSGS 200, 1 PE class taken in Malibu or abroad."
+    },
+    {
+        "Question": "Which courses satisfy the cultural competence requirement?",
+        "Expected Response": "BA 354, BA 366, BA 498, COM 313, COM 410, COM 412, COM 413, COM 485, EDUC 465, ENG 301, ENG 340, ENG 370, ENG 440, ENG 475, FILM 321, FRE 345, FRE 366, FRE 430, FRE 470, GSHU 333, HIST 326, HIST 335, HIST 336, HIST 405, HIST 420, HIST 422, HIST 424, HIST 425, HIST 428, HIST 433, HIST 450, HIST 530, INTS 250, INTS 459, NPM 300, NPM 301, NPM 302, NPM 330, NUTR 210, NUTR 212, NUTR 370, NUTR 440, NUTR 460, POSC 435, POSC 437, POSC 455, PSYC 458, REL 300C, REL 544, SART 202, SAAJ 100, SOC 200, SOC 421, SOC 422, SOC 431, SOC 436, SOC 444, SOC 450, SOC 452, SOC 455, SOC 458, SOC 462, SOC 497, SPAN 348, SPAN 430, SPAN 461, SPAN 470, THEA 313."
+    },
+    {
+        "Question": "What is required as part of the IP application?",
+        "Expected Response": "Applicants must complete the online application which includes providing personal data and background information and answering short answer and essay questions. Some programs also require applicants to complete an interview, video question, audition, or submit additional materials such as a resume. More information on the application process is available here."
+    },
+    {
+        "Question": "Should I apply for one semester or a year?",
+        "Expected Response": "Many students who choose to study abroad for one semester later ask to extend their contract to remain abroad for a longer period of time. We accommodate these students when possible, but can only accommodate extensions on a space available basis and if visas regulations allow for it. Therefore it's best for students to apply for the academic year from the beginning (if their academic plan can allow for it) in order to hold their space in that program and in order to secure a visa if necessary. Students who have only attended one semester tell us time and time again that they wished they had stayed the full academic year."
+    },
+    {
+        "Question": "Should I have other study abroad locations in mind when I apply?",
+        "Expected Response": "Yes! Due to space constraints, our programs cannot always accommodate all applicants. Historically, about 2 out of 3 students who apply are admitted to their first choice program. Therefore we ask students to be open to multiple locations and apply by the priority deadline for the greatest chance of admission."
+    },
+    {
+        "Question": "Can I apply for more than one program?",
+        "Expected Response": "Students have the option to be considered for up to six programs and terms with one application. Students will be considered for their first choice first, then their second choice, etc. Programs and terms that have reached capacity will not be available as an alternate choice. Programs that require an interview or audition, such as Faculty-led, internship, and language-intensive programs will not be available as an alternate choice."
+    },
+    {
+        "Question": "When will I know whether or not I am accepted?",
+        "Expected Response": "First, ensure that you have completed all required steps including submitting all parts of your online application, and interviewing or auditioning if required. Be sure to pay attention to all deadlines indicated on the application. Click here to learn more about the requirements for each program.\n\nApplicants who apply by the priority deadline (September 23, 2024) will receive a decision on October 11, 2024. Applicants will be notified via email (make sure to allow emails from @via-trm.com to be able to receive a decision). Applicants who apply after the priority deadline will be notified on a rolling basis, usually on Fridays (this usually takes 2-4 weeks)."
+    },
+    {
+        "Question": "Are there jobs for students while abroad?",
+        "Expected Response": "Yes, we have many student positions available. IPRAs, media coordinators, and librarians are hired in Malibu before studying abroad. Check out the positions and applications here. Other positions are also available once in your program. Program directors will be reaching out to students the first month of the program"
+    },
+    {
+        "Question": "Why are priority applications due about a month after the beginning of the fall semester?",
+        "Expected Response": "Prior to going on a semester or Academic Year International Program, students are required to take the first level of a language class (151) for all fall and spring programs (except Washington, D.C. and London programs), as well as other prerequisite courses prior to attending their international program. Students will register for these spring classes in early to mid-November. Due to this registration timeline, International Programs has created an application process and timeline to review students, give them a decision, and leave enough time for them to review their contracts and commit to the program prior to the November registration dates. This allows students to register in the appropriate classes before going abroad, so that they can complete all necessary prerequisites."
+    },
+    {
+        "Question": "Who teaches the courses in International Programs?",
+        "Expected Response": "The Pepperdine Program Director, the faculty-in-residence, and local faculty who are approved by academic divisional deans at the Malibu campus teach courses."
+    },
+    {
+        "Question": "What does it mean if I was waitlisted for a program and what should I do?",
+        "Expected Response": "Due to space constraints and other factors, we often cannot accept all applicants for a given program. Students placed on the waitlist may choose to remain on the waitlist for the chance to be admitted at a later date if space becomes available, or they may choose to reapply for an alternate program, as long as that program is accepting new applications. Click here for more information."
+    },
+    {
+        "Question": "What happens after I am accepted?",
+        "Expected Response": "Students who have been accepted are asked to sign an IP contract to officially commit to their program and term. The contract is a legally binding document that details your responsibilities as an IP student, so make sure you read it carefully and have consulted your family, healthcare providers, academic and financial aid advisors, etc. before signing. Once you have signed a contract, if you need to withdraw for any reason in the future, financial penalties as detailed in the contract apply. Students who have signed a contract should begin preparing to go abroad. Information on preparation is available here."
+    },
+    {
+        "Question": "Do Pepperdine's international programs have Monday-Friday classes?",
+        "Expected Response": "The programs in Buenos Aires and D.C. have classes 5 days per week. The European campus programs may have classes 4 or 5 days per week."
+    },
+    {
+        "Question": "From where do the programs depart?",
+        "Expected Response": "Students in most programs* can request their preferred departure location when booking their flight. Students are required to book flights through Pepperdine's travel partner, Corniche Travel. Detailed instructions on flight booking will be provided to students as part of their preparation process. *Some Faculty-led programs require students to join a group flight departing from and returning to Los Angeles International Airport (LAX). Review our flight policies here."
+    },
+    {
+        "Question": "Can I arrange my own travel to the program?",
+        "Expected Response": "No. When signing a contract, a student agrees to the flight policies, which require them to book through Pepperdine's travel partner, Corniche Travel. Booking with Corniche provides students with a variety of benefits, including:"
+    },
+    {
+        "Question": "What opportunities are there for travel?",
+        "Expected Response": "Traveling to selected destinations will definitely be a part of your educational experience. However, these are serious academic programs and your studies must come first. Also, don't overlook exploring and learning about the city and country in which your program is located by visiting only distant places. There is an educational field trip in both the fall and spring terms of each academic year program. Be sure to review our flight policies here."
+    },
+    {
+        "Question": "I'm going overseas for a year. What do I do over the winter break?",
+        "Expected Response": "Pepperdine campuses close at the end of the fall term and re-open at the beginning of the spring term. Students cannot stay on campuses during winter break. Students living in a homestay may inquire about accommodations with their host family but it is not guaranteed. Students studying abroad for the full academic year may leave their belongings in their rooms during the winter break, but they will not be able to access them until the campus reopens."
+    },
+    {
+        "Question": "Is there any support for returning students who are struggling with being back in Malibu?",
+        "Expected Response": "Yes! We have the Landed chapel series for students returning for the spring semester. Together we meet to process the transition of returning from abroad and to help evaluate how we have changed from our experiences. We also have Landed events in the fall for students returning from the spring semester or academic year."
+    },
+    {
+        "Question": "How can I get involved after returning from my program?",
+        "Expected Response": "We love having program alumni participate back in Malibu! In the beginning of the year we have our annual event, The Return! Join us as we celebrate your time abroad and share all your adventures with the new freshmen class. We also partner with alumni for all our events and orientations. If you are interested in sharing about your time abroad, please reach out to the program ambassador."
+    },
+    {
+        "Question": "What are the withdrawal fees if I decide to break my contract?",
+        "Expected Response": "It depends on the term for which you signed your contract, and the date that you withdraw. The withdrawal fees can be found in your contract, as well as below: If you are considering withdrawing from your program, you must contact the International Programs Office in order complete a withdrawal form. Please contact us at 310.506.4230 or at international.programs@pepperdine.edu for more information."
+    },
+    {
+        "Question": "Do I need any vaccinations to study abroad?",
+        "Expected Response": "It is a student's responsibility to get information about vaccinations that are specific to their program. Sometimes vaccinations are required by a country and other times vaccinations are recommended. If you have any questions, you can call International SOS at (215) 942-8226. You can also find helpful information on the CDC website."
+    },
+    {
+        "Question": "Can I only study abroad sophomore year?",
+        "Expected Response": "No! Any Pepperdine student who meets the minimum admissions requirements and prerequisites can apply for any program that is currently accepting new applications. Our abroad locations offer many courses during the fall, spring, and summer terms so start planning with your academic advisor as early as possible to ensure your study abroad plans keep you on track to make progress toward graduation. Let's say you want to travel abroad your junior year or during a summer session: go for it! Don't you hear the bells of the Heidelberg church, don't you smell the buttery croissant calling your name?"
+    },
+    {
+        "Question": "If I didn't apply by the IP Priority Deadline, can I still apply?",
+        "Expected Response": "While some programs may stop accepting new applications after the priority deadline, many programs may still be accepting new applications, and students may apply and be admitted to programs on a rolling basis throughout the year. You can see a list of programs accepting new applications on the programs page. Apply as soon as you can to secure your spot."
+    },
+    {
+        "Question": "Do I travel on every weekend while abroad?",
+        "Expected Response": "Studying abroad is an invitation to learn more about your host county, culture, and its people. So feel free to travel all the time or none of the time, have adventures in your host country and see what you find. Do you travel every weekend now? No! Do you know how tired you would be if you travelled every weekend? Very! Consider what you would miss out on in the place you decided to study in the first place! Maybe you'll find some good gelato, maybe some friends, and *disclaimer for this wild thought* maybe yourself (Shhhh this is the best kept secret about studying abroad but I'll share it just with you)"
+    },
+    {
+        "Question": "Should I get a smartphone that works abroad?",
+        "Expected Response": "Yes. Students are required to have a smartphone with an international calling and data plan in order to take advantage of all International SOS applications and to be able to reach someone in cases of emergency. Campus-based program locations will provide suggestions and support on how to secure a local phone and sim card once students arrive to the program location. Please visit our technology abroad page for further information."
+    },
+    {
+        "Question": "What is the Tyler Campus Center and where is it?",
+        "Expected Response": "Tyler Campus Center is the focal point for undergraduate social life and cocurricular activity. Students, visitors, and staff can be found throughout the day at the bookstore and the various dining facilities. Numerous patio seating areas are available for outdoor dining and socializing. The Light House, the Hub for Spiritual Life, the offices of Seaver College's International Programs, and Student Affairs departments are in TCC. Access 2nd floor from Joslyn Plaza adjacent to Rockwell Academic Center and fountain; 1st floor access from Adamson Plaza north end, downstairs from Joslyn; or from Amphitheatre area/Adamson Plaza south end; or from patio areas."
+    },
+    {
+        "Question": "What is the Pendleton Learning Center (PLC) and where is it?",
+        "Expected Response": "Pendleton Learning Center houses separate study rooms for Payson Library, classrooms, and offices, and one of Seaver College's largest lecture halls."
+    },
+    {
+        "Question": "What is the Thornton Administrative Center and where is it?",
+        "Expected Response": "Thornton Administrative Center houses University administrative offices, admissions, fundraising offices, numerous conference and meeting rooms, and the dean's office of Seaver College; also contains historical displays of founder George Pepperdine and college namesake Blanche Seaver. It is the first building visitors encounter after entering through the main gate. Visitor parking in small lot in front of the building by the flagpoles, in the visitors' lot (token required) behind TAC (taking the right fork), and on adjacent streets, Seaver Drive and Banowsky Blvd. Access via front lot, or via bridge to third floor from visitor's lot."
+    },
+    {
+        "Question": "What is the Rockwell Academic Center and where is it?",
+        "Expected Response": "Rockwell Academic Center houses classrooms, laboratories, and faculty offices for the Natural Science Division."
+    },
+    {
+        "Question": "What is the Keck Science Center and where is it?",
+        "Expected Response": "The Keck Science Center houses the Natural Science Division; contains classrooms, laboratories, and faculty offices. Access via service road at the top of stairway leading to Firestone Fieldhouse; internal connecting access through Appleby Center (to KSC 4th floor) and Rockwell Academic Center (to KSC 3rd floor)."
+    },
+    {
+        "Question": "What is the Appleby Center and where is it?",
+        "Expected Response": "Appleby Center houses the offices for the Social Science Division and the Religion Division; contains classrooms and faculty offices. Access via Seaver Main Parking Lot level, adjacent to Weisman Museum; also internal connecting access through Rockwell Academic Center, and Keck Science Center."
+    },
+    {
+        "Question": "What is the Elkins Auditorium and where is it?",
+        "Expected Response": "The University's largest lecture hall on the Seaver campus; located at the north side of Joslyn Plaza. Access via Joslyn Plaza, adjacent to Rockwell Academic Center and the Black Family Plaza Classrooms and the fountain; internal connecting access via Plaza Classrooms and Rockwell Academic Center."
+    },
+    {
+        "Question": "What is the Cultural Arts Center and where is it?",
+        "Expected Response": "Home of the Fine Arts Division and the Humanities and Teacher Preparation Division offices; contains classrooms, faculty offices, art studios, and smaller performance venues. Access via Seaver Main Parking Lot level via walkway alongside Weisman Museum and Smothers Theatre; internal connecting access to Smothers Theatre."
+    },
+    {
+        "Question": "What is Smothers Theatre and where is it?",
+        "Expected Response": "Smothers Theatre is the primary performance space of the Center for the Arts. It is also the only professional performing arts center in the City of Malibu; its yearlong schedule performances include student theatrical productions and musical performances, as well as national tours of major performers; also contains the business and box offices of the Center for the Arts. Access from Main Seaver Parking Lot; internal connecting access through Ahmanson Music Building and Cultural Arts Center."
+    },
+    {
+        "Question": "What is Firestone Fieldhouse and where is it?",
+        "Expected Response": "The primary athletic facility on the Malibu campus, home to the award-winning Waves basketball and volleyball teams; serves as the largest indoor assembly venue on campus (seats 5,000); used Wednesday mornings for regular chapel meetings during the school term; the Weight Center is located in the basement; athletics department offices are located on the second floor. Access via John Tyler Drive; unrestricted adjacent parking lot located south of the building. Pedestrian access via stairs (200+) from Joslyn Plaza (using KSC elevator between service road and plaza levels will eliminate some stairs)."
+    },
+    {
+        "Question": "What is the Center for Communication and Business and where is it?",
+        "Expected Response": "The Center for Communication and Business houses the two academic divisions for which it is named; contains classrooms and offices, as well as the University's live-feed broadcast studio, and Pepperdine's own TV station, NewsWaves, which is broadcast to over 13,000 people in the Malibu and Calabasas area; also contains headquarters for the Department of Public Safety. Access via Seaver Drive. Restricted parking in CCB Parking Lot--card key only."
+    },
+    {
+        "Question": "What is Payson Library and where is it? ",
+        "Expected Response": "Payson Library is the primary library facility on the Malibu campus and is the headquarters of the Pepperdine Libraries serving students both online and at all of the University's remote campuses; contains book stacks, periodicals, audio/visual materials, special collections, University archives, reading areas, study carrels, computer labs, group study areas, photocopiers, and library offices, as well as the Kresge Reading Room."
+    },
+    {
+        "Question": "What is Stauffer Chapel and where is it? ",
+        "Expected Response": "Stauffer Chapel provides a focal point for worship, prayer, and meditation on the Seaver Campus; the chapel is also used as a space for meetings, lectures, musical performances, and other special events. Access via the Chapel Parking Lot (card key access only), and stairways and paved walkways from Banowsky Blvd.; located at the foot of the stairs leading down from the Amphitheatre; also access via the service road below Tyler Campus Center."
+    },
+    {
+        "Question": "How can I apply to speak at the ceremony?",
+        "Expected Response": "Graduated seniors of 2024 may apply to speak at commencement. Two student participants are needed for each graduation: 1) Graduation Speaker; 2) Graduate to lead the Pledge of Allegiance. For additional information, please visit the Senior Speaker page."
+    },
+    {
+        "Question": "Will the ceremony be broadcast for those unable to attend?",
+        "Expected Response": "Yes, for those who cannot join us in Malibu, all in-person activities will be broadcast online, live, and on-demand for future viewing. The link will be available on the commencement website. Livestreams will begin 15 minutes prior to the start of each commencement ceremony."
+    },
+    {
+        "Question": "Do I need to attend the in-person commencement ceremony at Alumni Park to have my degree conferred?",
+        "Expected Response": "No, graduates do not need to attend to have their degree conferred. Diplomas will be mailed to you at the diploma address on file approximately 120 days after you graduate. Make sure you have a valid mailing address recorded with OneStop to ensure you receive your diploma. If you would like to pick up your diploma instead of having it mailed to you, please contact OneStop."
+    },
+    {
+        "Question": "Will there be accessible parking and shuttles?",
+        "Expected Response": "Graduation event parking is available on campus on a first-come, first-serve basis. A designated parking area in the Firestone Fieldhouse parking lot (parking lot P) will be available for guests with accessibility needs. Follow the directions of traffic control staff. Carpooling is recommended due to possible traffic delays and limited availability of parking. Shuttles will be in service, available at any marked campus shuttle stop. For more information, see the Parking and Shuttle Information page."
+    },
+    {
+        "Question": "Do I need to order or reserve regalia?",
+        "Expected Response": "Graduates attending the ceremony in person can reserve graduation regalia online on Herff Jones' website. In-person assistance is available during Graduation Kickoff, held on the Malibu campus at the bookstore on Tuesday, February 13 and Wednesday, February 14 from 10am-4pm."
+    },
+    {
+        "Question": "How do graduates get honor cords?",
+        "Expected Response": "Honor cords are only given to undergraduate students who have a minimum 3.5 GPA. You will be contacted by your school's commencement coordinator or academic advisor during the spring semester if you are eligible to receive one. They are free of charge."
+    },
+    {
+        "Question": "Where do I pick up my honor cord?",
+        "Expected Response": "Honor cords will be available for pickup prior to your commencement at the Graduate Check-In area. Honors students are asked to arrive at Alumni Park at 9am on the morning of the ceremony."
+    },
+    {
+        "Question": "When will I get my diploma?",
+        "Expected Response": "Diplomas will be mailed to you at the diploma address on file approximately 120 days after degrees are conferred on April 27. Make sure you have a valid mailing address recorded with OneStop to ensure you receive your diploma. If you would like to pick up your diploma instead of having it mailed to you, please contact OneStop."
+    },
+    {
+        "Question": "What if I have pending financial obligations?",
+        "Expected Response": "It is important to clear all financial obligations with the Library, the Student Health Center, the Student Accounts Office, and the Financial Aid Office prior to graduation. For Student Accounts information, call 310.506.8000. If you have borrowed a Federal Direct Stafford, Federal Perkins, or Pepperdine Institutional loan at any time while at Pepperdine, please complete an online Loan Exit Counseling session prior to graduation. For additional information, visit the Federal Direct Loan Exit Counseling Information web page."
+    },
+    {
+        "Question": "Can I rent regalia on the day of my commencement ceremony?",
+        "Expected Response": "A limited amount of regalia will be available at Alumni Park on the day of your ceremony; however, to avoid waiting in possibly long lines, we strongly recommend picking up your regalia at Grad Fest on the Malibu Campus at Mullin Town Square."
+    },
+    {
+        "Question": "Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park?",
+        "Expected Response": "Seaver College's Commencement Ceremony, held at Alumni Park, is open to all guests of graduating students. In the unlikely event that the weather requires us to hold the ceremony somewhere other than Alumni Park, this may change. We recommend checking back to the Seaver graduation webpage frequently."
+    },
+    {
+        "Question": "How do I apply for graduation? ",
+        "Expected Response": "Log in to WaveNet: Navigate to the \"Other Academic\" drop-down menu, select \"Apply for Graduation,\" and submit your intent. Verify Your Major and Ceremony Attendance: In the graduation area, confirm your major and indicate if you plan to attend the ceremony by checking the appropriate box. Select Diploma Mailing Address and Update Name: For diploma name changes, go to the \"Names\" link in the Personal Information section and add your desired name with the \"Diploma\" type. To update your diploma mailing address, go to the \"Addresses\" link in the Personal Information drop-down, add the new address, save it, and select it as the \"Diploma\" address type. Consult Your Academic Advisor: Contact your Academic Advising Associate with any questions about meeting graduation requirements. Monitor Your Pepperdine Email: Regularly check your Pepperdine email for important updates regarding your graduation. This will be the primary communication channel from the graduation office."
+    },
+    {
+        "Question": "What is the equivalent of ENG 101 at Santa Monica College?",
+        "Expected Response": "ENGL 1"
+    },
+    {
+        "Question": "What is the equivalent of HUM 111 at Santa Monica College?",
+        "Expected Response": "HIST 1 OR HIST 33"
+    },
+    {
+        "Question": "What is the equivalent of HUM 212 at Santa Monica College?",
+        "Expected Response": "HIST 2 OR HIST 34"
+    },
+    {
+        "Question": "What is the equivalent of POSC 104 at Santa Monica College?",
+        "Expected Response": "POL SC 1"
+    },
+    {
+        "Question": "What is the equivalent of HIST 204 at Santa Monica College?",
+        "Expected Response": "HIST 11 AND 12"
+    },
+    {
+        "Question": "What is the equivalent of ECON 200 at Santa Monica College?",
+        "Expected Response": "ECON 1 OR 2"
+    },
+    {
+        "Question": "What is the equivalent of PSYC 200 at Santa Monica College?",
+        "Expected Response": "PSYCH 1"
+    },
+    {
+        "Question": "What is the equivalent of SOC 200 at Santa Monica College?",
+        "Expected Response": "SOCIOL 1"
+    },
+    {
+        "Question": "What is the equivalent of the foreign language requirement at Santa Monica College?",
+        "Expected Response": "One course is Equivalent to third semester college level, selected from the following: Placement is based on competency testing or prior college classes. CHINESE 3, FRENCH 3, GERMAN 3, HEBREW 3, ITAL 3, JAPANESE 3, KOREAN 3, SPANISH 3"
+    },
+    {
+        "Question": "What is the equivalent of the lab science requirement at Santa Monica College?",
+        "Expected Response": "ANATMY 1; ASTRON 3,4; BIOL 3, 4, 15, 21; BOTANY 1; CHEM 10, 11, 12; GEOL 4, 5; MCRBIO 1; PHYSCS 14, 21; ZOOL 5"
+    },
+    {
+        "Question": "What is the equivalent of ENG 101 at Orange Coast College?",
+        "Expected Response": "ENGL1 A100"
+    },
+    {
+        "Question": "What is the equivalent of HUM 111 at Orange Coast College?",
+        "Expected Response": "HIST A180 or HIST A180H"
+    },
+    {
+        "Question": "What is the equivalent of HUM 212 at Orange Coast College?",
+        "Expected Response": "HIST A185 or HIST A185H"
+    },
+    {
+        "Question": "What is the equivalent of POSC 104 at Orange Coast College?",
+        "Expected Response": "PSCI A180 or A180H"
+    },
+    {
+        "Question": "What is the equivalent of HIST 204 at Orange Coast College?",
+        "Expected Response": "HIST A170 and A175"
+    },
+    {
+        "Question": "What is the equivalent of ECON 200 at Orange Coast College?",
+        "Expected Response": "ECON A170, A170H, A175, or A175H"
+    },
+    {
+        "Question": "What is the equivalent of PSYC 200 at Orange Coast College?",
+        "Expected Response": "PSYC A100 or A100H"
+    },
+    {
+        "Question": "What is the equivalent of SOC 200 at Orange Coast College?",
+        "Expected Response": "SOC A100 or A100H"
+    },
+    {
+        "Question": "What is the equivalent of the foreign language requirement at Orange Coast College?",
+        "Expected Response": "FREN A280 ITAL A280 JPNS A280 SPAN A280"
+    },
+    {
+        "Question": "What is the equivalent of the lab science requirement at Orange Coast College?",
+        "Expected Response": "ASTR A100/A100H & A100L; BIOL A100, A180, A182 &A182L, A183 & A183L, A220, A221, A225; CHEM A110, A130, A180; GEOL A105 & A105L; MR SC A100/100H & A100L, A180 &A180L, A185 &A185L; PHYS A110 & A111, A120, A130, A185"
+    },
+    {
+        "Question": "What is the equivalent of ENG 101 at Moorpark College?",
+        "Expected Response": "ENGL M01A, M01AH"
+    },
+    {
+        "Question": "What is the equivalent of HUM 111 at Moorpark College?",
+        "Expected Response": "HIST M170 or HUM M10A"
+    },
+    {
+        "Question": "What is the equivalent of HUM 212 at Moorpark College?",
+        "Expected Response": "HIST M180 or HUM M01B"
+    },
+    {
+        "Question": "What is the equivalent of POSC 104 at Moorpark College?",
+        "Expected Response": "POLS M03 or M03H"
+    },
+    {
+        "Question": "What is the equivalent of HIST 204 at Moorpark College?",
+        "Expected Response": "HIST M130 AND M140"
+    },
+    {
+        "Question": "What is the equivalent of ECON 200 at Moorpark College?",
+        "Expected Response": "ECON M201, M202 or M202H"
+    },
+    {
+        "Question": "What is the equivalent of PSYC 200 at Moorpark College?",
+        "Expected Response": "PSY M01 or M01H"
+    },
+    {
+        "Question": "What is the equivalent of SOC 200 at Moorpark College?",
+        "Expected Response": "SOC M01 or M01H"
+    },
+    {
+        "Question": "What is the equivalent of the foreign language requirement at Moorpark College?",
+        "Expected Response": "SPAN M03"
+    },
+    {
+        "Question": "What is the equivalent of the lab science requirement at Moorpark College?",
+        "Expected Response": "ANAT M01; ANTH M01/M01H & M01L; AST M01 & M01L; BIOL M01, M02A, M02AH, M02B, M02C, M03, M05; BOT M01, M06; CHEM M01A, M01AH, M01B, M07A, M07B, M11, M13; ENSC M01 & M01L, M02; GEOG M01 & M01L; GEOL M02 (H) & M02L, M03 & M03L, M04, M121; MICR M01; PHYS M01 & M01L, M10A &M10AL, M10B & M10BL, M20A & M20AL, M20B & M20BL; PHSC M01 & MO1L; ZOO M01"
+    }
+]

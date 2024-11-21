@@ -42,7 +42,7 @@ model_name = "meta-llama/Llama-3.1-8B"
 lora_config = LoraConfig(
     r=8,  # Low-rank matrix rank (you can adjust this)
     lora_alpha=32,  # Scaling factor for LoRA matrices
-    lora_dropout=0.1,  # Dropout for LoRA layers
+    lora_dropout=0.05,  # Dropout for LoRA layers
     target_modules=["q_proj", "v_proj"],  # Define which layers should be adapted (query and value projections in transformers)
     bias="none"  # Typically no bias for LoRA modules
 )
