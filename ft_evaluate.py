@@ -14,14 +14,14 @@ from langchain.llms import HuggingFacePipeline
 from transformers import pipeline
 
 fine_tuned_model_path = "./fine_tuned_model"
-fine_tuned_model = AutoModelForCausalLM.from_pretrained(fine_tuned_model_path)
+fine_tuned_model = AutoModelForCausalLM.from_pretrained(fine_tuned_model_path).to('cuda')
 fine_tuned_tokenizer = AutoTokenizer.from_pretrained(fine_tuned_model_path)
 
 llm_pipeline = pipeline("text-generation", model=fine_tuned_model, tokenizer=fine_tuned_tokenizer)
 llm = HuggingFacePipeline(pipeline=llm_pipeline)
 
 def query_model(question: str):
-    inputs = fine_tuned_tokenizer(question, return_tensors="pt")
+    inputs = fine_tuned_tokenizer(question, return_tensors="pt").to('cuda')
     with torch.no_grad():
         outputs = fine_tuned_model.generate(**inputs, max_length=100)
     response = fine_tuned_tokenizer.decode(outputs[0], skip_special_tokens=True)
@@ -34,7 +34,7 @@ def evaluate_similarity(response: str, reference: str):
     similarity = util.pytorch_cos_sim(response_embedding, reference_embedding).item()
     return similarity
 
-with open("questions.json", "r") as f:
+with open("Similarity_Test_sets/full_similarity_contextual.json", "r") as f:
     test_questions = json.load(f)
 
 scores = []
@@ -44,8 +44,8 @@ output_filename = f"fine_tuned_evaluation_{timestamp}.txt"
 
 with open(output_filename, "w") as output_file:
     for test_item in test_questions:
-        question = test_item["question"]
-        ideal_response = test_item["ideal_response"]
+        question = test_item["Question"]
+        ideal_response = test_item["Expected Response"]
         model_response = query_model(question)
         similarity_score = evaluate_similarity(model_response, ideal_response)
         scores.append(similarity_score)

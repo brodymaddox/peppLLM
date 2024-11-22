@@ -20,7 +20,7 @@ class TextDataset(Dataset):
             'attention_mask': self.encodings['attention_mask'][idx]
         }
 
-pdf_directory = "./documents"
+pdf_directory = "./Contextual_Docs"
 pdf_texts = []
 
 for pdf_file in os.listdir(pdf_directory):

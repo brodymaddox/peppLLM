@@ -16,7 +16,7 @@ from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 
-loader = DirectoryLoader("./documents", loader_cls=PyPDFLoader)
+loader = DirectoryLoader("./Contextual_Docs", loader_cls=PyPDFLoader)
 raw_documents = loader.load()
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
@@ -58,7 +58,7 @@ def evaluate_similarity(response: str, reference: str):
     similarity = util.pytorch_cos_sim(response_embedding, reference_embedding).item()
     return similarity
 
-with open("questions.json", "r") as f:
+with open("Similarity_Test_sets/full_similarity_contextual.json", "r") as f:
     test_questions = json.load(f)
 
 scores = []
@@ -68,8 +68,8 @@ output_filename = f"rag_system_evaluation_{timestamp}.txt"
 
 with open(output_filename, "w") as output_file:
     for test_item in test_questions:
-        question = test_item["question"]
-        ideal_response = test_item["ideal_response"]
+        question = test_item["Question"]
+        ideal_response = test_item["Expected Response"]
         model_response = retrieval_qa.invoke({'input': question}, config={'max_new_tokens':50})['answer']
         similarity_score = evaluate_similarity(model_response, ideal_response)
         scores.append(similarity_score)
