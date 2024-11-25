@@ -1,0 +1,418 @@
+[
+  {
+    "Question": "How do I add a class by number?\n\nA. Go to the \"Class Registration\" section, enter the catalog number, and click \"Add Class.\"\nB. Click the \"Class Search\" link under the Shopping Cart, enter the class number in the \"Enter Class Nbr.\" box, and click \"Enter.\" Then, click \"Next\" to add the class to your cart. Once all classes are selected, click \"Add/Submit/Edit,\" validate, and enroll by clicking \"Finish Enrolling.\"\nC. Search for the course by title and click \"Add to Cart\" from the search results.\nD. Click the \"Course Registration\" link, enter the course code, and automatically add it to your schedule without needing to validate.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I add a class by search?\n\nA. Enter the class number in the \"Add Class\" section and click \"Submit.\"\nB. Click the \"Class Search\" link under the Shopping Cart, enter search criteria by Subject or course number, and click \"Search.\" Select the class you wish to add, click \"Next\" to add it to your shopping cart, and then proceed to enroll by clicking \"Finish Enrolling.\"\nC. Use the \"Quick Add\" feature by entering the course name and automatically adding it to your schedule.\nD. Search for courses by department and manually add them to your cart from the course catalog without validating.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I drop a class?\n\nA. In the Home view, select a term, and click the \"Drop All Classes\" button.\nC. In the Home view, select a term, click the \"Drop\" button, then select the classes you wish to drop by checking the boxes next to them. Click \"Drop Selected Classes,\" review your selections, and click \"Finish Dropping\" to complete the process.\nB. Go to the \"Course Registration\" section, find the class you want to drop, and click \"Remove.\"\nD. In the Student Center, select the class and click \"Remove from Schedule\" directly from the class list.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How do I view my finances on my student account?\n\nA. Log in to WaveNet, click on the \"Student\" tab, then click the \"Finances\" icon. The next page will display all your financial services. To check account activity, scroll down to \"Account Activity\" and adjust the date range or select a term to view activity.\nB. Log in to WaveNet and go to the \"Financial Aid\" section to view your account balance.\nC. Click on the \"Student Services\" tab and select \"View Finances\" to access your account activity.\nD. Go to the \"Account Settings\" section in WaveNet and select \"Financial Overview\" to view your financial history.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I view my financial aid? \n\nA. Log in to WaveNet, click on the \"Student\" tab, then click the \"Finances\" icon. Select \"View Financial Aid Status\" and choose the aid year to see your awards summary. If needed, use the \"Accept/Decline Awards\" button to manage your awards.\nB. Log in to WaveNet and go to the \"Financial Aid\" section to directly view your aid status without selecting an academic year.\nC. Go to the \"Student Services\" tab and click on \"View Financial Aid\" to access your awards summary and accept or decline them.\nD. Navigate to the \"Account Settings\" and select \"Financial Aid Overview\" to review your awards and manage acceptance.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I make a payment?\n\nA. Log in to WaveNet, click on the \"Student\" tab, access \"Finances,\" and select \"View Account Summary.\" Then click \"Make a Payment\" and follow the on-screen instructions to complete your payment.\nB. Log in to WaveNet, click on the \"Student\" tab, then select \"Make a Payment\" directly from the home page. Follow the instructions to complete the payment.\nC. In WaveNet, go to the \"Student Services\" tab, click \"Financial Aid,\" and make a payment directly from there.\nD. Log in to WaveNet, go to \"Student Account Settings,\" and select \"Payment Options\" to complete the transaction.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I enroll in e Refund?\n\nHow do I enroll in eRefund in WaveNet?\n\nA. Log in to WaveNet, click on the \"Student\" tab, access \"Finances,\" and scroll to \"Account Summary.\" Click the \"eRefund Account\" link, then follow the on-screen instructions to complete the setup and enable direct deposit for refunds.\nB. Log in to WaveNet, go to the \"Financial Aid\" tab, and select the \"eRefund\" option to enter your bank details for direct deposit.\nC. From the home page, click on the \"Payment Settings\" tab, enable eRefund, and provide your bank account details for receiving refunds.\nD. Log in to WaveNet, click the \"eRefund\" link in the \"Student Services\" tab, and follow the instructions to set up your refund preference.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I access my degree progress?\n\nA. Log in to WaveNet, select the \"Academics\" icon, click the \"Degree Audit Report\" link, and then click the button in the pop-up to view your Degree Audit Report.\nB. Go to the \"Student Services\" tab, click on \"Degree Progress,\" and select the \"View Degree Report\" option.\nC. Log in to WaveNet, go to the \"Financial Aid\" tab, and select \"Degree Progress\" to view your report.\nD. From the \"Student\" tab, click on \"My Classes\" and then \"Degree Requirements\" to view your audit.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I check my grades? \n\nA. Log in to WaveNet, select the \"Academics\" icon, scroll down to view your most recent academic year, and use the \"Change Term\" option to select a new term if needed.\nB. Go to the \"Student Services\" tab and select \"My Grades\" to view your academic progress.\nC. Click on the \"Course Registration\" tab to see your current and past grades.\nD. Select the \"Academics\" icon, scroll down to view the academic years, and select the term you want to view. On mobile, use the arrows to switch terms.",
+    "Expected Response": "D"
+  },
+  {
+    "Question": "How do I view my class schedule?\n\nA. On the Home page, click the \"Weekly Schedule\" link under the Enrolled Courses section. To view detailed information, click \"Weekly Schedule\" and use the \"Open Calendar\" icon to navigate through weeks or months ahead.\nB. Go to the \"Student Services\" tab, select \"My Classes,\" and choose the \"Class Schedule\" option.\nC. Select the \"Class Registration\" tab, then click on \"Schedule Overview\" to view your class schedule.\nD. From the \"Academics\" tab, select \"Course List\" and view your schedule for the current term.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I view registration and account holds?\n\nA. Go to the \"Student Services\" tab, select \"Account Holds\" to view any restrictions or holds on your account.\nB. In the Home view of the student center, look for the \"Holds\" box, which will display any holds such as Transcript or Financial Aid holds. Click the link(s) to view details.\nC. Click on the \"Academics\" tab and select \"Registration Holds\" to see if there are any holds affecting your registration.\nD. Navigate to the \"Finances\" section and select \"View Holds\" to check if there are any financial restrictions on your account.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I view or contact my advisor?\n\nA. On the Home page, click the \"Advising\" icon to view the \"My Advising Network\" section. You can contact your advisor by clicking the email link at the bottom of their profile.\nB. Go to the \"Student Services\" tab and select \"Advising\" to view your advisor's contact information.\nC. Select \"Academics,\" then \"Advisor Information,\" and use the \"Contact Advisor\" button to send an email.\nD. From the \"Financial Aid\" tab, select \"Advising Network\" to find your advisor\u2019s contact details.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I add a class by number on mobile?\n\nA. From the Student Center, select \"Add Class by Number,\" enter the catalog number, and then click \"Add\" to confirm the class.\nB. From the Student Center, scroll down to select the \"Enrollment Shopping Cart\" link, choose the term, enter the class number (not the catalog number), and click \"Next\" to add the class to your shopping cart.\nC. Go to the \"My Classes\" tab, enter the class number, and automatically add it to your schedule.\nD. Navigate to the \"Course Registration\" section, input the course name, and select \"Add to Cart\" to enroll.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I add a class by search on mobile?\n\nA. From the Student Center, select \"Add Class by Search,\" enter the class number, and click \"Enroll\" to complete registration.\nB. From the Student Center, scroll down to \"Enrollment Shopping Cart,\" select the \"Search\" button, enter search terms, choose your class from the results, and click \"Next\" to add the class to your shopping cart.\nC. From the Student Center, select \"Class Search,\" enter the class number, and automatically add it to your shopping cart.\nD. In the Student Center, go to the \"My Classes\" section, search for your class by name, and add it to your schedule directly.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I drop a class on mobile?\n\nA. From the Academics Tab, select a term, and click on the \"Drop Classes\" button next to the class you wish to remove.\nB. From the Academics Tab, select the term, then use the \"Menu\" button on the right to choose \"Drop.\" Select the classes you wish to drop, then click \"Finish Dropping\" to finalize the action.\nC. Go to the \"Course Registration\" tab, find the class you want to drop, and click \"Remove from Schedule\" directly.\nD. From the \"My Classes\" section, select \"Drop All Classes,\" and confirm your choice to remove all classes from your schedule.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I invite a guest on wavenet?\n\nA. Log in to WaveNet, go to the Student Center homepage, click \"Manage Guest Access\" under \"Popular Links,\" select \"Add Guest Access,\" enter the guest\u2019s email, set the permissions, and click \"Invite Guest.\"\nB. Go to the \"Student Services\" tab, select \"Guest Invitations,\" and email the invitation directly to the guest.\nC. From the \"Academics\" tab, click \"Guest Access,\" and select the \"Send Invitation\" option.\nD. Navigate to the \"Financial Aid\" section, click \"Invite Guest,\" and provide the guest\u2019s email address.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How does a invited Wavenet guest receive their invitation?\n\nA. The student sends a physical invitation that includes the guest's account credentials.\nB. The guest receives a phone call with a link to set up their account.\nC. The guest receives an email invitation with a link to the Guest Access Account Creation page, where they can begin the account setup process.\nD. The student must give the guest a unique access code to enter directly into WaveNet.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How does an invited Wavenet guest create their account?\n\nA. The guest logs into WaveNet using the link in the invitation email and enters their personal information to set up their account.\nB. The guest will be prompted to create a username and password in the email and log in directly to WaveNet.\nC. After clicking the link in the invitation email, the guest fills out the required fields on the Guest Access Account Creation form, selects a \"Guest Security Question,\" and clicks \"Submit.\" An email confirmation will be sent upon successful account creation.\nD. The guest must provide their email address and then wait for a physical letter containing their login details.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How does a Wavenet guest use the guest access center?\n\nA. After creating an account, the guest logs into WaveNet, selects the \"Student Services\" tab, and accesses the \"Guest Access\" section.\nB. Once the guest has created an account, they log into WaveNet, click the \"Guest Access Center\" link under the \"Guest\" tab, and navigate the available options based on the permissions set by the student, such as viewing schedules or financial aid.\nC. The guest must wait for an email with a link to the Guest Access Center after logging in.\nD. The guest logs into WaveNet, goes to the \"Guest Access\" tab, and can directly make payments or access course schedules.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What should a Wavenet guest do if they have forgotten their login information?\n\nA. Reset the password through the \"Forgot Password\" link on the login page.\nB. Contact Tech Central at 310.506.4357 (HELP) for assistance.\nC. Create a new guest account with a different email address.\nD. Email the student who invited them to reset their login credentials.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "Can I change the access the guest has to certain features on Wavenet?\n\nA. Yes, once a guest account is created, the student can update the guest\u2019s access at any time by adding or removing access to different features.\nB. No, the student must contact Tech Central to request any changes to the guest\u2019s access.\nC. Yes, but the guest must request any changes to their access from the student.\nD. No, access to features cannot be changed after the guest account is created.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I help mutiple students as a guest?\n\nA. The guest can only assist one student at a time and must log out to help another.\nB. The guest can contact Tech Central to request access to multiple student accounts.\nC. The guest may click the \"Select Another Student\" link at the bottom of the current student\u2019s Guest Access summary to switch to another student.\nD. The guest must create a separate account for each student they wish to assist.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How do I edit guest access permisions?\n\nA. The student must contact Tech Central to request any changes to the guest\u2019s permissions.\nB. The student logs into WaveNet, clicks \"Manage Guest Access\" under \"Popular Links,\" selects \"Edit\" next to the guest\u2019s name, modifies the permissions, and clicks \"Save\" when finished.\nC. The student sends an email to the guest with updated permissions.\nD. The student can only edit guest access permissions through the \"Student Services\" tab under \"Guest Permissions.\"",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "Do I have to remove guest access when I graduate?\n\nA. No, the guest access feature in WaveNet will be automatically revoked when you graduate, but your information sharing preferences will remain unless you edit them before graduation.\nB. Yes, you must manually remove guest access after graduation to ensure no further access.\nC. No, guest access remains unchanged after graduation, and guests will continue to have full access to your information.\nD. Yes, the system requires you to contact Tech Central to remove guest access after graduation.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Explain the steps of the class registration process. \n\nA. Review your degree audit report (DAR), build a course schedule, select alternate course options, clear any registration holds, add/drop classes during the registration period, and view your new schedule.\nB. Complete the application for graduation, clear any holds, and view your course schedule.\nC. Build a course schedule, select courses from the catalog, and register without reviewing your degree audit report (DAR).\nD. Review your grades from the previous semester, choose alternate courses, and automatically enroll in courses without adding any holds.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I use the Wavenet wishlist?\n\nA. Log in to WaveNet, click on \"Student Services,\" then select \"Wishlist.\" Pick the appropriate term and search for classes. Add selected classes to your wishlist, and when your registration time comes, you can select classes from the wishlist to register.\nB. Log in to WaveNet, go to the \"My Classes\" section, and directly add classes to your wishlist by entering their course numbers.\nC. Use the \"Course Catalog\" to select courses and automatically add them to your wishlist, ensuring your registration is completed automatically.\nD. Log in to WaveNet, click \"Student Services,\" choose \"Wishlist,\" select the term, search for classes, and add them to your wishlist. At registration time, you can choose from your wishlist, but you must complete the registration process at your appointed time.",
+    "Expected Response": "D"
+  },
+  {
+    "Question": "How do I view my DAR? \n\nA. Log in to WaveNet, go to the \"Student Services\" tab, and select the \"Degree Audit\" link in the Student Records area.\nB. Log in to WaveNet, click on \"My Classes,\" and select the \"View Degree Audit\" option from the dropdown menu.\nC. Log in to WaveNet, go to the \"Academics\" tab, and select \"Degree Progress\" to view your DAR.\nD. Log in to WaveNet, click on \"Student Services,\" and select \"Academic History\" to access your Degree Audit.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I become eligible for the Dean's List?\n\nA. Complete at least twelve letter-graded units, receive no grade below a \"C,\" have a GPA of at least 3.0, and be in the top 25 percent of the class.\nB. Complete at least twelve letter-graded units, receive no grade below a \"C,\" have no grades of \"I\" or \"NC,\" be in the top 10 percent of the class, and have a term GPA of at least 3.5.\nC. Complete at least eight units, receive no grades below \"B,\" and maintain a GPA of 3.0.\nD. Complete at least twelve units, have a GPA of at least 3.0, and receive no grades below \"B\" during the semester.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I document an incomplete?\n\nA. Students must email their instructor and academic advisor to request an incomplete and submit a form to the Divisional Dean for approval.\nB. The student must start the request in Etrieve by completing the Incomplete Course Agreement Form after discussing the situation with the instructor. The form is then routed through the Director of Academic Advising, the instructor, and the Divisional Dean for approval before being finalized in the student\u2019s file.\nC. The student must submit a request to the Dean\u2019s Office, who will then approve or deny the incomplete without further steps.\nD. Students must call their instructor to explain the situation and then complete a form to be sent directly to the Registrar for processing.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I request my transcript?\n\nA. Complete a Transcript Order Form and return it by mail with cash, check, or money order for $10.00 per copy.\nB. Order your transcript by completing the Transcript Order Form and mailing it to Pepperdine University with payment by cash, check, or money order. Alternatively, you can order online via the National Student Clearinghouse for $10.00 per copy.\nC. Contact the Registrar\u2019s Office by phone or email to request your transcript.\nD. Submit your transcript request through your WaveNet account with no charge or payment required.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What is the grade point scale? \n\nA. A = 4.0, A- = 3.5, B+ = 3.0, B = 2.5, C = 2.0, D = 1.0, F = 0.0\nB. A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0, B- = 2.7, C+ = 2.3, C = 2.0, C- = 1.7, D+ = 1.3, D = 1.0, D- = 0.7, F = 0.0\nC. A = 4.0, B = 3.0, C = 2.0, D = 1.0, F = 0.0\nD. A = 4.0, B = 3.5, C = 3.0, D = 2.0, F = 0.0",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What is the grade dispute process? \n\nA. The process starts by submitting a written appeal to the division dean with a copy to the instructor, followed by assembling relevant class materials. If unresolved, an ad hoc committee evaluates the case and the division dean makes the final decision.\nB. The student must first discuss the issue privately with the instructor. If the dispute is not resolved, the student submits a written appeal to the division dean, gathers relevant materials, and the instructor submits their documents. An ad hoc committee evaluates the case and the division dean makes the final decision.\nC. The student submits an online form to the Registrar\u2019s Office, and the grade dispute is resolved by the Associate Dean without the need for a committee.\nD. The student must directly appeal to the academic dean without involving the instructor or division dean, and a decision is made by the dean\u2019s office based on the student\u2019s case.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I apply to graduate?\n\nA. Log in to WaveNet, go to the \"Student Services\" tab, and select \"Apply for Graduation\" to submit your intent, verify your major, choose whether you plan to attend the ceremony, and update your diploma name and mailing address.\nB. Log in to WaveNet, select \"Other Academic\" from the drop-down menu, and click the \"Apply for Graduation\" link. Verify your major, select your diploma mailing address, update your name if necessary, and contact your Academic Advising Associate if you have any questions about remaining requirements.\nC. Log in to WaveNet, go to the \"Graduation\" tab, and submit your application for graduation, including diploma name and address updates.\nD. Navigate to the \"Student Services\" tab, click on \"Apply for Graduation,\" and email the Registrar\u2019s Office with your graduation request.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I get on campus housing as a first year student? \n\nA. First-year students are automatically assigned housing when they are admitted and do not need to submit a housing application.\nB. Newly admitted students for the 2024-2025 academic year follow a separate process. They should visit the first-year housing web page for more details and submit their housing application in June.\nC. Newly admitted first-year students must complete a housing application on WaveNet, select a roommate, and confirm housing by July 1.\nD. First-year students must wait until after the semester starts to apply for housing, and they will be placed based on availability.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I access the housing waitlist?\n\nA. Go to the Housing Portal > Academic Year Application > Application Status > Additional Steps > Waitlist. Students are welcome to sign up for one, some, or all waitlists that are available to them.\nB. After submitting the housing application, students are automatically placed on the waitlist if housing is unavailable.\nC. Access the Housing Portal, go to the \"Student Services\" tab, and sign up for the waitlist under the \"Housing Availability\" section.\nD. Go to the Housing Portal, select \"Academic Year Application,\" then click on \"Application Status\" and \"Waitlist\" to sign up for the waitlist.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I apply for a housing accomodation?\n\nA. Students must work with the Office of Student Accessibility (OSA) to register for a housing accommodation and renew it annually. Once approved, OSA and Housing and Residence Life (HRL) will work with the student to address the specifics of the accommodation.\nB. Students must complete a housing application form and submit it to Housing and Residence Life to request an accommodation.\nC. Students are automatically considered for housing accommodations upon applying for on-campus housing.\nD. Students must contact the Registrar\u2019s Office to apply for housing accommodations and submit medical documentation.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I sign up for a single room?\n\nA. Single rooms are available by default to all students and can be selected during the housing application process.\nB. Single-room options are only available at the Drescher Campus Apartments or through the disability accommodation process. Students may request an exemption through the \"Single Room Accommodation\" and \"Residency Exemption\" processes.\nC. Single rooms can be requested directly through the Housing and Residence Life (HRL) office without needing to go through any special process.\nD. Students who feel they need a single room accommodation can apply through the \"Single Room Accommodation\" and \"Residency Exemption\" processes.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I apply for summer housing?\n\nA. Summer housing applications are available on WaveNet and can be submitted through the \"Student Services\" tab.\nB. The Housing Portal opens for summer housing applications on March 20 at 9 AM. For more information, visit the Summer Housing webpage.\nC. Students can request summer housing directly by emailing the Housing Office to request an application form.\nD. Summer housing is assigned based on availability, and no application is needed.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I cancel my housing application? \n\nA. Email housing@pepperdine.edu and visit the Housing Portal to start the cancellation process. Cancellation fees may apply.\nB. Contact the Registrar\u2019s Office to cancel your housing application.\nC. Log into WaveNet and submit a cancellation request under \"Student Services.\"\nD. Call the Housing Office directly to request cancellation of your housing application.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I select a meal plan? Am I required to have a meal plan?\n\nA. Students can select a meal plan before being placed in housing. Meal plans are optional for all students.\nB. Meal plan requirements correspond with living areas and student classifications, so students cannot select a meal plan until they are officially placed in housing. Some students may be required to purchase a meal plan depending on their housing placement. Commuter students should email housing@pepperdine.edu for assistance with meal plan enrollment.\nC. Meal plans are only available to on-campus students and must be selected during the housing application process.\nD. Meal plans are automatically assigned based on your student classification, and you will not need to select one.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do parking permits work?\n\nA. Students must enter their vehicle information and purchase a parking permit through the parking portal. License Plate Recognition (LPR) cameras scan vehicles and issue citations if the vehicle is unregistered or parked incorrectly.\nB. Parking permits must be manually displayed on vehicles, and license plates are not scanned by the system.\nC. Parking permits are assigned by Parking Services and must be displayed on a windshield. Enforcement officers do not use scanning systems to check vehicles.\nD. Students must submit a parking permit request to Housing and Residence Life, and the system does not scan license plates.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What if I get a new license plate or new vehicle?\n\nA. You must update your license plate and vehicle information immediately in the parking portal to avoid a citation. Also, delete any old or unused vehicle listings from your account.\nB. You should contact Housing and Residence Life to update your vehicle information.\nC. You need to manually update your vehicle details with Parking Services but are not required to delete old vehicle listings.\nD. Simply display your new license plate on your vehicle and no further action is needed.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What if I have a personalized plate or special characters/symbols?\n\nA. You must update your license plate and vehicle information immediately in the parking portal to avoid a citation. Also, delete any old or unused vehicle listings from your account.\nB. You should contact Housing and Residence Life to update your vehicle information.\nC. You need to manually update your vehicle details with Parking Services but are not required to delete old vehicle listings.\nD. Simply display your new license plate on your vehicle and no further action is needed.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What do I need to do if I want to store my vehicle on campus? \n\nA. You must receive prior approval from the Department of Public Safety, register your vehicle, and display a valid parking permit. A Vehicle Storage form must be filled out and approved before leaving the vehicle on campus.\nB. Simply register your vehicle with Parking Services and leave it on campus without any further steps.\nC. Vehicles can be stored on campus without any approval, but they must have a valid parking permit.\nD. Contact Housing and Residence Life to request approval for vehicle storage on campus.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Where can I get an ID card?\n\nA. Students can get their ID cards at the Registrar\u2019s Office, and replacement IDs are available at the Housing Office.\nB. Students can get an ID at Tech Central on the 2nd floor of Payson Library. Replacement IDs can be obtained at One Stop on the 2nd floor of the Thornton Administrative Center.\nC. Faculty and staff can obtain their replacement ID cards from the Center for Human Resources.\nD. Students should visit the Center for Student Services for both initial and replacement ID cards.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I reserve a room for a function?\n\nA. Call Special Programs at 310.506.4264 for most room reservations. If it\u2019s not an area reserved by Special Programs, they will direct you to the appropriate department. For rooms in the HAWC, call Student Activities at 310.506.4201.\nB. Visit the Housing Office to reserve a room for any function on campus.\nC. Contact the Registrar\u2019s Office to reserve rooms for academic or non-academic functions.\nD. Call Public Safety to reserve a room for a function.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Who can let me into my room when I'm locked out?\n\nA. Between 8 AM and 5 PM on weekdays, go to the Housing Office in Rho Parking Lot to pick up a temporary key. Between 5 PM and 1 AM on weekdays, or 8 AM and 1 AM on weekends, call the RA on duty. After 1 AM, call the DPS non-emergency line.\nB. Call Public Safety at any time to get a replacement key for your room.\nC. Between 8 AM and 5 PM on weekdays, go to the Housing Office in Rho Parking Lot. Between 5 PM and 1 AM on weekdays or 8 AM and 1 AM on weekends, call the RA on duty. After 1 AM, call the DPS non-emergency line at 310.506.4442.\nD. Visit the Student Services Office to get a temporary key or replacement for your room at any time.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "What on-campus parking areas may I utilize if I have an FY - First Year parking permit? \n\nA. Designated areas of the Drescher Parking Structure (Parking Lot Q), Drescher Lots (Parking Lots R and S), and Lower Benton Way (Street Parking).\nB. Designated areas of the Drescher Parking Structure (Parking Lot Q), Drescher Lots (Parking Lots R and S), and all campus parking spaces.\nC. Only the Drescher Parking Structure (Parking Lot Q) and Lower Benton Way (Street Parking).\nD. Drescher Parking Structure (Parking Lot Q), Drescher Lots (Parking Lots R and S), and only visitor parking areas.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Are there any periods of time where FY - First Year parking permit holders may park in other on-campus parking lots?\n\nA. Yes, vehicles with the FY - First Year parking permit may park in all legal campus parking areas between Friday at 3 PM and Sunday at 3 PM, unless otherwise specified.\nB. No, FY - First Year parking permit holders are only allowed to park in designated areas and cannot park in other lots at any time.\nC. Yes, vehicles with the FY - First Year parking permit may park in any legal parking area on weekends only, from Friday to Sunday.\nD. Yes, vehicles with the FY - First Year parking permit can park in all parking areas on weekdays from 3 PM to 6 PM.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Can I walk to-and-from my designated parking area and student residences?\n\nA. No, first-year parking areas are far from student residences and require the use of public transportation.\nB. Yes, first-year parking areas are within walking distance of student residences, and students may also use campus shuttles for quicker access.\nC. Yes, but only students living in specific dorms are allowed to walk to their parking area.\nD. No, students are required to park in the lot closest to their assigned residence.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "Who can I contact with questions about parking on campus?\n\nA. Contact Housing and Residence Life at housing@pepperdine.edu for all parking-related questions.\nB. Email Public Safety at parking@pepperdine.edu or call 310.506.4700 for any parking inquiries.\nC. Reach out to the Registrar\u2019s Office at registrar@pepperdine.edu for parking-related concerns.\nD. Call the Student Services Office at 310.506.1234 for parking assistance.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What do I do in the event of a crime?\n\nA. Call 911, then call the Department of Public Safety at 310.506.4441. Provide your name, location, and telephone number. Do not hang up until instructed by the dispatcher. If safe, take note of the criminal's description and vehicle details.\nB. Call 911 and hang up immediately after providing the situation. Wait for the police to arrive and do not interact with the criminal.\nC. Contact Housing and Residence Life for crime-related inquiries and do not contact Public Safety.\nD. Immediately confront the criminal if you feel safe to do so and attempt to stop the crime.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I submit an event request on Peppervine? \n\nA. Log in to Peppervine, go to your club\u2019s page, and click \"Create Event.\" Fill out the necessary details, select a location, and submit the event request.\nB. Log in to Peppervine, navigate to your club\u2019s page, click \"Events,\" then \"Create Event,\" and fill out the event information. Use the \"Book Rooms\" feature to choose a location, and submit the event request.\nC. Submit an event request through the Housing Office by calling 310.506.7586 for room bookings.\nD. Log in to Peppervine, submit the event request form to Housing and Residence Life, and wait for approval to confirm the room.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I reserve a space for my club?\n\nA. Contact Housing and Residence Life directly to reserve any space for club events.\nB. Fill out an online form to request a space through the Housing Office, then wait for approval.\nC. All groups can reserve a space through the event request form. Do not go through Office Managers unless directed by the Student Organizations Coordinator. If the room is unavailable, select a different room or choose another time.\nD. Call the Student Services Office to request a space for your club event and wait for confirmation.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How does ICC allocate funds for clubs?\n\nA. ICC allocates funds into three categories: Marketing, Event Hosting, and General Fund, with up to $5,000 available in total per club.\nB. ICC provides clubs with a flat amount of $2,000 per year for all types of requests.\nC. ICC allocates club funds into two categories: Student Development and General Fund. Clubs can request up to $3,000 in one category and up to $4,000 in the other, with an additional $500 per year for marketing requests. However, the request may not be fully funded, as it depends on the discretion of the ICC E-Board.\nD. ICC allocates funds only for events, with no funds available for marketing or student development.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How do I access funding for clubs?\n\nA. Submit a funding request through the Housing Office by emailing iccfinance@pepperdine.edu.\nB. Log in to Peppervine, go to your club\u2019s page, click \u201cMoney,\u201d then \u201cBudgeting,\u201d and fill out the request form. Specify between Promotional Material Request and ICC Funds Request. Requests over $1,000 require a meeting with the ICC E-Board.\nC. Submit a request through your club\u2019s membership page by calling the Registrar\u2019s Office for approval.\nD. Log into WaveNet, go to \u201cStudent Services,\u201d and submit your request for funding under the \"Clubs and Organizations\" tab.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "Who should I reach out to regarding the tranfer program?\n\nA. Contact Housing and Residence Life for questions about the transfer program and commuter life.\nB. Reach out to the Transfer Admissions Office for all questions regarding the transfer program.\nC. For questions about the transfer program, transfer mentors, or commuter life, contact Danielle Minke at danielle.minke@pepperdine.edu.\nD. Speak with the Dean\u2019s Office for guidance on transferring and commuter life.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "Where can I find more information about where to park on Pepperdine campus?\n\nA. Visit the Housing Office for parking information.\nB. Please visit the Department of Public Safety (DPS) website for detailed parking information.\nC. Contact the Registrar's Office for parking guidelines.\nD. Check the \"Student Services\" tab in WaveNet for parking details.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How can I use the carpool spots on campus?\n\nA. Simply park in any available space and inform the guard at the booth that you are carpooling.\nB. You must park in designated spots and obtain a carpool pass by stopping at the guard booth on your way onto campus, carpooling with roommates or neighbors.\nC. Carpool spots are only available to staff and faculty; students are not allowed to use them.\nD. Carpooling is not permitted on campus, and there are no designated carpool spots.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I know when and where to catch a shuttle?\n\nA. Shuttles run every day from 7:00 AM to 11:00 PM. There is no specific schedule, and you can catch a shuttle from any campus location at any time.\nB. Shuttles operate Monday through Friday from 7:00 AM to 7:00 PM, and on weekends from 10:00 AM to 6:00 PM. The schedule is posted on the Housing website.\nC. Shuttles run Monday through Friday from 7:22 AM to 10:10 PM, and from noon to 8 PM on weekends. The complete schedule is available on the Transit Services website.\nD. Shuttles run only in the morning, and schedules are provided at the Registrar\u2019s Office.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "What are the requirements of an orientation leader?\n\nA. Must have a GPA of 2.5 or above and be in good standing with the university. Must also be available for training and orientation in the spring semester.\nB. Must have a GPA of 2.0 or above, be in good standing with the university, study on the Malibu campus for the fall semester, and be available for all training and New Student Orientation dates in August.\nC. Must be a first-year student with a GPA of 3.0 or above, available for summer training, and not on academic probation.\nD. Must have a GPA of 3.0, be in good standing with the university, and available only for the orientation dates in August.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What are the duties of an orientation leader?\n\nA. Help new students move into on-campus housing, answer questions from students and parents, lead small group activities, keep the orientation schedule running smoothly, and support the NSO team with other duties as needed.\nB. Lead large group lectures, assist with student academic advising, and handle all student housing assignments.\nC. Answer academic questions for new students, assist with faculty meetings, and manage student registration.\nD. Serve as a peer mentor for first-year students, provide tutoring, and conduct orientation activities solely during the spring semester.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I apply to be an orientation leader?\n\nA. Fill out the online application, schedule an interview through the form, and submit a recommendation letter from a current student.\nB. Complete the online application, obtain a faculty or staff recommendation, and attend an in-person or Zoom interview as part of the application process.\nC. Submit an online form with personal information, attend a campus event, and submit a resume.\nD. Apply through the Housing Office, submit your application, and complete a 30-minute interview.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What are the requirements of an orientation coordinator?\n\nA. Must have a GPA of 2.5 or above, be in good standing, and have completed at least two years of university. Must be available for training only during the spring semester.\nB. Must have a GPA of 2.0 or above, be in good standing with the university, have previously served as an Orientation Leader, and be available for all training and New Student Orientation dates in August.\nC. Must be a current freshman with a GPA of 3.0 or above and have completed an internship in student services.\nD. Must have a GPA of 2.5 or above, be in good standing, and attend all training sessions in the fall semester.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What are the duties of an orientation coordinator?\n\nA. Plan and execute Orientation Leader Training, motivate leaders, answer student and parent questions, participate in the Parent Panel, be a friendly face, and support the NSO team with the orientation schedule.\nB. Plan student academic orientations, assist with registration, and lead campus tours for new students and their families.\nC. Oversee housing assignments, handle meal plan distribution, and schedule all student appointments during orientation week.\nD. Coordinate athletic events, supervise student activities, and organize social gatherings for the new students during the first week of school.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I apply to be an orientation coordinator?\n\nA. Fill out the online application, upload your resume, sign up for an interview, and submit a recommendation from a faculty member or staff.\nB. Submit an application through the Housing Office and attend a 15-minute in-person interview.\nC. Complete the online application, upload your resume, sign up for a 30-minute Zoom interview, and obtain a faculty or staff recommendation.\nD. Apply through the Student Services Office, submit a personal statement, and attend a group interview.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "Who do I contact for more information regarding fraternity and sorority life?\n\nA. Contact Housing and Residence Life for all fraternity and sorority inquiries.\nB. Reach out to the Student Services Office for fraternity and sorority life information.\nC. Contact Molleigh Pompilio, the Fraternity & Sorority Life Coordinator, at molleigh.pompilio@pepperdine.edu or 310.506.6569.\nD. Speak with the Dean of Students for details on fraternity and sorority life.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "What should I do if I'm interested in working with SWAB?\n\nA. Contact the Housing Office to inquire about available SWAB positions.\nB. Positions are available only through faculty recommendation, and no application is required.\nC. All SWAB positions require an application and interview process. Applications are available on Handshake in the spring, and you can also check SWAB's Instagram or email swab@pepperdine.edu for more information.\nD. Submit a personal statement and resume directly to the SWAB office to express interest.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "What will student leaders do as part of SWAB?\n\nA. Organize social events and recreational activities for students.\nB. Demonstrate an understanding of healthy behaviors, engage in behaviors that improve their own health, and empathize with others from diverse backgrounds to address safety and health-related concerns.\nC. Serve as academic tutors and assist with student registration and scheduling.\nD. Manage student housing assignments and provide logistical support for campus events.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What are the general expectations as part of SWAB?\n\nA. Attend all meetings, serve as a liaison between the student body and University departments, plan events, and maintain the integrity of health and well-being.\nB. Assist with administrative tasks and provide support for academic departments, without attending meetings or planning events.\nC. Focus solely on event planning and social activities, without involvement in university departments or health-related initiatives.\nD. Serve as a mentor to first-year students and facilitate campus tours for new students.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I register a new club?\n\nA. Contact the Housing Office, submit a club name, and wait for automatic approval without further steps.\nB. Contact the Student Organizations Coordinator, compile necessary documents (name, purpose, advisor, constitution, etc.), submit through Peppervine, and wait for approval from the ICC President and the Student Advisory Committee.\nC. Submit a club application directly through the Registrar\u2019s Office without needing any documentation or approval.\nD. Start the club on social media, and the university will automatically recognize it after one month.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What is the SGA Election schedule?\n\nA. The Interest Meeting is on August 29, the Candidates Meeting is on September 5, and the Election Day is on September 15.\nB. The Interest Meeting is on August 27, the Candidates Meeting is on September 4, Election Day is September 11-12, Runoff Election Day is September 18-19, and the SGA Retreat is September 20-22.\nC. The Interest Meeting is on September 1, the Candidates Meeting is on September 7, and Election Day is on September 15.\nD. The Interest Meeting is on August 25, the Candidates Meeting is on September 3, and the Election Day is on September 13-14.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "When does the RISE application open?\n\nA. Applications open on March 1, and interviews begin March 15.\nB. Applications open on April 1, and interviews begin April 10.\nC. Applications open on March 30, and interviews begin April 17.\nD. Applications open on May 1, and interviews begin May 10.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How do I get a job on campus?\n\nA. You must visit the Housing Office to apply for on-campus jobs and internships.\nB. Jobs and internships are only available through academic departments and require a formal application.\nC. You can access Handshake to search for part-time jobs on and off campus with local employers, as well as internship opportunities.\nD. You must submit your resume directly to Student Affairs to be considered for on-campus employment.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "What are some job search tips for success?\n\nA. Only apply to jobs listed in the Housing Office and wait for a response.\nB. Prepare a resume and cover letter, log in to Handshake, apply for jobs, review listings daily, prepare for interviews, and follow up with your supervisor if needed.\nC. Submit applications through the Student Affairs Office and attend weekly job fairs.\nD. Apply for as many jobs as possible without a resume, and wait for employers to contact you.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I search for jobs?\n\nA. Log into WaveNet, go to \"Student Services,\" select \"Handshake,\" and click on \"Jobs.\" Then search for on-campus or off-campus student employment, and follow the application instructions for each job posting.\nB. Log into WaveNet, go to \"Student Services,\" and click on \"Housing\" to find job postings.\nC. Access the Handshake website directly through a link in your email, search for job postings, and apply via Google Forms.\nD. Contact the Student Affairs Office for a list of job openings and apply in person.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I get mental health counseling?\n\nA. Walk-in appointments are available at the Counseling Center without needing an appointment.\nB. Call the Counseling Center between 8 AM and 5 PM, Monday to Friday, or email them to schedule an intake appointment.\nC. Mental health counseling is only available by referral from your academic advisor.\nD. You can only get counseling through the Student Affairs Office after attending a group session.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I contact the Pepperdine Counseling Center?\n\nA. You can reach the Counseling Center by calling (310) 506-4700 or emailing counseling@pepperdine.edu.\nB. The Counseling Center can be contacted by emailing student.counseling.center@pepperdine.edu or calling (310) 506-4210.\nC. To contact the Counseling Center, email counselingservices@pepperdine.edu or call (310) 506-3200.\nD. The Counseling Center can only be contacted by visiting the Student Services Office in person.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What requirements are there to apply for an IP program? \n\nA. Applicants must have a GPA of at least 3.0, have completed one full-time semester at Seaver College, and agree to comply with the IP's COVID-19 vaccine policy.\nB. Applicants must be a current Seaver College student in good standing, have completed one full-time semester at Seaver College, have at least a 2.5 GPA, and agree to comply with the IP\u2019s COVID-19 vaccine policy.\nC. Applicants must be enrolled in a graduate program, have a GPA of 3.5 or higher, and be nominated by a faculty member.\nD. Applicants must have completed two full-time semesters at Seaver College, have a GPA of at least 3.0, and do not need to comply with any vaccine policy.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I apply for an international program? \n\nA. Use the \"Apply\" button on the IP website or sign in to WaveNet and click \"IP Apps Sum '25 thru Spr '26\" under \"Popular Links.\" Complete the intake questions, select your program and term, fill out the application, and submit it by the deadline.\nB. Submit a paper application to the Student Affairs Office and wait for approval.\nC. Email the International Programs office to request an application, then schedule an interview to finalize your application.\nD. Apply directly through the Housing Office by selecting your preferred program and term, and submit your application via email.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How should I prepare for an IP interview?\n\nA. Dress casually, be late to the interview, and try to answer the questions quickly without much thought.\nB. Treat it like a job interview: dress nicely, arrive on time, and think about your answers to questions like why you applied, what you hope to gain, and how you will manage challenges abroad.\nC. Wear your school uniform and be prepared to answer only about your academic achievements.\nD. Focus on providing short, simple answers to questions and do not elaborate on your personal experiences.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I apply for an IP scholarship?\n\nA. Apply directly through the Housing Office by filling out a paper application and submitting it via email.\nB. Start your IP application through the ViaTRM portal, and you will automatically receive instructions and an optional form to apply for the IP Scholarship.\nC. Contact the Student Affairs Office for a scholarship form and submit it to the Financial Aid Office.\nD. Apply through the Student Services portal, and the scholarship form will be sent to you after submitting your academic transcripts.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How does International Programs make admissions decisions?\n\nA. Admissions decisions are based solely on GPA and interview performance.\nB. The IP Selection Committee only considers GPA and the completion of application materials, without looking at campus citizenship.\nC. Admissions decisions are made based only on essay responses and interview outcomes.\nD. The IP Selection Committee makes decisions based on GPA, campus citizenship, essays, application information, interview, supplemental materials, and certain degree requirements.",
+    "Expected Response": "D"
+  },
+  {
+    "Question": "How do I get a passport?\n\nA. Students do not need a passport if they are traveling to Washington, D.C. or other U.S. domestic locations.\nB. All students studying abroad must have a valid passport, which should be valid for at least 6 months past their return date. Students should start the process of applying for or renewing their passport immediately and refer to the U.S. Department of State's Passport Services website for more information.\nC. Students can only obtain a passport after they are admitted to the program and are not required to renew it.\nD. Passport applications are only available through the Student Services Office and are processed after students have received their visa.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I extend my stay overseas and what are flight implications?\n\nA. Students can extend their flight at the time of booking or contact Corniche Travel for adjustments. They are responsible for any associated fees and must ensure that changes do not affect their immigration status.\nB. Students must rebook their flight through the Housing Office, and no additional fees will apply for extending the stay.\nC. Students can request to extend their flight after booking, but they cannot change their departure date or route. They must also ensure they have the necessary insurance coverage for any additional travel days.\nD. Students are not allowed to extend their stay overseas and must return on the scheduled flight date.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How can I contact for technical support? \n\nA. Call 310.506.1234 for all technical support inquiries.\nB. Contact the Student Services Office for technical support.\nC. Call 310.506.4357 (HELP) for technical support.\nD. Send an email to techsupport@pepperdine.edu for assistance.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "Why isn't Pepperdine wifi letting me connect/how do I disable MAC randomization?\n\nA. Wi-Fi issues are caused by outdated routers; restart your router to fix the problem.\nB. The Wi-Fi issue may be related to MAC randomization. To disable it, go to Settings, tap Wi-Fi, select the network, tap the \"i\" icon, and turn off Private Wi-Fi Address.\nC. MAC randomization is unrelated to Wi-Fi connectivity, and you should call tech support for assistance.\nD. To fix Wi-Fi connectivity, you need to reset your password in the WaveNet portal.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I get my ID card?\n\nA. Submit a request via email to the Housing Office, and you will receive your ID card by mail.\nB. Submit your ID card selfie online, and pick up your ID card during New Student Orientation or at OneStop in the Thornton Administrative Center (TAC). If lost, there is a $15 replacement fee.\nC. Go to the Registrar's Office to complete an application for your ID card and wait for it to be mailed to your address.\nD. Submit your ID photo to the Tech Central support desk, and the ID card will be printed and delivered to your dorm room.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What should I do if Wifi connection in the dorm is unstable?\n\nA. Reset the Wi-Fi router by unplugging it for 10 minutes and reconnecting.\nB. Try moving closer to an access point or connect your device to ethernet. If these don't work, contact Tech Central at 310.506.4357 (HELP) or email tech.central@pepperdine.edu.\nC. Visit the Housing Office to request a new Wi-Fi router.\nD. Wait for a few hours as Wi-Fi issues typically resolve themselves automatically.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I add money to my Pepperdine ID card online? \n\nA. Visit the Pepperdine Card Services website, log in with your CWID, and deposit funds directly into your bank account.\nB. Go to the Pepperdine Payment Portal, select \"Pay My Tuition,\" and add money to your account for use on campus.\nC. Visit https://get.cbord.com/pepperdine/full/prelogin.php, click \"Deposit into a Student or Community User Card\u2019s Account,\" enter your CWID, specify the deposit amount, provide a credit card, and submit.\nD. Go to the Housing Office, fill out a form, and submit your payment in person for adding money to your ID card.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How do I add money to my Pepperdine ID card in person? \n\nA. Visit the Student Services Office and pay with a credit card.\nB. Go to the Housing Office and use a debit card to add funds to your ID card.\nC. Visit OneStop in the Thornton Administrative Center, pay with cash or check, and the payment will be immediately applied to your ID card.\nD. Go to the Registrar\u2019s Office, fill out a form, and pay with cash or credit card for ID card deposits.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How do I receive techical support?\n\nA. Contact the Housing Office for all technical support inquiries.\nB. Visit the Student Services Office for help with technology-related issues.\nC. Visit the Registrar's Office to submit a request for technical support during business hours.\nD. Tech Central provides 24/7 support for students, faculty, and staff. The main office is located in B100 in the Thornton Administrative Center (TAC), and support is available at all Southern California campuses. You can also submit a technical support inquiry form.",
+    "Expected Response": "D"
+  },
+  {
+    "Question": "I'm a student with a disability. How do I apply for accomodations?\n\nA. Submit an application through the Housing Office and wait for a response from the Office of Student Accessibility (OSA).\nB. Visit the Registrar's Office and fill out a form to apply for accommodations, then follow up by emailing the OSA.\nC. Complete an online inquiry to begin the process, submit required documentation through WaveNet, and meet with an Accessibility Specialist to discuss accommodations.\nD. Submit your request through your academic advisor and wait for accommodations to be automatically applied.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How do I make a payment as an INTL student?\n\nA. Log into WaveNet, access your bill, click on the \"International Payments \u2013 Flywire\" option, select your country, enter the amount due, and follow the payment instructions to send the payment through Flywire.\nB. Visit the Housing Office to pay your bill with international payment options.\nC. Log into WaveNet and pay through your personal banking system.\nD. Call the Financial Aid Office to process your payment by phone.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I obtain my F-1 student Visa? \n\nA. Request your Pepperdine I-20, complete the International Student Data Form, and apply for your F-1 Visa by scheduling an interview at the U.S. embassy or consulate.\nB. Contact the Housing Office for the necessary forms and apply for your visa at the nearest embassy.\nC. Submit an application through the Registrar\u2019s Office and receive your visa upon arrival at Pepperdine.\nD. Wait for Pepperdine to automatically apply for your visa once you have been admitted.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How do I request my Pepperdine I-20?\n\nA. Submit your Intent to Enroll/Deposit and complete the International Student Data (ISD) form to request your Form I-20.\nB. Email the Registrar's Office directly to request your I-20 form.\nC. You can request the I-20 form by visiting the Housing Office and completing a form in person.\nD. Once admitted, the Pepperdine admissions office will automatically send you the I-20 form.",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Where do I complete my International Student Data Form (ISD)?\n\nA. Submit the form directly to the Registrar\u2019s Office for processing. B. Complete the ISD form through the OISS portal.\nC. Complete the ISD form through the Housing Office website.\nD. Access the ISD form from the Student Affairs Office and submit it in person.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I apply for my F-1 visa and status?\n\nA. You can apply for an F-1 visa directly through the U.S. Department of Education.\nB. Complete the I-20 form and present it at the U.S. embassy or consulate abroad when applying for a student visa.\nC. Submit your I-20 form to the U.S. port of entry for immediate approval.\nD. You are automatically given F-1 status upon arrival at a U.S. campus.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How can graduates get a copy of transcripts or a Degree Verification?\n\nA. Graduates can visit the Registrar\u2019s Office in person to request a copy of their transcript.\nB. Graduates can order transcripts online through the National Student Clearinghouse or submit a mail-in request to OneStop. Degree verifications are processed through the National Student Clearinghouse.\nC. Graduates must call the Registrar\u2019s Office to request transcripts, which will be mailed directly to the address on file.\nD. Graduates must email the Registrar\u2019s Office for a transcript request, which will be processed by the Housing Office.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do students get involved with alumni?\n\nA. By attending special alumni events hosted by the Housing Office. \nB.  By submitting a request to the Student Services Office for an alumni mentor.\nC. Students can reach out to Pepperdine Alumni Affairs to get involved as an alumnus.\nD. By applying directly to the Alumni Relations department for membership.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How do I rent equipment for myself?\n\nA. Visit the Housing Office and request the equipment you need.\nB. Go to the Pepperdine Fitness Center front desk, create a DSE membership if needed, choose the items to rent, sign the contract, and collect the equipment.\nC. Contact the Student Services Office to request rental equipment.\nD. Submit an online form through WaveNet to rent equipment from the library.",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "How do I rent equipment for a group?\n\nA. Visit the Housing Office and request the equipment for your group.\nB. Contact the Pepperdine Fitness Center front desk and make a reservation for group equipment rentals.\nC. Email julian.baker@pepperdine.edu to make group reservations and special requests, and book equipment up to three weeks in advance.\nD. Submit a request via the Student Services Office to rent group equipment.",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How can I request a refund?\n\nA. Refund requests must be submitted through the Housing Office.\nB. Refunds are only processed at the end of the semester, and students need to apply in writing to the Registrar\u2019s Office. \nC. Students should visit the Financial Aid Office in person to request a refund.\nD. Refunds from federal aid are processed automatically at the start of each term, but students should set up an eRefund account and check their WaveNet account to track the refund status.",
+    "Expected Response": "D"
+  },
+  {
+    "Question": "How do I obtain the 1098-T form? \n\nA. Visit the Housing Office to request the form in person.\nB. Log into WaveNet, go to the \"Finances\" section, and select \"Tax Information\" to download your 1098-T form.\nC. Call the Registrar\u2019s Office to request the form to be mailed to your home address.\nD. Send an email to your academic advisor to request the form.",
+    "Expected Response": "B"
+  }
+]

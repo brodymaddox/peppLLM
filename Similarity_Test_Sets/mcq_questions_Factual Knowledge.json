@@ -1,0 +1,402 @@
+[
+  {
+    "Question": "When do classes start in the Fall of 2024?\n\nA. August 12, 2024, B: August 26, 2024, C: August 19, 2024, D: September 2, 2024;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When is the last day of the add/drop period?\n\nA. August 20, 2024; B. August 25, 2024; C. August 18, 2024; D. August 23, 2024;",
+    "Expected Response": "D"
+  },
+  {
+    "Question": "When is the application deadline for international programs?\n\nA. September 30, 2024; B. September 23, 2024; C. September 15, 2024; D. September 29, 2024;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "When is fall break?\n\nA. October 18\u201321, 2024 (Friday\u2013Monday); B. October 4\u20137, 2024 (Friday\u2013Monday); C. October 11\u201314, 2024 (Friday\u2013Monday); D. October 25\u201328, 2024 (Friday\u2013Monday);",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When is registration for the spring and summer terms?\n\nA. November 6, 2024; B. November 13, 2024; C. November 20, 2024; D. November 27, 2024;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "When does the course evaluation period begin and end?\n\nA. November 11 \u2013 December 1, 2024; B. November 18 \u2013 December 8, 2024; C. November 25 \u2013 December 15, 2024; D. November 4 \u2013 November 24, 2024;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "When is the last day to submit a change of final exam form?\n\nA. November 15, 2024; B. November 29, 2024; C. November 22, 2024; D. November 25, 2024;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When is the Thanksgiving holiday?\n\nA. November 28\u2013December 2, 2024; B. November 21\u201325, 2024; C. November 25\u201329, 2024; D. November 18\u201322, 2024;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When is the Seaver undergraduate Spring 2025 new student enrollment deadline?\n\nA. December 15, 2024; B. December 1, 2024; C. November 15, 2024; D. November 1, 2024;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "When are final exams for the fall semester?\n\nA. December 2\u20135, 2024; B. December 16\u201319, 2024; C. December 9\u201312, 2024; D. December 11\u201314, 2024;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When are Fall 2024 graduates conferred?\n\nA. December 10, 2024; B. December 17, 2024; C. December 13, 2024; D. December 15, 2024;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When do residence halls close for the semester?\n\nA. December 12, 2024 at 5 pm; B. December 13, 2024 at 9 am; C. December 14, 2024 at 12 pm; D. December 11, 2024 at 3 pm;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "When are all pepperdine offices closed for winter break?\n\nA. December 23, 2024 \u2013 January 1, 2025; B. December 24, 2024 \u2013 January 3, 2025; C. December 24, 2024 \u2013 January 2, 2025; D. December 25, 2024 \u2013 January 2, 2025;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When do spring semester classes begin?\n\nA. January 6, 2025; B. January 13, 2025; C. January 20, 2025; D. January 10, 2025;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "When is the Seaver undergraduate First-Year Regular Decision and Transfer Fall 2025 application deadline?\n\nA. January 1, 2025; B. January 15, 2025; C. February 1, 2025; D. February 15, 2025;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "When is the last day of the add/drop period?\n\nA. January 20, 2025; B. January 15, 2025; C. January 17, 2025; D. January 22, 2025;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When is the regular application deadline for academic year and summer international programs?\n\nA. February 10, 2025; B. February 3, 2025; C. January 27, 2025; D. February 17, 2025;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "When is spring break?\n\nA. March 10\u201314, 2025 (Monday\u2013Friday); B. February 24\u201328, 2025 (Monday\u2013Friday); C. March 3\u20137, 2025 (Monday\u2013Friday); D. March 17\u201321, 2025 (Monday\u2013Friday);",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When is the early registration period?\n\nA. March 4, 2025; B. March 18, 2025; C. March 11, 2025; D. March 25, 2025;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When does the fall registration period begin?\n\nA. March 5, 2025; B. March 12, 2025; C. March 19, 2025; D. March 26, 2025;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "When is the Malibu reception for admitted students?\n\nA. April 11, 2025; B. April 18, 2025; C. April 4, 2025; D. April 25, 2025;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "When is the last day to submit a change of final exam form for the spring semester?\n\nA. April 25, 2025; B. April 11, 2025; C. April 18, 2025; D. April 21, 2025;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "When are final exams for the spring semester?\n\nA. April 21\u201324, 2025; B. May 5\u20138, 2025; C. April 28\u2013May 1, 2025; D. April 14\u201317, 2025;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "Where can I find more information about different majors at Pepperdine?\n\nA. https://www.pepperdine.edu/academics/majors/; B. https://www.pepperdine.edu/academics/programs/; C. https://www.pepperdine.edu/academics/degrees/; D. https://www.pepperdine.edu/academics/courses/;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What are the advantages of Pepperdine\u2019s philosophy minor?\n\nA. Philosophy provides a basic understanding of ethics but focuses solely on ancient texts; B. Philosophy explores foundational assumptions and challenges within human experience, prepares students for careers in law, journalism, government, public service, and business; C. Philosophy is primarily about memorizing theories without practical application to modern careers; D. Philosophy focuses on niche topics that are only relevant to academic research;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What are the advantages of Pepperdine\u2019s physics major?\n\nA. The physics major focuses solely on theoretical physics with minimal practical applications; B. The physics major at Seaver College offers a well-balanced curriculum in experimental and theoretical physics, preparing students for careers in science, technology, and quantitative fields, as well as graduate education in physics, engineering, or environmental science; C. The physics major emphasizes experimental physics exclusively, neglecting theoretical frameworks; D. The physics major provides basic physics knowledge without preparation for advanced studies or professional careers;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What is the physics major curriculum?\n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=342; B. https://seaver.pepperdine.edu/physics/curriculum/; C. https://www.pepperdine.edu/academics/catalog/physics-major; D. https://seaver.pepperdine.edu/academics/physics-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What are the advantages of the physics minor?\n\nA. The physics minor is designed exclusively for engineering majors and requires only two courses; B. The physics minor provides a basic introduction to physics and a foundation for careers requiring a background in mathematics and science, requiring 23\u201324 units from four required courses and two additional courses; C. The physics minor focuses only on theoretical physics and requires no lab courses; D. The physics minor is optional for all majors but lacks practical application;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What are the advantages of the political science program?\n\nA. The program focuses solely on theoretical studies and does not offer internship opportunities; B. The Washington, DC Internship Program offers political science majors opportunities to intern in DC, Sacramento, and Los Angeles, collaborate on research, and publish. Students also participate in Model United Nations, the Sacramento Legislative Seminar, and study abroad in cities like London and Florence; C. The program offers internships only in Sacramento and Los Angeles, with no research or publication opportunities; D. The program focuses primarily on local politics and does not include study abroad options;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What is the political science curriculum?\n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=402; B. https://seaver.pepperdine.edu/political-science/curriculum/; C. https://www.pepperdine.edu/academics/catalog/political-science-major; D. https://seaver.pepperdine.edu/academics/political-science-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Where can I find information about pre-law programs?\n\nA. https://seaver.pepperdine.edu/social-science/undergraduate/pre-law/; B. https://seaver.pepperdine.edu/academics/pre-law-programs/; C. https://www.pepperdine.edu/pre-law/; D. https://seaver.pepperdine.edu/social-science/pre-law-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What are common Psychology double majors?\n\nA. Psychology and economics, Psychology and communication, Psychology and sociology, Psychology and religion; B. Psychology and history, Psychology and communication, Psychology and biology, Psychology and sociology; C. Psychology and biology, Psychology and communication, Psychology and sociology, Psychology and religion; D. Psychology and philosophy, Psychology and communication, Psychology and biology, Psychology and sociology;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "What are my opportunities after graduating with a degree in psychology?\n\nA. Psychology majors are limited to careers in counseling and education; B. Recent graduates have pursued careers in industry, personnel, research, management, counseling, and special needs education. Psychology majors are also qualified for roles in state and county corrections and welfare, such as in the Department of Children's Services; C. Graduates can only work in corrections or welfare roles; D. Psychology majors primarily work in laboratory research with minimal opportunities in other fields;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What is the psychology curriculum?\n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=404; B. https://seaver.pepperdine.edu/psychology/curriculum/; C. https://www.pepperdine.edu/academics/catalog/psychology-major; D. https://seaver.pepperdine.edu/academics/psychology-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What is the sport administration curriculum?\n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=165; B. https://seaver.pepperdine.edu/sport-administration/curriculum/; C. https://www.pepperdine.edu/academics/catalog/sport-administration-major; D. https://seaver.pepperdine.edu/academics/sport-administration-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What is the sport medicine curriculum?\n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=343; B. https://seaver.pepperdine.edu/sport-medicine/curriculum/; C. https://www.pepperdine.edu/academics/catalog/sport-medicine-major; D. https://seaver.pepperdine.edu/academics/sport-medicine-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What is the theater major curriculum?\n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page202; B. https://seaver.pepperdine.edu/theater/curriculum/; C. https://www.pepperdine.edu/academics/catalog/theater-major; D. https://seaver.pepperdine.edu/academics/theater-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What is the English major curriculum?\n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=239; B. https://seaver.pepperdine.edu/english/curriculum/; C. https://www.pepperdine.edu/academics/catalog/english-major; D. https://seaver.pepperdine.edu/academics/english-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What is the engineering curriculum?\n\nA. The 3/2 Engineering Program allows students to complete a B.S. in physics at Pepperdine over three years, followed by two years at an engineering partner university; B. The 3/2 Engineering Program allows students to complete a B.A. in natural science at Pepperdine over three years, followed by two years at an engineering partner university (USC or Washington University in St. Louis) to earn dual bachelor's degrees. Students complete foundational liberal arts, math, and science courses at Pepperdine before transferring; C. The engineering curriculum includes five years entirely at Pepperdine, focused exclusively on liberal arts and science; D. The 3/2 Engineering Program requires students to transfer after one year of study at Pepperdine;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "What is the film studies curriculum? \n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=243; B. https://seaver.pepperdine.edu/film-studies/curriculum/; C. https://www.pepperdine.edu/academics/catalog/film-studies-major; D. https://seaver.pepperdine.edu/academics/film-studies-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the integrated marketing communications curriculum? \n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=159; B. https://seaver.pepperdine.edu/marketing-communications/curriculum/; C. https://www.pepperdine.edu/academics/catalog/marketing-communications-major; D. https://seaver.pepperdine.edu/academics/integrated-marketing-communications-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the finance curriculum? \n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=136; B. https://seaver.pepperdine.edu/finance/curriculum/; C. https://www.pepperdine.edu/academics/catalog/finance-major; D. https://seaver.pepperdine.edu/academics/finance-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the international business curriculum? \n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=136; B. https://seaver.pepperdine.edu/international-business/curriculum/; C. https://www.pepperdine.edu/academics/catalog/international-business-major; D. https://seaver.pepperdine.edu/academics/international-business-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the math major curriculum? \n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=332; B. https://seaver.pepperdine.edu/math/curriculum/; C. https://www.pepperdine.edu/academics/catalog/math-major; D. https://seaver.pepperdine.edu/academics/math-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the music major curriculum? \n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=197; B. https://seaver.pepperdine.edu/music/curriculum/; C. https://www.pepperdine.edu/academics/catalog/music-major; D. https://seaver.pepperdine.edu/academics/music-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the accounting major curriculum? \n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=134; B. https://seaver.pepperdine.edu/accounting/curriculum/; C. https://www.pepperdine.edu/academics/catalog/accounting-major; D. https://seaver.pepperdine.edu/academics/accounting-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the advertising major curriculum? \n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=134; B. https://seaver.pepperdine.edu/advertising/curriculum/; C. https://www.pepperdine.edu/academics/catalog/advertising-major; D. https://seaver.pepperdine.edu/academics/advertising-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the business admin major curriculum?  \n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=135; B. https://seaver.pepperdine.edu/business-admin/curriculum/; C. https://www.pepperdine.edu/academics/catalog/business-admin-major; D. https://seaver.pepperdine.edu/academics/business-admin-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the communication major curriculum?\n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=157; B. https://seaver.pepperdine.edu/communication/curriculum/; C. https://www.pepperdine.edu/academics/catalog/communication-major; D. https://seaver.pepperdine.edu/academics/communication-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the economics major curriculum?\n\nA. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=401; B. https://seaver.pepperdine.edu/economics/curriculum/; C. https://www.pepperdine.edu/academics/catalog/economics-major; D. https://seaver.pepperdine.edu/academics/economics-programs/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "who is my academic advisor if I am a Philosophy major?\n\nA. Emily Carter; 310.506.6149; emily.carter@pepperdine.edu; B. Noah Jordan; 310.506.6149; noah.jordan@pepperdine.edu; C. Sarah Miller; 310.506.6149; sarah.miller@pepperdine.edu; D. Michael Davis; 310.506.6149; michael.davis@pepperdine.edu;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "who is my academic advisor if I am a teacher education major?\n\nA. Sarah Miller; 310.506.6149; sarah.miller@pepperdine.edu; B. Emily Carter; 310.506.6149; emily.carter@pepperdine.edu; C. Noah Jordan; 310.506.6149; noah.jordan@pepperdine.edu; D. Michael Davis; 310.506.6149; michael.davis@pepperdine.edu;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "who is my academic advisor if I am a social science major?\n\nA. Emily Carter; 310.506.6149; emily.carter@pepperdine.edu; B. Michael Davis; 310.506.6149; michael.davis@pepperdine.edu; C. Sarah Miller; 310.506.6149; sarah.miller@pepperdine.edu; D. Noah Jordan; 310.506.6149; noah.jordan@pepperdine.edu;",
+    "Expected Response": "D"
+  },
+  {
+    "Question": "who is my academic advisor if I am a communication major?\n\nA. Ashley Castro; 310.506.4432; ashley.castro@pepperdine.edu; B. Emily Carter; 310.506.4432; emily.carter@pepperdine.edu; C. Sarah Miller; 310.506.4432; sarah.miller@pepperdine.edu; D. Noah Jordan; 310.506.4432; noah.jordan@pepperdine.edu;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "who is my academic advisor if I am an Interdisciplinary Studies major?\n\nA. Noah Jordan; 310.506.4432; noah.jordan@pepperdine.edu; B. Emily Carter; 310.506.4432; emily.carter@pepperdine.edu; C. Ashley Castro; 310.506.4432; ashley.castro@pepperdine.edu; D. Sarah Miller; 310.506.4432; sarah.miller@pepperdine.edu;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "who is my academic advisor if I am a student athlete?\n\nA. Emily Carter; 310.506.4432; emily.carter@pepperdine.edu; B. Ashley Castro; 310.506.4432; ashley.castro@pepperdine.edu; C. Noah Jordan; 310.506.4432; noah.jordan@pepperdine.edu; D. Sarah Miller; 310.506.4432; sarah.miller@pepperdine.edu;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "who is my academic advisor if I am a business admin major?\n\nA. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; B. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu; C. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu; D. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "who is my academic advisor if I am a languages major?\n\nA. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; B. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; C. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu; D. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "who is my academic advisor if I am an international studies major?\n\nA. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu; B. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; C. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; D. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "who is my academic advisor if I am a religion major?\n\nA. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; B. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; C. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu; D. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "who is my academic advisor if I am a Natural Science major? \n\nA. Noah Jordan (last names A-G); Ashley Castro (last names H-N); Jacob Moonen (last names O-Z); B. Ashley Castro (last names A-M); Jacob Moonen (last names N-Z); C. Noah Jordan (last names A-F); Ashley Castro (last names G-M); Jacob Moonen (last names N-Z); D. Jacob Moonen (last names A-G); Ashley Castro (last names H-N); Noah Jordan (last names O-Z);",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "who is my academic advisor if I am a Fine Arts major? \n\nA. Noah Jordan (last names A-G); Ashley Castro (last names H-N); Jacob Moonen (last names O-Z); B. Ashley Castro (last names A-M); Jacob Moonen (last names N-Z); C. Jacob Moonen (last names A-G); Ashley Castro (last names H-N); Noah Jordan (last names O-Z); D. Noah Jordan (last names A-F); Ashley Castro (last names G-M); Jacob Moonen (last names N-Z);",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What scholarships can I apply for? \n\nA. George Pepperdine Scholarship, Pepperdine Grant, Regents Scholarship; B. Pepperdine Achievement Grant, Pepperdine Research Grant, Regents Scholarship; C. George Pepperdine Scholarship, Regents Leadership Grant, Pepperdine Grant; D. Regents Scholarship, Pepperdine Leadership Grant, George Pepperdine Grant;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Can you provide more information on the George Pepperdine scholarship? \n\nA. The George Pepperdine Achievement Award is a renewable, four-year merit scholarship requiring no separate application, applicable only to tuition, and requiring a 2.0 GPA; B. The George Pepperdine Achievement Award is a non-renewable scholarship requiring a separate application and applies to both tuition and housing; C. The George Pepperdine Achievement Award is a one-time grant awarded based on need and does not consider academic performance; D. The George Pepperdine Achievement Award requires full-time enrollment but can be used for tuition, housing, and other expenses;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Can you provide more information on the Pepperdine Grant scholarship? \n\nA. The Pepperdine Grant is a renewable, need-based award provided for up to four years, based on FAFSA-submitted financial need, requiring a 2.0 GPA and full-time enrollment, and applicable only to tuition; B. The Pepperdine Grant is a merit-based, one-time scholarship awarded for academic excellence and leadership skills; C. The Pepperdine Grant is a non-renewable, need-based scholarship that applies to both tuition and housing costs; D. The Pepperdine Grant is a renewable grant provided for any enrollment level, not limited to full-time students, and applicable to all educational expenses;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Can you provide more information on the other grants I can apply for?\n\nA. Other institutional grants and scholarships\u2014such as the Tyler Trust End Scholarship, Malibu Seaver Scholarship, Frank R. Seaver End Scholarship, and University Supplemental Grant\u2014are renewable for up to four years, require a 2.0 GPA and full-time enrollment, and apply only to tuition; B. Other institutional grants and scholarships include one-time awards like the Tyler Trust End Scholarship and Frank R. Seaver End Scholarship, applicable to tuition and housing; C. Institutional grants include renewable awards with no GPA requirements or enrollment conditions, such as the University Supplemental Grant; D. Institutional scholarships like the Malibu Seaver Scholarship and Tyler Trust End Scholarship are merit-based and cover all educational expenses;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Can you provide more information on the Regents Scholarship?\n\nA. The Regents Scholars Program is a highly competitive award for the top 8-10% of admitted first-year students, offering scholarships starting at $20,000 annually, renewable for up to four years with a required 3.25 GPA and SAT/ACT scores; B. The Regents Scholars Program offers $15,000 scholarships to all admitted students based on GPA only, renewable for up to two years; C. The Regents Scholars Program awards scholarships for community service and leadership, with no GPA or test score requirements; D. The Regents Scholars Program is a one-time scholarship granted to all admitted first-year students, regardless of academic merit;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Where can I find more information about scholarships at Pepperdine?\n\nA. https://seaver.pepperdine.edu/admission/financial-aid/undergraduate/; B. https://seaver.pepperdine.edu/admission/financial-aid/graduate/; C. https://seaver.pepperdine.edu/admission/financial-aid/international/; D. https://seaver.pepperdine.edu/admission/financial-aid/transfer/;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What are the transfer application requirements?\n\nA. Transfer Application submission, official proof of high school completion, official college transcripts, academic recommendation, and SAT/ACT scores are optional; B. Transfer Application submission, official proof of college enrollment, academic recommendation, and SAT/ACT scores are required; C. Transfer Application submission, unofficial transcripts, optional recommendation, and SAT/ACT scores are mandatory; D. Transfer Application submission, proof of high school GPA, and SAT/ACT scores are required;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "When is the transfer application deadline for the spring term?\n\nA. October 15; B. October 1; C. November 1; D. September 15;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "When is the transfer application deadline for the fall term?\n\nA. January 1; B. February 1; C. January 15; D. March 1;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "How many students apply and how many do you accept?\n\nA. This past application season (Fall 2024) we received 10,500 applications and admitted 7,515 students; B. This past application season (Fall 2024) we received 12,719 applications and admitted 6,000 students; C. This past application season (Fall 2024) we received 12,719 applications and admitted 7,515 students; D. This past application season (Fall 2024) we received 15,000 applications and admitted 7,515 students;",
+    "Expected Response": "C"
+  },
+  {
+    "Question": "What is the average GPA and standardized test score for an admitted student?\n\nA. High School GPA: 3.55-3.75, ACT Composite: 29-31, Transfer GPA: 3.45-3.75, SAT Total: 1300-1400; B. High School GPA: 3.67-3.89 (unweighted), ACT Composite: 31-33 (superscored), Transfer GPA: 3.55-3.83 (unweighted), SAT Total: 1350-1450 (superscored); C. High School GPA: 3.50-3.80, ACT Composite: 30-32, Transfer GPA: 3.50-3.80, SAT Total: 1330-1430; D. High School GPA: 3.60-3.85 (weighted), ACT Composite: 30-32, Transfer GPA: 3.40-3.75 (unweighted), SAT Total: 1320-1420;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "Does Pepperdine offer interviews as part of the application process?\n\nA. Yes, Pepperdine offers evaluative interviews for first-year students applying for fall. Visit the Admission Interviews webpage for additional interview information and to register; B. No, Pepperdine does not offer interviews as part of the application process; C. Interviews are mandatory for all first-year and transfer applicants; D. Only transfer students are eligible for evaluative interviews at Pepperdine;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How many units must be completed to be considered a transfer student?\n\nA. Transfer applicants must have completed at least 12 college units; B. Transfer applicants are high school graduates who have taken any college units before or after graduating high school; C. Transfer applicants must have completed at least 30 college units before applying; D. Transfer applicants must have completed no college units and only need to graduate high school;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "Does Pepperdine offer Early Action or Early Decision?\n\nA. Pepperdine offers Early Action admission for first-year fall applicants (excluding nursing) with a nonbinding deadline of November 1; decisions are released by January 10, with an enrollment deadline of May 1. Pepperdine does not offer Early Decision; B. Pepperdine offers Early Decision admission for first-year applicants with a binding deadline of November 1, and Early Action for all other programs; C. Pepperdine offers Early Action and Early Decision for first-year applicants, with deadlines in November and January respectively; D. Pepperdine does not offer Early Action or Early Decision;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "what is the cost of attendance/tuition? \n\nA. The estimated cost of attendance for the 2024-25 academic year is $95,234, including tuition, food, housing, and indirect costs such as books, transportation, and personal expenses. Approximately 92% of students receive financial assistance; B. The cost of attendance is $85,000 for the 2024-25 academic year, covering only tuition, food, and housing; C. Tuition for the 2024-25 academic year is $95,234, excluding food and housing; D. Pepperdine University does not provide cost estimates;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "how many students become employed full time postgrad?\n\nA. 85% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military 6 months after graduation; B. 91% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military 6 months after graduation; C. 95% of 2023 graduates were employed full time 6 months after graduation, excluding other postgrad activities; D. 75% of 2023 graduates were employed or volunteering full time 6 months after graduation;",
+    "Expected Response": "B"
+  },
+  {
+    "Question": "Can I minor or double major? \n\nA. You can only indicate one major on your application, but you can add an additional major or minor during your time at Pepperdine with help from Academic Advising; B. You must indicate all majors and minors on your application, and changes are not allowed after enrollment; C. Double majoring is not permitted at Pepperdine, but you may declare a minor; D. You are required to declare a minor when applying to Pepperdine, but double majoring is optional;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Which lower division courses will I need to do as a Business Admin major? \n\nA. AC 224 Financial Accounting, AC 225 Managerial Accounting, BA 210 Introduction to Microeconomics, BA 212 Business Computing Applications, BA 216 Statistical Analysis for Business Decisions, ECON 211 Introduction to Macroeconomics, MATH 140 Calculus for Business and Economics, MATH 141 Probability, Linear Systems, and Multivariable Optimization; B. AC 224 Managerial Accounting, AC 225 Financial Accounting, BA 210 Introduction to Macroeconomics, BA 212 Statistical Analysis, BA 216 Business Computing Applications, ECON 211 Microeconomics, MATH 140 Linear Systems, MATH 141 Probability and Optimization; C. AC 224 Financial and Managerial Accounting, BA 210 Introduction to Business Statistics, BA 212 Business Applications, ECON 211 Microeconomics, MATH 140 Calculus for Business, MATH 141 Probability and Multivariable Optimization; D. AC 224 Financial Accounting, BA 210 Microeconomics, BA 212 Business Statistics, ECON 211 Macroeconomics, MATH 140 Calculus and Optimization;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Which upper division courses will I need to do as a Business Admin major? \n\nA. Financial Management, BA 352 Management Theory and Practice, BA 366 Organizational Behavior, BA 355 Principles of Marketing, BA 358 Legal and Regulatory Environment of Business, BA 445 Managerial Economics, BA 451 Operations Management, BA 452 Quantitative Analysis, BA 497 Business Policy, Strategy, and Ethics, BA 498 Service Leadership Project; B. BA 352 Principles of Marketing, BA 355 Management Theory and Practice, BA 366 Legal Environment of Business, BA 358 Organizational Behavior, BA 451 Quantitative Analysis, BA 497 Service Leadership Project, BA 498 Business Policy; C. Financial Management, BA 352 Legal Environment of Business, BA 355 Management Theory, BA 366 Principles of Marketing, BA 445 Quantitative Analysis, BA 451 Operations Management, BA 498 Business Ethics; D. Financial Analysis, BA 352 Marketing, BA 355 Organizational Management, BA 366 Business Strategy, BA 451 Managerial Economics, BA 497 Business Project, BA 498 Leadership Policy;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Which lower division courses will I need to do as a Biology major? \n\nA. BA in Biology: BIOL 110 Colloquium for First-Year Biology Majors, BIOL 211 Biology of Cells, CHEM 120 General Chemistry I, CHEM 120L General Chemistry I Laboratory, CHEM 121 General Chemistry II, CHEM 121L General Chemistry II Laboratory, MATH 150 Calculus I, PHYS 202 General Physics I, PHYS 203 General Physics II, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants; BS in Biology: BIOL 110 Colloquium for First-Year Biology Majors, BIOL 211 Biology of Cells, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants, CHEM 120 General Chemistry I, CHEM 120L General Chemistry I Laboratory, CHEM 121 General Chemistry II, CHEM 121L General Chemistry II Laboratory, MATH 150 Calculus I, PHYS 202 General Physics I, PHYS 203 General Physics II, PHYS 210 Physics I, PHYS 211 Physics II; B. BA in Biology: BIOL 110 Biology Colloquium, BIOL 211 General Biology, CHEM 120 General Chemistry I, CHEM 121 General Chemistry II, MATH 150 Calculus I, PHYS 202 General Physics I, BIOL 212 Biology of Animals; BS in Biology: BIOL 110 General Colloquium, BIOL 211 Biology of Cells, CHEM 120 Chemistry I, CHEM 121 Chemistry II, PHYS 202 Physics I, PHYS 210 Physics II, BIOL 213 Biology of Plants; C. BA in Biology: BIOL 110 Intro to Biology, CHEM 120 General Chemistry I, MATH 150 Calculus I, PHYS 202 General Physics I, BIOL 213 Biology of Plants; BS in Biology: BIOL 110 General Biology, CHEM 120 General Chemistry I, MATH 150 Calculus I, PHYS 202 Physics I, BIOL 213 Advanced Biology; D. BA in Biology: BIOL 110 Colloquium, CHEM 120 General Chemistry I, BIOL 211 Cells and Systems, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants; BS in Biology: BIOL 110 Intro Colloquium, CHEM 120 General Chemistry I, PHYS 210 Physics I, PHYS 211 Physics II;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Which upper division courses will I need to do as a Bio major? \n\nA. BA in Biology: Upper-Division Courses: 27\u201329 units - BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry, CHEM 310L Organic Chemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, two upper-division biology courses, three upper-division courses in biology; BS in Biology: Upper-Division Courses: 32\u201333 units - BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry I, CHEM 310L Organic Chemistry I Laboratory, CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), three upper-division biology courses; B. BA in Biology: Upper-Division Courses: 30 units - BIOL 311 Ecology, BIOL 350 Genetics, BIOL 491 Senior Seminar, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, CHEM 330 Biochemistry, two upper-division biology courses; BS in Biology: Upper-Division Courses: 35 units - BIOL 311 Ecology, BIOL 350 Genetics, BIOL 491 Senior Seminar, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, CHEM 330 Cellular Biochemistry, three upper-division biology courses; C. BA in Biology: Upper-Division Courses: 25 units - BIOL 311 Introduction to Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, two upper-division biology courses; BS in Biology: Upper-Division Courses: 30 units - BIOL 311 Introduction to Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, three upper-division biology courses; D. BA in Biology: Upper-Division Courses: 27 units - BIOL 311 Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, two upper-division biology courses; BS in Biology: Upper-Division Courses: 32 units - BIOL 311 Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, three upper-division biology courses;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Which lower division courses will I need to do as an IMC major? \n\nA. ADV 275 Introduction to Advertising, BA 220 Accounting and Finance for Non-business Majors, COM 205 Storytelling Through Media, PR 255 Principles of Public Relations; B. ADV 275 Advertising Theory, BA 220 Business Accounting, COM 205 Media Storytelling, PR 255 Public Relations Principles; C. ADV 275 Introduction to Advertising, BA 220 Basic Finance, COM 205 Media Strategies, PR 255 Public Relations Practices; D. ADV 275 Advertising Concepts, BA 220 Accounting Principles, COM 205 Media and Storytelling, PR 255 PR Foundations;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What upper div courses are needed as an IMC major?\n\nA. ADV 375 Advertising Media Planning and Strategy, BA 355 Principles of Marketing, BA 366 Organizational Behavior (CC, WI), BA 470 Marketing Research, BA 471 Marketing Strategy, COM 495 Communication Internship, IMC 385 Integrated Marketing Communication, IMC 485 Advanced Integrated Marketing Communication, Choose one of the following graphic design courses: ART 330 Digital Arts II, MSCO 371 Communication Graphics; B. ADV 375 Advertising Media Planning, BA 355 Marketing Principles, BA 366 Organizational Behavior, BA 470 Research Methods, BA 471 Strategic Marketing, IMC 385 Marketing Communications, IMC 485 Marketing Integration, COM 495 Communication Practicum, ART 330 Graphic Design; C. ADV 375 Advertising Strategies, BA 355 Marketing Techniques, BA 366 Behavioral Marketing, BA 470 Marketing Research Methods, BA 471 Marketing Tactics, IMC 385 Communication Strategy, IMC 485 Marketing Development, ART 330 Advanced Design; D. ADV 375 Media Planning, BA 355 Principles of Marketing, BA 366 Organizational Strategies, BA 470 Marketing Strategies, IMC 485 Marketing and Communication, Choose one: ART 330 Digital Arts, MSCO 371 Graphics Communication;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Which lower division courses will I need to do as a Psychology major? \n\nA. PSYC 210 Foundations of Psychology (GE), PSYC 250 Introductory Statistics (GE), PSYC 310 Research Methods in Psychology (PS, RM, WI), PSYC 315 Psychological Testing and Assessment; B. PSYC 210 Introduction to Psychology, PSYC 250 Statistics, PSYC 310 Research Methods, PSYC 315 Psychology Assessment; C. PSYC 210 Foundations of Psychology, PSYC 250 Basic Statistics, PSYC 310 Psychology Research, PSYC 315 Assessment Methods; D. PSYC 210 Introduction to Psychology (GE), PSYC 250 Statistics for Psychology (GE), PSYC 310 Methods in Research (PS, RM, WI), PSYC 315 Testing and Assessment in Psychology;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Which lower division courses will I need to complete as an economics major? \n\nA. Foundation Courses (14 units): ECON 210 Introduction to Microeconomics (GE), ECON 211 Introduction to Macroeconomics (GE), ECON 212 Statistics for Economists; Choose one of the following: MATH 140 Calculus for Business and Economics (GE), MATH 150 Calculus I (GE); B. Foundation Courses (12 units): ECON 210 Microeconomics, ECON 211 Macroeconomics, ECON 212 Statistical Methods; Choose one of the following: MATH 140 Business Calculus, MATH 150 Calculus I; C. Foundation Courses (15 units): ECON 210 Microeconomic Principles, ECON 211 Macroeconomic Principles, ECON 212 Statistics for Economists, MATH 140 Business Calculus; D. Foundation Courses (13 units): ECON 210 Microeconomics, ECON 211 Macroeconomics, ECON 212 Econometric Statistics, MATH 150 Calculus I;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Which upper division courses will I need to complete as an economics major? \n\nA. ECON 320 Intermediate Microeconomic Theory, ECON 321 Intermediate Macroeconomic Theory (4), ECON 330 Introduction to Econometrics (PS, RM, WI) (4); Elective Courses (16 units): 16 units of elective courses at the 400 level (excluding ECON 490 and ECON 499); B. ECON 320 Microeconomic Theory, ECON 321 Macroeconomic Theory, ECON 330 Econometrics (4); Elective Courses: 12 units of 400-level courses, excluding ECON 490; C. ECON 320 Intermediate Microeconomic Analysis, ECON 321 Advanced Macroeconomics, ECON 330 Econometric Methods; Elective Courses: 15 units of upper-division electives; D. ECON 320 Microeconomics, ECON 321 Macroeconomics, ECON 330 Applied Econometrics; Elective Courses: 16 units at the 300 level, excluding ECON 490 and ECON 499;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How much is Pepperdine'es application fee? \n\nA. $70; B. $65; C. $80; D. $75;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What percent of students appreciate the effort professors put into classes at Pepperdine?\n\nA. 83%; B. 80%; C. 85%; D. 78%;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What percent of students say it is easy to get the classes they want at Pepperdine?\n\nA. 62%; B. 65%; C. 60%; D. 58%;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What percent of students say that the workload is easy to manage at Pepperdine?\n\nA. 51%; B. 48%; C. 53%; D. 50%;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What is the average class size at Pepperdine?\n\nA. 19; B. 21; C. 18; D. 20;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "How many degree programs are at Seaver College? \n\nA. 19; B. 87; C. 100; D. 46;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Where is Pepperdine ranked nationally?\n\nA. 80th; B. 75th; C. 85th; D. 90th;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "What is the four year graduation rate at Pepp?\n\nA. 75%; B. 70%; C. 80%; D. 72%;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Am I required to live on campus?\n\nA. All new students must live on campus and have meal plans for their first two academic years, including transfer residents required to live on campus for the entire academic year; B. Only first-year students are required to live on campus, with no meal plan requirement; C. Campus housing is optional for all students but highly recommended for first-year students; D. Transfer students are not required to live on campus, and only first-year students need meal plans;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "In the event that you can not house all intended students, how will you decide who receives priority? International students? Students without cars? Students from out of state?\n\nA. First and second-year students are required to live on campus and will generally be given first priority, with other considerations factored in; B. Students without cars are given top priority over all others; C. International students are automatically prioritized, with no consideration for others; D. Housing is assigned solely on a first-come, first-served basis;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Where do sophomores live on campus? \n\nA. Towers and Seaside housing; B. Freshman dorms and Seaside housing; C. Off-campus apartments and Towers; D. Freshman dorms and off-campus housing;",
+    "Expected Response": "A"
+  },
+  {
+    "Question": "Where can upperclassmen apply to live on campus? And are upperclassmen guaranteed housing?\n\nA. Upperclassmen can apply to live in Drescher or Lovernich apartments, but housing is not guaranteed; B. Upperclassmen can live in freshman dorms, and housing is guaranteed; C. Upperclassmen are required to live off campus; D. Upperclassmen can live in Towers, and housing is guaranteed;",
+    "Expected Response": "A"
+  }
+]

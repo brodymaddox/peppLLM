@@ -1,0 +1,2314 @@
+[
+  {
+    "name": "llama-2-7b_similarity_all_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-7b_similarity_contextual_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-7b_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-7b_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-7b_similarity_factual_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-7b_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-7b_similarity_procedural_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-7b_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-7b_mcq_contextual_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-7b_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-7b_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-7b_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-7b_mcq_factual_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-7b_mcq_procedural_test",
+    "model_name": "meta-llama/llama-2-7b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-13b_similarity_all_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-13b_similarity_contextual_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-13b_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-13b_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-13b_similarity_factual_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-13b_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-13b_similarity_procedural_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-13b_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-13b_mcq_contextual_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-13b_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-13b_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-13b_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-13b_mcq_factual_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-13b_mcq_procedural_test",
+    "model_name": "meta-llama/llama-2-13b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-70b_similarity_all_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-70b_similarity_contextual_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-70b_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-70b_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-70b_similarity_factual_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-70b_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-70b_similarity_procedural_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-2-70b_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-70b_mcq_contextual_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-70b_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-70b_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-70b_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-70b_mcq_factual_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-2-70b_mcq_procedural_test",
+    "model_name": "meta-llama/llama-2-70b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b_similarity_all_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b_similarity_factual_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b_mcq_factual_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3-8b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b-instruct_similarity_all_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b-instruct_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b-instruct_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b-instruct_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b-instruct_similarity_factual_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b-instruct_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b-instruct_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-8b-instruct_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b-instruct_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b-instruct_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b-instruct_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b-instruct_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b-instruct_mcq_factual_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-8b-instruct_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3-8b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b_similarity_all_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b_similarity_factual_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b_mcq_factual_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3-70b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b-instruct_similarity_all_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b-instruct_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b-instruct_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b-instruct_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b-instruct_similarity_factual_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b-instruct_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b-instruct_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3-70b-instruct_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b-instruct_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b-instruct_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b-instruct_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b-instruct_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b-instruct_mcq_factual_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3-70b-instruct_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3-70b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b_similarity_all_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b_similarity_factual_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b_mcq_factual_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_all_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_factual_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b-instruct_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b-instruct_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b-instruct_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b-instruct_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b-instruct_mcq_factual_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-8b-instruct_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b_similarity_all_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b_similarity_factual_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b_mcq_factual_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b-instruct_similarity_all_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b-instruct_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b-instruct_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b-instruct_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b-instruct_similarity_factual_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b-instruct_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b-instruct_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-70b-instruct_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b-instruct_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b-instruct_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b-instruct_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b-instruct_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b-instruct_mcq_factual_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.1-70b-instruct_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3.1-70b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b_similarity_all_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b_similarity_factual_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b_mcq_factual_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b-instruct_similarity_all_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b-instruct_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b-instruct_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b-instruct_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b-instruct_similarity_factual_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b-instruct_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b-instruct_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-1b-instruct_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b-instruct_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b-instruct_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b-instruct_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b-instruct_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b-instruct_mcq_factual_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-1b-instruct_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3.2-1b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b_similarity_all_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b_similarity_factual_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b_mcq_factual_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b-instruct_similarity_all_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b-instruct_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b-instruct_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b-instruct_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b-instruct_similarity_factual_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b-instruct_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b-instruct_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-3b-instruct_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b-instruct_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b-instruct_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b-instruct_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b-instruct_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b-instruct_mcq_factual_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-3b-instruct_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3.2-3b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision_similarity_all_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision_similarity_factual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision_mcq_factual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_similarity_all_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_similarity_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_similarity_factual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_similarity_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_mcq_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_mcq_contextual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_mcq_factual_contextual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_mcq_factual_contextual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_mcq_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_mcq_factual_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Factual Knowledge.json",
+    "is_multiple_choice": true
+  },
+  {
+    "name": "llama-3.2-11b-vision-instruct_mcq_procedural_test",
+    "model_name": "meta-llama/llama-3.2-11b-vision-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json",
+    "is_multiple_choice": true
+  }
+]
