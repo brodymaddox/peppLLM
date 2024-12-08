@@ -12,7 +12,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "When is fall break?\n\nA. October 18\u201321, 2024 (Friday\u2013Monday); B. October 4\u20137, 2024 (Friday\u2013Monday); C. October 11\u201314, 2024 (Friday\u2013Monday); D. October 25\u201328, 2024 (Friday\u2013Monday);",
+    "Question": "When is fall break?\n\nA. October 18-21, 2024 (Friday-Monday); B. October 4-7, 2024 (Friday-Monday); C. October 11-14, 2024 (Friday-Monday); D. October 25-28, 2024 (Friday-Monday);",
     "Expected Response": "C"
   },
   {
@@ -20,7 +20,7 @@
     "Expected Response": "A"
   },
   {
-    "Question": "When does the course evaluation period begin and end?\n\nA. November 11 \u2013 December 1, 2024; B. November 18 \u2013 December 8, 2024; C. November 25 \u2013 December 15, 2024; D. November 4 \u2013 November 24, 2024;",
+    "Question": "When does the course evaluation period begin and end?\n\nA. November 11 - December 1, 2024; B. November 18 - December 8, 2024; C. November 25 - December 15, 2024; D. November 4 - November 24, 2024;",
     "Expected Response": "B"
   },
   {
@@ -28,7 +28,7 @@
     "Expected Response": "C"
   },
   {
-    "Question": "When is the Thanksgiving holiday?\n\nA. November 28\u2013December 2, 2024; B. November 21\u201325, 2024; C. November 25\u201329, 2024; D. November 18\u201322, 2024;",
+    "Question": "When is the Thanksgiving holiday?\n\nA. November 28-December 2, 2024; B. November 21-25, 2024; C. November 25-29, 2024; D. November 18-22, 2024;",
     "Expected Response": "C"
   },
   {
@@ -36,7 +36,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "When are final exams for the fall semester?\n\nA. December 2\u20135, 2024; B. December 16\u201319, 2024; C. December 9\u201312, 2024; D. December 11\u201314, 2024;",
+    "Question": "When are final exams for the fall semester?\n\nA. December 2-5, 2024; B. December 16-19, 2024; C. December 9-12, 2024; D. December 11-14, 2024;",
     "Expected Response": "C"
   },
   {
@@ -48,7 +48,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "When are all pepperdine offices closed for winter break?\n\nA. December 23, 2024 \u2013 January 1, 2025; B. December 24, 2024 \u2013 January 3, 2025; C. December 24, 2024 \u2013 January 2, 2025; D. December 25, 2024 \u2013 January 2, 2025;",
+    "Question": "When are all pepperdine offices closed for winter break?\n\nA. December 23, 2024 - January 1, 2025; B. December 24, 2024 - January 3, 2025; C. December 24, 2024 - January 2, 2025; D. December 25, 2024 - January 2, 2025;",
     "Expected Response": "C"
   },
   {
@@ -68,7 +68,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "When is spring break?\n\nA. March 10\u201314, 2025 (Monday\u2013Friday); B. February 24\u201328, 2025 (Monday\u2013Friday); C. March 3\u20137, 2025 (Monday\u2013Friday); D. March 17\u201321, 2025 (Monday\u2013Friday);",
+    "Question": "When is spring break?\n\nA. March 10-14, 2025 (Monday-Friday); B. February 24-28, 2025 (Monday-Friday); C. March 3-7, 2025 (Monday-Friday); D. March 17-21, 2025 (Monday-Friday);",
     "Expected Response": "C"
   },
   {
@@ -88,7 +88,7 @@
     "Expected Response": "C"
   },
   {
-    "Question": "When are final exams for the spring semester?\n\nA. April 21\u201324, 2025; B. May 5\u20138, 2025; C. April 28\u2013May 1, 2025; D. April 14\u201317, 2025;",
+    "Question": "When are final exams for the spring semester?\n\nA. April 21-24, 2025; B. May 5-8, 2025; C. April 28-May 1, 2025; D. April 14-17, 2025;",
     "Expected Response": "C"
   },
   {
@@ -96,11 +96,11 @@
     "Expected Response": "B"
   },
   {
-    "Question": "What are the advantages of Pepperdine\u2019s philosophy minor?\n\nA. Philosophy provides a basic understanding of ethics but focuses solely on ancient texts; B. Philosophy explores foundational assumptions and challenges within human experience, prepares students for careers in law, journalism, government, public service, and business; C. Philosophy is primarily about memorizing theories without practical application to modern careers; D. Philosophy focuses on niche topics that are only relevant to academic research;",
+    "Question": "What are the advantages of Pepperdine's philosophy minor?\n\nA. Philosophy provides a basic understanding of ethics but focuses solely on ancient texts; B. Philosophy explores foundational assumptions and challenges within human experience, prepares students for careers in law, journalism, government, public service, and business; C. Philosophy is primarily about memorizing theories without practical application to modern careers; D. Philosophy focuses on niche topics that are only relevant to academic research;",
     "Expected Response": "B"
   },
   {
-    "Question": "What are the advantages of Pepperdine\u2019s physics major?\n\nA. The physics major focuses solely on theoretical physics with minimal practical applications; B. The physics major at Seaver College offers a well-balanced curriculum in experimental and theoretical physics, preparing students for careers in science, technology, and quantitative fields, as well as graduate education in physics, engineering, or environmental science; C. The physics major emphasizes experimental physics exclusively, neglecting theoretical frameworks; D. The physics major provides basic physics knowledge without preparation for advanced studies or professional careers;",
+    "Question": "What are the advantages of Pepperdine's physics major?\n\nA. The physics major focuses solely on theoretical physics with minimal practical applications; B. The physics major at Seaver College offers a well-balanced curriculum in experimental and theoretical physics, preparing students for careers in science, technology, and quantitative fields, as well as graduate education in physics, engineering, or environmental science; C. The physics major emphasizes experimental physics exclusively, neglecting theoretical frameworks; D. The physics major provides basic physics knowledge without preparation for advanced studies or professional careers;",
     "Expected Response": "B"
   },
   {
@@ -108,7 +108,7 @@
     "Expected Response": "A"
   },
   {
-    "Question": "What are the advantages of the physics minor?\n\nA. The physics minor is designed exclusively for engineering majors and requires only two courses; B. The physics minor provides a basic introduction to physics and a foundation for careers requiring a background in mathematics and science, requiring 23\u201324 units from four required courses and two additional courses; C. The physics minor focuses only on theoretical physics and requires no lab courses; D. The physics minor is optional for all majors but lacks practical application;",
+    "Question": "What are the advantages of the physics minor?\n\nA. The physics minor is designed exclusively for engineering majors and requires only two courses; B. The physics minor provides a basic introduction to physics and a foundation for careers requiring a background in mathematics and science, requiring 23-24 units from four required courses and two additional courses; C. The physics minor focuses only on theoretical physics and requires no lab courses; D. The physics minor is optional for all majors but lacks practical application;",
     "Expected Response": "B"
   },
   {
@@ -260,7 +260,7 @@
     "Expected Response": "A"
   },
   {
-    "Question": "Can you provide more information on the other grants I can apply for?\n\nA. Other institutional grants and scholarships\u2014such as the Tyler Trust End Scholarship, Malibu Seaver Scholarship, Frank R. Seaver End Scholarship, and University Supplemental Grant\u2014are renewable for up to four years, require a 2.0 GPA and full-time enrollment, and apply only to tuition; B. Other institutional grants and scholarships include one-time awards like the Tyler Trust End Scholarship and Frank R. Seaver End Scholarship, applicable to tuition and housing; C. Institutional grants include renewable awards with no GPA requirements or enrollment conditions, such as the University Supplemental Grant; D. Institutional scholarships like the Malibu Seaver Scholarship and Tyler Trust End Scholarship are merit-based and cover all educational expenses;",
+    "Question": "Can you provide more information on the other grants I can apply for?\n\nA. Other institutional grants and scholarships such as the Tyler Trust End Scholarship, Malibu Seaver Scholarship, Frank R. Seaver End Scholarship, and University Supplemental Grant are renewable for up to four years, require a 2.0 GPA and full-time enrollment, and apply only to tuition; B. Other institutional grants and scholarships include one-time awards like the Tyler Trust End Scholarship and Frank R. Seaver End Scholarship, applicable to tuition and housing; C. Institutional grants include renewable awards with no GPA requirements or enrollment conditions, such as the University Supplemental Grant; D. Institutional scholarships like the Malibu Seaver Scholarship and Tyler Trust End Scholarship are merit-based and cover all educational expenses;",
     "Expected Response": "A"
   },
   {
@@ -328,7 +328,7 @@
     "Expected Response": "A"
   },
   {
-    "Question": "Which upper division courses will I need to do as a Bio major? \n\nA. BA in Biology: Upper-Division Courses: 27\u201329 units - BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry, CHEM 310L Organic Chemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, two upper-division biology courses, three upper-division courses in biology; BS in Biology: Upper-Division Courses: 32\u201333 units - BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry I, CHEM 310L Organic Chemistry I Laboratory, CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), three upper-division biology courses; B. BA in Biology: Upper-Division Courses: 30 units - BIOL 311 Ecology, BIOL 350 Genetics, BIOL 491 Senior Seminar, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, CHEM 330 Biochemistry, two upper-division biology courses; BS in Biology: Upper-Division Courses: 35 units - BIOL 311 Ecology, BIOL 350 Genetics, BIOL 491 Senior Seminar, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, CHEM 330 Cellular Biochemistry, three upper-division biology courses; C. BA in Biology: Upper-Division Courses: 25 units - BIOL 311 Introduction to Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, two upper-division biology courses; BS in Biology: Upper-Division Courses: 30 units - BIOL 311 Introduction to Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, three upper-division biology courses; D. BA in Biology: Upper-Division Courses: 27 units - BIOL 311 Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, two upper-division biology courses; BS in Biology: Upper-Division Courses: 32 units - BIOL 311 Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, three upper-division biology courses;",
+    "Question": "Which upper division courses will I need to do as a Bio major? \n\nA. BA in Biology: Upper-Division Courses: 27-29 units - BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry, CHEM 310L Organic Chemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, two upper-division biology courses, three upper-division courses in biology; BS in Biology: Upper-Division Courses: 32-33 units - BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry I, CHEM 310L Organic Chemistry I Laboratory, CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), three upper-division biology courses; B. BA in Biology: Upper-Division Courses: 30 units - BIOL 311 Ecology, BIOL 350 Genetics, BIOL 491 Senior Seminar, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, CHEM 330 Biochemistry, two upper-division biology courses; BS in Biology: Upper-Division Courses: 35 units - BIOL 311 Ecology, BIOL 350 Genetics, BIOL 491 Senior Seminar, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, CHEM 330 Cellular Biochemistry, three upper-division biology courses; C. BA in Biology: Upper-Division Courses: 25 units - BIOL 311 Introduction to Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, two upper-division biology courses; BS in Biology: Upper-Division Courses: 30 units - BIOL 311 Introduction to Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, three upper-division biology courses; D. BA in Biology: Upper-Division Courses: 27 units - BIOL 311 Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, two upper-division biology courses; BS in Biology: Upper-Division Courses: 32 units - BIOL 311 Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, three upper-division biology courses;",
     "Expected Response": "A"
   },
   {
@@ -536,7 +536,7 @@
     "Expected Response": "C"
   },
   {
-    "Question": "Is there any support for returning students who are struggling with being back in Malibu?\n\nA. No, students are expected to adjust on their own without formal support.\nB. Yes, the Landed chapel series supports students returning for the spring semester, helping them process the transition and evaluate how they\u2019ve changed. Landed events are also held in the fall for students returning from the spring semester or academic year.\nC. Yes, but only informal peer support groups are available.\nD. No, but counseling services are offered for a fee.",
+    "Question": "Is there any support for returning students who are struggling with being back in Malibu?\n\nA. No, students are expected to adjust on their own without formal support.\nB. Yes, the Landed chapel series supports students returning for the spring semester, helping them process the transition and evaluate how they've changed. Landed events are also held in the fall for students returning from the spring semester or academic year.\nC. Yes, but only informal peer support groups are available.\nD. No, but counseling services are offered for a fee.",
     "Expected Response": "B"
   },
   {
@@ -548,7 +548,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "Do I need any vaccinations to study abroad?\n\nA. No vaccinations are required for any study abroad program.\nB. It depends on the program and destination. Some countries require specific vaccinations, while others recommend them. Students are responsible for getting information about necessary vaccinations and can contact International SOS at (215) 942-8226 or consult the CDC website for guidance.\nC. Yes, Pepperdine requires all students to be vaccinated against common diseases before studying abroad.\nD. Vaccinations are optional and entirely up to the student\u2019s discretion.",
+    "Question": "Do I need any vaccinations to study abroad?\n\nA. No vaccinations are required for any study abroad program.\nB. It depends on the program and destination. Some countries require specific vaccinations, while others recommend them. Students are responsible for getting information about necessary vaccinations and can contact International SOS at (215) 942-8226 or consult the CDC website for guidance.\nC. Yes, Pepperdine requires all students to be vaccinated against common diseases before studying abroad.\nD. Vaccinations are optional and entirely up to the student's discretion.",
     "Expected Response": "B"
   },
   {
@@ -560,7 +560,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "Do I travel on every weekend while abroad?\n\nA. Yes, students are required to travel every weekend to fully experience the culture.\nB. No, it\u2019s up to you! You can travel as much or as little as you like, but remember to explore your host country and immerse yourself in the local culture. Traveling every weekend can be exhausting, and you might miss out on valuable experiences where you\u2019re studying.\nC. Yes, traveling every weekend is included in the program itinerary.\nD. No, students are restricted from traveling outside the host country during weekends.",
+    "Question": "Do I travel on every weekend while abroad?\n\nA. Yes, students are required to travel every weekend to fully experience the culture.\nB. No, it's up to you! You can travel as much or as little as you like, but remember to explore your host country and immerse yourself in the local culture. Traveling every weekend can be exhausting, and you might miss out on valuable experiences where you're studying.\nC. Yes, traveling every weekend is included in the program itinerary.\nD. No, students are restricted from traveling outside the host country during weekends.",
     "Expected Response": "B"
   },
   {
@@ -572,11 +572,11 @@
     "Expected Response": "B"
   },
   {
-    "Question": "What is the Pendleton Learning Center (PLC) and where is it?\n\nA. The PLC is a recreational center for students located near the dormitories.\nB. The PLC houses separate study rooms for Payson Library, classrooms, offices, and one of Seaver College\u2019s largest lecture halls.\nC. The PLC is a student dining facility located next to Payson Library.\nD. The PLC is exclusively a faculty office building located on the edge of campus.",
+    "Question": "What is the Pendleton Learning Center (PLC) and where is it?\n\nA. The PLC is a recreational center for students located near the dormitories.\nB. The PLC houses separate study rooms for Payson Library, classrooms, offices, and one of Seaver College's largest lecture halls.\nC. The PLC is a student dining facility located next to Payson Library.\nD. The PLC is exclusively a faculty office building located on the edge of campus.",
     "Expected Response": "B"
   },
   {
-    "Question": "What is the Thornton Administrative Center and where is it?\n\nA. TAC is a student center located next to the library, offering dining and recreational facilities.\nB. TAC is a residential building for faculty members, located near the campus perimeter.\nC. TAC houses University administrative offices, admissions, fundraising offices, Seaver College\u2019s dean\u2019s office, and historical displays of founder George Pepperdine and namesake Blanche Seaver. It is the first building visitors encounter after entering the main gate, with visitor parking available in front of the building, behind it (token required), or on adjacent streets.\nD. TAC is a large lecture hall used exclusively for business and economics classes, located at the campus center.",
+    "Question": "What is the Thornton Administrative Center and where is it?\n\nA. TAC is a student center located next to the library, offering dining and recreational facilities.\nB. TAC is a residential building for faculty members, located near the campus perimeter.\nC. TAC houses University administrative offices, admissions, fundraising offices, Seaver College's dean's office, and historical displays of founder George Pepperdine and namesake Blanche Seaver. It is the first building visitors encounter after entering the main gate, with visitor parking available in front of the building, behind it (token required), or on adjacent streets.\nD. TAC is a large lecture hall used exclusively for business and economics classes, located at the campus center.",
     "Expected Response": "C"
   },
   {
@@ -592,7 +592,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "What is the Elkins Auditorium and where is it?\n\nA. The Elkins Auditorium is the University\u2019s largest lecture hall on the Seaver campus, located on the north side of Joslyn Plaza. It is accessible via Joslyn Plaza, adjacent to the Rockwell Academic Center, Black Family Plaza Classrooms, and the fountain, with internal connecting access via the Plaza Classrooms and Rockwell Academic Center.\nB. The Elkins Auditorium is a performing arts theater located near the Weisman Museum.\nC. The Elkins Auditorium is a small seminar room for graduate students, located within the Black Family Plaza Classrooms.\nD. The Elkins Auditorium is a dining facility for large student gatherings, located on the lower campus.",
+    "Question": "What is the Elkins Auditorium and where is it?\n\nA. The Elkins Auditorium is the University's largest lecture hall on the Seaver campus, located on the north side of Joslyn Plaza. It is accessible via Joslyn Plaza, adjacent to the Rockwell Academic Center, Black Family Plaza Classrooms, and the fountain, with internal connecting access via the Plaza Classrooms and Rockwell Academic Center.\nB. The Elkins Auditorium is a performing arts theater located near the Weisman Museum.\nC. The Elkins Auditorium is a small seminar room for graduate students, located within the Black Family Plaza Classrooms.\nD. The Elkins Auditorium is a dining facility for large student gatherings, located on the lower campus.",
     "Expected Response": "A"
   },
   {
@@ -608,7 +608,7 @@
     "Expected Response": "C"
   },
   {
-    "Question": "What is the Center for Communication and Business and where is it?\n\nA. The CCB is a recreational space for communication and business students, located near the Seaver Main Parking Lot.\nB. The CCB houses the academic divisions of Communication and Business, along with classrooms, offices, a live-feed broadcast studio, and Pepperdine\u2019s TV station, NewsWaves, which broadcasts to over 13,000 people in Malibu and Calabasas. It also contains the headquarters for the Department of Public Safety. Access is via Seaver Drive, with restricted parking in the CCB Parking Lot (card key required).\nC. The CCB is a performing arts building for media productions, located near Joslyn Plaza.\nD. The CCB is a student residence hall for business and communication majors, located on the south side of campus.",
+    "Question": "What is the Center for Communication and Business and where is it?\n\nA. The CCB is a recreational space for communication and business students, located near the Seaver Main Parking Lot.\nB. The CCB houses the academic divisions of Communication and Business, along with classrooms, offices, a live-feed broadcast studio, and Pepperdine's TV station, NewsWaves, which broadcasts to over 13,000 people in Malibu and Calabasas. It also contains the headquarters for the Department of Public Safety. Access is via Seaver Drive, with restricted parking in the CCB Parking Lot (card key required).\nC. The CCB is a performing arts building for media productions, located near Joslyn Plaza.\nD. The CCB is a student residence hall for business and communication majors, located on the south side of campus.",
     "Expected Response": "B"
   },
   {
@@ -636,11 +636,11 @@
     "Expected Response": "C"
   },
   {
-    "Question": "Do I need to order or reserve regalia?\n\nA. No, regalia will be provided to all graduates at the ceremony without prior reservation.\nB. No, regalia is not required to attend the ceremony.\nC. Yes, graduates attending the ceremony in person must reserve their regalia online through Herff Jones\u2019 website. In-person assistance is available during Graduation Kickoff at the Malibu campus bookstore on Tuesday, February 13, and Wednesday, February 14, from 10 AM to 4 PM.\nD. Yes, but graduates must purchase regalia directly at the bookstore without any online reservation options.",
+    "Question": "Do I need to order or reserve regalia?\n\nA. No, regalia will be provided to all graduates at the ceremony without prior reservation.\nB. No, regalia is not required to attend the ceremony.\nC. Yes, graduates attending the ceremony in person must reserve their regalia online through Herff Jones' website. In-person assistance is available during Graduation Kickoff at the Malibu campus bookstore on Tuesday, February 13, and Wednesday, February 14, from 10 AM to 4 PM.\nD. Yes, but graduates must purchase regalia directly at the bookstore without any online reservation options.",
     "Expected Response": "C"
   },
   {
-    "Question": "How do graduates get honor cords?\n\nA. Honor cords are given to undergraduate students with a minimum 3.5 GPA. Eligible students will be contacted by their school\u2019s commencement coordinator or academic advisor during the spring semester. Honor cords are free of charge.\nB. Honor cords are available for purchase at the campus bookstore for any student interested in receiving one.\nC. Honor cords are only given to graduate students who meet their program\u2019s specific requirements.\nD. Honor cords are awarded to all students attending the commencement ceremony, regardless of GPA.",
+    "Question": "How do graduates get honor cords?\n\nA. Honor cords are given to undergraduate students with a minimum 3.5 GPA. Eligible students will be contacted by their school's commencement coordinator or academic advisor during the spring semester. Honor cords are free of charge.\nB. Honor cords are available for purchase at the campus bookstore for any student interested in receiving one.\nC. Honor cords are only given to graduate students who meet their program's specific requirements.\nD. Honor cords are awarded to all students attending the commencement ceremony, regardless of GPA.",
     "Expected Response": "A"
   },
   {
@@ -660,11 +660,11 @@
     "Expected Response": "B"
   },
   {
-    "Question": "Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park?\n\nA. Yes, Seaver College\u2019s Commencement Ceremony at Alumni Park is open to all guests of graduating students. In the unlikely event of inclement weather requiring a change of venue, this policy may change. Graduates are encouraged to check the Seaver graduation webpage frequently for updates.\nB. No, attendance is restricted to immediate family members only.\nC. Yes, but each graduate is limited to a maximum of two guests.\nD. No, the ceremony is exclusively for graduating students and faculty members.",
+    "Question": "Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park?\n\nA. Yes, Seaver College's Commencement Ceremony at Alumni Park is open to all guests of graduating students. In the unlikely event of inclement weather requiring a change of venue, this policy may change. Graduates are encouraged to check the Seaver graduation webpage frequently for updates.\nB. No, attendance is restricted to immediate family members only.\nC. Yes, but each graduate is limited to a maximum of two guests.\nD. No, the ceremony is exclusively for graduating students and faculty members.",
     "Expected Response": "A"
   },
   {
-    "Question": "How do I apply for graduation? \n\nA. Log in to WaveNet and navigate to the \"Other Academic\" drop-down menu. Select \"Apply for Graduation\" and submit your intent. Confirm your major, indicate your ceremony attendance, update your diploma mailing address, and update your diploma name if necessary. Consult your Academic Advising Associate for questions about graduation requirements, and regularly check your Pepperdine email for updates from the graduation office.\nB. Complete a paper application available at the Registrar\u2019s Office and mail it to the graduation office.\nC. Email your Academic Advising Associate directly with your graduation intent and provide your diploma mailing address.\nD. Fill out a form at the commencement rehearsal to finalize your graduation application.",
+    "Question": "How do I apply for graduation? \n\nA. Log in to WaveNet and navigate to the \"Other Academic\" drop-down menu. Select \"Apply for Graduation\" and submit your intent. Confirm your major, indicate your ceremony attendance, update your diploma mailing address, and update your diploma name if necessary. Consult your Academic Advising Associate for questions about graduation requirements, and regularly check your Pepperdine email for updates from the graduation office.\nB. Complete a paper application available at the Registrar's Office and mail it to the graduation office.\nC. Email your Academic Advising Associate directly with your graduation intent and provide your diploma mailing address.\nD. Fill out a form at the commencement rehearsal to finalize your graduation application.",
     "Expected Response": "A"
   },
   {

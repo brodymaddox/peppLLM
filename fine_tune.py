@@ -3,8 +3,8 @@ import torch
 import argparse
 from transformers import AutoTokenizer, AutoModelForCausalLM, Trainer, TrainingArguments, DataCollatorForLanguageModeling, LlamaTokenizer, LlamaForCausalLM, DataCollatorWithPadding
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.document_loaders import PyPDFLoader, DirectoryLoader
-from langchain.embeddings.huggingface import HuggingFaceEmbeddings
+from langchain_community.document_loaders import PyPDFLoader, DirectoryLoader
+from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 from torch.utils.data import Dataset
 from peft import get_peft_model, LoraConfig
 
@@ -23,11 +23,11 @@ class TextDataset(Dataset):
 
 def run_fine_tuning(model_name: str, pdf_directories: list):
     pdf_texts = []
-
     for pdf_directory in pdf_directories:
-        loader = DirectoryLoader(pdf_directory, glob="**/*.pdf", loader_cls=PyPDFLoader)
+        loader = DirectoryLoader(pdf_directory, loader_cls=PyPDFLoader)
         documents = loader.load()
-        pdf_texts.extend([page.page_content for document in documents for page in document])
+        for document in documents:
+            pdf_texts.extend(document.page_content)
 
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=500,

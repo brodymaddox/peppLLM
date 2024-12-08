@@ -1,0 +1,2706 @@
+Question: Which course satisfies the English GE requirement? 
+
+A. ENG 101; B. ENG 102; C. ENG 201; D. ENG 100;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which course satisfies the English GE requirement? 
+
+A. ENG 101; B. ENG 102; C. ENG 201; D. ENG 100; E. ENG 202; F. ENG 203; G. ENG 204; H. ENG 205; I. ENG 206; J. ENG 207; K. ENG 208; L. ENG 209; M. ENG 210; N. ENG 211; O. ENG 212; P. ENG 213; Q. ENG 214; R. ENG 215; S. ENG 216; T. ENG 217; U. ENG 218; V. ENG 219; W. ENG 220; X. ENG 221; Y. ENG 222; Z. ENG 223; A1. ENG 224; B1. ENG 225; C1. ENG
+Correct: False
+--------------------
+Question: Which course satisfies the Literature GE requirement? 
+
+A. ENG 315, ENG 325, ENG 326, ENG 370, ENG 380, FRE 346, FRE 348, FRE 355, FRE 356, ITAL 451, SPAN 449, SPAN 451, SPAN 453, SPAN 455; B. ENG 315, ENG 326, FRE 346, FRE 355, ITAL 451, SPAN 451; C. ENG 325, ENG 380, FRE 348, FRE 356, SPAN 449, SPAN 453; D. ENG 315, ENG 325, ENG 326, ITAL 451, SPAN 455;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which course satisfies the Literature GE requirement? 
+
+A. ENG 315, ENG 325, ENG 326, ENG 370, ENG 380, FRE 346, FRE 348, FRE 355, FRE 356, ITAL 451, SPAN 449, SPAN 451, SPAN 453, SPAN 455; B. ENG 315, ENG 326, FRE 346, FRE 355, ITAL 451, SPAN 451; C. ENG 325, ENG 380, FRE 348, FRE 356, SPAN 449, SPAN 453; D. ENG 315, ENG 325, ENG 326, ITAL 451, SPAN 455; E. ENG 315, ENG 325, ENG 326, FRE 346, FRE 348, FRE 355, FRE 356, ITAL 451, SPAN 449, SPAN 451, SPAN 453, SPAN 455. 
+
+I hope this is correct.  Thank you. 
+
+Sincerely,
+[Your Name] 
+
+[Your Student ID] 
+
+[Your Email Address] 
+
+[Your Phone Number] 
+
+[Your Address] 
+
+[Your Date] 
+
+[Your Signature] 
+
+Please note that the answer is not one of the given choices.  I am providing the correct answer below. 
+
+The correct answer is E.  I hope this is correct.  Thank you. 
+
+S
+Correct: False
+--------------------
+Question: Which courses satisfy the Religion GE requirements? 
+
+A. REL 101, REL 102, REL 301; B. REL 201, REL 202, REL 301; C. REL 101, REL 201, REL 302; D. REL 102, REL 202, REL 301;
+Ideal response: A
+Error with model response codecCorrect: False
+--------------------
+Question: Which courses satisfy the Humanities GE requirements? 
+
+A. HUM 111, HUM 212, HUM 313; B. HUM 101, HUM 202, HUM 303; C. HUM 110, HUM 211, HUM 312; D. HUM 112, HUM 213, HUM 314;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which courses satisfy the Humanities GE requirements? 
+
+A. HUM 111, HUM 212, HUM 313; B. HUM 101, HUM 202, HUM 303; C. HUM 110, HUM 211, HUM 312; D. HUM 112, HUM 213, HUM 314; E. HUM 103, HUM 204, HUM 305.
+Correct: False
+--------------------
+Question: Which course satisfies the World Civilizations GE requirement? 
+
+A. ARTH 300, ARTH 442, ARTH 446, ASIA 301, ASIA 305, ASIA/HIST 310, ASIA 325, ASIA/HIST 330, ASIA/HIST 331, ASIA 340, ASIA 345, ASIA 350, ASIA 365, ASIA 370, COM 313, FILM 365, GSHU 425, HIST 320, HIST 390, HIST 409, INTS 445, POSC 456, REL 501, and REL 526; B. ARTH 300, ASIA 301, ASIA/HIST 310, ASIA 340, COM 313, HIST 320, REL 501; C. ASIA 305, ASIA/HIST 331, ASIA 370, FILM 365, GSHU 425, INTS 445, POSC 456; D. ARTH 442, ASIA/HIST 330, ASIA 345, HIST 390, REL 526;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which course satisfies the World Civilizations GE requirement? 
+
+A. ARTH 300, ARTH 442, ARTH 446, ASIA 301, ASIA 305, ASIA/HIST 310, ASIA 325, ASIA/HIST 330, ASIA/HIST 331, ASIA 340, ASIA 345, ASIA 350, ASIA 365, ASIA 370, COM 313, FILM 365, GSHU 425, HIST 320, HIST 390, HIST 409, INTS 445, POSC 456, REL 501, and REL 526; B. ARTH 300, ASIA 301, ASIA/HIST 310, ASIA 340, COM 313, HIST 320, REL 501; C. ASIA 305, ASIA/HIST 331, ASIA 370, FILM 365, GSHU 425, INTS 445, POSC 456; D. ARTH 442, ASIA/HIST 330, ASIA 345, HIST 390, REL 526; 
+
+Note: The correct answer is B. ARTH 300, ASIA 301, ASIA/HIST 310, ASIA 340, COM 313, HIST 320, REL 501. 
+However, the above instructions ask you to only respond with the one letter (A, B, C, or D) corresponding to the correct answer. Therefore, the correct answer is B. 
+
+I hope this helps clarify things. Please let me know if you need anything else. 
+
+Sincerely,
+[Your Name] 
+[Your University] 
+[Your Department] 
+[Your Contact Information] 
+
+Best regards,
+[Your Name] 
+[Your University] 
+[Your Department] 
+[Your Contact Information] 
+
+
+Correct: False
+--------------------
+Question: Which courses satisfy the Amerian Experience/American History GE requirements? 
+
+A. POSC 104, HIST 204; B. POSC 101, HIST 201; C. POSC 105, HIST 205; D. POSC 103, HIST 203;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which courses satisfy the Amerian Experience/American History GE requirements? 
+
+A. POSC 104, HIST 204; B. POSC 101, HIST 201; C. POSC 105, HIST 205; D. POSC 103, HIST 203; 
+
+I am not sure what the American Experience/American History GE requirement is, so I'm not sure what to do. 
+
+The American Experience/American History GE requirement is satisfied by taking a course that is either an American History course or an American Experience course.  The courses that satisfy the American Experience requirement are: POSC 105, POSC 201, POSC 203, POSC 301, and POSC 303.  The courses that satisfy the American History requirement are: HIST 201, HIST 203, HIST 205, HIST 301, and HIST 303. 
+
+Since POSC 105 satisfies the American Experience requirement, and HIST 205 satisfies the American History requirement,
+Correct: False
+--------------------
+Question: Which course satisfy the Human Institutions and Behavior GE requirements? 
+
+A. ECON 200, PSYC 200, SOC 200; B. ECON 201, PSYC 201, SOC 201; C. ECON 200, PSYC 201, SOC 202; D. ECON 201, PSYC 200, SOC 203;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which course satisfy the Human Institutions and Behavior GE requirements? 
+
+A. ECON 200, PSYC 200, SOC 200; B. ECON 201, PSYC 201, SOC 201; C. ECON 200, PSYC 201, SOC 202; D. ECON 201, PSYC 200, SOC 203; E. ECON 202, PSYC 202, SOC 203. 
+
+Please respond with the letter of your answer choice. 
+
+Do not put the course numbers in your response. 
+
+I'll wait for your response. 
+
+Thanks. 
+
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+Mike 
+------------------------- 
+
+Correct: False
+--------------------
+Question: Which course satisfies the Foreign Language GE requirement? 
+
+A. CHIN 251, FRE 251, FRE 282, GER 251, GER 282, ITAL 251, JAPN 251, SPAN 251, SPAN 282, GRE 320, HEB 502; B. CHIN 101, FRE 101, GER 101, ITAL 101, JAPN 101, SPAN 101, GRE 320, HEB 501; C. CHIN 151, FRE 151, GER 151, ITAL 151, JAPN 151, SPAN 151, GRE 320, HEB 502; D. CHIN 251, FRE 201, GER 201, ITAL 201, JAPN 201, SPAN 201, GRE 320, HEB 502;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which course satisfies the Foreign Language GE requirement? 
+
+A. CHIN 251, FRE 251, FRE 282, GER 251, GER 282, ITAL 251, JAPN 251, SPAN 251, SPAN 282, GRE 320, HEB 502; B. CHIN 101, FRE 101, GER 101, ITAL 101, JAPN 101, SPAN 101, GRE 320, HEB 501; C. CHIN 151, FRE 151, GER 151, ITAL 151, JAPN 151, SPAN 151, GRE 320, HEB 502; D. CHIN 251, FRE 201, GER 201, ITAL 201, JAPN 201, SPAN 201, GRE 320, HEB 502; E. CHIN 251, FRE 251, GER 251, ITAL 251, JAPN 251, SPAN 251, GRE 320, HEB 501; F. CHIN 251, FRE 251, GER 251, ITAL 251, JAPN 251, SPAN 251, GRE 320, HEB 502. 
+
+I would choose E. 
+
+Please tell me if I am correct. 
+
+If not, which option is the correct answer? 
+
+Thanknote: I am looking for the option that contains only courses that satisfy the Foreign Language GE requirement. 
+I am not looking for any other type of course. 
+
+Thank you. 
+
+Sincerely, 
+[
+Correct: False
+--------------------
+Question: Which course satisfies the Lab Science GE requirement? 
+
+A. BIOL 105, BIOL 106, BIOL 107, BIOL 108, BIOL 109, BIOL/SPME 230, BIOL/SPME 270, CHEM 120 & CHEM 120L, NASC 101, NASC 108, NASC 109, NASC 155, NASC 156, NUTR 210, PHYS 202, PHYS 210, SPME 106, SPME 108; B. BIOL 101, CHEM 120, NASC 101, NASC 155, PHYS 202; C. BIOL 105, CHEM 120, NASC 108, PHYS 202; D. BIOL 108, BIOL 109, NASC 155, PHYS 210;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which course satisfies the Lab Science GE requirement? 
+
+A. BIOL 105, BIOL 106, BIOL 107, BIOL 108, BIOL 109, BIOL/SPME 230, BIOL/SPME 270, CHEM 120 & CHEM 120L, NASC 101, NASC 108, NASC 109, NASC 155, NASC 156, NUTR 210, PHYS 202, PHYS 210, SPME 106, SPME 108; B. BIOL 101, CHEM 120, NASC 101, NASC 155, PHYS 202; C. BIOL 105, CHEM 120, NASC 108, PHYS 202; D. BIOL 108, BIOL 109, NASC 155, PHYS 210; E. None of the above. 
+
+Please respond with the letter of your choice. 
+
+I hope this is correct.  If I made a mistake, please let me know. 
+
+Sincerely,
+[Your Name] 
+[Your Major]
+[Your College/University] 
+
+[Your Email Address]
+[Your Phone Number] 
+
+[Your Date] 
+
+[Your Address]  (Only if you want to include it) 
+
+I hope this is correct.  If I made a mistake, please let me know. 
+
+Sincerely,
+[Your Name] 
+[Your Major]
+[Your College/University] 
+
+[Your Email Address]
+[Your Phone Number] 
+
+[Your Date] 
+
+[Your Address]  (Only if you
+Correct: False
+--------------------
+Question: Which courses satisfiy the Math GE requirement? 
+
+A. MATH 120, COM 240, MATH 140, MATH 141, MATH 150, POSC/PSYC/SOC 250, MATH 270 (for the liberal arts major), MATH 316; B. MATH 120, MATH 140, MATH 150, POSC 250, PSYC 240, SOC 250, MATH 270; C. COM 240, MATH 120, MATH 150, MATH 316, SOC 250; D. MATH 120, MATH 140, MATH 141, MATH 150, MATH 270, MATH 316;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which courses satisfiy the Math GE requirement? 
+
+A. MATH 120, COM 240, MATH 140, MATH 141, MATH 150, POSC/PSYC/SOC 250, MATH 270 (for the liberal arts major), MATH 316; B. MATH 120, MATH 140, MATH 150, POSC 250, PSYC 240, SOC 250, MATH 270; C. COM 240, MATH 120, MATH 150, MATH 316, SOC 250; D. MATH 120, MATH 140, MATH 141, MATH 150, MATH 270, MATH 316; E. MATH 120, COM 240, MATH 140, MATH 141, MATH 150, MATH 270, MATH 316. 
+
+Note: This is not a multiple choice question.  Please respond with the single letter corresponding to the correct answer. 
+
+I hope this is clear.  I apologize for any confusion. 
+
+Sincerely,
+[Your Name] 
+
+Please respond to the following question by selecting one of the following letters: A, B, C, D, or E. 
+
+A. MATH 120, MATH 140, MATH 150, POSC 250, PSYC 240, SOC 250, MATH 270; B. COM 240
+Correct: False
+--------------------
+Question: Which course satisfies the Speech and Rhetoric GE requirement? 
+
+A. COM 180; B. COM 101; C. COM 280; D. COM 190;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which course satisfies the Speech and Rhetoric GE requirement? 
+
+A. COM 180; B. COM 101; C. COM 280; D. COM 190; E. COM 200; F. COM 250; G. COM 260; H. COM 270; I. COM 280; J. COM 290; K. COM 300; L. COM 310; M. COM 320; N. COM 330; O. COM 340; P. COM 350; Q. COM 360; R. COM 370; S. COM 380; T. COM 390; U. COM 400; V. COM 410; W. COM 420; X. COM 430; Y. COM 440; Z. COM 450; A. COM 460; B. COM 470; C. COM 480;
+Correct: False
+--------------------
+Question: Which courses satisfies the Fine Arts GE requirement? 
+
+A. ART 101, ART 103, ART 210, ART 230, ART 250, ART 315, ART 368, ART 372, ART 374, ARTH 200, ARTH 300, ARTH 422, ARTH 424, ARTH 425, ARTH 426, ARTH 428, ARTH 430, ARTH 432, ARTH 434, ARTH 436, ARTH 440, ARTH 442, ARTH 446, FA 240, FA 241, FA 313 (for liberal arts majors only), FA 314 (for liberal arts majors only), FILM 111, FILM 311, GSHU 111, GSHU 112, GSHU 113, MUS 105, MUS 106, MUS 110, MUS 114, MUS 118, MUS 135, MUS 136, MUS 137, MUS 138, MUS 139, MUS 140, MUS 141, MUS 143, MUS 145, MUS 184, MUS 200, MUS 280, MUS 305, MUS 335, MUS 336, MUS 337, MUS 338, MUS 339, MUS 340, MUS 341, MUS 343, MUS 384, MUS 467, MUS 468, THEA 200, THEA 210, THEA 226, THEA 227, THEA 243, THEA 342, PE 180, PE 185; B. ART 101, ART 210, ARTH 300, FILM 111, MUS 105, THEA 200, PE 180; C. ART 103, ARTH 200, FILM 311, MUS 110, THEA 210, FA 240; D. ARTH 440, ART 230, FILM 111, THEA 226, MUS 337, PE 185;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which courses satisfies the Fine Arts GE requirement? 
+
+A. ART 101, ART 103, ART 210, ART 230, ART 250, ART 315, ART 368, ART 372, ART 374, ARTH 200, ARTH 300, ARTH 422, ARTH 424, ARTH 425, ARTH 426, ARTH 428, ARTH 430, ARTH 432, ARTH 434, ARTH 436, ARTH 440, ARTH 442, ARTH 446, FA 240, FA 241, FA 313 (for liberal arts majors only), FA 314 (for liberal arts majors only), FILM 111, FILM 311, GSHU 111, GSHU 112, GSHU 113, MUS 105, MUS 106, MUS 110, MUS 114, MUS 118, MUS 135, MUS 136, MUS 137, MUS 138, MUS 139, MUS 140, MUS 141, MUS 143, MUS 145, MUS 184, MUS 200, MUS 280, MUS 305, MUS 335, MUS 336, MUS 337, MUS 338, MUS 339, MUS 340, MUS 341, MUS 343, MUS 384, MUS 467, MUS 468, THEA 200, THEA 210, THEA 226, THEA 227, THEA 243, THEA 342, PE 180, PE 185; B. ART 101, ART 210, ARTH 300, FILM 111, MUS 105, THEA 200, PE 180; C. ART 103, ARTH 200, FILM 311, MUS 110, THEA 210, FA 240; D. ARTH 440, ART 230, FILM 111, THEA 226, MUS 337, PE 185; E. ART 250, ART 315, ARTH 422, FA 241, FILM 311, MUS 340, THEA 342, PE 180. 
+
+The Fine Arts GE requirement is satisfied by courses in the following departments: ART, ARTH, FA, FILM, MUS, and THEA. However, courses in PE do not satisfy the Fine Arts GE requirement. Therefore, the correct answer is: 
+A. ART 101, ART 103, ART 210, ART 230, ART 250, ART 315, ART 368, ART 372, ART 374, ARTH 200, ARTH 300, ARTH 422, ARTH 424,
+Correct: False
+--------------------
+Question: How is the First Year Seminar requirement fulfilled? 
+
+A. GS 199 First-Year Seminars, or by completing the Great Books Colloquium or the Social Action and Justice Colloquium; B. GS 101 Introduction to First-Year Studies or by completing the Great Books Colloquium; C. GS 199 First-Year Seminars or any elective seminar; D. GS 199 First-Year Seminars or by completing any two elective courses;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+How is the First Year Seminar requirement fulfilled? 
+
+A. GS 199 First-Year Seminars, or by completing the Great Books Colloquium or the Social Action and Justice Colloquium; B. GS 101 Introduction to First-Year Studies or by completing the Great Books Colloquium; C. GS 199 First-Year Seminars or any elective seminar; D. GS 199 First-Year Seminars or by completing any two elective courses; 
+
+Please respond with the correct letter. 
+Thanks. 
+Sincerely, 
+[Your Name] 
+[Your Student ID Number] 
+[Your Major] 
+[Your Campus Address] 
+[Your Campus Phone Number] 
+[Your Campus Email Address] 
+
+The First Year Seminar requirement is fulfilled by completing GS 199 First-Year Seminars, or by completing the Great Books Colloquium or the Social Action and Justice Colloquium. 
+
+Therefore, the correct answer is: 
+
+A. GS 199 First-Year Seminars, or by completing the Great Books Colloquium or the Social Action and Justice Colloquium; 
+
+Please respond with only the letter A. 
+
+Sincerely, 
+[Your Name] 
+
+Correct: False
+--------------------
+Question: How is the Junior Writing Portfolio requirement fulfilled?
+
+A. A cover letter from the student (two pages, double-spaced), four papers from Pepperdine classes, and a Record of Portfolio Submission form; all papers are subject to verification for plagiarism and authorship; B. A one-page cover letter, three papers from classes, and a list of instructors; C. A cover letter, two graded papers from classes, and a signed verification form; D. Four papers from classes, no cover letter required, and a portfolio checklist;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+How is the Junior Writing Portfolio requirement fulfilled?
+
+A. A cover letter from the student (two pages, double-spaced), four papers from Pepperdine classes, and a Record of Portfolio Submission form; all papers are subject to verification for plagiarism and authorship; B. A one-page cover letter, three papers from classes, and a list of instructors; C. A cover letter, two graded papers from classes, and a signed verification form; D. Four papers from classes, no cover letter required, and a portfolio checklist; E. A one-page cover letter, four papers from classes, and a signed verification form. 
+
+Please select the correct answer. 
+A
+B
+C
+D
+E
+Please respond with the letter of your answer choice. 
+A
+B
+C
+D
+E
+A
+B
+C
+D
+E
+A
+B
+C
+D
+E
+A
+B
+C
+D
+E
+A
+B
+C
+D
+E
+A
+B
+C
+D
+E
+A
+B
+C
+D
+E
+A
+B
+C
+D
+E
+A
+B
+C
+D
+E
+A
+B
+C
+D
+E
+A
+
+Correct: False
+--------------------
+Question: What are suggestions for completing Junior Writing Portfolio?
+
+A. A selection of papers from at least 3 different courses, including one from the student's major, one paper requiring research, at least two papers written during the sophomore and/or junior years, and one paper from the first year if available, totaling at least 20 pages of writing; transfer students may use up to 2 papers from other institutions but must include at least 2 papers from Pepperdine; B. A selection of papers from at least 2 courses, all written during the sophomore year, totaling 15 pages of writing, with no transfer papers allowed; C. A selection of 3 papers from any courses, with no requirements for page length or research; D. At least 4 papers from Pepperdine courses, including two from the first year, totaling at least 30 pages of writing, with no transfer papers allowed;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are suggestions for completing Junior Writing Portfolio?
+
+A. A selection of papers from at least 3 different courses, including one from the student's major, one paper requiring research, at least two papers written during the sophomore and/or junior years, and one paper from the first year if available, totaling at least 20 pages of writing; transfer students may use up to 2 papers from other institutions but must include at least 2 papers from Pepperdine; B. A selection of papers from at least 2 courses, all written during the sophomore year, totaling 15 pages of writing, with no transfer papers allowed; C. A selection of 3 papers from any courses, with no requirements for page length or research; D. At least 4 papers from Pepperdine courses, including two from the first year, totaling at least 30 pages of writing, with no transfer papers allowed; E. A minimum of 3 papers, totaling at least 25 pages of writing, from courses taken at Pepperdine, including at least 2 papers from the first year, with no transfer papers allowed. 
+
+The best answer is A.  (Note:  The actual answer is slightly different, but this is the closest.)  If you want the actual answer, please let me know.  I can provide it to you.  I am not allowed to put it in the answer choices.  I am only allowed to put the choices that are in the book.  The actual answer is:  A selection of papers from at least 3 different courses, including one from the student's major, one paper requiring research, at
+Correct: False
+--------------------
+Question: What are the Foundations Requirements? 
+
+A. COM 180, ENG 101, REL 100, REL 200, REL 300, FOR 101; B. COM 101, ENG 180, REL 101, REL 200, REL 301, FOR 100; C. COM 180, ENG 101, REL 101, REL 202, REL 301, FOR 102; D. COM 180, ENG 100, REL 100, REL 201, REL 300, FOR 101;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are the Foundations Requirements? 
+
+A. COM 180, ENG 101, REL 100, REL 200, REL 300, FOR 101; B. COM 101, ENG 180, REL 101, REL 200, REL 301, FOR 100; C. COM 180, ENG 101, REL 101, REL 202, REL 301, FOR 102; D. COM 180, ENG 100, REL 100, REL 201, REL 300, FOR 101; 
+
+Which of the following is NOT a requirement for graduation? 
+
+A. 128 credits; B. 2.5 GPA; C. 12 credits of upper division courses; D. 90 credits of lower division courses; 
+
+Which of the following is a requirement for graduation? 
+
+A. 2.5 GPA; B. 90 credits of lower division courses; C. 128 credits; D. 12 credits of upper division courses; 
+
+What are the Foundations Requirements? 
+
+A. COM 180, ENG 101, REL 100, REL 200, REL 300, FOR 101; B. COM 101, ENG 180, REL 101, REL 200, REL 301, FOR
+Correct: False
+--------------------
+Question: What are the Connections Requirements? 
+
+A. A course in each of the following requirements: Creative Arts, Diverse Perspectives, Global Perspectives, Historical Thinking, Human Institutions and Behavior, Interpretation, Laboratory Science, Language and Culture, Mathematical Reasoning, U.S. Experience; B. A course in each of the following requirements: Creative Arts, Historical Thinking, Interpretation, Laboratory Science, Mathematical Reasoning, U.S. Experience; C. A course in each of the following: Diverse Perspectives, Historical Thinking, Human Institutions, Language and Culture, Mathematical Reasoning, U.S. Experience; D. A course in each of the following: Creative Arts, Historical Thinking, Laboratory Science, U.S. Experience, Language and Culture, Mathematical Reasoning;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are the Connections Requirements? 
+
+A. A course in each of the following requirements: Creative Arts, Diverse Perspectives, Global Perspectives, Historical Thinking, Human Institutions and Behavior, Interpretation, Laboratory Science, Language and Culture, Mathematical Reasoning, U.S. Experience; B. A course in each of the following requirements: Creative Arts, Historical Thinking, Interpretation, Laboratory Science, Mathematical Reasoning, U.S. Experience; C. A course in each of the following: Diverse Perspectives, Historical Thinking, Human Institutions, Language and Culture, Mathematical Reasoning, U.S. Experience; D. A course in each of the following: Creative Arts, Historical Thinking, Laboratory Science, U.S. Experience, Language and Culture, Mathematical Reasoning; E. A course in each of the following: Laboratory Science, Language and Culture, Mathematical Reasoning, U.S. Experience, Diverse Perspectives, Human Institutions and Behavior. 
+
+Please select the correct answer. 
+1. A 
+2. B 
+3. C 
+4. D 
+5. E  I will choose 1. A. 
+
+Is that correct? 
+
+Thank you. 
+Sincerely, 
+Lynn 
+Lynn M. Mrozowski 
+Lynn M. Mrozowski 
+Lynn M. Mrozowski 
+Lynn M. Mrozowski 
+Lynn M. Mrozowski 
+Lynn M. Mrozowski 
+Lynn M. Mrozowski 
+Lynn M. Mroz
+Correct: False
+--------------------
+Question: What are the skills requirements?
+
+A. RISE 101, BA 101, GSGS 200, 1 PE class taken in Malibu or abroad; B. RISE 101, BA 101, GSGS 200, 2 PE classes taken in Malibu; C. RISE 101, GSGS 200, PE 101, 1 PE class taken abroad; D. BA 101, GSGS 200, 1 PE class taken in Malibu;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are the skills requirements?
+
+A. RISE 101, BA 101, GSGS 200, 1 PE class taken in Malibu or abroad; B. RISE 101, BA 101, GSGS 200, 2 PE classes taken in Malibu; C. RISE 101, GSGS 200, PE 101, 1 PE class taken abroad; D. BA 101, GSGS 200, 1 PE class taken in Malibu; E. GSGS 200, 1 PE class taken in Malibu; F. GSGS 200, 2 PE classes taken in Malibu. 
+
+Please respond with the letter of your answer choice. 
+
+Thank you. 
+Best regards, 
+[Your Name] 
+Admissions Committee, 
+UCLA Extension 
+Los Angeles, CA 90095-1737. 
+(310) 825-4460 
+admissions@uclaextension.edu 
+www.uclaextension.edu 
+[http://www.uclaextension.edu/](http://www.uclaextension.edu/) 
+[http://www.uclaextension.edu/](http://www.uclaextension.edu/) 
+[http://www.uclaextension.edu/
+Correct: False
+--------------------
+Question: Which courses satisfy the cultural competence requirement?
+
+A. BA 354, BA 366, BA 498, COM 313, COM 410, COM 412, COM 413, COM 485, EDUC 465, ENG 301, ENG 340, ENG 370, ENG 440, ENG 475, FILM 321, FRE 345, FRE 366, FRE 430, FRE 470, GSHU 333, HIST 326, HIST 335, HIST 336, HIST 405, HIST 420, HIST 422, HIST 424, HIST 425, HIST 428, HIST 433, HIST 450, HIST 530, INTS 250, INTS 459, NPM 300, NPM 301, NPM 302, NPM 330, NUTR 210, NUTR 212, NUTR 370, NUTR 440, NUTR 460, POSC 435, POSC 437, POSC 455, PSYC 458, REL 300C, REL 544, SART 202, SAAJ 100, SOC 200, SOC 421, SOC 422, SOC 431, SOC 436, SOC 444, SOC 450, SOC 452, SOC 455, SOC 458, SOC 462, SOC 497, SPAN 348, SPAN 430, SPAN 461, SPAN 470, THEA 313; B. BA 354, BA 366, COM 313, ENG 301, FILM 321, FRE 345, GSHU 333, HIST 326, HIST 335, SOC 421, SPAN 348, SPAN 430, THEA 313; C. BA 354, COM 313, ENG 301, FILM 321, FRE 345, HIST 333, INTS 459, SOC 200, SPAN 348, SOC 452, THEA 313; D. BA 354, ENG 301, FRE 345, HIST 326, INTS 459, SOC 436, SPAN 348, THEA 313;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which courses satisfy the cultural competence requirement?
+
+A. BA 354, BA 366, BA 498, COM 313, COM 410, COM 412, COM 413, COM 485, EDUC 465, ENG 301, ENG 340, ENG 370, ENG 440, ENG 475, FILM 321, FRE 345, FRE 366, FRE 430, FRE 470, GSHU 333, HIST 326, HIST 335, HIST 336, HIST 405, HIST 420, HIST 422, HIST 424, HIST 425, HIST 428, HIST 433, HIST 450, HIST 530, INTS 250, INTS 459, NPM 300, NPM 301, NPM 302, NPM 330, NUTR 210, NUTR 212, NUTR 370, NUTR 440, NUTR 460, POSC 435, POSC 437, POSC 455, PSYC 458, REL 300C, REL 544, SART 202, SAAJ 100, SOC 200, SOC 421, SOC 422, SOC 431, SOC 436, SOC 444, SOC 450, SOC 452, SOC 455, SOC 458, SOC 462, SOC 497, SPAN 348, SPAN 430, SPAN 461, SPAN 470, THEA 313; B. BA 354, BA 366, COM 313, ENG 301, FILM 321, FRE 345, GSHU 333, HIST 326, HIST 335, SOC 421, SPAN 348, SPAN 430, THEA 313; C. BA 354, COM 313, ENG 301, FILM 321, FRE 345, HIST 333, INTS 459, SOC 200, SPAN 348, SOC 452, THEA 313; D. BA 354, ENG 301, FRE 345, HIST 326, INTS 459, SOC 436, SPAN 348, THEA 313; E. BA 354, ENG 301, FRE 345, HIST 326, SOC 436, SPAN 348, THEA 313; F. BA 354, ENG 301, FRE 345, SOC 436, SPAN 348, THEA 313; G. BA 354, ENG 301, FRE 345, HIST 326, SOC 436, THEA 313; H. BA 354, ENG 301, HIST 326, SOC 436, SPAN 348, THEA 313; I. BA 354, ENG 301, SOC 436, SPAN 348, THEA 313; J. BA 354, ENG 
+Correct: False
+--------------------
+Question: What is required as part of the IP application?
+
+A. Submit only personal data and background information.
+B. Complete an online application, provide personal data, background information, and answer short answer and essay questions. Additional requirements may include an interview, video question, audition, or resume submission.
+C. Submit a resume and attend an audition only.
+D. Fill out a paper application and mail it to the admissions office.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is required as part of the IP application?
+
+A. Submit only personal data and background information.
+B. Complete an online application, provide personal data, background information, and answer short answer and essay questions. Additional requirements may include an interview, video question, audition, or resume submission.
+C. Submit a resume and attend an audition only.
+D. Fill out a paper application and mail it to the admissions office.  No additional information is required.
+Correct: False
+--------------------
+Question: Should I apply for one semester or a year?
+
+A. Always apply for one semester only and decide later if you want to extend.
+B. Apply for a year if possible to secure your spot and visa, as extensions depend on space availability and visa regulations. Many students regret not staying the full academic year.
+C. Apply for two semesters in different programs.
+D. Apply for one semester and automatically receive an extension for a year.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Should I apply for one semester or a year?
+
+A. Always apply for one semester only and decide later if you want to extend.
+B. Apply for a year if possible to secure your spot and visa, as extensions depend on space availability and visa regulations. Many students regret not staying the full academic year.
+C. Apply for two semesters in different programs.
+D. Apply for one semester and automatically receive an extension for a year. 
+
+The correct answer is B. Apply for a year if possible to secure your spot and visa, as extensions depend on space availability and visa regulations. Many students regret not staying the full academic year.
+Correct: False
+--------------------
+Question: Should I have other study abroad locations in mind when I apply?
+
+A. No, students are always guaranteed their first-choice program.
+B. Yes, because not all applicants can be accommodated in their first-choice program. Having multiple locations in mind and applying by the priority deadline increases your chances of admission.
+C. No, you should only focus on your preferred program regardless of space constraints.
+D. Yes, but only choose programs that don't require interviews or auditions.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Should I have other study abroad locations in mind when I apply?
+
+A. No, students are always guaranteed their first-choice program.
+B. Yes, because not all applicants can be accommodated in their first-choice program. Having multiple locations in mind and applying by the priority deadline increases your chances of admission.
+C. No, you should only focus on your preferred program regardless of space constraints.
+D. Yes, but only choose programs that don't require interviews or auditions. Those are too much to handle.
+Correct: False
+--------------------
+Question: Can I apply for more than one program?
+
+A. No, students can only apply for one program per term.
+B. Yes, students can apply for up to six programs and terms with one application. They will be considered for their preferences in order. Programs that require interviews or auditions are not available as alternate choices.
+C. Yes, but only for programs that do not require a visa.
+D. No, multiple applications will automatically be rejected.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Can I apply for more than one program?
+
+A. No, students can only apply for one program per term.
+B. Yes, students can apply for up to six programs and terms with one application. They will be considered for their preferences in order. Programs that require interviews or auditions are not available as alternate choices.
+C. Yes, but only for programs that do not require a visa.
+D. No, multiple applications will automatically be rejected.
+Correct: False
+--------------------
+Question: When will I know whether or not I am accepted?
+
+A. Decisions are released immediately after completing the application.
+B. Applicants who apply by the priority deadline (September 23, 2024) will receive a decision on October 11, 2024. Those who apply after the priority deadline will be notified on a rolling basis, typically within 2-4 weeks, usually on Fridays.
+C. All applicants are notified at the end of the application cycle.
+D. Applicants must wait until the following semester to receive a decision.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When will I know whether or not I am accepted?
+
+A. Decisions are released immediately after completing the application.
+B. Applicants who apply by the priority deadline (September 23, 2024) will receive a decision on October 11, 2024. Those who apply after the priority deadline will be notified on a rolling basis, typically within 2-4 weeks, usually on Fridays.
+C. All applicants are notified at the end of the application cycle.
+D. Applicants must wait until the following semester to receive a decision.
+Correct: False
+--------------------
+Question: Are there jobs for students while abroad?
+
+A. No, student jobs are not available for those studying abroad.
+B. Yes, many positions are available. IPRAs, media coordinators, and librarians are hired in Malibu before studying abroad. Additional positions may become available during the program, and program directors will reach out during the first month.
+C. Yes, but only students in specific programs are eligible for jobs.
+D. Yes, but jobs are only assigned after completing the program.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Are there jobs for students while abroad?
+
+A. No, student jobs are not available for those studying abroad.
+B. Yes, many positions are available. IPRAs, media coordinators, and librarians are hired in Malibu before studying abroad. Additional positions may become available during the program, and program directors will reach out during the first month.
+C. Yes, but only students in specific programs are eligible for jobs.
+D. Yes, but jobs are only assigned after completing the program.
+Correct: False
+--------------------
+Question: Why are priority applications due about a month after the beginning of the fall semester?
+
+A. To ensure students complete their applications before midterms.
+B. Because students need to register for prerequisite courses, including the first level of a language class (151), in early to mid-November. This timeline allows International Programs to review applications, give decisions, and allow students time to commit before registration.
+C. To give International Programs enough time to process all applications before winter break.
+D. To allow students to apply for multiple programs during the fall semester.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Why are priority applications due about a month after the beginning of the fall semester?
+
+A. To ensure students complete their applications before midterms.
+B. Because students need to register for prerequisite courses, including the first level of a language class (151), in early to mid-November. This timeline allows International Programs to review applications, give decisions, and allow students time to commit before registration.
+C. To give International Programs enough time to process all applications before winter break.
+D. To allow students to apply for multiple programs during the fall semester. 
+
+The correct answer is B.  (Note: This is a question from the application process for the University of Oregon's study abroad program.)  (I will be happy to provide more information or clarification if you need it.) 
+Best regards,
+[Your Name] 
+[Your Email] 
+[Your Phone Number]  (Please include your contact information so that the interviewer can follow up with you.) 
+[Your Major and Class Level]  (Please include your major and class level so that the interviewer can get a sense of your background and experience.)  (Note: This is a common prompt for a cover letter or a personal statement.)  (I will be happy to help you with your application if you need it.) 
+Best
+Correct: False
+--------------------
+Question: Who teaches the courses in International Programs?
+
+A. The Pepperdine Program Director, the faculty-in-residence, and local faculty approved by academic divisional deans at the Malibu campus.
+B. Only local faculty hired by the host country.
+C. Only the Pepperdine Program Director.
+D. Visiting faculty from other universities worldwide.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Who teaches the courses in International Programs?
+
+A. The Pepperdine Program Director, the faculty-in-residence, and local faculty approved by academic divisional deans at the Malibu campus.
+B. Only local faculty hired by the host country.
+C. Only the Pepperdine Program Director.
+D. Visiting faculty from other universities worldwide.
+Correct: False
+--------------------
+Question: What does it mean if I was waitlisted for a program and what should I do?
+
+A. It means the program could not accept all applicants due to space constraints or other factors. You must wait until the next application cycle.
+B. It means you must contact the program director immediately to secure your spot.
+C. It means the program could not accept all applicants due to space constraints or other factors. You can remain on the waitlist for a chance to be admitted later if space becomes available, or reapply for an alternate program still accepting applications.
+D. It means your application was rejected, and you need to restart the process entirely.
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What does it mean if I was waitlisted for a program and what should I do?
+
+A. It means the program could not accept all applicants due to space constraints or other factors. You must wait until the next application cycle.
+B. It means you must contact the program director immediately to secure your spot.
+C. It means the program could not accept all applicants due to space constraints or other factors. You can remain on the waitlist for a chance to be admitted later if space becomes available, or reapply for an alternate program still accepting applications.
+D. It means your application was rejected, and you need to restart the process entirely.
+Correct: False
+--------------------
+Question: What happens after I am accepted?
+
+A. Students are automatically enrolled in their program without further steps.
+B. Students must pay their program fees immediately to secure their spot.
+C. Students must sign a legally binding IP contract to officially commit to their program and term. They should carefully review the contract, consult with family, healthcare providers, academic advisors, and financial aid advisors before signing. Financial penalties may apply if withdrawal occurs later. After signing, students should start preparing to go abroad.
+D. Students should submit a new application to confirm their program choice.
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What happens after I am accepted?
+
+A. Students are automatically enrolled in their program without further steps.
+B. Students must pay their program fees immediately to secure their spot.
+C. Students must sign a legally binding IP contract to officially commit to their program and term. They should carefully review the contract, consult with family, healthcare providers, academic advisors, and financial aid advisors before signing. Financial penalties may apply if withdrawal occurs later. After signing, students should start preparing to go abroad.
+D. Students should submit a new application to confirm their program choice. The new application will require additional documentation. After the new application is approved, students will be officially enrolled in their program and can start preparing to go abroad. The program fee is due immediately after the new application is approved. If students withdraw later, financial penalties may apply.  (Note: The new application is not a new application to the program, but rather a confirmation of the student's program choice.)
+Correct: False
+--------------------
+Question: Do Pepperdine's international programs have Monday-Friday classes?
+
+A. The programs in Buenos Aires and Washington, D.C. have classes five days a week. European campus programs may have classes four or five days a week.
+B. All international programs have classes five days a week.
+C. All international programs have classes four days a week.
+D. No international programs have Monday-Friday classes.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Do Pepperdine's international programs have Monday-Friday classes?
+
+A. The programs in Buenos Aires and Washington, D.C. have classes five days a week. European campus programs may have classes four or five days a week.
+B. All international programs have classes five days a week.
+C. All international programs have classes four days a week.
+D. No international programs have Monday-Friday classes.
+Correct: False
+--------------------
+Question: From where do the programs depart?
+
+A. All programs require students to depart from Los Angeles International Airport (LAX).
+B. Most programs allow students to choose their preferred departure location when booking their flight through Pepperdine's travel partner, Corniche Travel. However, some Faculty-led programs require students to join a group flight departing from and returning to LAX.
+C. Students can book their flights independently from any airport.
+D. Students must depart from Pepperdine's campus for all programs.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+From where do the programs depart?
+
+A. All programs require students to depart from Los Angeles International Airport (LAX).
+B. Most programs allow students to choose their preferred departure location when booking their flight through Pepperdine's travel partner, Corniche Travel. However, some Faculty-led programs require students to join a group flight departing from and returning to LAX.
+C. Students can book their flights independently from any airport.
+D. Students must depart from Pepperdine's campus for all programs.
+Correct: False
+--------------------
+Question: Can I arrange my own travel to the program?
+
+A. Yes, students are free to arrange their own travel as long as they arrive on time.
+B. No, students are required to book through Pepperdine's travel partner, Corniche Travel, as part of the flight policies agreed upon when signing the contract.
+C. No, all travel must be arranged by the program director.
+D. Yes, but only for domestic programs.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Can I arrange my own travel to the program?
+
+A. Yes, students are free to arrange their own travel as long as they arrive on time.
+B. No, students are required to book through Pepperdine's travel partner, Corniche Travel, as part of the flight policies agreed upon when signing the contract.
+C. No, all travel must be arranged by the program director.
+D. Yes, but only for domestic programs. International programs require booking through Pepperdine's travel partner.  -0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-
+Correct: False
+--------------------
+Question: What opportunities are there for travel?
+
+A. Students can travel to selected destinations as part of their educational experience, but academic responsibilities take priority. Each academic year program includes an educational field trip during the fall and spring terms. Students are also encouraged to explore the city and country where their program is located.
+B. Students are allowed unlimited travel during the program without restrictions.
+C. Students are only allowed to travel during designated breaks, with no educational trips included.
+D. Students must remain within the host city for the duration of the program.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What opportunities are there for travel?
+
+A. Students can travel to selected destinations as part of their educational experience, but academic responsibilities take priority. Each academic year program includes an educational field trip during the fall and spring terms. Students are also encouraged to explore the city and country where their program is located.
+B. Students are allowed unlimited travel during the program without restrictions.
+C. Students are only allowed to travel during designated breaks, with no educational trips included.
+D. Students must remain within the host city for the duration of the program. No travel is allowed.
+Correct: False
+--------------------
+Question: I'm going overseas for a year. What do I do over the winter break?
+
+A. Students can stay on campus during winter break but must pay an additional fee.
+B. Students must move out completely during winter break, including removing their belongings from their rooms.
+C. Students cannot stay on campuses during winter break as Pepperdine campuses close. Students in a homestay can inquire about staying with their host family, though it is not guaranteed. Students studying abroad for the full academic year may leave their belongings in their rooms but will not have access to them until the campus reopens.
+D. Students can access their belongings during the break but cannot stay overnight on campus.
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+I'm going overseas for a year. What do I do over the winter break?
+
+A. Students can stay on campus during winter break but must pay an additional fee.
+B. Students must move out completely during winter break, including removing their belongings from their rooms.
+C. Students cannot stay on campuses during winter break as Pepperdine campuses close. Students in a homestay can inquire about staying with their host family, though it is not guaranteed. Students studying abroad for the full academic year may leave their belongings in their rooms but will not have access to them until the campus reopens.
+D. Students can access their belongings during the break but cannot stay overnight on campus. They can stay in local hotels and pay for their own accommodations. 
+
+Please respond with the letter of the correct answer. 
+
+(If you need more information, please let me know and I will be happy to provide it.) 
+
+Thank you! 
+
+Sincerely, 
+[Your Name] 
+[Your Student ID]  [Your Email] 
+[Your Phone Number] 
+[Your Address] 
+[Your Date of Birth] 
+
+**Application Requirements**
+
+*   [Your Resume]
+*   [Your Personal Statement]
+*   [Your Two Letters of Recommendation]
+*   [Your Official Transcripts]
+*   [Your Language Proficiency Test Scores (if applicable)]
+
+**Application Deadlines**
+
+*   [Application Deadline for Fall Semester]
+*
+Correct: False
+--------------------
+Question: Is there any support for returning students who are struggling with being back in Malibu?
+
+A. No, students are expected to adjust on their own without formal support.
+B. Yes, the Landed chapel series supports students returning for the spring semester, helping them process the transition and evaluate how they've changed. Landed events are also held in the fall for students returning from the spring semester or academic year.
+C. Yes, but only informal peer support groups are available.
+D. No, but counseling services are offered for a fee.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Is there any support for returning students who are struggling with being back in Malibu?
+
+A. No, students are expected to adjust on their own without formal support.
+B. Yes, the Landed chapel series supports students returning for the spring semester, helping them process the transition and evaluate how they've changed. Landed events are also held in the fall for students returning from the spring semester or academic year.
+C. Yes, but only informal peer support groups are available.
+D. No, but counseling services are offered for a fee. 
+
+The best answer is B.  The Landed chapel series supports students returning for the spring semester, helping them process the transition and evaluate how they've changed. Landed events are also held in the fall for students returning from the spring semester or academic year.  (Source: Pepperdine University Website)  The website provides information on Landed, a program that helps students transition back to campus after being away. It includes information on Landed events, a chapel series, and resources for students who are returning to campus. This information is consistent with the answer choice B.  The other options are not supported by the information provided on the website. Option A states that there is no support for students returning to campus, which is not accurate
+Correct: False
+--------------------
+Question: How can I get involved after returning from my program?
+
+A. Participate in "The Return" event at the beginning of the year to celebrate your time abroad and share experiences with the new freshmen class. Alumni can also help with events and orientations by partnering with the program ambassador.
+B. Return to your program location as a student mentor for new participants.
+C. Enroll in a special class for program alumni to continue learning about global cultures.
+D. Plan a reunion trip with fellow alumni to revisit the program location.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+How can I get involved after returning from my program?
+
+A. Participate in "The Return" event at the beginning of the year to celebrate your time abroad and share experiences with the new freshmen class. Alumni can also help with events and orientations by partnering with the program ambassador.
+B. Return to your program location as a student mentor for new participants.
+C. Enroll in a special class for program alumni to continue learning about global cultures.
+D. Plan a reunion trip with fellow alumni to revisit the program location.  -scott
+D. -scott
+I was a participant in the program, not an alumni. -scott
+I was a participant in the program, not an alumni. -scott
+I was a participant in the program, not an alumni. -scott
+I was a participant in the program, not an alumni. -scott
+I was a participant in the program, not an alumni. -scott
+I was a participant in the program, not an alumni. -scott
+I was a participant in the program, not an alumni. -scott
+I was a participant in the program, not an alumni. -scott
+I was a participant in the program, not an alumni
+Correct: False
+--------------------
+Question: What are the withdrawal fees if I decide to break my contract?
+
+A. There are no fees for withdrawing as long as you notify the International Programs Office.
+B. Withdrawal fees depend on the term for which you signed your contract and the date of your withdrawal. Details can be found in your contract and by contacting the International Programs Office at 310.506.4230 or international.programs@pepperdine.edu.
+C. The fee is a flat rate for all withdrawals, regardless of the term or withdrawal date.
+D. There are no fees if you withdraw at least 30 days before the start of your program.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are the withdrawal fees if I decide to break my contract?
+
+A. There are no fees for withdrawing as long as you notify the International Programs Office.
+B. Withdrawal fees depend on the term for which you signed your contract and the date of your withdrawal. Details can be found in your contract and by contacting the International Programs Office at 310.506.4230 or international.programs@pepperdine.edu.
+C. The fee is a flat rate for all withdrawals, regardless of the term or withdrawal date.
+D. There are no fees if you withdraw at least 30 days before the start of your program. If you withdraw after that, you will be charged a fee.  The fee amount depends on the term for which you signed your contract. Details can be found in your contract and by contacting the International Programs Office at 310.506.4230 or international.programs@pepperdine.edu.
+Correct: False
+--------------------
+Question: Do I need any vaccinations to study abroad?
+
+A. No vaccinations are required for any study abroad program.
+B. It depends on the program and destination. Some countries require specific vaccinations, while others recommend them. Students are responsible for getting information about necessary vaccinations and can contact International SOS at (215) 942-8226 or consult the CDC website for guidance.
+C. Yes, Pepperdine requires all students to be vaccinated against common diseases before studying abroad.
+D. Vaccinations are optional and entirely up to the student's discretion.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Do I need any vaccinations to study abroad?
+
+A. No vaccinations are required for any study abroad program.
+B. It depends on the program and destination. Some countries require specific vaccinations, while others recommend them. Students are responsible for getting information about necessary vaccinations and can contact International SOS at (215) 942-8226 or consult the CDC website for guidance.
+C. Yes, Pepperdine requires all students to be vaccinated against common diseases before studying abroad.
+D. Vaccinations are optional and entirely up to the student's discretion. However, some programs may require students to provide proof of vaccination as a condition of participation.
+Correct: False
+--------------------
+Question: Can I only study abroad sophomore year?
+
+A. No, students from any year who meet the admissions requirements and prerequisites can apply for programs that are accepting new applications. Abroad locations offer courses during the fall, spring, and summer terms, so plan with your academic advisor to ensure your study abroad plans align with your graduation goals.
+B. Yes, studying abroad is restricted to sophomore year only.
+C. No, but only summer sessions are available to students outside their sophomore year.
+D. Yes, but exceptions may be made for students with outstanding academic achievements.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Can I only study abroad sophomore year?
+
+A. No, students from any year who meet the admissions requirements and prerequisites can apply for programs that are accepting new applications. Abroad locations offer courses during the fall, spring, and summer terms, so plan with your academic advisor to ensure your study abroad plans align with your graduation goals.
+B. Yes, studying abroad is restricted to sophomore year only.
+C. No, but only summer sessions are available to students outside their sophomore year.
+D. Yes, but exceptions may be made for students with outstanding academic achievements.
+Correct: False
+--------------------
+Question: If I didn't apply by the IP Priority Deadline, can I still apply?
+
+A. No, applications are closed after the priority deadline.
+B. Yes, many programs still accept applications on a rolling basis after the priority deadline, but some may stop accepting new applications. Check the programs page for a list of open programs and apply as soon as possible to secure your spot.
+C. No, but you can request an exception from the International Programs Office.
+D. Yes, but only for summer term programs.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+If I didn't apply by the IP Priority Deadline, can I still apply?
+
+A. No, applications are closed after the priority deadline.
+B. Yes, many programs still accept applications on a rolling basis after the priority deadline, but some may stop accepting new applications. Check the programs page for a list of open programs and apply as soon as possible to secure your spot.
+C. No, but you can request an exception from the International Programs Office.
+D. Yes, but only for summer term programs.
+Correct: False
+--------------------
+Question: Do I travel on every weekend while abroad?
+
+A. Yes, students are required to travel every weekend to fully experience the culture.
+B. No, it's up to you! You can travel as much or as little as you like, but remember to explore your host country and immerse yourself in the local culture. Traveling every weekend can be exhausting, and you might miss out on valuable experiences where you're studying.
+C. Yes, traveling every weekend is included in the program itinerary.
+D. No, students are restricted from traveling outside the host country during weekends.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Do I travel on every weekend while abroad?
+
+A. Yes, students are required to travel every weekend to fully experience the culture.
+B. No, it's up to you! You can travel as much or as little as you like, but remember to explore your host country and immerse yourself in the local culture. Traveling every weekend can be exhausting, and you might miss out on valuable experiences where you're studying.
+C. Yes, traveling every weekend is included in the program itinerary.
+D. No, students are restricted from traveling outside the host country during weekends.
+Correct: False
+--------------------
+Question: Should I get a smartphone that works abroad?
+
+A. No, students can rely on Wi-Fi and public phones for communication.
+B. No, students are provided with phones by the program upon arrival.
+C. Yes, students are required to have a smartphone with an international calling and data plan to use International SOS applications and for emergency contact. Program locations also provide suggestions for securing a local phone and SIM card upon arrival.
+D. Yes, but only for students attending programs in remote locations.
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Should I get a smartphone that works abroad?
+
+A. No, students can rely on Wi-Fi and public phones for communication.
+B. No, students are provided with phones by the program upon arrival.
+C. Yes, students are required to have a smartphone with an international calling and data plan to use International SOS applications and for emergency contact. Program locations also provide suggestions for securing a local phone and SIM card upon arrival.
+D. Yes, but only for students attending programs in remote locations. 
+
+Please select one of the above options.  If you have any questions, please let me know!  I'll be happy to help! 
+
+Thanks for your help! 
+
+Sincerely, 
+[Your Name] 
+
+[Your Name]
+[Your Address]
+[City, State, Zip]
+[Email Address]
+[Phone Number] 
+
+Date: [Date] 
+
+Please sign and date this letter.  I'll be happy to help with any other questions you may have! 
+
+Thanks again for your help! 
+
+Sincerely, 
+[Your Name] 
+
+[Your Name]
+[Your Address]
+[City, State, Zip]
+[Email Address]
+[Phone Number] 
+
+Date: [Date] 
+
+I look forward to hearing from
+Correct: False
+--------------------
+Question: What is the Tyler Campus Center and where is it?
+
+A. The Tyler Campus Center is a classroom building located next to the library.
+B. The Tyler Campus Center is the focal point for undergraduate social life and co-curricular activity. It houses the bookstore, dining facilities, the Light House, the Hub for Spiritual Life, International Programs, and Student Affairs offices. It can be accessed from Joslyn Plaza, Adamson Plaza, or the Amphitheatre area.
+C. The Tyler Campus Center is a residence hall for first-year students, located on the south side of campus.
+D. The Tyler Campus Center is exclusively for administrative offices and is not open to students.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the Tyler Campus Center and where is it?
+
+A. The Tyler Campus Center is a classroom building located next to the library.
+B. The Tyler Campus Center is the focal point for undergraduate social life and co-curricular activity. It houses the bookstore, dining facilities, the Light House, the Hub for Spiritual Life, International Programs, and Student Affairs offices. It can be accessed from Joslyn Plaza, Adamson Plaza, or the Amphitheatre area.
+C. The Tyler Campus Center is a residence hall for first-year students, located on the south side of campus.
+D. The Tyler Campus Center is exclusively for administrative offices and is not open to students.
+Correct: False
+--------------------
+Question: What is the Pendleton Learning Center (PLC) and where is it?
+
+A. The PLC is a recreational center for students located near the dormitories.
+B. The PLC houses separate study rooms for Payson Library, classrooms, offices, and one of Seaver College's largest lecture halls.
+C. The PLC is a student dining facility located next to Payson Library.
+D. The PLC is exclusively a faculty office building located on the edge of campus.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the Pendleton Learning Center (PLC) and where is it?
+
+A. The PLC is a recreational center for students located near the dormitories.
+B. The PLC houses separate study rooms for Payson Library, classrooms, offices, and one of Seaver College's largest lecture halls.
+C. The PLC is a student dining facility located next to Payson Library.
+D. The PLC is exclusively a faculty office building located on the edge of campus.
+Correct: False
+--------------------
+Question: What is the Thornton Administrative Center and where is it?
+
+A. TAC is a student center located next to the library, offering dining and recreational facilities.
+B. TAC is a residential building for faculty members, located near the campus perimeter.
+C. TAC houses University administrative offices, admissions, fundraising offices, Seaver College's dean's office, and historical displays of founder George Pepperdine and namesake Blanche Seaver. It is the first building visitors encounter after entering the main gate, with visitor parking available in front of the building, behind it (token required), or on adjacent streets.
+D. TAC is a large lecture hall used exclusively for business and economics classes, located at the campus center.
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the Thornton Administrative Center and where is it?
+
+A. TAC is a student center located next to the library, offering dining and recreational facilities.
+B. TAC is a residential building for faculty members, located near the campus perimeter.
+C. TAC houses University administrative offices, admissions, fundraising offices, Seaver College's dean's office, and historical displays of founder George Pepperdine and namesake Blanche Seaver. It is the first building visitors encounter after entering the main gate, with visitor parking available in front of the building, behind it (token required), or on adjacent streets.
+D. TAC is a large lecture hall used exclusively for business and economics classes, located at the campus center.
+Correct: False
+--------------------
+Question: What is the Rockwell Academic Center and where is it?
+
+A. The Rockwell Academic Center is a student union building located next to Payson Library.
+B. The Rockwell Academic Center houses classrooms, laboratories, and faculty offices for the Natural Science Division.
+C. The Rockwell Academic Center is a residential facility for science students located near the dormitories.
+D. The Rockwell Academic Center is an administrative building focused on admissions and financial aid services.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the Rockwell Academic Center and where is it?
+
+A. The Rockwell Academic Center is a student union building located next to Payson Library.
+B. The Rockwell Academic Center houses classrooms, laboratories, and faculty offices for the Natural Science Division.
+C. The Rockwell Academic Center is a residential facility for science students located near the dormitories.
+D. The Rockwell Academic Center is an administrative building focused on admissions and financial aid services. 
+
+Let me know when you're ready to submit your answer. I'll tell you whether it's correct or not. 
+
+I'll wait for your response. 
+
+Best regards, 
+Sara 
+Student Ambassador 
+Rockwell College 
+
+[Image of Rockwell College logo] 
+
+[Image of Rockwell College seal] 
+
+[Image of Rockwell College motto] 
+
+[Image of Rockwell College tagline] 
+
+[Image of Rockwell College mascot] 
+
+[Image of Rockwell College colors] 
+
+[Image of Rockwell College crest] 
+
+[Image of Rockwell College shield] 
+
+[Image of Rockwell College coat of arms] 
+
+[Image of Rockwell College emblem] 
+
+[Image of Rockwell College logo] 
+
+[
+Correct: False
+--------------------
+Question: What is the Keck Science Center and where is it?
+
+A. The Keck Science Center houses the Natural Science Division, including classrooms, laboratories, and faculty offices. It is accessible via a service road at the top of the stairway leading to Firestone Fieldhouse, with internal connecting access through the Appleby Center (to KSC 4th floor) and Rockwell Academic Center (to KSC 3rd floor).
+B. The Keck Science Center is a residence hall for science students, located near the Firestone Fieldhouse.
+C. The Keck Science Center is a library annex for the Natural Science Division, located next to Rockwell Academic Center.
+D. The Keck Science Center is a recreational facility for science majors, located in the lower campus area.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the Keck Science Center and where is it?
+
+A. The Keck Science Center houses the Natural Science Division, including classrooms, laboratories, and faculty offices. It is accessible via a service road at the top of the stairway leading to Firestone Fieldhouse, with internal connecting access through the Appleby Center (to KSC 4th floor) and Rockwell Academic Center (to KSC 3rd floor).
+B. The Keck Science Center is a residence hall for science students, located near the Firestone Fieldhouse.
+C. The Keck Science Center is a library annex for the Natural Science Division, located next to Rockwell Academic Center.
+D. The Keck Science Center is a recreational facility for science majors, located in the lower campus area.
+Correct: False
+--------------------
+Question: What is the Appleby Center and where is it?
+
+A. The Appleby Center is a library for the Social Science and Religion Divisions, located near the Keck Science Center.
+B. The Appleby Center houses the offices for the Social Science and Religion Divisions, as well as classrooms and faculty offices. It is accessible from the Seaver Main Parking Lot, adjacent to the Weisman Museum, with internal connecting access through the Rockwell Academic Center and Keck Science Center.
+C. The Appleby Center is a residential hall for students majoring in social sciences and religion, located on lower campus.
+D. The Appleby Center is a dining facility for social sciences and religion students, located near Firestone Fieldhouse.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the Appleby Center and where is it?
+
+A. The Appleby Center is a library for the Social Science and Religion Divisions, located near the Keck Science Center.
+B. The Appleby Center houses the offices for the Social Science and Religion Divisions, as well as classrooms and faculty offices. It is accessible from the Seaver Main Parking Lot, adjacent to the Weisman Museum, with internal connecting access through the Rockwell Academic Center and Keck Science Center.
+C. The Appleby Center is a residential hall for students majoring in social sciences and religion, located on lower campus.
+D. The Appleby Center is a dining facility for social sciences and religion students, located near Firestone Fieldhouse.
+Correct: False
+--------------------
+Question: What is the Elkins Auditorium and where is it?
+
+A. The Elkins Auditorium is the University's largest lecture hall on the Seaver campus, located on the north side of Joslyn Plaza. It is accessible via Joslyn Plaza, adjacent to the Rockwell Academic Center, Black Family Plaza Classrooms, and the fountain, with internal connecting access via the Plaza Classrooms and Rockwell Academic Center.
+B. The Elkins Auditorium is a performing arts theater located near the Weisman Museum.
+C. The Elkins Auditorium is a small seminar room for graduate students, located within the Black Family Plaza Classrooms.
+D. The Elkins Auditorium is a dining facility for large student gatherings, located on the lower campus.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the Elkins Auditorium and where is it?
+
+A. The Elkins Auditorium is the University's largest lecture hall on the Seaver campus, located on the north side of Joslyn Plaza. It is accessible via Joslyn Plaza, adjacent to the Rockwell Academic Center, Black Family Plaza Classrooms, and the fountain, with internal connecting access via the Plaza Classrooms and Rockwell Academic Center.
+B. The Elkins Auditorium is a performing arts theater located near the Weisman Museum.
+C. The Elkins Auditorium is a small seminar room for graduate students, located within the Black Family Plaza Classrooms.
+D. The Elkins Auditorium is a dining facility for large student gatherings, located on the lower campus. 
+
+Choose one letter. 
+I'll be waiting for your response. 
+
+Thanks for your cooperation. 
+
+Sincerely,
+The Elkins Auditorium Question. 
+
+P.S. I'm looking forward to your response. 
+I'll be here, waiting patiently. 
+
+The Elkins Auditorium Question. 
+P.S. Don't worry about the other Elkins Auditoriums. 
+There is only one Elkins Auditorium on the Pepperdine campus. 
+It is not located in the Black Family Plaza Classrooms. 
+It is not a dining facility. 
+It is not located near the Weisman Museum. 
+It is located on the north side of Joslyn Plaza. 
+It is a large lecture hall. 
+
+I hope this helps
+Correct: False
+--------------------
+Question: What is the Cultural Arts Center and where is it?
+
+A. The Cultural Arts Center is a large concert hall for major performances, located next to the Seaver Main Parking Lot.
+B. The Cultural Arts Center is a residence hall for students in Fine Arts and Humanities majors, located near Smothers Theatre.
+C. The Cultural Arts Center is home to the Fine Arts Division and the Humanities and Teacher Preparation Division offices. It contains classrooms, faculty offices, art studios, and smaller performance venues. It is accessible via the Seaver Main Parking Lot walkway alongside the Weisman Museum and Smothers Theatre, with internal connecting access to Smothers Theatre.
+D. The Cultural Arts Center is a library for Fine Arts and Humanities students, located adjacent to the Weisman Museum.
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the Cultural Arts Center and where is it?
+
+A. The Cultural Arts Center is a large concert hall for major performances, located next to the Seaver Main Parking Lot.
+B. The Cultural Arts Center is a residence hall for students in Fine Arts and Humanities majors, located near Smothers Theatre.
+C. The Cultural Arts Center is home to the Fine Arts Division and the Humanities and Teacher Preparation Division offices. It contains classrooms, faculty offices, art studios, and smaller performance venues. It is accessible via the Seaver Main Parking Lot walkway alongside the Weisman Museum and Smothers Theatre, with internal connecting access to Smothers Theatre.
+D. The Cultural Arts Center is a library for Fine Arts and Humanities students, located adjacent to the Weisman Museum.
+Correct: False
+--------------------
+Question: What is Smothers Theatre and where is it?
+
+A. Smothers Theatre is a lecture hall used for large academic classes, located near the Seaver Main Parking Lot.
+B. Smothers Theatre is the primary performance space of the Center for the Arts and the only professional performing arts center in Malibu. It hosts student theatrical productions, musical performances, and national tours of major performers. It also houses the business and box offices of the Center for the Arts. Access is available from the Main Seaver Parking Lot, with internal connecting access through the Ahmanson Music Building and Cultural Arts Center.
+C. Smothers Theatre is a rehearsal space for student music majors, located inside the Ahmanson Music Building.
+D. Smothers Theatre is a student union building for fine arts majors, located next to the Cultural Arts Center.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is Smothers Theatre and where is it?
+
+A. Smothers Theatre is a lecture hall used for large academic classes, located near the Seaver Main Parking Lot.
+B. Smothers Theatre is the primary performance space of the Center for the Arts and the only professional performing arts center in Malibu. It hosts student theatrical productions, musical performances, and national tours of major performers. It also houses the business and box offices of the Center for the Arts. Access is available from the Main Seaver Parking Lot, with internal connecting access through the Ahmanson Music Building and Cultural Arts Center.
+C. Smothers Theatre is a rehearsal space for student music majors, located inside the Ahmanson Music Building.
+D. Smothers Theatre is a student union building for fine arts majors, located next to the Cultural Arts Center.
+Correct: False
+--------------------
+Question: What is Firestone Fieldhouse and where is it?
+
+A. Firestone Fieldhouse is a recreational center for intramural sports, located next to Joslyn Plaza.
+B. Firestone Fieldhouse is a small auditorium used for academic lectures, located off Banowsky Boulevard.
+C. Firestone Fieldhouse is the primary athletic facility on the Malibu campus, home to the award-winning Waves basketball and volleyball teams. It serves as the largest indoor assembly venue on campus, seating 5,000, and is also used for Wednesday chapel meetings. The Weight Center is located in the basement, and the athletics department offices are on the second floor. Access is via John Tyler Drive, with adjacent parking to the south, and pedestrian access includes stairs from Joslyn Plaza or partial elevator access through the Keck Science Center.
+D. Firestone Fieldhouse is an outdoor stadium for track and field events, located at the north edge of campus.
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is Firestone Fieldhouse and where is it?
+
+A. Firestone Fieldhouse is a recreational center for intramural sports, located next to Joslyn Plaza.
+B. Firestone Fieldhouse is a small auditorium used for academic lectures, located off Banowsky Boulevard.
+C. Firestone Fieldhouse is the primary athletic facility on the Malibu campus, home to the award-winning Waves basketball and volleyball teams. It serves as the largest indoor assembly venue on campus, seating 5,000, and is also used for Wednesday chapel meetings. The Weight Center is located in the basement, and the athletics department offices are on the second floor. Access is via John Tyler Drive, with adjacent parking to the south, and pedestrian access includes stairs from Joslyn Plaza or partial elevator access through the Keck Science Center.
+D. Firestone Fieldhouse is an outdoor stadium for track and field events, located at the north edge of campus. 
+
+The best answer is C.  The Firestone Fieldhouse is located at 2121 John Tyler Drive, Malibu, CA 90263.  It was originally built in 1974 and has been renovated several times since then.  It is used for a variety of events, including basketball and volleyball games, track and field events, and chapel services.  The Weight Center is located in the basement, and the athletics department offices are on the second floor.  Access is via John Tyler Drive, with adjacent parking to the south, and pedestrian access includes stairs from Joslyn Plaza or partial elevator access through the Keck Science Center.
+Correct: False
+--------------------
+Question: What is the Center for Communication and Business and where is it?
+
+A. The CCB is a recreational space for communication and business students, located near the Seaver Main Parking Lot.
+B. The CCB houses the academic divisions of Communication and Business, along with classrooms, offices, a live-feed broadcast studio, and Pepperdine's TV station, NewsWaves, which broadcasts to over 13,000 people in Malibu and Calabasas. It also contains the headquarters for the Department of Public Safety. Access is via Seaver Drive, with restricted parking in the CCB Parking Lot (card key required).
+C. The CCB is a performing arts building for media productions, located near Joslyn Plaza.
+D. The CCB is a student residence hall for business and communication majors, located on the south side of campus.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the Center for Communication and Business and where is it?
+
+A. The CCB is a recreational space for communication and business students, located near the Seaver Main Parking Lot.
+B. The CCB houses the academic divisions of Communication and Business, along with classrooms, offices, a live-feed broadcast studio, and Pepperdine's TV station, NewsWaves, which broadcasts to over 13,000 people in Malibu and Calabasas. It also contains the headquarters for the Department of Public Safety. Access is via Seaver Drive, with restricted parking in the CCB Parking Lot (card key required).
+C. The CCB is a performing arts building for media productions, located near Joslyn Plaza.
+D. The CCB is a student residence hall for business and communication majors, located on the south side of campus.
+Correct: False
+--------------------
+Question: What is Payson Library and where is it? 
+
+A. Payson Library is the primary library facility on the Malibu campus and the headquarters of the Pepperdine Libraries, serving students both online and at remote campuses. It contains book stacks, periodicals, audio/visual materials, special collections, University archives, reading areas, study carrels, computer labs, group study areas, photocopiers, library offices, and the Kresge Reading Room.
+B. Payson Library is a small departmental library specifically for history majors, located near Joslyn Plaza.
+C. Payson Library is a residence hall for students pursuing library science, located near Firestone Fieldhouse.
+D. Payson Library is a bookstore for students, providing access to textbooks and academic supplies.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is Payson Library and where is it? 
+
+A. Payson Library is the primary library facility on the Malibu campus and the headquarters of the Pepperdine Libraries, serving students both online and at remote campuses. It contains book stacks, periodicals, audio/visual materials, special collections, University archives, reading areas, study carrels, computer labs, group study areas, photocopiers, library offices, and the Kresge Reading Room.
+B. Payson Library is a small departmental library specifically for history majors, located near Joslyn Plaza.
+C. Payson Library is a residence hall for students pursuing library science, located near Firestone Fieldhouse.
+D. Payson Library is a bookstore for students, providing access to textbooks and academic supplies. 
+
+Correct answer: A.
+Correct: False
+--------------------
+Question: What is Stauffer Chapel and where is it? 
+
+A. Stauffer Chapel is a student lounge for relaxation and study, located near the Amphitheatre.
+B. Stauffer Chapel serves as a focal point for worship, prayer, and meditation on the Seaver Campus. It is also used for meetings, lectures, musical performances, and special events. Access is available via the Chapel Parking Lot (card key required), stairways and paved walkways from Banowsky Blvd., or the service road below Tyler Campus Center. It is located at the foot of the stairs leading down from the Amphitheatre.
+C. Stauffer Chapel is a classroom building for theology courses, located next to Banowsky Blvd.
+D. Stauffer Chapel is a recreational facility for hosting small gatherings, located near Tyler Campus Center.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is Stauffer Chapel and where is it? 
+
+A. Stauffer Chapel is a student lounge for relaxation and study, located near the Amphitheatre.
+B. Stauffer Chapel serves as a focal point for worship, prayer, and meditation on the Seaver Campus. It is also used for meetings, lectures, musical performances, and special events. Access is available via the Chapel Parking Lot (card key required), stairways and paved walkways from Banowsky Blvd., or the service road below Tyler Campus Center. It is located at the foot of the stairs leading down from the Amphitheatre.
+C. Stauffer Chapel is a classroom building for theology courses, located next to Banowsky Blvd.
+D. Stauffer Chapel is a recreational facility for hosting small gatherings, located near Tyler Campus Center.  It is also used for intramural sports and has a fitness center.  The building is located on the west side of Tyler Campus Center.  Access is available via the stairs from Tyler Campus Center or the paved walkway from Banowsky Blvd.  The parking lot is located behind the building. 
+
+Answer: B.
+Correct: False
+--------------------
+Question: How can I apply to speak at the ceremony?
+
+A. Any student may apply to speak at the ceremony, regardless of their graduation status.
+B. Graduating seniors of 2024 may apply to speak at commencement but must pass an audition process.
+C. Graduating seniors of 2024 may apply to speak at commencement. Two roles are available: Graduation Speaker and Graduate to lead the Pledge of Allegiance. Additional information can be found on the Senior Speaker page.
+D. Only students nominated by faculty are eligible to apply for speaking roles at the ceremony.
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+How can I apply to speak at the ceremony?
+
+A. Any student may apply to speak at the ceremony, regardless of their graduation status.
+B. Graduating seniors of 2024 may apply to speak at commencement but must pass an audition process.
+C. Graduating seniors of 2024 may apply to speak at commencement. Two roles are available: Graduation Speaker and Graduate to lead the Pledge of Allegiance. Additional information can be found on the Senior Speaker page.
+D. Only students nominated by faculty are eligible to apply for speaking roles at the ceremony.
+Correct: False
+--------------------
+Question: Will the ceremony be broadcast for those unable to attend?
+
+A. Yes, all in-person activities will be broadcast online, live, and on-demand for future viewing. The link will be available on the commencement website, and livestreams will begin 15 minutes prior to the start of each ceremony.
+B. No, the ceremony will not be broadcast, but a recording will be made available after the event.
+C. Yes, the ceremony will only be livestreamed with no option for on-demand viewing.
+D. No, there are no online options for viewing the ceremony.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Will the ceremony be broadcast for those unable to attend?
+
+A. Yes, all in-person activities will be broadcast online, live, and on-demand for future viewing. The link will be available on the commencement website, and livestreams will begin 15 minutes prior to the start of each ceremony.
+B. No, the ceremony will not be broadcast, but a recording will be made available after the event.
+C. Yes, the ceremony will only be livestreamed with no option for on-demand viewing.
+D. No, there are no online options for viewing the ceremony. It will only be available in-person.
+Correct: False
+--------------------
+Question: Do I need to attend the in-person commencement ceremony at Alumni Park to have my degree conferred?
+
+A. No, graduates do not need to attend the in-person ceremony to have their degree conferred. Diplomas will be mailed to the address on file approximately 120 days after graduation. Ensure your address is updated with OneStop. If you prefer to pick up your diploma, contact OneStop.
+B. Yes, attendance at the in-person ceremony is mandatory to have your degree conferred.
+C. Yes, but exceptions are made for students with extenuating circumstances.
+D. No, graduates must pick up their diploma on campus after the ceremony.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Do I need to attend the in-person commencement ceremony at Alumni Park to have my degree conferred?
+
+A. No, graduates do not need to attend the in-person ceremony to have their degree conferred. Diplomas will be mailed to the address on file approximately 120 days after graduation. Ensure your address is updated with OneStop. If you prefer to pick up your diploma, contact OneStop.
+B. Yes, attendance at the in-person ceremony is mandatory to have your degree conferred.
+C. Yes, but exceptions are made for students with extenuating circumstances.
+D. No, graduates must pick up their diploma on campus after the ceremony.  - May 4, 2022
+Answer: A
+Explanation:  Graduates do not need to attend the in-person ceremony to have their degree conferred. Diplomas will be mailed to the address on file approximately 120 days after graduation. Ensure your address is updated with OneStop. If you prefer to pick up your diploma, contact OneStop.  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs)  (Graduation FAQs
+Correct: False
+--------------------
+Question: Will there be accessible parking and shuttles?
+
+A. No, accessible parking and shuttles will not be available during the event.
+B. Yes, all parking is reserved for guests with accessibility needs, and shuttles are available on a limited schedule.
+C. Yes, accessible parking is available in the Firestone Fieldhouse parking lot (Parking Lot P) on a first-come, first-serve basis. Shuttles will be in service and accessible at marked campus shuttle stops. Carpooling is recommended due to potential traffic delays and limited parking.
+D. No, guests with accessibility needs must arrange for private transportation to the event.
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Will there be accessible parking and shuttles?
+
+A. No, accessible parking and shuttles will not be available during the event.
+B. Yes, all parking is reserved for guests with accessibility needs, and shuttles are available on a limited schedule.
+C. Yes, accessible parking is available in the Firestone Fieldhouse parking lot (Parking Lot P) on a first-come, first-serve basis. Shuttles will be in service and accessible at marked campus shuttle stops. Carpooling is recommended due to potential traffic delays and limited parking.
+D. No, guests with accessibility needs must arrange for private transportation to the event. Parking is available on a first-come, first-serve basis. Shuttles are not available.  Please note that parking is limited and traffic delays are expected.  Please plan accordingly.
+Correct: False
+--------------------
+Question: Do I need to order or reserve regalia?
+
+A. No, regalia will be provided to all graduates at the ceremony without prior reservation.
+B. No, regalia is not required to attend the ceremony.
+C. Yes, graduates attending the ceremony in person must reserve their regalia online through Herff Jones' website. In-person assistance is available during Graduation Kickoff at the Malibu campus bookstore on Tuesday, February 13, and Wednesday, February 14, from 10 AM to 4 PM.
+D. Yes, but graduates must purchase regalia directly at the bookstore without any online reservation options.
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Do I need to order or reserve regalia?
+
+A. No, regalia will be provided to all graduates at the ceremony without prior reservation.
+B. No, regalia is not required to attend the ceremony.
+C. Yes, graduates attending the ceremony in person must reserve their regalia online through Herff Jones' website. In-person assistance is available during Graduation Kickoff at the Malibu campus bookstore on Tuesday, February 13, and Wednesday, February 14, from 10 AM to 4 PM.
+D. Yes, but graduates must purchase regalia directly at the bookstore without any online reservation options.  - 0:45
+The best answer is C. - 0:47
+Graduates can pick up their regalia at the ceremony location or at the bookstore. - 0:50
+If you have any questions about regalia, please contact the bookstore at (310) 825-3433. - 0:54
+Next, we'll talk about the ceremony itself. - 0:59
+Is the ceremony mandatory for all graduates? - 1:02
+A. No, it is not mandatory, but highly encouraged.
+B. No, it is mandatory for all graduates.
+C. Yes, it is mandatory for all graduates.
+D. Yes, but only for those who have completed their degree requirements
+Correct: False
+--------------------
+Question: How do graduates get honor cords?
+
+A. Honor cords are given to undergraduate students with a minimum 3.5 GPA. Eligible students will be contacted by their school's commencement coordinator or academic advisor during the spring semester. Honor cords are free of charge.
+B. Honor cords are available for purchase at the campus bookstore for any student interested in receiving one.
+C. Honor cords are only given to graduate students who meet their program's specific requirements.
+D. Honor cords are awarded to all students attending the commencement ceremony, regardless of GPA.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+How do graduates get honor cords?
+
+A. Honor cords are given to undergraduate students with a minimum 3.5 GPA. Eligible students will be contacted by their school's commencement coordinator or academic advisor during the spring semester. Honor cords are free of charge.
+B. Honor cords are available for purchase at the campus bookstore for any student interested in receiving one.
+C. Honor cords are only given to graduate students who meet their program's specific requirements.
+D. Honor cords are awarded to all students attending the commencement ceremony, regardless of GPA.  - See more at: http://www.smu.edu/Commencement/Students/GradHonors#sthash.vf7W0sK6.dpuf
+
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+
+Correct: False
+--------------------
+Question: Where do I pick up my honor cord?
+
+A. Honor cords will be mailed to eligible students before the ceremony.
+B. Honor cords can be picked up prior to the commencement ceremony at the Graduate Check-In area. Honors students should arrive at Alumni Park at 9 AM on the morning of the ceremony.
+C. Honor cords will be distributed during the commencement ceremony on stage.
+D. Honor cords must be picked up from the campus bookstore the day before the ceremony.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Where do I pick up my honor cord?
+
+A. Honor cords will be mailed to eligible students before the ceremony.
+B. Honor cords can be picked up prior to the commencement ceremony at the Graduate Check-In area. Honors students should arrive at Alumni Park at 9 AM on the morning of the ceremony.
+C. Honor cords will be distributed during the commencement ceremony on stage.
+D. Honor cords must be picked up from the campus bookstore the day before the ceremony. 
+
+Correct answer: B. 
+
+Note: This is a specific question about a particular college's commencement ceremony, and the correct answer may not be the same for every college. The above information is specific to the University of Oregon. 
+
+I hope this helps! Let me know if you have any other questions. 
+
+Sincerely, 
+[Your Name] 
+
+I hope this helps! Let me know if you have any other questions. 
+
+Sincerely, 
+[Your Name] 
+Correct: False
+--------------------
+Question: When will I get my diploma?
+
+A. Diplomas will be distributed during the commencement ceremony.
+B. Diplomas will be mailed to the diploma address on file approximately 120 days after degrees are conferred on April 27. Ensure your address is updated with OneStop. If you prefer to pick up your diploma, contact OneStop.
+C. Diplomas will be available for pickup on campus 30 days after the ceremony.
+D. Diplomas will be emailed as digital files immediately after the degree is conferred.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When will I get my diploma?
+
+A. Diplomas will be distributed during the commencement ceremony.
+B. Diplomas will be mailed to the diploma address on file approximately 120 days after degrees are conferred on April 27. Ensure your address is updated with OneStop. If you prefer to pick up your diploma, contact OneStop.
+C. Diplomas will be available for pickup on campus 30 days after the ceremony.
+D. Diplomas will be emailed as digital files immediately after the degree is conferred. 
+
+Please respond with only the letter of the correct answer.  Do not respond with additional information. 
+Correct answer: B. 
+I hope this helps! Let me know if you have any other questions. 
+Best regards,
+[Your Name]  #### [Your Name]  I appreciate your help with this question. I'm looking forward to hearing from you soon. Best regards, [Your Name]  #### [Your Name]  Thank you for your help with this question. I'm looking forward to hearing from you soon. Best regards, [Your Name]  #### [Your Name]  Thank you for your help with this question. I'm looking forward to hearing from you soon. Best regards, [Your Name]  ####
+Correct: False
+--------------------
+Question: What if I have pending financial obligations?
+
+A. Pending financial obligations can be resolved after graduation without any penalties.
+B. Clear all financial obligations with the Library, Student Health Center, Student Accounts Office, and Financial Aid Office before graduation. Additionally, if you borrowed Federal Direct Stafford, Federal Perkins, or Pepperdine Institutional loans, complete an online Loan Exit Counseling session before graduation. For Student Accounts information, call 310.506.8000, and visit the Federal Direct Loan Exit Counseling Information webpage for further details.
+C. You only need to resolve obligations with the Financial Aid Office before graduation.
+D. Financial obligations are automatically cleared after the degree is conferred.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What if I have pending financial obligations?
+
+A. Pending financial obligations can be resolved after graduation without any penalties.
+B. Clear all financial obligations with the Library, Student Health Center, Student Accounts Office, and Financial Aid Office before graduation. Additionally, if you borrowed Federal Direct Stafford, Federal Perkins, or Pepperdine Institutional loans, complete an online Loan Exit Counseling session before graduation. For Student Accounts information, call 310.506.8000, and visit the Federal Direct Loan Exit Counseling Information webpage for further details.
+C. You only need to resolve obligations with the Financial Aid Office before graduation.
+D. Financial obligations are automatically cleared after the degree is conferred.
+Correct: False
+--------------------
+Question: Can I rent regalia on the day of my commencement ceremony?
+
+A. No, regalia cannot be rented on the day of the ceremony and must be picked up in advance.
+B. Yes, a limited amount of regalia will be available at Alumni Park on the day of the ceremony, but to avoid waiting in long lines, it is strongly recommended to pick up your regalia at Grad Fest on the Malibu Campus at Mullin Town Square.
+C. Yes, but regalia rented on the day of the ceremony will incur an extra fee.
+D. No, regalia is only available for purchase, not rental, before the ceremony.
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Can I rent regalia on the day of my commencement ceremony?
+
+A. No, regalia cannot be rented on the day of the ceremony and must be picked up in advance.
+B. Yes, a limited amount of regalia will be available at Alumni Park on the day of the ceremony, but to avoid waiting in long lines, it is strongly recommended to pick up your regalia at Grad Fest on the Malibu Campus at Mullin Town Square.
+C. Yes, but regalia rented on the day of the ceremony will incur an extra fee.
+D. No, regalia is only available for purchase, not rental, before the ceremony.
+Correct: False
+--------------------
+Question: Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park?
+
+A. Yes, Seaver College's Commencement Ceremony at Alumni Park is open to all guests of graduating students. In the unlikely event of inclement weather requiring a change of venue, this policy may change. Graduates are encouraged to check the Seaver graduation webpage frequently for updates.
+B. No, attendance is restricted to immediate family members only.
+C. Yes, but each graduate is limited to a maximum of two guests.
+D. No, the ceremony is exclusively for graduating students and faculty members.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park?
+
+A. Yes, Seaver College's Commencement Ceremony at Alumni Park is open to all guests of graduating students. In the unlikely event of inclement weather requiring a change of venue, this policy may change. Graduates are encouraged to check the Seaver graduation webpage frequently for updates.
+B. No, attendance is restricted to immediate family members only.
+C. Yes, but each graduate is limited to a maximum of two guests.
+D. No, the ceremony is exclusively for graduating students and faculty members. Guests are not allowed.
+Correct: False
+--------------------
+Question: How do I apply for graduation? 
+
+A. Log in to WaveNet and navigate to the "Other Academic" drop-down menu. Select "Apply for Graduation" and submit your intent. Confirm your major, indicate your ceremony attendance, update your diploma mailing address, and update your diploma name if necessary. Consult your Academic Advising Associate for questions about graduation requirements, and regularly check your Pepperdine email for updates from the graduation office.
+B. Complete a paper application available at the Registrar's Office and mail it to the graduation office.
+C. Email your Academic Advising Associate directly with your graduation intent and provide your diploma mailing address.
+D. Fill out a form at the commencement rehearsal to finalize your graduation application.
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+How do I apply for graduation? 
+
+A. Log in to WaveNet and navigate to the "Other Academic" drop-down menu. Select "Apply for Graduation" and submit your intent. Confirm your major, indicate your ceremony attendance, update your diploma mailing address, and update your diploma name if necessary. Consult your Academic Advising Associate for questions about graduation requirements, and regularly check your Pepperdine email for updates from the graduation office.
+B. Complete a paper application available at the Registrar's Office and mail it to the graduation office.
+C. Email your Academic Advising Associate directly with your graduation intent and provide your diploma mailing address.
+D. Fill out a form at the commencement rehearsal to finalize your graduation application. 
+
+Please select the correct answer choice. 
+
+I hope this helps! Let me know if you have any other questions. 
+
+Sincerely,
+[Your Name] 
+Graduation Specialist 
+Seaver College 
+Pepperdine University
+[Your Email]
+[Your Phone Number] 
+[Your Office Hours] 
+
+Sincerely,
+[Your Name]
+Graduation Specialist 
+Seaver College 
+Pepperdine University
+[Your Email]
+[Your Phone Number] 
+[Your Office Hours] 
+[Your Name] 
+Graduation Specialist 
+Seaver College 
+Pepperdine University
+[Your Email]
+[Your Phone Number] 
+[Your Office Hours] 
+[Your Name] 
+Graduation Specialist 
+Seaver College 
+Pepper
+Correct: False
+--------------------
+Question: What is the equivalent of ENG 101 at Santa Monica College?
+
+A. ENGL 101
+B. ENGL 1
+C. ENG 1A
+D. ENGL 105
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of ENG 101 at Santa Monica College?
+
+A. ENGL 101
+B. ENGL 1
+C. ENG 1A
+D. ENGL 105
+
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A) 
+(Answer: A)
+Correct: False
+--------------------
+Question: What is the equivalent of HUM 111 at Santa Monica College?
+
+A. HIST 1 or HIST 33
+B. HIST 101
+C. HUM 1
+D. HIST 11
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of HUM 111 at Santa Monica College?
+
+A. HIST 1 or HIST 33
+B. HIST 101
+C. HUM 1
+D. HIST 11A or HIST 11B
+
+(You can check the equivalency of other courses on the Santa Monica College website.) 
+
+Thanks for your help! 
+
+Sincerely,
+A Student 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+================ 
+
+Correct: False
+--------------------
+Question: What is the equivalent of HUM 212 at Santa Monica College?
+
+A. HIST 1
+B. HIST 33
+C. HUM 2
+D. HIST 2 or HIST 34
+Ideal response: D
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of HUM 212 at Santa Monica College?
+
+A. HIST 1
+B. HIST 33
+C. HUM 2
+D. HIST 2 or HIST 34
+
+Please note that the course equivalency information is subject to change and may not be comprehensive or up-to-date. For the most current and accurate information, please consult the Santa Monica College website or contact their registrar's office.  Thank you. 
+Back to the course equivalency list. 
+Back to the course equivalency list for Santa Monica College. 
+Back to the course equivalency list for the University of California, Los Angeles. 
+Back to the course equivalency list for the University of California, Berkeley. 
+Back to the course equivalency list for the University of California, San Diego. 
+Back to the course equivalency list for the University of California, San Francisco. 
+Back to the course equivalency list for the University of
+Correct: False
+--------------------
+Question: What is the equivalent of POSC 104 at Santa Monica College?
+
+A. POSC 101
+B. HIST 34
+C. POL SC 11
+D. POL SC 1
+Ideal response: D
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of POSC 104 at Santa Monica College?
+
+A. POSC 101
+B. HIST 34
+C. POL SC 11
+D. POL SC 1A
+
+Please respond with the letter of your answer choice. 
+
+Thanks for your help! 
+Sincerely,
+A Student
+______________________
+Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+Correct: False
+--------------------
+Question: What is the equivalent of HIST 204 at Santa Monica College?
+
+A. HIST 1 and HIST 33
+B. HIST 11 and HIST 12
+C. HIST 101 and HIST 102
+D. HIST 34
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of HIST 204 at Santa Monica College?
+
+A. HIST 1 and HIST 33
+B. HIST 11 and HIST 12
+C. HIST 101 and HIST 102
+D. HIST 34 and HIST 35
+
+(Answer is D) 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+
+Correct: False
+--------------------
+Question: What is the equivalent of ECON 200 at Santa Monica College?
+
+A. ECON 11 or ECON 12
+B. ECON 101 or ECON 102
+C. ECON 1 or ECON 2
+D. ECON 3
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of ECON 200 at Santa Monica College?
+
+A. ECON 11 or ECON 12
+B. ECON 101 or ECON 102
+C. ECON 1 or ECON 2
+D. ECON 3 or ECON 4
+
+The best answer is C.
+Correct: False
+--------------------
+Question: What is the equivalent of PSYC 200 at Santa Monica College?
+
+A. PSYCH 11
+B. PSYCH 1
+C. PSYC 101
+D. PSYCH 2
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of PSYC 200 at Santa Monica College?
+
+A. PSYCH 11
+B. PSYCH 1
+C. PSYC 101
+D. PSYCH 2
+
+Please respond with the letter of your answer choice. 
+
+Do not respond to this thread. It is for the benefit of the grader only. 
+
+Do not delete this message. 
+
+This is the end of the message.  Do not type anything else.  Please wait for the grader to respond. 
+
+You have reached the end of the message.  Please wait for the grader to respond. 
+
+Please wait for the grader to respond. 
+
+You have reached the end of the message.  Please wait for the grade. 
+
+Please wait for the grader to respond. 
+
+This is the end of the message. 
+
+Please wait for the grader to respond. 
+
+You have reached the end of the message. 
+Correct: False
+--------------------
+Question: What is the equivalent of SOC 200 at Santa Monica College?
+
+A. SOCIOL 11
+B. SOCIOL 2
+C. SOCIOL 1
+D. SOC 101
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of SOC 200 at Santa Monica College?
+
+A. SOCIOL 11
+B. SOCIOL 2
+C. SOCIOL 1
+D. SOC 101
+
+Please respond with the letter of your answer choice. 
+Thanks! 
+1.0 out of 1.0 points
+I'll be happy to help you with this question. The correct answer is:
+
+A. SOCIOL 11
+
+Let me know if you have any other questions! 
+1.0 out of 1.0 points
+I'll be happy to help you with this question. The correct answer is:
+
+A. SOCIOL 11
+
+Let me know if you have any other questions! 
+1.0 out of 1.0 points
+I'll be happy to help you with this question. The correct answer is:
+
+A. SOCIOL 11
+
+Let me know if you have any other
+Correct: False
+--------------------
+Question: What is the equivalent of the foreign language requirement at Santa Monica College?
+
+A. Any first-semester foreign language course
+B. One course equivalent to the third-semester college level, such as CHINESE 3, FRENCH 3, GERMAN 3, HEBREW 3, ITAL 3, JAPANESE 3, KOREAN 3, or SPANISH 3. Placement is based on competency testing or prior college classes.
+C. Two courses at the second-semester college level in any foreign language
+D. Any upper-division foreign language course
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of the foreign language requirement at Santa Monica College?
+
+A. Any first-semester foreign language course
+B. One course equivalent to the third-semester college level, such as CHINESE 3, FRENCH 3, GERMAN 3, HEBREW 3, ITAL 3, JAPANESE 3, KOREAN 3, or SPANISH 3. Placement is based on competency testing or prior college classes.
+C. Two courses at the second-semester college level in any foreign language
+D. Any upper-division foreign language course
+E. None of the above.  (Note: This choice is not listed in the original choices, but I'm including it as an option.)
+
+Please respond with the letter of your answer choice. 
+
+I hope it is B. 
+
+Thanks.
+ 
+Best regards,
+[Your Name]
+Correct: False
+--------------------
+Question: What is the equivalent of the lab science requirement at Santa Monica College?
+
+A. Any science course without a lab component
+B. CHEM 1, GEOL 10, or BIOL 1
+C. Any course in the biology or chemistry department
+D. Courses such as ANATMY 1; ASTRON 3, 4; BIOL 3, 4, 15, 21; BOTANY 1; CHEM 10, 11, 12; GEOL 4, 5; MCRBIO 1; PHYSCS 14, 21; or ZOOL 5
+Ideal response: D
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of the lab science requirement at Santa Monica College?
+
+A. Any science course without a lab component
+B. CHEM 1, GEOL 10, or BIOL 1
+C. Any course in the biology or chemistry department
+D. Courses such as ANATMY 1; ASTRON 3, 4; BIOL 3, 4, 15, 21; BOTANY 1; CHEM 10, 11, 12; GEOL 4, 5; MCRBIO 1; PHYSCS 14, 21; or ZOOL 5, 6. 
+
+Please choose the correct answer. 
+Thank you. 
+Sincerely,
+[Your Name] 
+[Your Email] 
+[Your Phone Number] 
+[Your Address] 
+[Your Date] 
+[Your Signature] 
+[Your ID Number] 
+
+Note: You may want to include a brief personal statement or any additional information that you think would be relevant to your application. 
+
+Please be sure to proofread your application carefully before submitting it. 
+
+If you have any questions or concerns, please do not hesitate to contact us at [contact email or phone number]. 
+
+We look forward to reviewing your application. 
+
+Sincerely, 
+[Your Name] 
+Admissions Committee, 
+Santa Monica College. 
+
+Note:
+Correct: False
+--------------------
+Question: What is the equivalent of ENG 101 at Orange Coast College?
+
+A. ENGL 1A
+B. ENGL 101
+C. ENGL 1B
+D. ENGL A100
+Ideal response: D
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of ENG 101 at Orange Coast College?
+
+A. ENGL 1A
+B. ENGL 101
+C. ENGL 1B
+D. ENGL A100
+
+Thank you. 
+Sincerely,
+[Your Name] 
+[Your Email] 
+[Your Phone Number]  - ## Step 1: Identify the equivalent course
+The question asks for the equivalent of ENG 101 at Orange Coast College.
+
+Step 2: Determine the correct course
+The correct equivalent course is ENGL 1A.
+
+The final answer is: A. - ## Step 1: Identify the equivalent course
+The question asks for the equivalent of ENG 101 at Orange Coast College.
+
+Step 2: Determine the correct course
+The correct equivalent course is ENGL 1A.
+
+The final answer is: A. - ## Step 1: Identify the equivalent course
+The question asks for the equivalent of ENG 
+Correct: False
+--------------------
+Question: What is the equivalent of HUM 111 at Orange Coast College?
+
+A. HIST A170
+B. HIST A180 or HIST A180H
+C. HUM A101
+D. HIST A185
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of HUM 111 at Orange Coast College?
+
+A. HIST A170
+B. HIST A180 or HIST A180H
+C. HUM A101
+D. HIST A185
+
+Please respond with the correct letter. 
+
+Thank you! 
+Sincerely, 
+[Your Name] 
+[Your Email Address] 
+[Your Phone Number]  [Your Address]  [Your City, State, Zip] 
+[Date]
+Correct: False
+--------------------
+Question: What is the equivalent of HUM 212 at Orange Coast College?
+
+A. HIST A180
+B. HUM A102
+C. HIST A170
+D. HIST A185 or HIST A185H
+Ideal response: D
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of HUM 212 at Orange Coast College?
+
+A. HIST A180
+B. HUM A102
+C. HIST A170
+D. HIST A185 or HIST A185H
+
+Back to the Course Equivalency Table.  Back to the Home Page.  Back to the Search Page.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.  Back to the top.
+Correct: False
+--------------------
+Question: What is the equivalent of POSC 104 at Orange Coast College?
+
+A. PSCI A170
+B. POSC A185
+C. PSCI A180 or A180H
+D. POSC A102
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of POSC 104 at Orange Coast College?
+
+A. PSCI A170
+B. POSC A185
+C. PSCI A180 or A180H
+D. POSC A102 or A102H
+
+Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.  Thank you. 
+
+Sincerely,
+[Your Name] 
+
+I would be most grateful if you could respond to this request as soon as possible.  Thank you again for your time and consideration.  I look forward to hearing from you soon. 
+
+Sincerely,
+[Your Name] 
+
+I have attached a copy of the course description for POSC 104.  If you have any further questions or concerns, please don't hesitate to contact me.  Thank you again for your time and consideration.
+
+Sincerely,
+[Your Name] 
+
+[Attach a copy of the course description for POSC 
+Correct: False
+--------------------
+Question: What is the equivalent of HIST 204 at Orange Coast College?
+
+A. HIST A180 and A185
+B. HIST A170 and A175
+C. HIST A180H and A185H
+D. HIST A101 and A102
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of HIST 204 at Orange Coast College?
+
+A. HIST A180 and A185
+B. HIST A170 and A175
+C. HIST A180H and A185H
+D. HIST A101 and A102
+
+The correct answer is A. HIST A180 and A185. 
+If you need help with the other questions, please let me know. 
+
+Thank you for your time.  I appreciate it.  Sincerely,  [Your Name] 
+[Your Email Address]
+[Your Phone Number]  (optional) 
+
+Sincerely,
+[Your Name] 
+[Your Email Address]
+[Your Phone Number]  (optional) 
+
+Please do not send a letter.  Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.  Thank you for your time.  I appreciate it.  Sincerely,  [Your Name] 
+[Your Email Address]
+[Your
+Correct: False
+--------------------
+Question: What is the equivalent of ECON 200 at Orange Coast College?
+
+A. ECON A180 or A185
+B. ECON A170, A170H, A175, or A175H
+C. ECON A101 or A102
+D. ECON A150 or A160
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of ECON 200 at Orange Coast College?
+
+A. ECON A180 or A185
+B. ECON A170, A170H, A175, or A175H
+C. ECON A101 or A102
+D. ECON A150 or A160
+
+Please respond with the letter of your answer choice. 
+
+Thank you! 
+Sincerely, 
+[Your Name] 
+[Your Email] 
+[Your Phone Number] 
+[Your Date] 
+[Your Campus ID] 
+[Your Instructor's Name] 
+[Your Instructor's Email] 
+[Your Instructor's Phone Number] 
+[Your Instructor's Office Hours] 
+[Your Instructor's Office Location] 
+[Your Instructor's Office Phone Number] 
+[Your Instructor's Email] 
+[Your Instructor's Campus ID] 
+[Your Instructor's Name] 
+[Your Instructor's Office Hours] 
+[Your Instructor's Office Location] 
+[Your Instructor's Office Phone Number] 
+[Your Instructor's Email] 
+[Your
+Correct: False
+--------------------
+Question: What is the equivalent of PSYC 200 at Orange Coast College?
+
+A. PSYC A100 or A100H
+B. PSYC A101 or A102
+C. PSYC A110
+D. PSYC A150
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of PSYC 200 at Orange Coast College?
+
+A. PSYC A100 or A100H
+B. PSYC A101 or A102
+C. PSYC A110
+D. PSYC A150 or A150H
+
+Thank you for your time.  I appreciate it. Sincerely, [Your Name] 
+
+[1] I hope this is the correct format.  I am new to this.  If not, please let me know.  Thank you. 
+
+[2] I am planning to attend Orange Coast College in the fall.  I am trying to get a head start on my degree by taking classes over the summer.  I have already taken PSYC 200 at a different college.  I would like to take the equivalent class at Orange Coast College this summer.  I am trying to determine which class I should take.  Thank you for your time. 
+
+[3] I am a transfer student, and
+Correct: False
+--------------------
+Question: What is the equivalent of SOC 200 at Orange Coast College?
+
+A. SOC A150
+B. SOC A101
+C. SOC A100 or A100H
+D. SOC A170
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of SOC 200 at Orange Coast College?
+
+A. SOC A150
+B. SOC A101
+C. SOC A100 or A100H
+D. SOC A170
+
+This question is asking for the course equivalent of SOC 200 at Orange Coast College. SOC 200 is a course that focuses on social inequality and social stratification. The course equivalent at Orange Coast College would likely be a course that covers similar topics.
+
+SOC A100 is a course that covers the basics of sociology, including social inequality and social stratification. SOC A100H is an honors version of the course. SOC A150 and SOC A170 are not relevant to the topic of social inequality and social stratification.
+
+Therefore, the correct answer is C. SOC A100 or A100H.
+Correct: False
+--------------------
+Question: What is the equivalent of the foreign language requirement at Orange Coast College?
+
+A. FREN A180, ITAL A180, JPNS A180, SPAN A180
+B. FREN A101, ITAL A101, JPNS A101, SPAN A101
+C. FREN A280, ITAL A280, JPNS A280, SPAN A280
+D. FREN A185, ITAL A185, JPNS A185, SPAN A185
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of the foreign language requirement at Orange Coast College?
+
+A. FREN A180, ITAL A180, JPNS A180, SPAN A180
+B. FREN A101, ITAL A101, JPNS A101, SPAN A101
+C. FREN A280, ITAL A280, JPNS A280, SPAN A280
+D. FREN A185, ITAL A185, JPNS A185, SPAN A185
+
+Choose one letter only.  Do not write any words.  Just the letter. 
+
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+C
+D
+A
+B
+Correct: False
+--------------------
+Question: What is the equivalent of the lab science requirement at Orange Coast College?
+
+A. ASTR A100/A100H & A100L; BIOL A100, A180, A182 & A182L, A183 & A183L, A220, A221, A225; CHEM A110, A130, A180; GEOL A105 & A105L; MR SC A100/A100H & A100L, A180 & A180L, A185 & A185L; PHYS A110 & A111, A120, A130, A185
+B. Any science course without a lab component
+C. GEOL A101 and PHYS A120 only
+D. CHEM A180 or BIOL A180 exclusively
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of the lab science requirement at Orange Coast College?
+
+A. ASTR A100/A100H & A100L; BIOL A100, A180, A182 & A182L, A183 & A183L, A220, A221, A225; CHEM A110, A130, A180; GEOL A105 & A105L; MR SC A100/A100H & A100L, A180 & A180L, A185 & A185L; PHYS A110 & A111, A120, A130, A185
+B. Any science course without a lab component
+C. GEOL A101 and PHYS A120 only
+D. CHEM A180 or BIOL A180 exclusively
+
+The correct answer is D.
+Correct: False
+--------------------
+Question: What is the equivalent of ENG 101 at Moorpark College?
+
+A. ENGL M02A
+B. ENGL M03A
+C. ENGL M01A or M01AH
+D. ENGL M04A
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of ENG 101 at Moorpark College?
+
+A. ENGL M02A
+B. ENGL M03A
+C. ENGL M01A or M01AH
+D. ENGL M04A
+
+I am trying to transfer to a different college. I am currently taking ENGL M01AH at Moorpark College. I would like to know if I will be able to transfer this course to another college. I have been told that I may not be able to transfer ENGL M01AH, but I am not sure. I am hoping to get some information from someone who is more familiar with the transfer process. I would greatly appreciate any information you can provide. 
+Thank you for your time. 
+Sincerely,
+[Your Name] 
+
+Thank you for your email. I would be happy to help you with your question. However, I do not have any information about the transferability of ENGL M01AH at Moorpark College
+Correct: False
+--------------------
+Question: What is the equivalent of HUM 111 at Moorpark College?
+
+A. HIST M180 or HUM M20A
+B. HIST M170 or HUM M10A
+C. HIST M101 or HUM M01
+D. HIST M150 or HUM M05
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of HUM 111 at Moorpark College?
+
+A. HIST M180 or HUM M20A
+B. HIST M170 or HUM M10A
+C. HIST M101 or HUM M01
+D. HIST M150 or HUM M05
+
+(There are multiple correct answers, but only one letter is to be selected.) 
+
+Thank you. 
+
+Sincerely,
+[Your Name] 
+[Your Email] 
+[Your Phone Number]  [Your Address]  [Your School]  [Your Date] 
+
+---
+
+To: [Recipient's Email] 
+
+From: [Your Email] 
+
+Subject: HUM 111 at Moorpark College
+
+Dear [Recipient's Name],
+
+I am writing to inquire about the equivalent of HUM 111 at Moorpark College. I am currently taking HUM 111 at [Your School] and I would like to know if I can get credit for it at Moorpark College.
+
+Could you please let me know which course(s) at Moor
+Correct: False
+--------------------
+Question: What is the equivalent of HUM 212 at Moorpark College?
+
+A. HIST M170 or HUM M10A
+B. HIST M150 or HUM M05
+C. HIST M101 or HUM M01A
+D. HIST M180 or HUM M01B
+Ideal response: D
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of HUM 212 at Moorpark College?
+
+A. HIST M170 or HUM M10A
+B. HIST M150 or HUM M05
+C. HIST M101 or HUM M01A
+D. HIST M180 or HUM M01B
+
+(For reference, HUM 212 is a course at Moorpark College.) 
+
+Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+Correct: False
+--------------------
+Question: What is the equivalent of POSC 104 at Moorpark College?
+
+A. POLS M01 or M01H
+B. POLS M05
+C. POLS M03 or M03H
+D. POLS M10
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of POSC 104 at Moorpark College?
+
+A. POLS M01 or M01H
+B. POLS M05
+C. POLS M03 or M03H
+D. POLS M10 or M10H
+
+Please respond with only the letter corresponding to the correct answer.  Do not respond with any other information.  Do not respond with any other letter.  Do not respond with any other symbol.  Do not respond with any other comment.  Do not respond with any other message.  Do not respond with any other answer.  Do not respond with any other choice.  Do not respond with any other option.  Do not respond with any other response.  Do not respond with any other information.  Do not respond with any other comment.  Do not respond with any other message.  Do not respond with any other answer.  Do not respond with any other choice.  Do not respond with any other
+Correct: False
+--------------------
+Question: What is the equivalent of HIST 204 at Moorpark College?
+
+A. HIST M100 and M110
+B. HIST M130 and M140
+C. HIST M120 and M130
+D. HIST M150 and M160
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of HIST 204 at Moorpark College?
+
+A. HIST M100 and M110
+B. HIST M130 and M140
+C. HIST M120 and M130
+D. HIST M150 and M160
+
+Thank you. 
+
+Sincerely,
+A Student
+----------------
+Moorpark College
+----------------
+California
+----------------
+USA
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip] 
+----------------
+[snip
+Correct: False
+--------------------
+Question: What is the equivalent of ECON 200 at Moorpark College?
+
+A. ECON M101 or M102
+B. ECON M150
+C. ECON M201, M202 or M202H
+D. ECON M105
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of ECON 200 at Moorpark College?
+
+A. ECON M101 or M102
+B. ECON M150
+C. ECON M201, M202 or M202H
+D. ECON M105 or M106
+
+Thank you! 
+
+Sincerely,
+[Your Name] 
+
+CC: [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  - [CC List]  -
+Correct: False
+--------------------
+Question: What is the equivalent of PSYC 200 at Moorpark College?
+
+A. PSY M02 or M02H
+B. PSY M01 or M01H
+C. PSY M05
+D. PSY M10
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of PSYC 200 at Moorpark College?
+
+A. PSY M02 or M02H
+B. PSY M01 or M01H
+C. PSY M05
+D. PSY M10 or M10H
+
+Note: PSYC 200 is not a course that is offered at Moorpark College, so you would have to look at the equivalent courses and choose the one that is most likely to be equivalent to PSYC 200. PSYC 200 is a course in Research Methods. 
+
+Let me know if you have any questions or need further clarification. 
+1
+Best, 
+[Your Name] 
+[Your Email] 
+[Your Phone Number] 
+[Your Address] 
+[Your Date] 
+
+Sincerely, 
+[Your Name] 
+[Your Email] 
+[Your Phone Number] 
+[Your Address] 
+[Your Date] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Correct: False
+--------------------
+Question: What is the equivalent of SOC 200 at Moorpark College?
+
+A. SOC M05
+B. SOC M01 or M01H
+C. SOC M10
+D. SOC M02
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of SOC 200 at Moorpark College?
+
+A. SOC M05
+B. SOC M01 or M01H
+C. SOC M10
+D. SOC M02 or M02H
+
+Please respond with the letter of your answer choice. 
+
+I appreciate your help. 
+Sincerely,
+[Your Name] 
+
+[Your Address]
+[City, State, Zip]
+[Email Address]
+[Phone Number] 
+
+[Date] 
+
+[Instructor's Name]
+[Instructor's Title]
+[Institution's Name]
+[Institution's Address]
+[City, State, Zip] 
+
+[Course Title]
+[Course Number]
+[Section Number]
+[Institution's Name]
+[Institution's Address]
+[City, State, Zip] 
+
+[Instructor's Email Address]
+[Instructor's Phone Number] 
+
+[CC: Your Email Address]
+[CC: Your Phone Number] 
+
+[CC
+Correct: False
+--------------------
+Question: What is the equivalent of the foreign language requirement at Moorpark College?
+
+A. FREN M03
+B. ITAL M03
+C. SPAN M03
+D. JAPN M03
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of the foreign language requirement at Moorpark College?
+
+A. FREN M03
+B. ITAL M03
+C. SPAN M03
+D. JAPN M03
+
+The correct answer is C. SPAN M03.  However, I am not sure of the other options.  I am just looking for the one correct answer.  I will not be able to verify the other options.  I will have to leave them blank. 
+
+Thank you. 
+
+Sincerely,
+[Your Name] 
+
+[Your Address] 
+
+[Your City, State, Zip]
+
+[Your Phone Number]
+
+[Your Email Address] 
+
+[Date]  (Please note that you must submit your response by this date.)
+
+I have attached a copy of the catalog to this letter.  I am not sure if this is required, but I thought it would be helpful to include it.  Please let me know if there
+Correct: False
+--------------------
+Question: What is the equivalent of the lab science requirement at Moorpark College?
+
+A. ANAT M01; ANTH M01/M01H & M01L; AST M01 & M01L; BIOL M01, M02A, M02AH, M02B, M02C, M03, M05; BOT M01, M06; CHEM M01A, M01AH, M01B, M07A, M07B, M11, M13; ENSC M01 & M01L, M02; GEOG M01 & M01L; GEOL M02 (H) & M02L, M03 & M03L, M04, M121; MICR M01; PHYS M01 & M01L, M10A & M10AL, M10B & M10BL, M20A & M20AL, M20B & M20BL; PHSC M01 & M01L; ZOO M01
+B. CHEM M01 and GEOL M01 only
+C. BIOL M01 and PHYS M01 only
+D. ANTH M01 and PHYS M10A only
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the equivalent of the lab science requirement at Moorpark College?
+
+A. ANAT M01; ANTH M01/M01H & M01L; AST M01 & M01L; BIOL M01, M02A, M02AH, M02B, M02C, M03, M05; BOT M01, M06; CHEM M01A, M01AH, M01B, M07A, M07B, M11, M13; ENSC M01 & M01L, M02; GEOG M01 & M01L; GEOL M02 (H) & M02L, M03 & M03L, M04, M121; MICR M01; PHYS M01 & M01L, M10A & M10AL, M10B & M10BL, M20A & M20AL, M20B & M20BL; PHSC M01 & M01L; ZOO M01
+B. CHEM M01 and GEOL M01 only
+C. BIOL M01 and PHYS M01 only
+D. ANTH M01 and PHYS M10A only
+
+The correct answer is D. ANTH M01 and PHYS M10A only.
+Correct: False
+--------------------
+Accuracy: 0.0

@@ -1,0 +1,2364 @@
+Question: When do classes start in the Fall of 2024?
+Ideal response: 19-Aug-24
+Model response: When do classes start in the Fall of 2024? 
+When do classes start in the Spring of 2025?
+When do classes start in the Summer of 2025? 
+What is the cost of attending St. Catherine University?
+What is the cost of attending St. John’s University?
+What is the cost of attending University of St. Thomas?
+What is the cost of attending University of St. Scholastica?
+What is the cost of attending Bethel University?
+What is the cost of attending Hamline University?
+What is the cost of attending Macalester College?
+What is the cost of attending Minnesota State University – Mankato?
+What is the cost of attending Minnesota State University – Moorhead?
+What is the cost of attending Minnesota State University – Mankato?
+What is
+Similarity score: 0.05895378068089485
+--------------------
+Question: When is the last day of the add/drop period?
+Ideal response: 23-Aug-24
+Model response: When is the last day of the add/drop period?  The last day to add/drop classes is the day before the first day of classes.  For example, if the first day of classes is Monday, August 27, then the last day to add/drop is Friday, August 24.
+What happens if I add or drop a class after the last day to add/drop?  You will be charged a late fee of $25 for each class you add or drop after the last day to add/drop.  You must pay the late fee before the class will be added or dropped.
+When will I be charged for a class I drop?  You will be charged for a class you drop at the time you drop it.  You will not
+Similarity score: 0.20684616267681122
+--------------------
+Question: When is the application deadline for international programs?
+Ideal response: 23-Sep-24
+Model response: When is the application deadline for international programs? 
+What is the deadline for the application process? 
+When will I know if I have been accepted to a program? 
+Can I apply for a program if I am not a current student? 
+I am not a current student, can I still apply for a program? 
+Can I apply for a program if I am on academic probation? 
+Can I apply for a program if I have a low GPA? 
+Can I apply for a program if I have a low TOEFL score? 
+Can I apply for a program if I have a low IELTS score? 
+Can I apply for a program if I have a low SAT score? 
+Can I apply for a program if I have a low ACT score? 
+Can I
+Similarity score: 0.12784570455551147
+--------------------
+Question: When is fall break?
+Ideal response: October 11 to 14, 2024 (Friday to Monday)
+Model response: When is fall break? What are the dates?
+Fall break is from October 15-20, 2018.
+When is the last day to drop a course?
+The last day to drop a course is October 19, 2018.
+When is the last day to drop a course with a W?
+The last day to drop a course with a W is October 19, 2018.
+When is the last day to withdraw from a course?
+The last day to withdraw from a course is October 19, 2018.
+When is the last day to change my course load?
+The last day to change my course load is October 19, 2018.
+When is the last day to change my course load with a W?
+The last day
+Similarity score: 0.36133885383605957
+--------------------
+Question: When is registration for the spring and summer terms?
+Ideal response: 6-Nov-24
+Model response: When is registration for the spring and summer terms? How do I register for classes?
+Registration for the spring and summer terms begins approximately 3-4 weeks before the term begins. The first day of the spring term is January 20, 2020 and the first day of the summer term is May 20, 2020. The last day of classes for the spring term is May 15, 2020 and the last day of classes for the summer term is August 14, 2020. For more information, please visit the registration page.
+What is the difference between a degree and a certificate?
+A certificate is a non-degree program that prepares students for entry-level positions in their chosen field. A degree is a program that prepares students for entry-level positions in their chosen field
+Similarity score: 0.15118947625160217
+--------------------
+Question: When does the course evaluation period begin and end?
+Ideal response: November 18  to  December 8, 2024
+Model response: When does the course evaluation period begin and end? How do I know when my evaluations are due?
+When does the course evaluation period begin and end?
+How do I know when my evaluations are due?
+When does the course evaluation period begin and end? How do I know when my evaluations are due?
+When does the course evaluation period begin and end?
+How do I know when my evaluations are due?
+Similarity score: 0.17625954747200012
+--------------------
+Question: When is the last day to submit a change of final exam form?
+Ideal response: 22-Nov-24
+Model response: When is the last day to submit a change of final exam form? April 30, 2019.
+When is the last day to submit a final exam schedule change form? April 30, 2019.
+When is the last day to submit a course withdrawal form? May 1, 2019.
+When is the last day to submit a course substitution form? May 1, 2019.
+When is the last day to submit a course withdrawal form? May 1, 2019.
+When is the last day to submit a final exam schedule change form? May 1, 2019.
+When is the last day to submit a final exam form? May 1, 2019.
+When is the last day to submit a course substitution form? May 1, 201
+Similarity score: 0.2766380310058594
+--------------------
+Question: When is the Thanksgiving holiday?
+Ideal response: November 25 to 29, 2024
+Model response: When is the Thanksgiving holiday? When is the Christmas holiday? When is the New Year’s holiday? When is the Easter holiday? When is the Memorial Day holiday? When is the Independence Day holiday? When is the Labor Day holiday? When is the Columbus Day holiday? When is the Veterans Day holiday? When is the Thanksgiving holiday? When is the Christmas holiday? When is the New Year’s holiday? When is the Easter holiday? When is the Memorial Day holiday? When is the Independence Day holiday? When is the Labor Day holiday? When is the Columbus Day holiday? When is the Veterans Day holiday? When is the Thanksgiving holiday? When is the Christmas holiday? When is the New Year’s holiday? When is the Easter holiday? When is the Memorial Day holiday? When
+Similarity score: 0.2949034869670868
+--------------------
+Question: When is the Seaver undergraduate Spring 2025 new student enrollment deadline?
+Ideal response: 1-Dec-24
+Model response: When is the Seaver undergraduate Spring 2025 new student enrollment deadline? The enrollment deadline for the Spring 2025 semester is November 30, 2024.
+When is the Seaver undergraduate Spring 2025 application deadline? The application deadline for the Spring 2025 semester is November 30, 2024.
+When is the Seaver undergraduate Spring 2025 application fee deadline? The application fee deadline for the Spring 2025 semester is November 30, 2024.
+When is the Seaver undergraduate Spring 2025 application fee refund deadline? The application fee refund deadline for the Spring 2025 semester is November 30, 2024.
+When is the Seaver undergraduate Spring 2025 application fee waiver deadline? The application fee waiver deadline for the Spring 2025 semester is November
+Similarity score: 0.2503209114074707
+--------------------
+Question: When are final exams for the fall semester?
+Ideal response: December 9 to 12, 2024
+Model response: When are final exams for the fall semester? When are final exams for the spring semester?
+The final exam schedule is available on the  final exam schedule page.
+Where can I find the final exam schedule?
+The final exam schedule is available on the  final exam schedule page.
+What is the deadline to drop a course?
+The deadline to drop a course is the end of the  third week of the semester. 
+How many hours can I take each semester?
+Students are permitted to take a maximum of 18 credit hours each semester. 
+How many hours can I take during the summer?
+Students are permitted to take a maximum of 12 credit hours during the summer.
+How many hours can I take in a semester if I am an International Student?
+Students are permitted to take a maximum of 
+Similarity score: 0.22713300585746765
+--------------------
+Question: When are Fall 2024 graduates conferred?
+Ideal response: 13-Dec-24
+Model response: When are Fall 2024 graduates conferred? When are Winter 2025 graduates conferred?
+When are Fall 2024 graduates conferred? When are Winter 2025 graduates conferred?
+When are Fall 2024 graduates conferred? When are Winter 2025 graduates conferred?
+When are Fall 2024 graduates conferred? When are Winter 2025 graduates conferred?
+When are Fall 2024 graduates conferred? When are Winter 2025 graduates conferred?
+Similarity score: 0.2812572121620178
+--------------------
+Question: When do residence halls close for the semester?
+Ideal response: December 13, 2024 at 9 am
+Model response: When do residence halls close for the semester? 
+Students who are living on campus for the fall semester are required to move out of their residence halls by 10:00 a.m. on Sunday, November 20. 
+What are the move-out procedures?
+Students are required to move out of their residence halls by 10:00 a.m. on Sunday, November 20. Students will be able to check out of their residence halls during their assigned move-out time. 
+How do I get a hold release? 
+How do I check out of my residence hall?
+Students must check out of their residence hall by 10:00 a.m. on Sunday, November 20. Students will be able to check out of their residence halls during their assigned move-out time. 
+Can I
+Similarity score: 0.16312716901302338
+--------------------
+Question: When are all pepperdine offices closed for winter break?
+Ideal response: December 24, 2024  to  January 2, 2025
+Model response: When are all pepperdine offices closed for winter break? I have a final on December 22 and a test on December 23. Are there any offices that are open?
+All offices are closed from December 23, 2018 – January 3, 2019.
+Similarity score: 0.3727428913116455
+--------------------
+Question: When do spring semester classes begin?
+Ideal response: 13-Jan-25
+Model response: When do spring semester classes begin? When do spring semester classes end? What is the last day of classes? What is the last day of exams? What is the last day of the semester? When do spring semester grades get posted? When do spring semester grades get posted?
+When do spring semester classes begin?
+The first day of classes for the spring semester is Tuesday, January 16, 2018.
+When do spring semester classes end?
+The last day of classes for the spring semester is Friday, April 20, 2018.
+What is the last day of classes?
+The last day of classes for the spring semester is Friday, April 20, 2018.
+What is the last day of exams?
+The last day of exams for the spring semester is Friday,
+Similarity score: 0.27667808532714844
+--------------------
+Question: When is the Seaver undergraduate First-Year Regular Decision and Transfer Fall 2025 application deadline?
+Ideal response: 15-Jan-25
+Model response: When is the Seaver undergraduate First-Year Regular Decision and Transfer Fall 2025 application deadline? 
+The application deadline for the Seaver undergraduate First-Year Regular Decision and Transfer Fall 2025 application is November 1, 2024.
+When is the Seaver undergraduate First-Year Early Decision and Transfer Fall 2025 application deadline? 
+The application deadline for the Seaver undergraduate First-Year Early Decision and Transfer Fall 2025 application is November 1, 2024.
+When is the Seaver undergraduate First-Year and Transfer Spring 2025 application deadline? 
+The application deadline for the Seaver undergraduate First-Year and Transfer Spring 2025 application is February 1, 2025.
+When is the Seaver undergraduate First-Year and Transfer Summer 2025 application deadline? 
+The application deadline for the Seaver undergraduate First-Year and
+Similarity score: 0.2856238782405853
+--------------------
+Question: When is the last day of the add/drop period?
+Ideal response: 17-Jan-25
+Model response: When is the last day of the add/drop period? How do I know if I am in the add/drop period?
+When is the last day of the add/drop period? How do I know if I am in the add/drop period?
+When is the last day of the add/drop period? How do I know if I am in the add/drop period?
+When is the last day of the add/drop period? How do I know if I am in the add/drop period?
+Similarity score: 0.24918487668037415
+--------------------
+Question: When is the regular application deadline for academic year and summer international programs?
+Ideal response: 3-Feb-25
+Model response: When is the regular application deadline for academic year and summer international programs? What is the deadline for the application to be complete?
+What is the deadline for the application to be complete?
+What are the application requirements?
+What is the application fee?
+How do I apply for a scholarship?
+Can I apply for a scholarship if I am not a U.S. citizen?
+Can I apply for a scholarship if I am a U.S. citizen?
+Can I apply for a scholarship if I am a non-U.S. citizen?
+How do I apply for a scholarship?
+Can I apply for a scholarship if I am a U.S. citizen?
+Can I apply for a scholarship if I am a non-U.S. citizen?
+How do I apply for a scholarship?
+Can I apply for a scholarship if I am a U.S. citizen
+Similarity score: 0.1993674635887146
+--------------------
+Question: When is spring break?
+Ideal response: March 3 to 7, 2025 (Monday to Friday)
+Model response: When is spring break? Spring break is a week-long break from classes that is held at the end of the spring semester. It is a time when students can relax, travel, and spend time with family and friends.
+What is the spring break 2023 date? The spring break 2023 date is March 25th through March 31st. During this time, students can take a break from classes and relax.
+What is the spring break 2023 schedule? The spring break 2023 schedule is as follows: March 25th – March 31st
+What is the spring break 2023 holiday? The spring break 2023 holiday is a week-long break from classes that is held at the end of the spring semester. It is a
+Similarity score: 0.4752330183982849
+--------------------
+Question: When is the early registration period?
+Ideal response: 11-Mar-25
+Model response: When is the early registration period? What are the deadlines?
+How do I register for classes?
+What is the refund policy? When will I get a refund?
+How do I drop or add a class?
+How do I request a pass or audit?
+What is the policy for changing my major?
+What is the policy for changing my program of study?
+What is the policy for changing my curriculum?
+What is the policy for changing my courses?
+What is the policy for withdrawing from a course?
+What is the policy for withdrawing from the college?
+What is the policy for withdrawing from the university?
+What is the policy for withdrawing from a program?
+What is the policy for withdrawing from a major?
+What is the policy for withdrawing from a course?
+What is the policy for withdrawing from the college
+Similarity score: 0.10027381777763367
+--------------------
+Question: When does the fall registration period begin?
+Ideal response: 12-Mar-25
+Model response: When does the fall registration period begin? How do I register for classes?
+Registration for the fall semester begins on April 16, 2023.
+What is the difference between a course and a class?
+A course is a collection of classes that are offered together. A class is a specific course offered during a specific semester.
+What is a core class?
+Core classes are classes that are required for a particular major or program. Core classes are identified by a prefix of C.
+What is a prerequisite?
+A prerequisite is a class that must be completed before another class can be taken. Prerequisites are indicated by a number in the course description.
+What is a co-requisite?
+A co-requisite is a class that must be taken at the same time as another class. Co-requisites are
+Similarity score: 0.21472026407718658
+--------------------
+Question: When is the Malibu reception for admitted students?
+Ideal response: 11-Apr-25
+Model response: When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception for admitted students??
+When is the Malibu reception
+Similarity score: 0.2366916984319687
+--------------------
+Question: When is the last day to submit a change of final exam form for the spring semester?
+Ideal response: 18-Apr-25
+Model response: When is the last day to submit a change of final exam form for the spring semester? What if I have a final exam conflict?
+The deadline to submit a change of final exam form is Friday, March 10, 2023.
+What if I have a final exam conflict?
+If you have a final exam conflict, please contact the Office of the Registrar at registrar@fau.edu or 561-297-3010.
+Similarity score: 0.24257883429527283
+--------------------
+Question: When are final exams for the spring semester?
+Ideal response: April 28  to  May 1, 2025
+Model response: When are final exams for the spring semester? When are final exams for the spring semester?
+When are final exams for the spring semester?
+When are final exams for the spring semester?
+Similarity score: 0.31908100843429565
+--------------------
+Question: Where can I find more information about different majors at Pepperdine?
+Ideal response: https://www.pepperdine.edu/academics/programs/
+Model response: Where can I find more information about different majors at Pepperdine? 
+What are the requirements to study abroad?
+What is the average class size at Pepperdine?
+What is the average GPA of a Pepperdine student?
+What is the average ACT/SAT score of a Pepperdine student?
+What is the average high school GPA of a Pepperdine student?
+What is the average high school class rank of a Pepperdine student?
+What is the average size of a Pepperdine student's family?
+What is the average number of years a student has been out of high school?
+What is the average age of a Pepperdine student?
+What is the average number of years a student has been out of high school?
+What is the average age of a Pepperdine student?
+Similarity score: 0.34750473499298096
+--------------------
+Question: What are the advantages of Pepperdine's philosophy major?
+Ideal response: 
+Model response: What are the advantages of Pepperdine's philosophy major? Why should I major in philosophy?
+The philosophy major provides a rigorous foundation in critical thinking, ethical reasoning, and the skills to analyze and evaluate the claims and arguments of others. These skills are highly valued by employers in a variety of fields, including law, business, education, and government.
+What can I do with a philosophy major?
+The philosophy major prepares students for a wide variety of careers. Some students choose to go on to law school or graduate school in philosophy. Others choose to work in fields such as business, education, government, or communications. Many of our graduates have gone on to work for companies such as Amazon, Apple, Deloitte, and Google.
+What are the prerequisites for the philosophy major?
+The major requires a minimum of
+Similarity score: -0.034049585461616516
+--------------------
+Question: What are the advantages of Pepperdine's philosophy minor?
+Ideal response: Philosophy explores the foundational assumptions and challenges within the framework of human experience, critically evaluating these assumptions and proposing alternatives for improvement. Our philosophy degree program equips students with a strong educational foundation, preparing them for diverse careers in fields such as law, journalism, government, public service, and business.
+Model response: What are the advantages of Pepperdine's philosophy minor? 
+The philosophy minor at Pepperdine is a great way to learn how to think critically and logically. Students who complete the minor will be able to think more deeply about the world around them and will be better equipped to make decisions in their lives. The philosophy minor will also help students develop their communication skills, as they will be able to express their thoughts and ideas more clearly.
+What are the benefits of a philosophy minor? 
+There are many benefits of a philosophy minor. Some of the benefits include: 
+1. It can help you to develop your critical thinking skills. 
+2. It can help you to develop your ability to analyze and evaluate arguments. 
+3. It can help you to develop your ability to communicate your ideas clearly and effectively
+Similarity score: 0.459188312292099
+--------------------
+Question: What are the advantages of Pepperdine's physics major?
+Ideal response: 
+The physics major at Seaver College offers a well-balanced curriculum in experimental and theoretical physics that prepares students pursuing careers in science, technology, and similarly quantitative fields as well as those seeking a graduate education in physics, engineering, or environmental science.
+Model response: What are the advantages of Pepperdine's physics major? Why should I choose Pepperdine over other schools?
+The Pepperdine Physics Department is a small, highly interactive, and collaborative program. Students have the opportunity to interact with faculty and work closely with them in their research. Students are also encouraged to participate in off-campus research opportunities, such as the NSF-funded REU program at UC Irvine. The Physics Department also offers a wide variety of courses, including a wide variety of electives, as well as upper division courses in topics such as quantum information, quantum computing, and cosmology. These courses are taught by faculty who have a wide range of expertise in their respective fields, and who are actively engaged in research.
+The Physics Department also has a strong focus on interdisciplinary studies, with many of our
+Similarity score: 0.5376753211021423
+--------------------
+Question: What is the physics major curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=342
+Model response: What is the physics major curriculum? How is it different from the physics minor curriculum?
+The physics major consists of 10 courses in physics and mathematics, with a total of 32 units. The major is designed to prepare students for graduate study in physics or for employment in physics-related fields. The physics major is recommended for students with an interest in physics and mathematics and who wish to pursue a career in physics.
+The physics minor consists of 5 courses in physics and mathematics, with a total of 20 units. The physics minor is designed to provide students with a basic understanding of physics and mathematics and is recommended for students who wish to pursue a career in physics-related fields or who wish to pursue further study in physics.
+What are the requirements for the physics major?
+The physics major consists
+Similarity score: 0.02205141820013523
+--------------------
+Question: What are the advantages of the physics minor?
+Ideal response: Most popular with math majors, our physics minor provides a basic introduction to physics and a foundation for careers requiring a background in mathematics and science. Students minoring in physics must earn between 23 and 24 units by completing four required courses and two additional courses.
+Model response: What are the advantages of the physics minor? The physics minor is a great way to satisfy your curiosity about the world around you. It will give you a solid foundation in the mathematical and physical principles that underlie our modern world. Physics is also a great way to prepare for a career in science, technology, engineering, or mathematics.
+Similarity score: 0.6960180997848511
+--------------------
+Question: What are the advantages of the political science program?
+Ideal response: The Washington, DC Internship Program offers political science majors opportunities to intern in DC, Sacramento, and Los Angeles, collaborate on research, and publish. Students also participate in Model United Nations, the Sacramento Legislative Seminar, and study abroad in cities like London and Florence.
+Model response: What are the advantages of the political science program? What are the requirements for admission?
+The political science program is designed to prepare students for graduate study and for careers in law, public service, and business. The program is designed to provide students with a strong foundation in the principles and practice of American politics, international relations, and comparative politics. Students will gain an understanding of the theoretical and practical aspects of politics and will be able to apply this knowledge to a variety of real-world situations.
+The program is designed to be flexible enough to accommodate a variety of interests and career goals. Students can choose to focus on one or more of the following areas: American politics, international relations, comparative politics, or political theory. Students can also choose to take courses in other disciplines, such as history, economics, or
+Similarity score: 0.6043633222579956
+--------------------
+Question: What is the political science curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=402
+Model response: What is the political science curriculum? What are the requirements for a political science major? How do I declare a political science major? How do I get a minor in political science? What is a political science minor? How do I get a certificate in political science? How do I declare a certificate in political science? How do I get a certificate in international relations? How do I declare a certificate in international relations? How do I declare a certificate in public policy? How do I declare a certificate in public policy? How do I declare a certificate in global studies? How do I declare a certificate in global studies? How do I declare a certificate in human rights? How do I declare a certificate in human rights? How do I declare a certificate in comparative politics? How do I declare
+Similarity score: 0.05035461112856865
+--------------------
+Question: Where can I find information about pre-law programs?
+Ideal response: https://seaver.pepperdine.edu/social-science/undergraduate/pre-law/
+Model response: Where can I find information about pre-law programs? What are the requirements for law school? What are the requirements for law school? How can I prepare for the LSAT? What is the LSAT? What is the LSAT? What is the LSAT? What is the LSAT? How can I prepare for the LSAT? How can I prepare for the LSAT? How can I prepare for the LSAT? How can I prepare for the LSAT? How can I prepare for the LSAT? How can I prepare for the LSAT? How can I prepare for the LSAT? How can I prepare for the LSAT? How can I prepare for the LSAT? How can I prepare for the LSAT? How can I prepare for the LSAT? How can
+Similarity score: 0.479289174079895
+--------------------
+Question: What are common Psychology double majors?
+Ideal response: Psychology and biology, Psychology and communication, Psychology and sociology, Psychology and religion
+Model response: What are common Psychology double majors? A
+nswer: Common Psychology double majors include: •
+A n d r e w s o n
+A r t h u r
+A u g u s t i n
+B e n j a m i n
+B e n n e t
+B e n n e t
+B e n n e t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B e r t
+B
+Similarity score: 0.4935067892074585
+--------------------
+Question: What are my opportunities after graduating with a degree in psychology?
+Ideal response: Recent graduates have pursued careers in industry, personnel, research, management, counseling, and special needs education. Psychology majors are also qualified for roles in state and county corrections and welfare, such as in the Department of Children's Services.
+Model response: What are my opportunities after graduating with a degree in psychology? The Psychology major is designed to give students a strong foundation in the field of psychology, while also providing opportunities to explore other areas of interest within psychology. Students will learn about the history, theories, and methods of psychology, as well as the biological, cognitive, and social aspects of human behavior. They will also have the opportunity to take courses in areas such as neuroscience, developmental psychology, and clinical psychology.
+Can I work in the field of psychology with a degree in psychology? Yes, with a degree in psychology, you can work in a variety of fields related to psychology, such as research, teaching, counseling, and clinical practice. You can also pursue a career in fields such as marketing, human resources, or even business.
+What are some of
+Similarity score: 0.769626259803772
+--------------------
+Question: What is the psychology curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=404
+Model response: What is the psychology curriculum? 
+The psychology curriculum is designed to provide students with a solid foundation in the field of psychology. Students will learn about the history of psychology, the major schools of thought, and the various methods used in psychological research. They will also learn about the different areas of psychology, such as cognitive, social, and developmental psychology. In addition, students will learn about the different types of psychological disorders, as well as the treatment and prevention of these disorders.
+What are the benefits of studying psychology?
+There are many benefits to studying psychology. First, it can help you understand yourself and others better. Second, it can help you learn how to deal with difficult emotions and situations. Third, it can help you learn how to communicate more effectively. Fourth, it can
+Similarity score: 0.02534441649913788
+--------------------
+Question: What is the sport administration curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=165
+Model response: What is the sport administration curriculum? Why should I study sport administration?
+The sport administration curriculum is designed to provide students with a strong foundation in the business aspects of sport. Students will learn the skills and knowledge needed to become a leader in the sport industry. The curriculum will provide students with the opportunity to gain hands-on experience through internships and other experiential learning opportunities. The sport administration curriculum will also provide students with the opportunity to develop their communication, leadership, and problem-solving skills. Students will learn how to work effectively with others, how to manage time and resources, and how to make sound decisions.
+The sport administration curriculum will provide students with the knowledge and skills needed to work in a variety of sport-related fields, including:
+-Event management
+-Event marketing
+-Event
+Similarity score: 0.024538075551390648
+--------------------
+Question: What is the sport medicine curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=343
+Model response: What is the sport medicine curriculum? What are the academic requirements?
+The sport medicine curriculum is comprised of 3 years of academic study in the Department of Kinesiology, including coursework in the areas of exercise science, nutrition, and sports medicine. In addition, students will take courses in anatomy, physiology, and biomechanics. Students will also participate in an internship program and will complete a senior project.
+What is the difference between the Sport Medicine and Exercise Science major?
+The major in Sport Medicine is a 3 year program that includes an internship. The major in Exercise Science is a 4 year program that does not include an internship.
+What is the difference between the Sport Medicine and Athletic Training major?
+The Sport Medicine major is a 3 year program that includes an internship. The
+Similarity score: -0.0652705505490303
+--------------------
+Question: What is the theater major curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page202
+Model response: What is the theater major curriculum? What do I need to do to get a major in theater?
+What is the theater minor curriculum? What do I need to do to get a minor in theater?
+What is the acting curriculum? What do I need to do to get a major in acting?
+What is the theater design curriculum? What do I need to do to get a major in theater design?
+What is the theater education curriculum? What do I need to do to get a major in theater education?
+What is the theater history curriculum? What do I need to do to get a major in theater history?
+What is the theater production curriculum? What do I need to do to get a major in theater production?
+What is the theater technology curriculum? What do I need to do to
+Similarity score: -0.057242587208747864
+--------------------
+Question: What is the English major curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=239
+Model response: What is the English major curriculum? How do I declare an English major? What are the requirements for the English major? What is the English minor? What are the requirements for the English minor? What is the English teaching credential program? What are the requirements for the English teaching credential program?
+What is the English major curriculum?
+How do I declare an English major?
+What are the requirements for the English major?
+What is the English minor?
+What are the requirements for the English minor?
+What is the English teaching credential program?
+What is the English major curriculum?
+The English major is designed to be a program of study for students who wish to pursue careers in the humanities, journalism, publishing, or the teaching profession. The major requires 32 units, including 24 units of English courses
+Similarity score: 0.11603031307458878
+--------------------
+Question: What is the engineering curriculum?
+Ideal response: The 3/2 Engineering Program allows students to complete a B.A. in natural science at Pepperdine over three years, followed by two years at an engineering partner university (USC or Washington University in St. Louis) to earn dual bachelor's degrees. Students complete foundational liberal arts, math, and science courses at Pepperdine before transferring.
+Model response: What is the engineering curriculum? What are the courses?
+What is the curriculum like? How is it different from the traditional curriculum?
+What are the career options for students?
+What are the student-to-faculty ratios?
+What is the student-to-faculty ratio?
+What is the average class size?
+What is the student-to-faculty ratio for graduate students?
+What is the average class size for graduate students?
+What is the average class size for undergraduates?
+What is the average class size for graduate students?
+What is the average class size for undergraduates?
+What is the average class size for graduate students?
+What is the average class size for undergraduates?
+What is the average class size for graduate students?
+What is the average class size for undergraduates?
+What is
+Similarity score: 0.27623623609542847
+--------------------
+Question: What is the film studies curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=243
+Model response: What is the film studies curriculum? 1
+How do I prepare for the film studies major? 1
+What is the film studies program? 1
+What courses are required? 1
+How do I get a copy of the film studies catalog? 1
+How do I get a copy of the film studies program?
+How do I get a copy of the film studies catalog?
+How do I get a copy of the film studies program?
+How do I get a copy of the film studies catalog?
+How do I get a copy of the film studies program?
+How do I get a copy of the film studies catalog?
+How do I get a copy of the film studies program?
+How do I get a copy of the film studies catalog?
+How do I get a copy
+Similarity score: 0.09202402830123901
+--------------------
+Question: what is the integrated marketing communications curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=159
+Model response: what is the integrated marketing communications curriculum? 1
+why is integrated marketing communications important? 2
+what are the core competencies of an integrated marketing communications professional? 3
+what are the core competencies of an integrated marketing communications professional? 4
+what are the core competencies of an integrated marketing communications professional? 5
+what are the core competencies of an integrated marketing communications professional? 6
+what are the core competencies of an integrated marketing communications professional? 7
+what are the core competencies of an integrated marketing communications professional? 8
+what are the core competencies of an integrated marketing communications professional? 9
+what are the core competencies of an integrated marketing communications professional? 10
+what are the core competencies of an integrated marketing
+Similarity score: 0.0702575072646141
+--------------------
+Question: what is the finance curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=136
+Model response: what is the finance curriculum? 2
+how is the finance curriculum structured? 2
+what are the benefits of a finance major? 2
+what are the career opportunities for finance majors? 2
+what is the finance curriculum? 2
+how is the finance curriculum structured? 2
+what are the benefits of a finance major? 2
+what are the career opportunities for finance majors? 2
+what is the finance curriculum? 2
+how is the finance curriculum structured? 2
+what are the benefits of a finance major? 2
+what are the career opportunities for finance majors? 2
+what is the finance curriculum? 2
+how is the finance curriculum structured? 2
+what are the benefits of a finance major?
+Similarity score: -0.035782720893621445
+--------------------
+Question: what is the international business curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=136
+Model response: what is the international business curriculum? 1
+what is the international business curriculum? 2
+what is the international business curriculum? 3
+what is the international business curriculum? 4
+what is the international business curriculum? 5
+what is the international business curriculum? 6
+what is the international business curriculum? 7
+what is the international business curriculum? 8
+what is the international business curriculum? 9
+what is the international business curriculum? 10
+Similarity score: -0.03937169536948204
+--------------------
+Question: what is the math major curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=332
+Model response: what is the math major curriculum? 1
+what is the math major curriculum?
+1. MATH 101
+3. MATH 121
+4. MATH 122
+5. MATH 123
+6. MATH 124
+7. MATH 125
+8. MATH 126
+9. MATH 127
+10. MATH 128
+11. MATH 129
+12. MATH 130
+13. MATH 131
+14. MATH 132
+15. MATH 133
+16. MATH 134
+17. MATH 135
+18. MATH 136
+19. MATH 137
+20. MATH 138
+21. MATH 139
+22
+Similarity score: -0.020254559814929962
+--------------------
+Question: what is the music major curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=197
+Model response: what is the music major curriculum? 3
+what is the music major curriculum?
+3.2.2.1.1
+3.2.2.1.2
+3.2.2.1.3
+3.2.2.1.4
+3.2.2.1.5
+3.2.2.1.6
+3.2.2.1.7
+3.2.2.1.8
+3.2.2.1.9
+3.2.2.1.10
+3.2.2.1.11
+3.2.2.1.12
+3.2.2.1.13
+3.2.2.1.14
+3
+Similarity score: 0.1272473931312561
+--------------------
+Question: what is the accounting major curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=134
+Model response: what is the accounting major curriculum? 1
+what is the accounting major curriculum? 2
+what is the accounting major curriculum? 3
+what is the accounting major curriculum? 4
+what is the accounting major curriculum? 5
+what is the accounting major curriculum? 6
+what is the accounting major curriculum? 7
+what is the accounting major curriculum? 8
+what is the accounting major curriculum? 9
+Similarity score: -0.0653923973441124
+--------------------
+Question: what is the advertising major curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=134
+Model response: what is the advertising major curriculum? 1
+what is the advertising major curriculum? 2
+what is the advertising major curriculum? 3
+what is the advertising major curriculum? 4
+what is the advertising major curriculum? 5
+what is the advertising major curriculum? 6
+what is the advertising major curriculum? 7
+what is the advertising major curriculum? 8
+what is the advertising major curriculum? 9
+what is the advertising major curriculum? 10
+what is the advertising major curriculum? 11
+what is the advertising major curriculum? 12
+what is the advertising major curriculum? 13
+what is the advertising major curriculum? 14
+what is the advertising major curriculum? 15
+what is the advertising major curriculum? 
+Similarity score: -0.07351405173540115
+--------------------
+Question: what is the business admin major curriculum?  
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=135
+Model response: what is the business admin major curriculum?   What are the course requirements for the major?   What are the requirements for the minor?   What are the requirements for the certificate?   What are the requirements for the degree?   What are the requirements for the B.A. degree?   What are the requirements for the B.S. degree?   What are the requirements for the B.S.B.A. degree?   What are the requirements for the B.S.B.A. for Business Analytics degree?   What are the requirements for the B.S.B.A. for Business Analytics with a concentration in Business Analytics degree?   What are the requirements for the B.S.B.A. for Business Analytics with a concentration in Information Systems degree?   What are the requirements for the B.S.B.A. for
+Similarity score: 0.044472791254520416
+--------------------
+Question: what is the communication major curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=157
+Model response: what is the communication major curriculum? 
+The communication major is a rigorous program that provides students with a comprehensive foundation in the field. The program emphasizes critical thinking, writing, and oral communication skills, while also providing students with the opportunity to explore a variety of communication disciplines.
+The curriculum is designed to prepare students for a wide range of careers in the field, including public relations, journalism, advertising, marketing, and more. Students will also have the opportunity to participate in a variety of extracurricular activities, such as student media, public speaking, and debate.
+The communication major is a challenging program, but one that is highly rewarding. Students who complete the program will be well-prepared for a variety of careers in the field, and will have the opportunity to explore a variety of
+Similarity score: 0.1042921170592308
+--------------------
+Question: what is the economics major curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=401
+Model response: what is the economics major curriculum? 
+The Economics major curriculum is designed to provide students with the necessary tools to analyze and understand the economic and social issues that affect our world. The curriculum is structured to provide students with a broad-based understanding of economics, as well as the opportunity to specialize in a particular area of study. The curriculum is designed to be flexible, allowing students to tailor their studies to their own interests and career goals.
+what are the prerequisites for the economics major?
+The prerequisites for the Economics major are:
+1. A minimum of 24 units of college-level coursework in economics.
+2. A minimum of 12 units of college-level coursework in mathematics.
+3. A minimum of 12 units of college-level coursework in statistics.
+4. A minimum of 12 units of
+Similarity score: 0.10834308713674545
+--------------------
+Question: who is my academic advisor if I am a Philosophy major?
+Ideal response: Noah Jordan; 310.506.6149
+noah.jordan@pepperdine.edu
+Model response: who is my academic advisor if I am a Philosophy major? How do I find my advisor?
+I am a Philosophy major. How do I find my advisor?
+I am a Philosophy major. How do I find my advisor?
+Similarity score: 0.2213410884141922
+--------------------
+Question: who is my academic advisor if I am a teacher education major?
+Ideal response: Noah Jordan; 310.506.6149
+noah.jordan@pepperdine.edu
+Model response: who is my academic advisor if I am a teacher education major? What if I am a music major?
+Who is my academic advisor if I am a teacher education major?
+What if I am a music major?
+What is the difference between a major and a minor?
+Who is my academic advisor if I am a teacher education major?
+Students who are interested in becoming teachers should meet with the Director of Teacher Education to discuss their academic plans. The Director of Teacher Education will provide information about the teacher education program and will help students to design a program of study that will meet all the requirements for teacher certification.
+Similarity score: 0.13395968079566956
+--------------------
+Question: who is my academic advisor if I am a social science major?
+Ideal response: Noah Jordan; 310.506.6149
+noah.jordan@pepperdine.edu
+Model response: who is my academic advisor if I am a social science major??
+If you are an undeclared major, you must meet with an advisor in the  Office of Academic Advising  to declare a major. If you are a declared major, you may have your academic advisor in the  Department of Political Science.
+Similarity score: 0.09793687611818314
+--------------------
+Question: who is my academic advisor if I am a communication major?
+Ideal response: Ashley Castro; 310.506.4432
+ashley.castro@pepperdine.edu
+Model response: who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if I am a communication major??
+who is my academic advisor if
+Similarity score: 0.17296074330806732
+--------------------
+Question: who is my academic advisor if I am an Interdisciplinary Studies major?
+Ideal response: Ashley Castro; 310.506.4432
+ashley.castro@pepperdine.edu
+Model response: who is my academic advisor if I am an Interdisciplinary Studies major? 
+How do I declare a major? 
+How do I declare a minor? 
+How do I declare a second major? 
+How do I change my major? 
+How do I change my minor? 
+How do I change my second major? 
+How do I change my major or minor to an Honors program? 
+How do I change my major or minor to a double major? 
+How do I change my major or minor to a second major? 
+How do I change my major or minor to a second major or a minor? 
+How do I change my major or minor to a second major or a minor and an Honors program? 
+How do I change my major or minor to a second major or a minor and a
+Similarity score: 0.10492640733718872
+--------------------
+Question: who is my academic advisor if I am a student athlete?
+Ideal response: Ashley Castro; 310.506.4432
+ashley.castro@pepperdine.edu
+Model response: who is my academic advisor if I am a student athlete? What is the athletic director’s role in the academic advising process?
+What is the process for declaring a major?
+What is the process for changing a major?
+What is the process for changing my academic plan?
+What is the process for changing my academic plan if I am a student athlete?
+What is the process for changing my academic plan if I am an international student?
+What is the process for changing my academic plan if I am a student athlete and an international student?
+What is the process for changing my academic plan if I am a student athlete and an international student who is not on a scholarship?
+What is the process for changing my academic plan if I am a student athlete and an international student who is on a scholarship?
+What is the process for changing
+Similarity score: 0.09556952118873596
+--------------------
+Question: who is my academic advisor if I am a business admin major?
+Ideal response: Jacob Moonen; 310.506.6150 jacob.moonen@pepperdine.edu 
+Model response: who is my academic advisor if I am a business admin major? What is the difference between the MBA and the MSBA?
+I am a business admin major, who is my academic advisor?
+What is the difference between the MBA and the MSBA?
+Similarity score: 0.053907305002212524
+--------------------
+Question: who is my academic advisor if I am a languages major?
+Ideal response: Jacob Moonen; 310.506.6150 jacob.moonen@pepperdine.edu 
+Model response: who is my academic advisor if I am a languages major? What are my degree requirements?
+What is the difference between the "B.A." and the "B.S."?
+What is the difference between a "minor" and a "second major"?
+What is a "concentration"?
+How many units must I take each semester?
+How many units must I take in each area of study?
+What is the difference between a "course" and a "unit"?
+What is the difference between a "core" and a "required" course?
+What is the difference between a "course" and a "course number"?
+What is the difference between a "course" and a "course description"?
+What is the difference between a "course" and a "course number"?
+What is the
+Similarity score: 0.04795212298631668
+--------------------
+Question: who is my academic advisor if I am an international studies major?
+Ideal response: Jacob Moonen; 310.506.6150 jacob.moonen@pepperdine.edu 
+Model response: who is my academic advisor if I am an international studies major? I am interested in taking the international studies major and I am an international studies major.
+I am interested in taking the international studies major and I am an international studies major.
+I am an international studies major.
+I am an international studies major.
+I am an international studies major.
+I am an international studies major.
+I am an international studies major.
+Similarity score: 0.14932262897491455
+--------------------
+Question: who is my academic advisor if I am a religion major?
+Ideal response: Jacob Moonen; 310.506.6150 jacob.moonen@pepperdine.edu 
+Model response: who is my academic advisor if I am a religion major? 
+What are the requirements for a minor in religious studies?
+How do I declare a minor in religious studies?
+How do I declare a major in religious studies?
+What is the Religion Department’s policy on student attendance at religious services?
+What is the Religion Department’s policy on student attendance at religious services?
+What is the Religion Department’s policy on student attendance at religious services?
+How do I declare a major in religious studies?
+What are the requirements for a minor in religious studies?
+How do I declare a minor in religious studies?
+How do I declare a major in religious studies?
+What is the Religion Department’s policy on student attendance at religious services?
+How do I declare a major in religious studies?
+How do I declare a minor in religious studies?
+What
+Similarity score: 0.13372620940208435
+--------------------
+Question: who is my academic advisor if I am a Natural Science major? 
+Ideal response: Noah Jordan - with last names starting with  A-G, Ashley Castro - with last names starting with H-N, Jacob Moonen - with last names starting with O-Z
+Model response: who is my academic advisor if I am a Natural Science major?  (2)
+What are the requirements for a major in Natural Science?  (2)
+What are the requirements for a minor in Natural Science?  (2)
+What are the requirements for a major in Natural Science with a concentration in Biology?  (2)
+What are the requirements for a major in Natural Science with a concentration in Chemistry?  (2)
+What are the requirements for a major in Natural Science with a concentration in Geology?  (2)
+What are the requirements for a major in Natural Science with a concentration in Physics?  (2)
+What are the requirements for a major in Natural Science with a concentration in Science Education?  (2)
+What are the requirements for a major
+Similarity score: -0.03333920240402222
+--------------------
+Question: who is my academic advisor if I am a Fine Arts major? 
+Ideal response: Noah Jordan - with last names starting with  A-G, Ashley Castro - with last names starting with H-N, Jacob Moonen - with last names starting with O-Z
+Model response: who is my academic advisor if I am a Fine Arts major?  How do I get one?
+How do I declare a major?  How do I change my major?
+How do I declare a minor?  How do I change my minor?
+How do I get a second major?  How do I change my second major?
+How do I get a third major?  How do I change my third major?
+How do I get a fourth major?  How do I change my fourth major?
+How do I get a fifth major?  How do I change my fifth major?
+How do I declare a second major?  How do I change my second major?
+How do I declare a third major?  How do I change my third major?
+How do I
+Similarity score: -0.010352177545428276
+--------------------
+Question: What scholarships can I apply for? 
+Ideal response: Pepperdine offers the George Pepperdine scholarship, various grants including the Pepperdine Grant, and the Regents scholarship. Would you like to know more about any particular one?
+Model response: What scholarships can I apply for? 1. The University of Georgia has a large number of scholarships that are awarded based on academic merit, financial need, or other criteria. 2. The UGA Foundation also awards scholarships that are funded by private donors. 3. UGA’s Office of Scholarships and Financial Aid maintains a list of scholarships that are available to students. 4. UGA’s Office of Admissions also maintains a list of scholarships that are available to students. 5. UGA’s Office of Student Financial Aid also maintains a list of scholarships that are available to students.
+Similarity score: 0.31662750244140625
+--------------------
+Question: Can you provide more information on the George Pepperdine scholarship? 
+Ideal response: The George Pepperdine Achievement Award is a renewable, four-year merit scholarship awarded at admission for academic achievement, requiring no separate application. The scholarship amount remains constant annually but is prorated if a student drops below full-time status (12 to 18 units). It applies only to tuition, and students must maintain a 2.0 GPA and satisfactory progress. Merit funds are primarily for fall admits and are coordinated with financial aid for need-based students. Students who excel academically at Pepperdine may also qualify for the Faculty Staff Scholarship.
+Model response: Can you provide more information on the George Pepperdine scholarship?  I’m looking for a scholarship for my son.
+George Pepperdine University is a private Christian university located in Malibu, California.  They offer a variety of scholarships, including the George Pepperdine Scholarship.  This scholarship is awarded to students who demonstrate financial need and have a strong academic record.  The scholarship covers tuition and fees, and can be renewed for up to four years.  To be eligible, students must have a minimum GPA of 3.0 and be enrolled full-time.  For more information, please visit the George Pepperdine University website.
+Similarity score: 0.7184364795684814
+--------------------
+Question: Can you provide more information on the Pepperdine Grant scholarship? 
+Ideal response: The Pepperdine Grant is a renewable, need-based award funded by the university for up to four years, provided students maintain a 2.0 GPA and satisfactory progress. Offered at admission based on FAFSA-submitted financial need, the grant amount remains constant each year and only applies to tuition. It is prorated if a student's enrollment falls below full-time (12 to 18 units). Incoming students must submit a FAFSA by February 15 for fall or October 15 for spring admission.
+Model response: Can you provide more information on the Pepperdine Grant scholarship?  I'm interested in applying but I'm not sure if I qualify.
+The Pepperdine Grant is a need-based scholarship awarded to students who demonstrate financial need, and who are not eligible for other forms of financial aid. The scholarship is renewable for up to four years of study, as long as the student maintains a cumulative GPA of 2.0 or higher.
+To be considered for the Pepperdine Grant, students must submit the Free Application for Federal Student Aid (FAFSA). If the FAFSA indicates that the student has financial need, the student will be notified by the Financial Aid Office if they have been awarded a Pepperdine Grant.
+To learn more about the Pepperdine Grant, please visit our website at: https
+Similarity score: 0.8565505743026733
+--------------------
+Question: Can you provide more information on the other grants I can apply for?
+Ideal response: Other Institutional Grants and Scholarships including the Tyler Trust End Scholarship, Malibu Seaver Scholarship, Frank R. Seaver End Scholarship, and University Supplemental Grant are similarly renewable for up to four years. These awards require a 2.0 GPA, full-time enrollment, and apply only to tuition; they are also prorated if the student drops below full-time status and are not refundable.
+Model response: Can you provide more information on the other grants I can apply for? How do I apply for these grants?
+The application process for the other grants is the same as for the general grant. The other grants are listed on the website.
+Do you offer any grants for students with disabilities?
+Do you offer grants for students in the arts?
+What is the deadline for the general grant application?
+The deadline for the general grant application is May 15.
+Similarity score: 0.37398263812065125
+--------------------
+Question: Can you provide more information on the Regents Scholarship?
+Ideal response: The Regents Scholars Program at Pepperdine University is highly competitive, with awards granted to only the top 8-10% of admitted first-year students based on academic merit, including unweighted GPA and SAT/ACT scores. The program includes two scholarships: the Regents Scholarship and the Blanche E. Seaver Scholarship, each starting at $20,000 annually and renewable for up to four years. Scholars must maintain a 3.25 GPA, full-time status, and avoid academic probation. Note: Although Pepperdine is test-optional, SAT/ACT scores are required for Regents Scholars Program consideration.
+Model response: Can you provide more information on the Regents Scholarship? What is the deadline?
+The Regents Scholarship is a merit-based scholarship that is awarded to high school seniors who have demonstrated academic excellence. The scholarship covers the full cost of tuition, fees, and room and board for four years of study. The application deadline is March 1.
+What is the deadline for the Regents Scholarship?
+The deadline for the Regents Scholarship is March 1.
+Similarity score: 0.570827066898346
+--------------------
+Question: Where can I find more information about scholarships at Pepperdine?
+Ideal response: https://seaver.pepperdine.edu/admission/financial-aid/undergraduate/
+Model response: Where can I find more information about scholarships at Pepperdine? 
+The Office of Financial Aid is here to help you understand and apply for financial aid. Our office has a variety of scholarships, grants, and loans that can help you pay for your education. We also have a variety of resources to help you find additional funding. 
+How do I apply for financial aid?
+To be considered for financial aid, you must complete the  Free Application for Federal Student Aid  (FAFSA) by the priority deadline of March 2. 
+The FAFSA is available on the  FAFSA website  beginning October 1. 
+You must apply each year to be considered for financial aid. 
+If you are a first-year student, you must complete the FAFSA by March 2
+Similarity score: 0.7401347160339355
+--------------------
+Question: What are the transfer application requirements?
+Ideal response: Transfer Application submission, official proof of high school completion, official college transcripts, academic recommendation, and SAT/ACT scores are optional. 
+Model response: What are the transfer application requirements? How can I apply?
+How do I apply for financial aid? How do I apply for scholarships?
+What are the admission requirements for the Master of Education?
+How do I apply for the Master of Education?
+How do I apply for the Master of Science in Education?
+What are the admission requirements for the Master of Science in Education?
+How do I apply for the Master of Science in Education?
+How do I apply for the Doctor of Education?
+What are the admission requirements for the Doctor of Education?
+How do I apply for the Doctor of Education?
+Similarity score: 0.5161808133125305
+--------------------
+Question: When is the transfer application deadline for the spring term?
+Ideal response: 1-Oct
+Model response: When is the transfer application deadline for the spring term? 2
+How do I apply for transfer? 3
+What is the transfer GPA? 4
+How do I calculate my transfer GPA? 5
+How do I calculate my transfer GPA? 6
+What is a transferable unit? 7
+What is the minimum transfer GPA? 8
+How do I calculate my transfer GPA? 9
+How do I calculate my transfer GPA? 10
+What is the minimum transfer GPA? 11
+What is the minimum transfer GPA? 12
+How do I calculate my transfer GPA? 13
+How do I calculate my transfer GPA? 14
+What is the minimum transfer GPA? 15
+How do I calculate my transfer GPA? 16
+How
+Similarity score: 0.07686229050159454
+--------------------
+Question: When is the transfer application deadline for the fall term?
+Ideal response: 15-Jan
+Model response: When is the transfer application deadline for the fall term? What are the application deadlines for the spring and summer terms?
+The application deadline for the fall term is January 15.
+The application deadline for the spring term is August 1.
+The application deadline for the summer term is April 1.
+When is the transfer application deadline for the fall term? What are the application deadlines for the spring and summer terms?
+The application deadline for the fall term is January 15.
+The application deadline for the spring term is August 1.
+The application deadline for the summer term is April 1.
+Similarity score: 0.2963959276676178
+--------------------
+Question: How many students apply and how many do you accept?
+Ideal response: This past application season (Fall 2024) we received 12,719 applications and admitted 7,515 students.
+Model response: How many students apply and how many do you accept? How many students are admitted? What is the student body size?
+How many students are enrolled at the school? What is the student body size?
+What is the student body size?
+What is the student body size?
+What is the student body size?
+What is the student body size?
+What is the student body size?
+What is the student body size?
+What is the student body size?
+What is the student body size?
+What is the student body size?
+What is the student body size?
+Similarity score: 0.4306834936141968
+--------------------
+Question: What is the average GPA and standardized test score for an admitted student?
+Ideal response: High School GPA: 3.67-3.89 (unweighted and only including academic classes), ACT Composite: 31-33 (superscored), Transfer GPA: 3.55-3.83 (unweighted), SAT Total: 1350-1450 (superscored), 
+Model response: What is the average GPA and standardized test score for an admitted student? The average GPA of the incoming class for fall 2019 was 3.79 and the average ACT composite score was 29. The average GPA of the incoming class for fall 2018 was 3.78 and the average ACT composite score was 29.
+What is the average GPA and standardized test score for an admitted student? The average GPA of the incoming class for fall 2019 was 3.79 and the average ACT composite score was 29. The average GPA of the incoming class for fall 2018 was 3.78 and the average ACT composite score was 29.
+Similarity score: 0.5918663740158081
+--------------------
+Question: Does Pepperdine offer interviews as part of the application process?
+Ideal response: Yes, Pepperdine offers evaluative interviews for first-year students applying for fall. Visit the Admission Interviews webpage for additional interview information and to register.
+Model response: Does Pepperdine offer interviews as part of the application process? If so, how?
+What is Pepperdine’s application deadline?
+What are the application requirements?
+Does Pepperdine offer rolling admissions?
+What are the academic requirements?
+What are the extracurricular requirements?
+What is Pepperdine’s application fee?
+Is the application fee refundable?
+What is the GPA requirement?
+What is the minimum test score requirement?
+Does Pepperdine require an essay?
+Does Pepperdine require a letter of recommendation?
+Does Pepperdine require a resume?
+Does Pepperdine require a personal interview?
+Does Pepperdine require a statement of purpose?
+Does Pepperdine require a portfolio?
+Does Pepperdine require a portfolio of work?
+Does Pepperdine require a portfolio of artwork?
+Does Pepperdine
+Similarity score: 0.6039206981658936
+--------------------
+Question: How many units must be completed to be considered a transfer student?
+Ideal response: Transfer applicants are high school graduates who have taken any college units before or after graduating high school. Students who have not graduated from high school or who have graduated from high school without completing any college coursework should apply as a first-year student.
+Model response: How many units must be completed to be considered a transfer student? 12 units
+What is the difference between a transfer student and a freshman? A transfer student has previously attended another college or university.
+What is the difference between a transfer student and a returning student? A transfer student has previously attended another college or university.
+What is the difference between a transfer student and a re-entry student? A transfer student has previously attended another college or university.
+What is the difference between a transfer student and an international student? A transfer student has previously attended another college or university.
+What is the difference between a transfer student and a veteran? A transfer student has previously attended another college or university.
+What is the difference between a transfer student and a military student? A transfer student has previously attended another college or university.
+Similarity score: 0.6429908275604248
+--------------------
+Question: Does Pepperdine offer Early Action or Early Decision?
+Ideal response: Pepperdine offers Early Action admission for first-year fall applicants (excluding nursing) with a nonbinding deadline of November 1; decisions are released by January 10, with an enrollment deadline of May 1. Regular Decision and Transfer applications are due by January 15, with decisions by April 1 and the same May 1 enrollment deadline. Nursing applications follow the same January 15 deadline as Regular Decision. All applicants, regardless of the application type, receive equal consideration for admission and financial aid. Note: Pepperdine does not offer Early Decision. For details, refer to the Apply Now page.
+Model response: Does Pepperdine offer Early Action or Early Decision? No. Early Action is a non-binding program in which students are notified of their admission decision prior to the regular decision notification date.
+What is the application deadline for Pepperdine? The application deadline for Pepperdine is January 15.
+Does Pepperdine offer rolling admissions? No. Rolling admissions are available at Pepperdine.
+Does Pepperdine have a preference for California residents? No. Pepperdine does not have a preference for California residents.
+Is Pepperdine a test-optional school? No. Pepperdine is not a test-optional school.
+Does Pepperdine accept the Common Application? No. Pepperdine does not accept the Common Application.
+Does Pepperdine accept the Coalition Application? No. Pepperdine
+Similarity score: 0.8060879707336426
+--------------------
+Question: what is the cost of attendance/tuition? 
+Ideal response: The estimated cost of attendance for the 2024-25 academic year is $95,234. That includes tuition, food, housing, and indirect costs, such as books, transportation, and personal expenses. Approximately 92% of students at Pepperdine receive some form of financial assistance. For more information about financial assistance, please visit the Financial Assistance website.
+Model response: what is the cost of attendance/tuition?  what is the average cost of living?  how many students receive financial aid?  what are the financial aid deadlines?  how many students get scholarships?  how many students get loans?  what are the campus safety policies?
+Click here to view the 2019-2020 Cost of Attendance
+Click here to view the 2019-2020 Financial Aid
+Click here to view the 2019-2020 Financial Aid
+Click here to view the 2019-2020 Financial Aid
+Click here to view the 2019-2020 Financial Aid
+Click here to view the 2019-2020 Financial Aid
+Click here to view the 201
+Similarity score: 0.4213674068450928
+--------------------
+Question: how many students become employed full time postgrad?
+Ideal response: 6 months after graduation, 91% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military. For a complete breakdown of graduate outcomes, check out the Success After Seaver page.
+Model response: how many students become employed full time postgrad??
+What are the best places to go for an MSc in Economics?
+What are the best places to go for an MSc in Economics?
+What are the best places to go for an MSc in Economics?
+What are the best places to go for an MSc in Economics?
+What are the best places to go for an MSc in Economics?
+What are the best places to go for an MSc in Economics?
+Similarity score: 0.13934993743896484
+--------------------
+Question: Can I minor or double major? 
+Ideal response: You can only indicate one major on your application, but you will have the opportunity to add an additional major or minor during your time at Pepperdine. Academic Advising is available to help students plan out their curriculum once enrolled.
+Model response: Can I minor or double major?  Yes.  If you have a declared major, you may add a second major or minor by submitting an online application in Banner. 
+If you are a new student, you will need to declare a major.  Students who have already declared a major may add a second major or minor by submitting an online application in Banner.  You may add a second major or minor at any time, but you must complete the process before the end of the semester in which you plan to graduate.
+What is the difference between a major and a minor?
+A major is a program of study that is designed to provide a broad, in-depth, and integrated education in a particular field.  A minor is a program of study that is designed to provide a more
+Similarity score: 0.5777533650398254
+--------------------
+Question: Which lower division courses will I need to do as a Business Admin major? 
+Ideal response: AC 224 Financial Accounting, AC 225 Managerial Accounting, BA 210 Introduction to Microeconomics (GE), BA 212 Business Computing Applications, BA 216 Statistical Analysis for Business Decisions, ECON 211 Introduction to Macroeconomics (GE), MATH 140 Calculus for Business and Economics (GE), MATH 141 Probability, Linear Systems, and Multivariable Optimization (GE).
+Model response: Which lower division courses will I need to do as a Business Admin major?  How many courses will I need to take?
+All Business Administration majors are required to complete 12 units of lower division business courses.  This includes 4 units of lower division business courses (BADM 101, 102, 201, 202) and 8 units of lower division business courses (BADM 101, 102, 201, 202, 203, 204, 301, 302).
+How many upper division courses will I need to do as a Business Administration major?
+All Business Administration majors are required to complete 12 units of upper division business courses.  This includes 4 units of upper division business courses (BADM 301, 302, 401, 402)
+Similarity score: 0.3976556360721588
+--------------------
+Question: Which upper division courses will I need to do as a Business Admin major? 
+Ideal response: Financial Management, BA 352 Management Theory and Practice (WI), BA 366 Organizational Behavior (CC, WI), BA 355 Principles of Marketing, BA 358 Legal and Regulatory Environment of Business, BA 445 Managerial Economics, BA 451 Operations Management, BA 452 Quantitative Analysis, BA 497 Business Policy, Strategy, and Ethics (RM), BA 498 Service Leadership Project (CC, PS)
+Model response: Which upper division courses will I need to do as a Business Admin major?  What are the prerequisites for the upper division courses?
+What are the prerequisites for upper division courses? 
+How many hours do I need to take each semester? 
+How many hours do I need to take in a summer?
+What is the difference between a minor and a second major?
+What is a double major?
+What is a double minor?
+What is a second major?
+What is a second minor?
+What is a third major?
+What is a third minor?
+What is a fourth major?
+What is a fourth minor?
+What is a fifth major?
+What is a fifth minor?
+How can I make sure that I take the right classes?
+What is the difference between a major and a minor?
+What is the difference between a double major and a
+Similarity score: 0.33445510268211365
+--------------------
+Question: Which lower division courses will I need to do as a Biology major? 
+Ideal response: For a BA in biology, you will need to complete BIOL 110 Colloquium for First-Year Biology Majors, BIOL 211 Biology of Cells, CHEM 120 General Chemistry I (LS), CHEM 120L General Chemistry I Laboratory, CHEM 121 General Chemistry II, CHEM 121L General Chemistry II Laboratory, MATH 150 Calculus I (MR), PHYS 202 General Physics I (LS), PHYS 203 General Physics II, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants. For a BS in Biology, you will need to complete BIOL 110 Colloquium for First-Year Biology Majors, BIOL 211 Biology of Cells, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants, CHEM 120 General Chemistry I (LS), CHEM 120L General Chemistry I Laboratory, CHEM 121 General Chemistry II, CHEM 121L General Chemistry II Laboratory, MATH 150 Calculus I (MR), PHYS 202 General Physics I (LS), PHYS 203 General Physics II, PHYS 210 Physics I (LS), PHYS 211 Physics II.
+Model response: Which lower division courses will I need to do as a Biology major?  What about upper division courses?
+All Biology majors must take:
+BIOL 110  - Fundamentals of Biology
+BIOL 220  - Cellular and Molecular Biology
+BIOL 230  - Ecology and Evolution
+BIOL 240  - General Genetics
+BIOL 250  - Physiology
+In addition, all Biology majors must take:
+CHEM 112  - General Chemistry
+CHEM 112L  - General Chemistry Laboratory
+CHEM 114  - Quantitative Analysis
+CHEM 114L  - Quantitative Analysis Laboratory
+MATH 115  - Calculus with Analytic Geometry I
+
+Similarity score: 0.6959433555603027
+--------------------
+Question: Which upper division courses will I need to do as a Bio major? 
+Ideal response: For a BA in biology, Upper-Division Courses: 27 to 29 units
+BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry, CHEM 310L Organic Chemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, two upper-division biology courses, three upper-division courses in biology. For a BS in bio, Upper-Division Courses: 32 to 33 units
+BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry I, CHEM 310L Organic Chemistry I Laboratory, CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), three upper-division biology courses.
+Model response: Which upper division courses will I need to do as a Bio major?  I hear there are a lot.
+Which upper division courses will I need to do as a Bio major?  I hear there are a lot.
+As a biology major, you will be required to take at least 39 units of upper division courses. The minimum requirement is 36 units. However, if you have an interest in a particular area of biology, you may want to take more than the minimum. For example, if you are interested in ecology, you may want to take more than the minimum number of ecology courses.
+Similarity score: 0.7310463190078735
+--------------------
+Question: Which lower division courses will I need to do as an IMC major? 
+Ideal response: ADV 275 Introduction to Advertising, BA 220 Accounting and Finance for Non-business Majors, COM 205 Storytelling Through Media, PR 255 Principles of Public Relations.
+Model response: Which lower division courses will I need to do as an IMC major?  Can I take my required courses in another department?
+All IMC majors must take 9 units of lower division courses in the IMC department. The courses are:
+MUSC 200
+MUSC 201
+MUSC 301
+MUSC 302
+MUSC 303
+MUSC 304
+MUSC 305
+MUSC 306
+MUSC 309
+MUSC 310
+MUSC 311
+MUSC 312
+MUSC 313
+MUSC 314
+MUSC 315
+MUSC 316
+MUSC 317
+MUSC 318
+MUSC 319
+MUS
+Similarity score: 0.1923118233680725
+--------------------
+Question: What upper div courses are needed as an IMC major?
+Ideal response: ADV 375 Advertising Media Planning and Strategy, BA 355 Principles of Marketing, BA 366 Organizational Behavior (CC, WI), BA 470 Marketing Research, BA 471 Marketing Strategy, COM 495 Communication Internship, IMC 385, Choose one of the following graphic design courses: ART 330 Digital Arts II, MSCO 371 Communication Graphics.Integrated Marketing Communication, IMC 485 Advanced Integrated Marketing Communication,
+Model response: What upper div courses are needed as an IMC major? Are there any other courses that are required or recommended?
+What is the average GPA of a student that graduates with an IMC degree?
+What is the average time it takes a student to complete the IMC major?
+What is the average number of units a student takes per semester?
+What is the average number of students in each class?
+What is the average class size of a lecture class?
+What is the average class size of a lab class?
+What is the average class size of an upper div class?
+What is the average class size of a seminar class?
+What is the average class size of an IMC course?
+What is the average number of students in a seminar?
+What is the average number of students in a lab?
+What is the average
+Similarity score: 0.29771941900253296
+--------------------
+Question: Which lower division courses will I need to do as a Psychology major? 
+Ideal response: Psychology majors are required to take Foundation Courses and Core Content courses. The following is the recommended order for Foundation Courses. The two lower-division and two upper-division foundation courses are best taken in the sequence listed below. Students must earn at least a C- in the
+four foundation courses. PSYC 210 Foundations of Psychology (GE), PSYC 250 Introductory Statistics (GE), PSYC 310 Research Methods in Psychology (PS, RM, WI), PSYC 315 Psychological Testing and Assessment
+Model response: Which lower division courses will I need to do as a Psychology major?  When should I take them?
+All students must take PSYC 101, 201, 202, 211, 212, 213, 214, 301, and 401.
+In addition to the above, students should take at least one course in each of the following areas: 
+All students must take at least one course in each of the following areas:
+Students must complete at least one course in each of the following areas:
+Students must complete at least one course in each of the following areas:
+Students must complete at least one course in each of the following areas:
+Students must complete at least one course in each of the following areas:
+Students must complete at least one course in each of the following areas:
+Students must complete
+Similarity score: 0.8090219497680664
+--------------------
+Question: Which upper division courses will I need to do as a Psychology major? 
+Ideal response: Core Content Courses required. Individual Differences: PSYC 321 Personality, PSYC 322 Lifespan Developmental Psychology, PSYC 323 Abnormal Psychology, PSYC 324 Adult Development and Aging, Social/Group Processes: PSYC 332 Cross-Cultural Psychology, PSYC 333 Social Psychology, PSYC 334 Psychology of Gender, PSYC 335 Latino Psychology and Society, Learning/Cognitive Principles: PSYC 341 Learning and Memory, PSYC 342 Cognitive Processes, Biological Principles: PSYC 372 Physiological Psychology, PSYC 373 Psychopharmacology
+Model response: Which upper division courses will I need to do as a Psychology major? 3
+How many courses do I need to take in order to graduate? 4
+How many courses do I need to take in order to graduate?
+I am a psychology major. How many courses do I need to take in order to graduate?
+Similarity score: 0.5348038673400879
+--------------------
+Question: Which lower division courses will I need to complete as an economics major? 
+Ideal response: Foundation Courses (14 units): ECON 210 Introduction to Microeconomics (GE), ECON 211 Introduction to Macroeconomics (GE), ECON 212 Statistics for Economists; Choose one of the following: MATH 140 Calculus for Business and Economics (GE), MATH 150 Calculus I (GE) 
+Model response: Which lower division courses will I need to complete as an economics major? 1
+Which lower division courses will I need to complete as an economics major?
+1. ECON 1A and 1B
+2. MATH 2A, 2B, and 2C
+3. One course in statistics (e.g., STAT 1A, 1B, or 1C)
+4. One course in calculus-based probability and/or linear algebra (e.g., MATH 2E, 3E, 5E, 6E, 7E, 8E, 9E, 10E, or 11E)
+5. One course in differential equations (e.g., MATH 3B, 5B, 6B, 
+Similarity score: 0.6110837459564209
+--------------------
+Question: Which upper division courses will I need to complete as an economics major? 
+Ideal response: ECON 320 Intermediate Microeconomic Theory, ECON 321 Intermediate Macroeconomic Theory(4), ECON 330 Introduction to Econometrics (PS, RM, WI)(4)Elective Courses (16 units) In addition, all majors must take 16 units of elective courses at the 400 level. Neither ECON 490 nor ECON 499 can be counted toward this
+requirement.
+Model response: Which upper division courses will I need to complete as an economics major?  What are the prerequisites for these courses?
+In order to graduate with a major in economics, you must complete at least 12 upper division units in economics.  The following courses are required:
+ECON 3500  - Intermediate Microeconomics
+ECON 3510  - Intermediate Macroeconomics
+ECON 4500  - Advanced Microeconomics
+ECON 4510  - Advanced Macroeconomics
+ECON 4520  - Econometrics
+ECON 4540  - Game Theory
+ECON 4550  - Topics in Economics
+ECON 4560  - Public Policy
+ECON 4590  - Topics in Economics
+E
+Similarity score: 0.7595781683921814
+--------------------
+Question: How much is Pepperdine'es application fee? 
+Ideal response: $70 
+Model response: How much is Pepperdine'es application fee? 0
+Pepperdine's application fee is $65. 0
+Is Pepperdine's application fee refundable? 0
+Pepperdine's application fee is non-refundable. 0
+Does Pepperdine require an application fee waiver? 0
+Pepperdine does not require an application fee waiver. 0
+Does Pepperdine require a personal essay? 0
+Pepperdine does not require a personal essay. 0
+Does Pepperdine require a resume? 0
+Pepperdine does not require a resume. 0
+Does Pepperdine require a recommendation letter? 0
+Pepperdine does not require a recommendation letter. 0
+Does
+Similarity score: 0.0933028906583786
+--------------------
+Question: What percent of students appreciate the effort professors put into classes at Pepperdine?
+Ideal response: According to Niche, 83%
+Model response: What percent of students appreciate the effort professors put into classes at Pepperdine? (2017)
+How would you rate the effort professors put into classes at Pepperdine?
+Similarity score: 0.32160234451293945
+--------------------
+Question: What percent of students say it is easy to get the classes they want at Pepperdine?
+Ideal response: According to Niche, 62%
+Model response: What percent of students say it is easy to get the classes they want at Pepperdine? (100% response)
+What percent of students say it is easy to get the classes they want at Pepperdine? (100% response)
+What percent of students say it is easy to get the classes they want at Pepperdine? (100% response)
+What percent of students say it is easy to get the classes they want at Pepperdine? (100% response)
+What percent of students say it is easy to get the classes they want at Pepperdine? (100% response)
+What percent of students say it is easy to get the classes they want at Pepperdine? (100% response)
+What percent of students say it is easy to get the classes they want at Pepperdine? (100% response)
+Similarity score: 0.3233020007610321
+--------------------
+Question: What percent of students say that the workload is easy to manage at Pepperdine?
+Ideal response: According to Niche, 51%
+Model response: What percent of students say that the workload is easy to manage at Pepperdine? (100% response)
+What percent of students say that the workload is easy to manage at Pepperdine? (100% response)
+What percent of students say that the workload is easy to manage at Pepperdine? (100% response)
+What percent of students say that the workload is easy to manage at Pepperdine? (100% response)
+What percent of students say that the workload is easy to manage at Pepperdine? (100% response)
+Similarity score: 0.2954246401786804
+--------------------
+Question: What is the average class size at Pepperdine?
+Ideal response: 19
+Model response: What is the average class size at Pepperdine? The average class size is 18 students.
+How many students attend Pepperdine? There are approximately 8,000 students enrolled at Pepperdine.
+Is Pepperdine a Christian university? Pepperdine University is a Christian university, founded on the values of the Bible and the teachings of Jesus Christ.
+Similarity score: -0.009944994002580643
+--------------------
+Question: How many degree programs are at Seaver College? 
+Ideal response: 87 degree programs 
+Model response: How many degree programs are at Seaver College? 2
+How many undergraduate degrees are offered at Seaver College? 2
+How many graduate degrees are offered at Seaver College? 1
+How many majors are at Seaver College? 2
+How many minors are at Seaver College? 2
+How many concentrations are at Seaver College? 1
+How many certificates are at Seaver College? 1
+How many programs are at Seaver College? 7
+How many bachelor's degrees are at Seaver College? 2
+How many master's degrees are at Seaver College? 1
+How many doctoral degrees are at Seaver College? 0
+How many associate degrees are at Seaver College? 0
+How many certificates are at Se
+Similarity score: 0.09674248099327087
+--------------------
+Question: Where is Pepperdine ranked nationally?
+Ideal response: Ranked at 80th
+Model response: Where is Pepperdine ranked nationally? What are Pepperdine's rankings in the world?
+Pepperdine is ranked 59th in the National Universities category of the U.S. News & World Report's 2022 Best Colleges rankings.
+Pepperdine is ranked 66th in the world by the QS World University Rankings.
+What are Pepperdine's rankings in the world in specific subjects?
+What are Pepperdine's rankings in specific subject areas?
+Pepperdine's rankings in the world by subject:
+What are Pepperdine's rankings in the world for specific subjects?
+What are Pepperdine's rankings in the world for specific subjects?
+What are Pepperdine's rankings in the world for specific subjects?
+What are Pepperdine's rankings in the
+Similarity score: 0.34214192628860474
+--------------------
+Question: What is the four year graduation rate at Pepp?
+Ideal response: 75%
+Model response: What is the four year graduation rate at Pepp? (enter a number)
+What is the retention rate at Pepp? (enter a number)
+What is the average SAT score at Pepp? (enter an integer)
+What is the average ACT score at Pepp? (enter an integer)
+Similarity score: 0.15014894306659698
+--------------------
+Question: Am I required to live on campus?
+Ideal response: all new students must live on campus and have meal plans for their first two academic years, including all transfer residents who are required to live on campus for the entire academic year. We believe the relationships and community built during these first years of attending Pepperdine are vital to the college experience. The Housing and Residence Life community provides an atmosphere that empowers students to make connections between faith, living, and learning within a diverse community.
+Model response: Am I required to live on campus? Yes. You must live on campus for the first year of your enrollment at the College.
+Can I live off campus after the first year? Yes, if you meet certain requirements.
+Can I live off campus my first year? Yes, but you must meet certain requirements.
+Can I live off campus if I am a commuter? No. You must live on campus.
+Can I live off campus if I am a transfer student? Yes, if you meet certain requirements.
+Can I live off campus if I am a graduate student? Yes, if you meet certain requirements.
+Can I live off campus if I am a senior? Yes, if you meet certain requirements.
+Can I live off campus if I am a graduate student? Yes, if you meet certain
+Similarity score: 0.5521058440208435
+--------------------
+Question: In the event that you can not house all intended students, how will you decide who receives priority? International students? Students without cars? Students from out of state?
+Ideal response: 
+Model response: In the event that you can not house all intended students, how will you decide who receives priority? International students? Students without cars? Students from out of state? Students who have already paid their deposit? Students who have been on the waitlist for a long time?
+When you have a waitlist, it is important to make sure that you are using a fair system for deciding who will be accepted. The following are some things to consider:
+• Consider whether you have enough room for everyone who is on the waitlist.
+• If you do not have enough room, consider the following: Is it fair to turn away an international student who has already paid his/her deposit? Is it fair to turn away a student who does not have a car? Is it fair to turn away a student from out of state? Is it fair to turn away a student who has been on the waitlist for a long time?
+
+Similarity score: -0.008700154721736908
+--------------------
+Question: Where do sophomores live on campus? 
+Ideal response: Towers and Seaside housing
+Model response: Where do sophomores live on campus?  What do they do in their free time?  How do they get to classes?  What is it like to live in a dorm?  What is the dining plan like?  How do students get around campus?  What is the academic experience like?  What are the most popular majors?  How do students get involved on campus?  What are the top five things to do in Ames?  What is the weather like?  What is the cost of attendance?  What is the retention and graduation rate?  What is the average ACT score?  What is the average GPA?  What is the average class size?  What is the student-to
+Similarity score: 0.07091911882162094
+--------------------
+Question: Where can upperclassmen apply to live on campus? And are upperclassmen guaranteed housing?
+Ideal response: Upperclassmen can apply to live in Drescher or Lovernich apartments. Upperclassmen are not guaranteed hosuing, but we are committed to having upperclassmen students on campus to the greatest extent possible.
+Model response: Where can upperclassmen apply to live on campus? And are upperclassmen guaranteed housing? 
+Upperclassmen can apply to live in any of the upperclassman floors in the residence halls. Upperclassmen are not guaranteed housing in the residence halls. 
+What are the on-campus meal plans? 
+The on-campus meal plans are the 15 meal plan, 19 meal plan, and the 25 meal plan. 
+How much is a meal plan? 
+The meal plans are $2,500, $3,000, and $3,500 for the 15 meal plan, 19 meal plan, and 25 meal plan, respectively. 
+Can I get a refund if I drop my meal plan? 
+If you drop your meal plan before the end of the semester, you will receive a pro-rated refund.
+Similarity score: 0.5121670961380005
+--------------------
+Question: Which course satisfies the English GE requirement? 
+Ideal response: ENG 101
+Model response: Which course satisfies the English GE requirement? 1
+What is the difference between a major and a minor? 2
+How many credits do I need to graduate? 3
+What is the difference between a letter grade and a pass/fail grade? 4
+What is the difference between a letter grade and a pass/no pass grade? 5
+What is the difference between a letter grade and an audit? 6
+What is the difference between a letter grade and an incomplete? 7
+What is the difference between a letter grade and a W? 8
+What is the difference between a letter grade and an I? 9
+What is the difference between a letter grade and an F? 10
+How do I get a copy of my grades? 
+Similarity score: 0.24037668108940125
+--------------------
+Question: Which course satisfies the Literature GE requirement? 
+Ideal response: ENG 315, ENG 325, ENG 326, ENG 370, ENG 380, FRE 346, FRE 348, FRE 355, FRE 356, ITAL 451, SPAN 449, SPAN 451, SPAN 453, SPAN 455
+Model response: Which course satisfies the Literature GE requirement? 1
+A.  ENG 101, 102, 103, 104, 105, 106, 107, 108, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149
+Similarity score: 0.335676372051239
+--------------------
+Question: Which courses satisfy the Religion GE requirements? 
+Ideal response: REL 101, REL 102, REL 301
+Model response: Which courses satisfy the Religion GE requirements?  Is there a course that I could take to satisfy both the Religion and Philosophy GE requirements?  Can I take a course that satisfies both the Religion and the Ethics GE requirements?
+Can I take a course that satisfies both the Religion and the Ethics GE requirements?
+Yes.  You can take courses that satisfy both the Religion and the Ethics GE requirements.  You can also take courses that satisfy both the Religion and the Philosophy GE requirements.
+Similarity score: 0.0734657347202301
+--------------------
+Question: Which courses satisfy the Humanities GE requirements? 
+Ideal response: HUM 111, HUM 212, HUM 313
+Model response: Which courses satisfy the Humanities GE requirements?  How do I know if a course is Honors?
+How many credits are required for a Bachelor of Arts degree?  How many credits are required for a Bachelor of Science degree?
+How many credits are required for a minor?
+How many credits are required for a major?
+How many credits are required for a certificate?
+How do I know if a course is Honors?
+How do I know if a course is cross-listed?
+How do I know if a course is a Writing Intensive course?
+How do I know if a course is a Service Learning course?
+How do I know if a course is an International course?
+How do I know if a course is a Cultural Diversity course?
+How do I know if a course is a Diversity
+Similarity score: 0.0018523754552006721
+--------------------
+Question: Which course satisfies the World Civilizations GE requirement? 
+Ideal response: ARTH 300, ARTH 442, ARTH 446, ASIA 301, ASIA 305, ASIA/HIST 310, ASIA 325, ASIA/HIST 330, ASIA/HIST 331, ASIA 340, ASIA 345, ASIA 350, ASIA 365, ASIA 370, COM 313, FILM 365, GSHU 425, HIST 320, HIST 390, HIST 409, INTS 445, POSC 456, REL 501, and REL 526
+Model response: Which course satisfies the World Civilizations GE requirement? 1. HIST 140
+2. HIST 141
+3. HIST 142
+4. HIST 143
+5. HIST 144
+6. HIST 145
+7. HIST 146
+8. HIST 147
+9. HIST 148
+10. HIST 149
+11. HIST 150
+12. HIST 151
+13. HIST 152
+14. HIST 153
+15. HIST 154
+16. HIST 155
+17. HIST 156
+18. HIST 157
+19. HIST 158
+20. HIST 159
+21. HIST 160
+22. H
+Similarity score: 0.25108933448791504
+--------------------
+Question: Which courses satisfy the Amerian Experience/American History GE requirements? 
+Ideal response: POSC 104, HIST 204
+Model response: Which courses satisfy the Amerian Experience/American History GE requirements? 1
+What is the difference between the “American Experience” and “American History” GE requirements? 2
+What is the difference between the “American Experience” and “American History” GE requirements?
+The American Experience GE requirement is designed to help students develop an understanding of the diversity and complexity of American history, culture, and society. The American History GE requirement is designed to help students develop an understanding of the political, social, and economic development of the United States.
+How do I fulfill the American Experience/American History GE requirements? 3
+How do I fulfill the American Experience/American History GE requirements?
+The American Experience/American History GE requirements can be fulfilled in a variety of ways. Students can take courses that focus on American history
+Similarity score: -0.014697924256324768
+--------------------
+Question: Which course satisfy the Human Institutions and Behavior GE requirements? 
+Ideal response: ECON 200, PSYC 200, SOC 200
+Model response: Which course satisfy the Human Institutions and Behavior GE requirements? 1
+Which course satisfy the Mathematics GE requirements? 1
+Which course satisfy the Natural Science GE requirements? 1
+Which course satisfy the Physical and Life Science GE requirements? 1
+Which course satisfy the Social Science GE requirements? 1
+Which course satisfy the Writing and Oral Communication GE requirements? 1
+How many units are required for the major? 1
+How many units are required for the minor? 1
+How many units are required for the certificate? 1
+What is the retention rate for the major? 1
+What is the retention rate for the minor? 1
+What is the retention rate for the certificate? 1
+What is the retention rate for the major? 1
+What
+Similarity score: 0.06809701025485992
+--------------------
+Question: Which course satisfies the Foreign Language GE requirement? 
+Ideal response: Student must complete the third (college-level) semester of the language, selected from the following:
+Placement is based on competency testing or prior college classes. CHIN 251, FRE 251, FRE 282, GER 251, GER 282, ITAL 251,
+JAPN 251, SPAN 251, SPAN 282, GRE 320, HEB 502
+Model response: Which course satisfies the Foreign Language GE requirement? 1
+The course satisfies the Foreign Language GE requirement if it is a course in which a foreign language is the primary language of instruction. The course must be one that is listed in the GE requirements for the student's major.
+How do I satisfy the Foreign Language GE requirement? 2
+You must complete one of the following:
+A.  Complete one of the following courses with a grade of C- or better:
+B.  Complete one of the following courses with a grade of C- or better:
+C.  Complete one of the following courses with a grade of C- or better:
+D.  Complete one of the following courses with a grade of C- or better:
+E.  Complete one of the
+Similarity score: 0.5971277952194214
+--------------------
+Question: Which course satisfies the Lab Science GE requirement? 
+Ideal response: BIOL 105, BIOL 106, BIOL 107, BIOL 108, BIOL 109, BIOL/SPME 230, BIOL/SPME 270, CHEM 120 & CHEM 120L, NASC 101, NASC 108, NASC 109, NASC 155, NASC 156, NUTR 210, PHYS 202, PHYS 210, SPME 106, SPME 108
+Model response: Which course satisfies the Lab Science GE requirement? 1
+What is the cost of tuition and fees for the 2023-2024 academic year? 2
+What is the cost of tuition and fees for the 2023-2024 academic year? 3
+What is the cost of tuition and fees for the 2023-2024 academic year? 4
+What is the cost of tuition and fees for the 2023-2024 academic year? 5
+What is the cost of tuition and fees for the 2023-2024 academic year? 6
+What is the cost of tuition and fees for the 2023-2024 academic year? 7
+What is the cost of tuition and fees for the 2023-2024
+Similarity score: 0.23093503713607788
+--------------------
+Question: Which courses satisfiy the Math GE requirement? 
+Ideal response: MATH 120. This requirement may also be satisfied by COM 240, MATH 140, MATH 141, MATH 150, POSC/PSYC/SOC 250, MATH 270 (for the liberal arts major), or MATH 316
+Model response: Which courses satisfiy the Math GE requirement?  What is the difference between MATH 102  and MATH 103?
+MATH 102  and MATH 103  are both calculus courses.  MATH 102  is an intermediate-level course for students who have had some calculus experience.  MATH 103  is a calculus course for students who have not had calculus before.  Both MATH 102  and MATH 103  are required for all students who want to take MATH 115  or MATH 116.
+What are the differences between MATH 115  and MATH 116?
+MATH 115  is a course for students who have had calculus before, and M
+Similarity score: 0.5735266208648682
+--------------------
+Question: Which course satisfies the Speech and Rhetoric GE requirement? 
+Ideal response: COM 180
+Model response: Which course satisfies the Speech and Rhetoric GE requirement? 1
+Which course satisfies the Speech and Rhetoric GE requirement?
+1. COM 103
+2. COM 111
+3. COM 112
+4. COM 113
+5. COM 114
+6. COM 115
+7. COM 116
+8. COM 117
+9. COM 118
+10. COM 119
+11. COM 121
+12. COM 122
+13. COM 123
+14. COM 124
+15. COM 125
+16. COM 126
+17. COM 127
+18. COM 128
+19. COM 129
+20. COM 130
+21. COM 131
+22. COM 132
+23. COM 
+Similarity score: 0.19799742102622986
+--------------------
+Question: Which courses satisfies the Fine Arts GE requirement? 
+Ideal response: ART 101, ART 103, ART 210, ART 230, ART 250, ART 315, ART 368, ART 372, ART 374, ARTH 200, ARTH 300, ARTH 422, ARTH 424, ARTH 425, ARTH 426, ARTH 428, ARTH 430, ARTH 432, ARTH 434, ARTH 436, ARTH 440, ARTH 442, ARTH 446, FA 240, FA 241, FA 313 (for liberal arts majors only), FA 314 (for liberal arts majors only), FILM 111, FILM 311, GSHU 111, GSHU 112, GSHU 113, MUS 105, MUS 106, MUS 110, MUS 114, MUS 118, MUS 135, MUS 136, MUS 137, MUS 138, MUS 139, MUS 140, MUS 141, MUS 143, MUS 145, MUS 184, MUS 200, MUS 280, MUS 305, MUS 335, MUS 336, MUS 337, MUS 338, MUS 339, MUS 340, MUS 341, MUS 343, MUS 384, MUS 467, MUS 468, THEA 200, THEA 210, THEA 226, THEA 227, THEA 243, THEA 342, PE 180, PE 185
+Model response: Which courses satisfies the Fine Arts GE requirement?  Which courses satisfy the Art History GE requirement?
+What is the difference between a major and a concentration?
+What is the difference between a minor and a concentration?
+Can I take courses from outside my department?
+Can I take courses from another school at another university?
+Can I take courses from another university?
+Can I take courses at another university?
+What is the difference between a major and a concentration?
+A major is a set of courses that lead to a degree. The courses in a major must be related to a specific discipline and must be approved by the department.
+A concentration is a set of courses that lead to a degree. The courses in a concentration are not related to a specific discipline and are not approved by the department. Students may use courses
+Similarity score: 0.29311898350715637
+--------------------
+Question: How is the First Year Seminar requirement fulfilled? 
+Ideal response: GS 199 First-Year Seminars * Students enrolled in the Great Books Colloquium or the Social Action and Justice Colloquium complete the FirstYear Seminar requirement by completing the colloquium
+Model response: How is the First Year Seminar requirement fulfilled? 1
+What is the difference between a “first-year” and a “freshman” course? 2
+What are the course requirements for the major? 3
+How many credits must I take each semester? 4
+How many credits may I take on a pass/fail basis? 5
+How many credits may I take in a single semester? 6
+How many credits may I take in a single academic year? 7
+What is the maximum number of credits I may take as an undergraduate? 8
+How many credits may I take in a single summer session? 9
+May I take courses during the summer? 10
+How many credits may I take in a single summer session? 11
+
+Similarity score: 0.40590667724609375
+--------------------
+Question: How is the Junior Writing Portfolio requirement fulfilled?
+Ideal response: A cover letter from the student, approximately two pages, double-spaced, that explains the choice of papers included in the portfolio and describes their writing experiences during first two years at Pepperdine. See sample cover letter. Four papers from classes taken at Pepperdine. Record of Portfolio Submission form, detailing the name of the instructor and the class for which the paper was written, and the date the paper was submitted for grading. All papers that are submitted are subject to verification for plagiarism and authorship.
+Model response: How is the Junior Writing Portfolio requirement fulfilled? What is the Junior Writing Portfolio?
+The Junior Writing Portfolio is a collection of writing samples that demonstrate the student’s growth and development as a writer. The portfolio is a requirement for graduation.
+The portfolio is a collection of writing samples that demonstrate the student’s growth and development as a writer. The portfolio is a requirement for graduation. The portfolio should be completed by the end of the student’s junior year.
+Similarity score: 0.5444434285163879
+--------------------
+Question: What are suggestions for completing Junior Writing Portfolio?
+Ideal response: A selection of papers from at least 3 different courses. One paper from the student's major. (If no class has been taken in the student's major then submit a paper in a related discipline.) One paper that required research, At least two papers written during the sophomore and/or junior years. One paper from your first year as a college student (if available). If you did not take any of these courses, please substitute another paper. The entire portfolio should include at least 20 pages of writing. (20 pages is the minimum required number of pages. It is fine to include more than 20 pages.) Transfer students may use up to two (2) papers from other institutions. At least two (2) papers should be from Pepperdine University.
+Model response: What are suggestions for completing Junior Writing Portfolio? [closed]
+I have a 2.5 GPA, but I've been working hard to improve it. I'm taking a lot of classes, and I'm doing well in them. I'm trying to get my GPA to 3.0, but I'm not sure how to do that. I have a few classes that are almost done, and I have a few classes that are still in progress. I'm thinking of taking some classes that are easier, but I'm not sure if that's the right thing to do. I don't want to take an easy class, but I don't want to take a hard class that I'm not going to do well in. I'm also thinking of taking a class that is almost done
+Similarity score: 0.45954328775405884
+--------------------
+Question: What are the Foundations Requirements? 
+Ideal response: COM 180, ENG 101, REL 100, REL 200, REL 300, FOR 101
+Model response: What are the Foundations Requirements?  The Foundations Requirements are a set of courses that all students must take before they can take any other course.  These courses are designed to give students a strong foundation in the basic skills and knowledge needed to succeed in their program of study.  The Foundations Requirements include courses in English, mathematics, and science.  In addition, students must take a course in social science, a course in history, and a course in the humanities.
+How do I meet the Foundations Requirements?  To meet the Foundations Requirements, students must take at least 15 credits of courses in the Foundations Requirements.  Students must also complete at least one course in each of the following areas: English, mathematics, science, social science, history, and
+Similarity score: 0.1324624866247177
+--------------------
+Question: What are the Connections Requirements? 
+Ideal response: A course in each of the following requirements: Creative Arts, Diverse Perpsectives, Global Perspectives, Historical Thinking, Human Institutions and Behavior, Interpretation, Laboratory Science, Language and Culture, Mathematical Reasoning, U.S. Experience
+Model response: What are the Connections Requirements? 1
+How do I meet the Connections Requirements? 1
+How do I submit my Connections Requirements? 1
+What are the Connections Requirements? 1
+How do I meet the Connections Requirements? 1
+How do I submit my Connections Requirements? 1
+Similarity score: 0.2593193054199219
+--------------------
+Question: What are the skills requirements?
+Ideal response: RISE 101, BA 101, GSGS 200, 1 PE class taken in Malibu or abroad.
+Model response: What are the skills requirements? How do I know if I have the skills?
+We are looking for candidates who have the skills, knowledge, and experience to be successful in the position. We encourage candidates to review the job description and identify how their skills, knowledge, and experience meet the requirements of the position. We are interested in candidates who have the skills, knowledge, and experience to be successful in the position.
+What is the process for applying to this position?
+All candidates must submit an online application. The application will ask for a cover letter and resume. Please include a cover letter that addresses the skills, knowledge, and experience required for the position.
+What is the process for applying to this position?
+All candidates must submit an online application. The application will ask for a cover
+Similarity score: 0.09514687210321426
+--------------------
+Question: Which courses satisfy the cultural competence requirement?
+Ideal response: BA 354, BA 366, BA 498, COM 313, COM 410, COM 412, COM 413, COM 485, EDUC 465, ENG 301, ENG 340, ENG 370, ENG 440, ENG 475, FILM 321, FRE 345, FRE 366, FRE 430, FRE 470, GSHU 333, HIST 326, HIST 335, HIST 336, HIST 405, HIST 420, HIST 422, HIST 424, HIST 425, HIST 428, HIST 433, HIST 450, HIST 530, INTS 250, INTS 459, NPM 300, NPM 301, NPM 302, NPM 330, NUTR 210, NUTR 212, NUTR 370, NUTR 440, NUTR 460, POSC 435, POSC 437, POSC 455, PSYC 458, REL 300C, REL 544, SART 202, SAAJ 100, SOC 200, SOC 421, SOC 422, SOC 431, SOC 436, SOC 444, SOC 450, SOC 452, SOC 455, SOC 458, SOC 462, SOC 497, SPAN 348, SPAN 430, SPAN 461, SPAN 470, THEA 313.
+Model response: Which courses satisfy the cultural competence requirement? 
+Cultural competence is an important component of the curriculum. Students are required to take courses that address the following topics:
+To satisfy the cultural competence requirement, students must take at least one course in each of the following categories:
+Students must take at least two courses in one of the following categories:
+Students must take at least one course in one of the following categories:
+Students must take at least one course in one of the following categories:
+Students must take at least one course in one of the following categories:
+Students must take at least one course in one of the following categories:
+Students must take at least one course in one of the following categories:
+Students must take at least one course in one of the following categories:
+Students must take at least one course
+Similarity score: 0.10038481652736664
+--------------------
+Question: What is required as part of the IP application?
+Ideal response: Applicants must complete the online application which includes providing personal data and background information and answering short answer and essay questions. Some programs also require applicants to complete an interview, video question, audition, or submit additional materials such as a resume. More information on the application process is available here.
+Model response: What is required as part of the IP application? - Patent
+What is required as part of the IP application?
+What is required as part of the IP application?
+To file a patent application, you need to file a description of the invention, a claim to the invention, and a drawing showing the invention. The description should be written in a way that is understandable to a person skilled in the art. The claim should be written in a way that is clear and concise. The drawing should show the invention in a way that is easy to understand.
+Similarity score: 0.39594292640686035
+--------------------
+Question: Should I apply for one semester or a year?
+Ideal response: Many students who choose to study abroad for one semester later ask to extend their contract to remain abroad for a longer period of time. We accommodate these students when possible, but can only accommodate extensions on a space available basis and if visas regulations allow for it. Therefore it's best for students to apply for the academic year from the beginning (if their academic plan can allow for it) in order to hold their space in that program and in order to secure a visa if necessary. Students who have only attended one semester tell us time and time again that they wished they had stayed the full academic year.
+Model response: Should I apply for one semester or a year? Should I apply for the fall or spring semester? How do I apply? What is the application deadline? How much does it cost to attend? How do I get financial aid? What is the process for getting a visa? What is the process for getting housing? What is the process for getting a student ID card? What is the process for getting a passport? What is the process for getting a driver's license? What is the process for getting a cell phone? What is the process for getting a car? What is the process for getting a job? What is the process for getting a social security number? What is the process for getting a library card? What is the process for getting a bank account? What is the process for getting a
+Similarity score: 0.33748239278793335
+--------------------
+Question: Should I have other study abroad locations in mind when I apply?
+Ideal response: Yes! Due to space constraints, our programs cannot always accommodate all applicants. Historically, about 2 out of 3 students who apply are admitted to their first choice program. Therefore we ask students to be open to multiple locations and apply by the priority deadline for the greatest chance of admission.
+Model response: Should I have other study abroad locations in mind when I apply? Will I be able to attend the program I want if I don't have other locations in mind?
+Yes! We encourage you to think about other study abroad programs you may be interested in while you are in the application process. If you are interested in a program that is not offered by the University of Illinois, you may still apply for that program as long as you are able to meet the application deadlines and the program is available for the term you are interested in.
+I am not sure if I want to study abroad for a semester, but I am interested in taking a summer program. Can I apply to both?
+Yes! You can apply to both a semester and summer program at the same time, but you will need to submit a separate application for
+Similarity score: 0.5272830128669739
+--------------------
+Question: Can I apply for more than one program?
+Ideal response: Students have the option to be considered for up to six programs and terms with one application. Students will be considered for their first choice first, then their second choice, etc. Programs and terms that have reached capacity will not be available as an alternate choice. Programs that require an interview or audition, such as Faculty-led, internship, and language-intensive programs will not be available as an alternate choice.
+Model response: Can I apply for more than one program? How many programs can I apply for?
+Yes, you can apply for more than one program, but you must pay the application fee for each program. You are limited to a maximum of two programs per year. If you wish to apply for more than two programs in a year, you must pay the application fee for each program.
+Similarity score: 0.575188934803009
+--------------------
+Question: When will I know whether or not I am accepted?
+Ideal response: First, ensure that you have completed all required steps including submitting all parts of your online application, and interviewing or auditioning if required. Be sure to pay attention to all deadlines indicated on the application. Click here to learn more about the requirements for each program.
+
+Applicants who apply by the priority deadline (September 23, 2024) will receive a decision on October 11, 2024. Applicants will be notified via email (make sure to allow emails from @via-trm.com to be able to receive a decision). Applicants who apply after the priority deadline will be notified on a rolling basis, usually on Fridays (this usually takes 2-4 weeks).
+Model response: When will I know whether or not I am accepted? 
+How do I apply for financial aid? 
+How much will I need to pay each semester? 
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I know what classes to take?
+How do I
+Similarity score: 0.23407813906669617
+--------------------
+Question: Are there jobs for students while abroad?
+Ideal response: Yes, we have many student positions available. IPRAs, media coordinators, and librarians are hired in Malibu before studying abroad. Check out the positions and applications here. Other positions are also available once in your program. Program directors will be reaching out to students the first month of the program
+Model response: Are there jobs for students while abroad? 
+Are there jobs for students while abroad? 
+Are there jobs for students while abroad? 
+Are there jobs for students while abroad? 
+Are there jobs for students while abroad? 
+Are there jobs for students while abroad? 
+Yes, there are! Studying abroad can be a great opportunity to gain valuable work experience, network with professionals, and explore new career options. However, it’s important to be aware of the cultural differences and expectations that may be different from your home country. Here are some tips for finding and applying for jobs while studying abroad:
+  1. Research local job markets: Before you apply for a job, it’s important to research the local job market. Look for job postings in the area where you’re studying,
+Similarity score: 0.535235583782196
+--------------------
+Question: Why are priority applications due about a month after the beginning of the fall semester?
+Ideal response: Prior to going on a semester or Academic Year International Program, students are required to take the first level of a language class (151) for all fall and spring programs (except Washington, D.C. and London programs), as well as other prerequisite courses prior to attending their international program. Students will register for these spring classes in early to mid-November. Due to this registration timeline, International Programs has created an application process and timeline to review students, give them a decision, and leave enough time for them to review their contracts and commit to the program prior to the November registration dates. This allows students to register in the appropriate classes before going abroad, so that they can complete all necessary prerequisites.
+Model response: Why are priority applications due about a month after the beginning of the fall semester? Why not have priority applications due at the same time as the beginning of the fall semester?
+Priority applications are due by the end of the first week of the fall semester. This is because we want to give our applicants the best chance at being admitted by the end of the fall semester, so that they can make decisions about whether or not to enroll for the following academic year.
+If you’re not accepted for the fall semester, you can still apply for the following academic year.
+Similarity score: 0.5112470388412476
+--------------------
+Question: Who teaches the courses in International Programs?
+Ideal response: The Pepperdine Program Director, the faculty-in-residence, and local faculty who are approved by academic divisional deans at the Malibu campus teach courses.
+Model response: Who teaches the courses in International Programs? 
+In general, International Programs courses are taught by faculty from the College of Arts and Sciences, including faculty from the departments of Anthropology, Communication, English, History, Philosophy, Political Science, Psychology, Sociology, and Women’s, Gender, and Sexuality Studies.  In addition, courses are taught by faculty from the School of Education, including faculty from the departments of Curriculum and Instruction, Educational Psychology, and Educational Studies.
+Where are the courses offered? 
+Courses are offered in the following locations:
+In the United States, in the following locations:
+In the United States, in the following locations:
+In the United States, in the following locations:
+In the United States, in the following locations:
+In the United States, in the following
+Similarity score: 0.454333633184433
+--------------------
+Question: What does it mean if I was waitlisted for a program and what should I do?
+Ideal response: Due to space constraints and other factors, we often cannot accept all applicants for a given program. Students placed on the waitlist may choose to remain on the waitlist for the chance to be admitted at a later date if space becomes available, or they may choose to reapply for an alternate program, as long as that program is accepting new applications. Click here for more information.
+Model response: What does it mean if I was waitlisted for a program and what should I do? 
+Waitlisting means that the program is full, but we are keeping your application on file for possible future openings.  If a space becomes available, we will contact you to let you know.  If you have any questions about your waitlist status, please contact us at  admissions@uog.edu.
+Can I still apply for financial aid if I am waitlisted for a program?
+Yes, you can still apply for financial aid.  You will need to indicate that you are waitlisted for a program on the Financial Aid Application.  If you are waitlisted for a program and receive financial aid, you will be charged tuition and fees for that program.
+How do I apply for financial aid?
+You can apply for financial aid at  www
+Similarity score: 0.62946617603302
+--------------------
+Question: What happens after I am accepted?
+Ideal response: Students who have been accepted are asked to sign an IP contract to officially commit to their program and term. The contract is a legally binding document that details your responsibilities as an IP student, so make sure you read it carefully and have consulted your family, healthcare providers, academic and financial aid advisors, etc. before signing. Once you have signed a contract, if you need to withdraw for any reason in the future, financial penalties as detailed in the contract apply. Students who have signed a contract should begin preparing to go abroad. Information on preparation is available here.
+Model response: What happens after I am accepted? What is the next step?
+What are the benefits of being a member of the club?
+How much does it cost to be a member?
+How many people are in the club?
+When are club meetings held?
+Are there any other fees or costs?
+Is there a fee for membership if I am a student?
+Can I attend meetings even if I am not a member?
+Can I bring a guest to a meeting?
+What is the dress code for meetings?
+Do you have a waiting list?
+Do you have a waiting list?
+Do you have a waiting list?
+Do you have a waiting list?
+Do you have a waiting list?
+Do you have a waiting list?
+Do you have a waiting list?
+Do you have a waiting list?
+Do you have
+Similarity score: 0.24911700189113617
+--------------------
+Question: Do Pepperdine's international programs have Monday-Friday classes?
+Ideal response: The programs in Buenos Aires and D.C. have classes 5 days per week. The European campus programs may have classes 4 or 5 days per week.
+Model response: Do Pepperdine's international programs have Monday-Friday classes? Do they have any classes on Saturday?
+What is the average class size at Pepperdine?
+What is the average GPA of Pepperdine's students?
+What are the requirements to be a student at Pepperdine?
+Similarity score: 0.4388958811759949
+--------------------
+Question: From where do the programs depart?
+Ideal response: Students in most programs* can request their preferred departure location when booking their flight. Students are required to book flights through Pepperdine's travel partner, Corniche Travel. Detailed instructions on flight booking will be provided to students as part of their preparation process. *Some Faculty-led programs require students to join a group flight departing from and returning to Los Angeles International Airport (LAX). Review our flight policies here.
+Model response: From where do the programs depart? Do you have a shuttle?
+Where do I park when I arrive?
+Can I use my own bike on the trip?
+Can I bring a friend or family member?
+Can I bring a camera?
+Can I bring my cell phone?
+Can I bring a laptop?
+Can I bring my own sleeping bag?
+Can I bring my own tent?
+Can I bring my own food?
+Can I bring my own music?
+Can I bring my own bike?
+Can I bring my own bike rack?
+Can I bring my own bike helmet?
+What kind of bike do I need?
+What should I bring with me?
+Similarity score: 0.3732808828353882
+--------------------
+Question: Can I arrange my own travel to the program?
+Ideal response: No. When signing a contract, a student agrees to the flight policies, which require them to book through Pepperdine's travel partner, Corniche Travel. Booking with Corniche provides students with a variety of benefits, including:
+Model response: Can I arrange my own travel to the program? How do I get to the program?
+How do I get to the program?
+The program is located in the heart of downtown Boston, near the famous Newbury Street shopping district, the Prudential Center, and the Back Bay. The program is located in a historic, 5-story building, with an elevator to all floors. The building is wheelchair accessible. The nearest subway station is the Prudential/Boylston stop on the Green Line, which is one block away. The nearest train station is the Back Bay station on the Red Line, which is also one block away. The program is also located within a 10-minute walk of the Copley Mall, the Hynes Convention Center, and the Boston Convention and Exhibition Center
+Similarity score: 0.20992478728294373
+--------------------
+Question: What opportunities are there for travel?
+Ideal response: Traveling to selected destinations will definitely be a part of your educational experience. However, these are serious academic programs and your studies must come first. Also, don't overlook exploring and learning about the city and country in which your program is located by visiting only distant places. There is an educational field trip in both the fall and spring terms of each academic year program. Be sure to review our flight policies here.
+Model response: What opportunities are there for travel? What are the costs involved?
+Travel is a big part of the experience. In addition to the weeklong field trips, there are numerous day trips and weekend trips throughout the year.
+How much is the tuition?
+What are the costs for room and board?
+How much is the cost for books and supplies?
+What is the cost for international travel?
+What is the cost for domestic travel?
+What is the cost for field trips?
+What is the cost for trips to Washington, DC?
+How much is the cost for a summer program?
+What are the costs for summer programs?
+What are the costs for the study abroad program?
+What are the costs for the study abroad program in London?
+What are the costs for the study abroad program in Madrid?
+What are
+Similarity score: 0.44035032391548157
+--------------------
+Question: I'm going overseas for a year. What do I do over the winter break?
+Ideal response: Pepperdine campuses close at the end of the fall term and re-open at the beginning of the spring term. Students cannot stay on campuses during winter break. Students living in a homestay may inquire about accommodations with their host family but it is not guaranteed. Students studying abroad for the full academic year may leave their belongings in their rooms during the winter break, but they will not be able to access them until the campus reopens.
+Model response: I'm going overseas for a year. What do I do over the winter break?
+Similarity score: 0.3332797884941101
+--------------------
+Question: Is there any support for returning students who are struggling with being back in Malibu?
+Ideal response: Yes! We have the Landed chapel series for students returning for the spring semester. Together we meet to process the transition of returning from abroad and to help evaluate how we have changed from our experiences. We also have Landed events in the fall for students returning from the spring semester or academic year.
+Model response: Is there any support for returning students who are struggling with being back in Malibu? 
+What is the plan for students who are unable to come back to campus?
+What are the plans for students who are unable to come back to campus?
+Is there any support for returning students who are struggling with being back in Malibu? 
+What is the plan for students who are unable to come back to campus?
+What are the plans for students who are unable to come back to campus?
+Similarity score: 0.5296646952629089
+--------------------
+Question: How can I get involved after returning from my program?
+Ideal response: We love having program alumni participate back in Malibu! In the beginning of the year we have our annual event, The Return! Join us as we celebrate your time abroad and share all your adventures with the new freshmen class. We also partner with alumni for all our events and orientations. If you are interested in sharing about your time abroad, please reach out to the program ambassador.
+Model response: How can I get involved after returning from my program? (FAQ)
+I am not sure if I want to take a gap year. Should I stay in the U.S. or go abroad?
+How do I apply for financial aid? (FAQ)
+How much does it cost? (FAQ)
+Is there a minimum GPA requirement? (FAQ)
+What is the application deadline? (FAQ)
+What is the acceptance rate? (FAQ)
+What is the cost of living? (FAQ)
+What is the cost of the program? (FAQ)
+What is the GPA requirement? (FAQ)
+What is the program duration? (FAQ)
+What is the program fee? (FAQ)
+What is the program fee for the semester program? (FAQ)
+What is the program fee for the summer program? (FAQ)
+
+Similarity score: 0.2373592108488083
+--------------------
+Question: What are the withdrawal fees if I decide to break my contract?
+Ideal response: It depends on the term for which you signed your contract, and the date that you withdraw. The withdrawal fees can be found in your contract, as well as below: If you are considering withdrawing from your program, you must contact the International Programs Office in order complete a withdrawal form. Please contact us at 310.506.4230 or at international.programs@pepperdine.edu for more information.
+Model response: What are the withdrawal fees if I decide to break my contract? Are there any other fees?
+Are there any other fees besides the monthly fee?
+What are the withdrawal fees if I decide to break my contract?
+Are there any other fees besides the monthly fee?
+Similarity score: 0.6572657823562622
+--------------------
+Question: Do I need any vaccinations to study abroad?
+Ideal response: It is a student's responsibility to get information about vaccinations that are specific to their program. Sometimes vaccinations are required by a country and other times vaccinations are recommended. If you have any questions, you can call International SOS at (215) 942-8226. You can also find helpful information on the CDC website.
+Model response: Do I need any vaccinations to study abroad? What are the visa requirements?
+You must have a valid passport with at least 6 months of validity remaining when you return to the United States. For more information, please visit the U.S. Department of State website.
+We recommend that you check with your health care provider about any medications you might need to bring with you. If you have a chronic medical condition, please consult your doctor about whether it is safe for you to travel.
+Similarity score: 0.5274721384048462
+--------------------
+Question: Can I only study abroad sophomore year?
+Ideal response: No! Any Pepperdine student who meets the minimum admissions requirements and prerequisites can apply for any program that is currently accepting new applications. Our abroad locations offer many courses during the fall, spring, and summer terms so start planning with your academic advisor as early as possible to ensure your study abroad plans keep you on track to make progress toward graduation. Let's say you want to travel abroad your junior year or during a summer session: go for it! Don't you hear the bells of the Heidelberg church, don't you smell the buttery croissant calling your name?
+Model response: Can I only study abroad sophomore year? No, you can study abroad as a freshman or as a sophomore. We recommend that students study abroad in their sophomore year because the majority of our programs are 4-5 weeks in duration. It is possible to study abroad for a shorter period of time, but most students choose to study abroad for the full semester.
+Similarity score: 0.5513696670532227
+--------------------
+Question: If I didn't apply by the IP Priority Deadline, can I still apply?
+Ideal response: While some programs may stop accepting new applications after the priority deadline, many programs may still be accepting new applications, and students may apply and be admitted to programs on a rolling basis throughout the year. You can see a list of programs accepting new applications on the programs page. Apply as soon as you can to secure your spot.
+Model response: If I didn't apply by the IP Priority Deadline, can I still apply? If I didn't apply by the IP Priority Deadline, can I still apply?
+Yes, you can still apply. However, you will not be eligible for the IP Priority Deadline benefits, such as an earlier patent filing date. Please see our application deadline page for more information.
+What is the IP Priority Deadline? What is the IP Priority Deadline?
+The IP Priority Deadline is the deadline for filing a provisional patent application, a design patent application, or a trademark application to obtain the earliest filing date. If you meet the IP Priority Deadline, you will receive a filing date that is earlier than the filing date of the earliest of these types of applications.
+What is the difference between a provisional patent application and a non-provisional patent application? What is the
+Similarity score: 0.4284541606903076
+--------------------
+Question: Do I travel on every weekend while abroad?
+Ideal response: Studying abroad is an invitation to learn more about your host county, culture, and its people. So feel free to travel all the time or none of the time, have adventures in your host country and see what you find. Do you travel every weekend now? No! Do you know how tired you would be if you travelled every weekend? Very! Consider what you would miss out on in the place you decided to study in the first place! Maybe you'll find some good gelato, maybe some friends, and *disclaimer for this wild thought* maybe yourself (Shhhh this is the best kept secret about studying abroad but I'll share it just with you)
+Model response: Do I travel on every weekend while abroad? I have a family and a job, how can I do it?
+You will be able to travel on every weekend while abroad. You will have the weekends off to travel, explore, and relax. We have a weekend off every week, except for the week we arrive and the week we leave.
+Similarity score: 0.5405105352401733
+--------------------
+Question: Should I get a smartphone that works abroad?
+Ideal response: Yes. Students are required to have a smartphone with an international calling and data plan in order to take advantage of all International SOS applications and to be able to reach someone in cases of emergency. Campus-based program locations will provide suggestions and support on how to secure a local phone and sim card once students arrive to the program location. Please visit our technology abroad page for further information.
+Model response: Should I get a smartphone that works abroad? Is it worth it?
+If you are planning a trip to another country, you may want to consider getting a smartphone that works abroad. It can be a great way to stay connected while you are away, and it can also help you avoid any unexpected charges when you return home. But is it worth it?
+What is a smartphone and how does it work?
+A smartphone is a mobile phone that can be used to make calls, send text messages, and access the internet. It is also a personal computer that can be used to browse the web, check email, and play games.
+How does a smartphone work abroad?
+A smartphone that works abroad is one that has been specifically designed to work in other countries. It has been configured to work with the
+Similarity score: 0.46805688738822937
+--------------------
+Question: What is the Tyler Campus Center and where is it?
+Ideal response: Tyler Campus Center is the focal point for undergraduate social life and cocurricular activity. Students, visitors, and staff can be found throughout the day at the bookstore and the various dining facilities. Numerous patio seating areas are available for outdoor dining and socializing. The Light House, the Hub for Spiritual Life, the offices of Seaver College's International Programs, and Student Affairs departments are in TCC. Access 2nd floor from Joslyn Plaza adjacent to Rockwell Academic Center and fountain; 1st floor access from Adamson Plaza north end, downstairs from Joslyn; or from Amphitheatre area/Adamson Plaza south end; or from patio areas.
+Model response: What is the Tyler Campus Center and where is it? What is the difference between a meal plan and a dining dollar? What is a meal plan? How much do meal plans cost? What are the meal plan options? How many meals are included in each plan? How many meals are included in a meal plan? What is a dining dollar? How much do dining dollars cost? What are the dining dollar options? How many dining dollars are included in each plan? How many dining dollars are included in a dining dollar plan? What is a Flex Meal? How many Flex Meals are included in each plan? How many Flex Meals are included in a Flex Meal plan? What is a Flex Dollar? How many Flex Dollars are included in each plan? How many Flex Dollars are included in a Flex Dollar plan?
+Similarity score: 0.3098973035812378
+--------------------
+Question: What is the Pendleton Learning Center (PLC) and where is it?
+Ideal response: Pendleton Learning Center houses separate study rooms for Payson Library, classrooms, and offices, and one of Seaver College's largest lecture halls.
+Model response: What is the Pendleton Learning Center (PLC) and where is it? The PLC is a unique learning environment that provides a highly supportive and structured learning environment for students who require additional academic support. The PLC is located at 1421 S. C St., Suite 100 in downtown Los Angeles. Students are assigned to the PLC based on their academic performance, attendance, and behavior. The PLC is open from 7:30 a.m. to 3:30 p.m., Monday through Friday.
+How long is a student assigned to the PLC? Students are assigned to the PLC for a minimum of one semester, but may be assigned for longer periods of time depending on their academic performance, attendance, and behavior. Students may be assigned to the PLC for the entire school year, or they may be assigned to the PLC
+Similarity score: 0.5741488933563232
+--------------------
+Question: What is the Thornton Administrative Center and where is it?
+Ideal response: Thornton Administrative Center houses University administrative offices, admissions, fundraising offices, numerous conference and meeting rooms, and the dean's office of Seaver College; also contains historical displays of founder George Pepperdine and college namesake Blanche Seaver. It is the first building visitors encounter after entering through the main gate. Visitor parking in small lot in front of the building by the flagpoles, in the visitors' lot (token required) behind TAC (taking the right fork), and on adjacent streets, Seaver Drive and Banowsky Blvd. Access via front lot, or via bridge to third floor from visitor's lot.
+Model response: What is the Thornton Administrative Center and where is it? The Thornton Administrative Center is the home of the Thornton City Council, City Manager, City Clerk, Finance, and Human Resources departments. It is located at 1000 Parkridge Drive, Thornton, CO 80233. The Thornton Administrative Center is located in the same building as the Thornton Police Department.
+Similarity score: 0.474431574344635
+--------------------
+Question: What is the Rockwell Academic Center and where is it?
+Ideal response: Rockwell Academic Center houses classrooms, laboratories, and faculty offices for the Natural Science Division.
+Model response: What is the Rockwell Academic Center and where is it? 
+The Rockwell Academic Center is located on the second floor of the Rockwell Hall, across from the cafeteria. It is accessible via the elevators in the lobby of the Rockwell Hall. 
+What services does the Rockwell Academic Center offer? 
+The Rockwell Academic Center offers tutoring in Math, Science, English, and other subjects. We also offer writing assistance, test preparation, and career counseling. 
+Can I get help with my writing? 
+Yes. The Rockwell Academic Center offers writing assistance, including help with essays, term papers, and research papers. 
+Can I get help with my math? 
+Yes. The Rockwell Academic Center offers tutoring in Math, including help with Algebra, Calculus, and Statistics. 
+Can
+Similarity score: 0.6283673048019409
+--------------------
+Question: What is the Keck Science Center and where is it?
+Ideal response: The Keck Science Center houses the Natural Science Division; contains classrooms, laboratories, and faculty offices. Access via service road at the top of stairway leading to Firestone Fieldhouse; internal connecting access through Appleby Center (to KSC 4th floor) and Rockwell Academic Center (to KSC 3rd floor).
+Model response: What is the Keck Science Center and where is it? The Keck Science Center is located on the 2nd floor of the Keck Center for Science and Engineering. The center is open to all students, faculty, and staff.
+The Keck Science Center houses the following:
+The Center for Student Success (CSS) is located in the Keck Science Center. The CSS is a resource center for students interested in science, engineering, and mathematics. The CSS provides support to students by offering tutoring, workshops, and advising. The CSS is open to all students, faculty, and staff.
+The Center for Student Success is located on the 2nd floor of the Keck Center for Science and Engineering.
+The Center for Student Success is open to all students, faculty, and staff.
+The Center for Student
+Similarity score: 0.7737846374511719
+--------------------
+Question: What is the Appleby Center and where is it?
+Ideal response: Appleby Center houses the offices for the Social Science Division and the Religion Division; contains classrooms and faculty offices. Access via Seaver Main Parking Lot level, adjacent to Weisman Museum; also internal connecting access through Rockwell Academic Center, and Keck Science Center.
+Model response: What is the Appleby Center and where is it? How do I get to the Appleby Center?
+What is the Appleby Center?
+The Appleby Center is a community space for all to enjoy, located in the heart of downtown Appleby. The Center has a variety of programs and services for the community including:
+The Appleby Community Center is located at 500-1st Ave N in Appleby, ND.
+What is the Appleby Center’s hours?
+The Appleby Center is open Monday-Friday from 8:30 a.m. – 4:30 p.m. The Center is closed on weekends and holidays.
+How do I get to the Appleby Center?
+The Appleby Center is located in the heart of downtown Appleby, North Dakota. It is easily accessible by car
+Similarity score: 0.6009036302566528
+--------------------
+Question: What is the Elkins Auditorium and where is it?
+Ideal response: The University's largest lecture hall on the Seaver campus; located at the north side of Joslyn Plaza. Access via Joslyn Plaza, adjacent to Rockwell Academic Center and the Black Family Plaza Classrooms and the fountain; internal connecting access via Plaza Classrooms and Rockwell Academic Center.
+Model response: What is the Elkins Auditorium and where is it? Is there a place to park? What is the seating capacity? Where can I get tickets?
+Elkins Auditorium is located at 2nd and N. 3rd Street in downtown Elkins. Parking is available in the city parking lot located at 2nd and N. 3rd Street. Parking is also available on the streets surrounding the auditorium. Elkins Auditorium has a seating capacity of 600.
+What is the history of Elkins Auditorium?
+Elkins Auditorium was built in 1935 by the Works Progress Administration (WPA). It was originally named the Elkins High School Auditorium. In 1961, the auditorium was renovated and renamed the Elkins Community Center. In 2000,
+Similarity score: 0.30181118845939636
+--------------------
+Question: What is the Cultural Arts Center and where is it?
+Ideal response: Home of the Fine Arts Division and the Humanities and Teacher Preparation Division offices; contains classrooms, faculty offices, art studios, and smaller performance venues. Access via Seaver Main Parking Lot level via walkway alongside Weisman Museum and Smothers Theatre; internal connecting access to Smothers Theatre.
+Model response: What is the Cultural Arts Center and where is it? The Cultural Arts Center is located on the north end of the campus, next to the tennis courts. The building has two floors, with a large lobby, a large multipurpose room, a small multipurpose room, and several offices. The building also houses the campus’ theatre program.
+How can I get involved in the theatre program? If you are interested in participating in the theatre program, you can join our mailing list by sending an email to: theatre@stolaf.edu. The theatre program is open to all students, regardless of major.
+How do I get involved in the music program? If you are interested in participating in the music program, you can join our mailing list by sending an email to: music@stolaf.edu.
+Similarity score: 0.44025057554244995
+--------------------
+Question: What is Smothers Theatre and where is it?
+Ideal response: Smothers Theatre is the primary performance space of the Center for the Arts. It is also the only professional performing arts center in the City of Malibu; its yearlong schedule performances include student theatrical productions and musical performances, as well as national tours of major performers; also contains the business and box offices of the Center for the Arts. Access from Main Seaver Parking Lot; internal connecting access through Ahmanson Music Building and Cultural Arts Center.
+Model response: What is Smothers Theatre and where is it??
+Smothers Theatre is a 1,000-seat theatre in the heart of the Loyola campus. It is home to the Department of Theatre, the Loyola Players, the Theatre Club, and the Theatre Program.
+What are the theatre's hours?
+Smothers Theatre is open 24 hours a day, seven days a week. During the academic year, the box office is open Monday-Friday, 9:00 a.m. to 5:00 p.m. The box office is closed on all University holidays.
+What is the box office policy?
+All tickets must be purchased in person at the box office, located on the second floor of the Smothers Theatre. Tickets may be purchased with cash or check. There is a
+Similarity score: 0.5938156247138977
+--------------------
+Question: What is Firestone Fieldhouse and where is it?
+Ideal response: The primary athletic facility on the Malibu campus, home to the award-winning Waves basketball and volleyball teams; serves as the largest indoor assembly venue on campus (seats 5,000); used Wednesday mornings for regular chapel meetings during the school term; the Weight Center is located in the basement; athletics department offices are located on the second floor. Access via John Tyler Drive; unrestricted adjacent parking lot located south of the building. Pedestrian access via stairs (200+) from Joslyn Plaza (using KSC elevator between service road and plaza levels will eliminate some stairs).
+Model response: What is Firestone Fieldhouse and where is it? The new Fieldhouse, located at 1001 N. 1st Street, is a 140,000 square foot facility that will be home to the men’s and women’s basketball teams, volleyball, and the women’s swimming and diving teams. It will also be used for a variety of other athletic and campus events. The Fieldhouse is located on the north side of campus, between the Physical Education Building and the Health and Wellness Center.
+What is the capacity of Firestone Fieldhouse? The Firestone Fieldhouse has a seating capacity of 5,000 for basketball and 2,000 for volleyball. The facility also has a full-service concession stand, as well as a club level with premium seating.
+What is the history of Fire
+Similarity score: 0.4166974723339081
+--------------------
+Question: What is the Center for Communication and Business and where is it?
+Ideal response: The Center for Communication and Business houses the two academic divisions for which it is named; contains classrooms and offices, as well as the University's live-feed broadcast studio, and Pepperdine's own TV station, NewsWaves, which is broadcast to over 13,000 people in the Malibu and Calabasas area; also contains headquarters for the Department of Public Safety. Access via Seaver Drive. Restricted parking in CCB Parking Lot--card key only.
+Model response: What is the Center for Communication and Business and where is it? 
+The Center for Communication and Business (CCB) is located in the  Business Administration Building  on the main campus of the  University of the Pacific.
+The Center for Communication and Business is located in the Business Administration Building. 
+The Center for Communication and Business is located in the Business Administration Building. 
+The Center for Communication and Business is located in the Business Administration Building. 
+The Center for Communication and Business is located in the Business Administration Building. 
+The Center for Communication and Business is located in the Business Administration Building. 
+The Center for Communication and Business is located in the Business Administration Building. 
+The Center for Communication and Business is located in the Business Administration Building. 
+The Center for Communication and Business is located in the Business Administration
+Similarity score: 0.5220807194709778
+--------------------
+Question: What is Payson Library and where is it? 
+Ideal response: Payson Library is the primary library facility on the Malibu campus and is the headquarters of the Pepperdine Libraries serving students both online and at all of the University's remote campuses; contains book stacks, periodicals, audio/visual materials, special collections, University archives, reading areas, study carrels, computer labs, group study areas, photocopiers, and library offices, as well as the Kresge Reading Room.
+Model response: What is Payson Library and where is it? 1
+What services does Payson Library offer? 1
+What are the hours of operation? 1
+What are the library's policies? 1
+What are the library's policies on the use of cell phones? 1
+What is Payson Library and where is it? 1
+Payson Library is located on the second floor of the Student Center. It is open to all students, faculty, and staff.
+What services does Payson Library offer? 1
+What are the hours of operation? 1
+What are the library's policies? 1
+The library has a no food or drink policy. No food or drink is allowed in the library. This includes water.
+What are the library's policies on
+Similarity score: 0.5736687183380127
+--------------------
+Question: What is Stauffer Chapel and where is it? 
+Ideal response: Stauffer Chapel provides a focal point for worship, prayer, and meditation on the Seaver Campus; the chapel is also used as a space for meetings, lectures, musical performances, and other special events. Access via the Chapel Parking Lot (card key access only), and stairways and paved walkways from Banowsky Blvd.; located at the foot of the stairs leading down from the Amphitheatre; also access via the service road below Tyler Campus Center.
+Model response: What is Stauffer Chapel and where is it?  Who can use Stauffer Chapel?
+Stauffer Chapel is a chapel on the campus of the University of Iowa. It is located in the Stauffer-Flint Center for Performing Arts, which is located at 215 S. Madison Street. Stauffer Chapel is a place of worship for all faiths, and is available for all campus events, including worship services, meetings, and concerts. It is open to all members of the University of Iowa community, including students, faculty, and staff.
+Stauffer Chapel is named after Dr. and Mrs. Harry Stauffer, who donated the land for the chapel. It was designed by architect John C. Olmsted, who also designed the University of Iowa's Old Capitol.
+Who can
+Similarity score: 0.6354484558105469
+--------------------
+Question: How can I apply to speak at the ceremony?
+Ideal response: Graduated seniors of 2024 may apply to speak at commencement. Two student participants are needed for each graduation: 1) Graduation Speaker; 2) Graduate to lead the Pledge of Allegiance. For additional information, please visit the Senior Speaker page.
+Model response: How can I apply to speak at the ceremony? 
+How do I get my name on the invitation list? 
+When will I receive my tickets? 
+How do I get my name on the invitation list? 
+When will I receive my tickets? 
+How do I get my name on the invitation list? 
+When will I receive my tickets? 
+How do I get my name on the invitation list? 
+When will I receive my tickets? 
+How do I get my name on the invitation list? 
+When will I receive my tickets? 
+How do I get my name on the invitation list? 
+When will I receive my tickets? 
+How do I get my name on the invitation list? 
+When will I receive my tickets? 
+How do I get my name on the invitation
+Similarity score: 0.44340980052948
+--------------------
+Question: Will the ceremony be broadcast for those unable to attend?
+Ideal response: Yes, for those who cannot join us in Malibu, all in-person activities will be broadcast online, live, and on-demand for future viewing. The link will be available on the commencement website. Livestreams will begin 15 minutes prior to the start of each commencement ceremony.
+Model response: Will the ceremony be broadcast for those unable to attend? Yes. A live stream will be available on the event website.
+Is there a dress code? We ask that you dress in your finest. Men are asked to wear a jacket and tie. Women are asked to wear dresses or suits.
+Is there parking at the venue? Yes. There is a parking garage directly across the street from the venue.
+What is the seating arrangement for the ceremony? The seating arrangement is first come, first served. You may choose to sit with family and friends. We ask that you arrive early to ensure you get a seat.
+Similarity score: 0.4905301332473755
+--------------------
+Question: Do I need to attend the in-person commencement ceremony at Alumni Park to have my degree conferred?
+Ideal response: No, graduates do not need to attend to have their degree conferred. Diplomas will be mailed to you at the diploma address on file approximately 120 days after you graduate. Make sure you have a valid mailing address recorded with OneStop to ensure you receive your diploma. If you would like to pick up your diploma instead of having it mailed to you, please contact OneStop.
+Model response: Do I need to attend the in-person commencement ceremony at Alumni Park to have my degree conferred? Yes, all graduates must attend the in-person commencement ceremony at Alumni Park in order to have their degrees conferred.
+What happens if I can’t attend the in-person commencement ceremony? If you cannot attend the in-person commencement ceremony, you may participate in the virtual commencement ceremony on the same day. If you are unable to attend the virtual ceremony, you may participate in the future commencement ceremony at Alumni Park.
+Can I participate in the virtual commencement ceremony if I am not graduating? Yes, all students, faculty, staff, and alumni are invited to participate in the virtual commencement ceremony.
+How will I know if I have been invited to participate in the virtual commencement ceremony? All students who have completed all degree requirements will receive an email invitation to participate in the virtual
+Similarity score: 0.4286418855190277
+--------------------
+Question: Will there be accessible parking and shuttles?
+Ideal response: Graduation event parking is available on campus on a first-come, first-serve basis. A designated parking area in the Firestone Fieldhouse parking lot (parking lot P) will be available for guests with accessibility needs. Follow the directions of traffic control staff. Carpooling is recommended due to possible traffic delays and limited availability of parking. Shuttles will be in service, available at any marked campus shuttle stop. For more information, see the Parking and Shuttle Information page.
+Model response: Will there be accessible parking and shuttles? How will we get to and from the event?
+Yes. We will have accessible parking for those with disabilities, as well as accessible shuttles to and from the event.
+What is the cost of the event?
+$20 for adults, $10 for children ages 3-11, and free for children ages 2 and under.
+Where can I stay during the event?
+We recommend staying at a hotel in downtown St. Louis. You can find a list of hotels here.
+Can I bring my own food and drink to the event?
+Yes. You can bring your own food and drinks into the event, however you are not allowed to bring glass bottles.
+Can I bring my own lawn chair?
+Yes, but it must be a chair with
+Similarity score: 0.47187796235084534
+--------------------
+Question: Do I need to order or reserve regalia?
+Ideal response: Graduates attending the ceremony in person can reserve graduation regalia online on Herff Jones' website. In-person assistance is available during Graduation Kickoff, held on the Malibu campus at the bookstore on Tuesday, February 13 and Wednesday, February 14 from 10am-4pm.
+Model response: Do I need to order or reserve regalia? 
+No, you do not need to order or reserve regalia. All regalia is available for pick-up at the ceremony. 
+Where do I pick-up my regalia? 
+All regalia will be available for pick-up at the ceremony. 
+What do I do with my regalia after I receive it? 
+Keep your regalia for future use. 
+Will my regalia fit me?
+Your regalia should fit. If it does not fit, please contact the Office of the Registrar at 1-800-543-8888 or registrar@wou.edu.
+Can I wear my regalia at a future ceremony? 
+Yes. You can wear your regalia at future ceremonies. 
+When is the deadline for ordering regalia
+Similarity score: 0.4891629219055176
+--------------------
+Question: How do graduates get honor cords?
+Ideal response: Honor cords are only given to undergraduate students who have a minimum 3.5 GPA. You will be contacted by your school's commencement coordinator or academic advisor during the spring semester if you are eligible to receive one. They are free of charge.
+Model response: How do graduates get honor cords? When are they given out? What is the graduation ceremony like? What are the costs of graduation?
+Can I take classes in the summer? Can I take classes in the evening?
+What is the application deadline for fall and spring semesters? What is the application deadline for summer semester?
+Similarity score: 0.7085367441177368
+--------------------
+Question: Where do I pick up my honor cord?
+Ideal response: Honor cords will be available for pickup prior to your commencement at the Graduate Check-In area. Honors students are asked to arrive at Alumni Park at 9am on the morning of the ceremony.
+Model response: Where do I pick up my honor cord? When do I pick it up?
+Where do I pick up my honor cord? When do I pick it up?
+Where do I pick up my honor cord? When do I pick it up?
+The honor cords are picked up at the University of St. Thomas main campus. Students should stop by the Registrar’s Office on the first floor of the O’Shaughnessy-Frey Library (1000 La Salle Ave., Minneapolis, MN 55403) between 8:00 a.m. and 4:30 p.m. on the day before commencement.
+What is the cost of the honor cords?
+What is the cost of the honor cords?
+What is the cost of the honor cords?
+The honor cords are free of charge to
+Similarity score: 0.7110613584518433
+--------------------
+Question: When will I get my diploma?
+Ideal response: Diplomas will be mailed to you at the diploma address on file approximately 120 days after degrees are conferred on April 27. Make sure you have a valid mailing address recorded with OneStop to ensure you receive your diploma. If you would like to pick up your diploma instead of having it mailed to you, please contact OneStop.
+Model response: When will I get my diploma? What is the process for graduation?
+If you are graduating in May, you will receive your diploma in June. If you are graduating in August, you will receive your diploma in September.
+How do I get my diploma?
+After you have completed all of your requirements for graduation, you must come to the Registrar’s Office to pick up your diploma.
+How do I get my official transcript?
+If you are a former student, please contact the Registrar’s Office to request your transcript. You may request your transcript by mail or in person.
+If you are a current student, you may request your transcript online.
+Similarity score: 0.6561392545700073
+--------------------
+Question: What if I have pending financial obligations?
+Ideal response: It is important to clear all financial obligations with the Library, the Student Health Center, the Student Accounts Office, and the Financial Aid Office prior to graduation. For Student Accounts information, call 310.506.8000. If you have borrowed a Federal Direct Stafford, Federal Perkins, or Pepperdine Institutional loan at any time while at Pepperdine, please complete an online Loan Exit Counseling session prior to graduation. For additional information, visit the Federal Direct Loan Exit Counseling Information web page.
+Model response: What if I have pending financial obligations? Will I be able to move forward with my application?
+Yes, if you have a pending financial obligation, we will still be able to process your application. However, your application will be reviewed and considered on a case-by-case basis.
+What if I have a pending criminal record? Will I be able to move forward with my application?
+Yes, if you have a pending criminal record, we will still be able to process your application. However, your application will be reviewed and considered on a case-by-case basis.
+What if I have a pending bankruptcy? Will I be able to move forward with my application?
+Yes, if you have a pending bankruptcy, we will still be able to process your application. However, your application will be reviewed and considered
+Similarity score: 0.23158860206604004
+--------------------
+Question: Can I rent regalia on the day of my commencement ceremony?
+Ideal response: A limited amount of regalia will be available at Alumni Park on the day of your ceremony; however, to avoid waiting in possibly long lines, we strongly recommend picking up your regalia at Grad Fest on the Malibu Campus at Mullin Town Square.
+Model response: Can I rent regalia on the day of my commencement ceremony? No. Regalia is ordered at least one month in advance. Please order your regalia as early as possible.
+When will I receive my diploma? Your diploma will be mailed to you 6-8 weeks after your ceremony.
+Where do I pick up my diploma? Your diploma will be mailed to you 6-8 weeks after your ceremony.
+What if I am unable to attend my ceremony? If you are unable to attend your ceremony, please email us at commencement@uic.edu.
+What is the policy for late arrivals? If you are late to your ceremony, you will not be allowed to participate in the procession or receive your diploma. You will be asked to return to your seat to watch the ceremony from there.
+Similarity score: 0.4899955987930298
+--------------------
+Question: Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park?
+Ideal response: Seaver College's Commencement Ceremony, held at Alumni Park, is open to all guests of graduating students. In the unlikely event that the weather requires us to hold the ceremony somewhere other than Alumni Park, this may change. We recommend checking back to the Seaver graduation webpage frequently.
+Model response: Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park? Can I invite guests to attend the in-person commencement ceremonies at Alumni Park? What are the health and safety protocols for the in-person commencement ceremonies at Alumni Park?
+Similarity score: 0.606802225112915
+--------------------
+Question: How do I apply for graduation? 
+Ideal response: Log in to WaveNet: Navigate to the "Other Academic" drop-down menu, select "Apply for Graduation," and submit your intent. Verify Your Major and Ceremony Attendance: In the graduation area, confirm your major and indicate if you plan to attend the ceremony by checking the appropriate box. Select Diploma Mailing Address and Update Name: For diploma name changes, go to the "Names" link in the Personal Information section and add your desired name with the "Diploma" type. To update your diploma mailing address, go to the "Addresses" link in the Personal Information drop-down, add the new address, save it, and select it as the "Diploma" address type. Consult Your Academic Advisor: Contact your Academic Advising Associate with any questions about meeting graduation requirements. Monitor Your Pepperdine Email: Regularly check your Pepperdine email for important updates regarding your graduation. This will be the primary communication channel from the graduation office.
+Model response: How do I apply for graduation?  How do I check my graduation status?  How do I get my diploma?
+The following are answers to some of the most frequently asked questions about graduation.
+How do I apply for graduation?
+How do I check my graduation status?
+How do I get my diploma?
+How do I apply for graduation?
+How do I check my graduation status?
+How do I get my diploma?
+How do I apply for graduation?
+To apply for graduation, please visit the Registrar's Office located in the Student Services Center, Room 220, or the Registrar's Office website.
+How do I check my graduation status?
+To check your graduation status, please visit the Registrar's Office located in the Student Services Center, Room 220, or the Registrar's Office website
+Similarity score: 0.6419122219085693
+--------------------
+Question: What is the equivalent of ENG 101 at Santa Monica College?
+Ideal response: ENGL 1
+Model response: What is the equivalent of ENG 101 at Santa Monica College? What is the equivalent of ENG 102 at Santa Monica College?
+What is the equivalent of MTH 110 at Santa Monica College? What is the equivalent of MTH 120 at Santa Monica College?
+Similarity score: 0.23880845308303833
+--------------------
+Question: What is the equivalent of HUM 111 at Santa Monica College?
+Ideal response: HIST 1 OR HIST 33
+Model response: What is the equivalent of HUM 111 at Santa Monica College? 
+What is the equivalent of HUM 111 at Santa Monica College? 
+What is the equivalent of HUM 111 at Santa Monica College? 
+What is the equivalent of HUM 111 at Santa Monica College? 
+What is the equivalent of HUM 111 at Santa Monica College?
+Similarity score: 0.09798753261566162
+--------------------
+Question: What is the equivalent of HUM 212 at Santa Monica College?
+Ideal response: HIST 2 OR HIST 34
+Model response: What is the equivalent of HUM 212 at Santa Monica College??
+I am taking HUM 212 at Santa Monica College. What is the equivalent of HUM 212 at the University of California, Los Angeles?
+I am taking HUM 212 at Santa Monica College. What is the equivalent of HUM 212 at the University of California, Los Angeles?
+Similarity score: 0.14237703382968903
+--------------------
+Question: What is the equivalent of POSC 104 at Santa Monica College?
+Ideal response: POL SC 1
+Model response: What is the equivalent of POSC 104 at Santa Monica College? What is the equivalent of POSC 104 at Santa Monica College? What is the equivalent of POSC 104 at Santa Monica College? What is the equivalent of POSC 104 at Santa Monica College? What is the equivalent of POSC 104 at Santa Monica College? What is the equivalent of POSC 104 at Santa Monica College?
+What is the equivalent of POSC 104 at Santa Monica College?
+What is the equivalent of POSC 104 at Santa Monica College?
+What is the equivalent of POSC 104 at Santa Monica College?
+Similarity score: 0.10867657512426376
+--------------------
+Question: What is the equivalent of HIST 204 at Santa Monica College?
+Ideal response: HIST 11 AND 12
+Model response: What is the equivalent of HIST 204 at Santa Monica College? HIST 204 is equivalent to HIST 204 at Santa Monica College.
+What is the equivalent of HIST 204 at Santa Monica College?
+HIST 204 is equivalent to HIST 204 at Santa Monica College.
+What is the equivalent of HIST 204 at Santa Monica College?
+HIST 204 is equivalent to HIST 204 at Santa Monica College.
+What is the equivalent of HIST 204 at Santa Monica College?
+HIST 204 is equivalent to HIST 204 at Santa Monica College.
+Similarity score: 0.35270994901657104
+--------------------
+Question: What is the equivalent of ECON 200 at Santa Monica College?
+Ideal response: ECON 1 OR 2
+Model response: What is the equivalent of ECON 200 at Santa Monica College? ECON 200 is the equivalent of ECON 101 and ECON 201.
+What is the equivalent of ECON 201 at Santa Monica College? ECON 201 is the equivalent of ECON 202.
+What is the equivalent of ECON 202 at Santa Monica College? ECON 202 is the equivalent of ECON 202.
+What is the equivalent of ECON 300 at Santa Monica College? ECON 300 is the equivalent of ECON 310.
+What is the equivalent of ECON 310 at Santa Monica College? ECON 310 is the equivalent of ECON 310.
+What is the equivalent of ECON 320 at Santa Monica College? ECON 320 is the equivalent of ECON
+Similarity score: 0.43152308464050293
+--------------------
+Question: What is the equivalent of PSYC 200 at Santa Monica College?
+Ideal response: PSYCH 1
+Model response: What is the equivalent of PSYC 200 at Santa Monica College? What are the similarities and differences between PSYC 200 and PSYC 100?
+The equivalent of PSYC 200 at Santa Monica College is PSYC 100. The main difference between PSYC 100 and PSYC 200 is that PSYC 100 is a 3-unit course and PSYC 200 is a 4-unit course.
+Similarity score: 0.3084236979484558
+--------------------
+Question: What is the equivalent of SOC 200 at Santa Monica College?
+Ideal response: SOCIOL 1
+Model response: What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at Santa Monica College??
+What is the equivalent of SOC 200 at
+Similarity score: 0.1441766619682312
+--------------------
+Question: What is the equivalent of the foreign language requirement at Santa Monica College?
+Ideal response: One course is Equivalent to third semester college level, selected from the following: Placement is based on competency testing or prior college classes. CHINESE 3, FRENCH 3, GERMAN 3, HEBREW 3, ITAL 3, JAPANESE 3, KOREAN 3, SPANISH 3
+Model response: What is the equivalent of the foreign language requirement at Santa Monica College? What is the equivalent of the foreign language requirement at Santa Monica College?
+What is the equivalent of the foreign language requirement at Santa Monica College?
+The equivalent of the foreign language requirement is the completion of two years of a foreign language, or the equivalent. The foreign language requirement can be met by passing a foreign language examination or by completing a foreign language course at Santa Monica College.
+What is the equivalent of the foreign language requirement at Santa Monica College?
+The equivalent of the foreign language requirement is the completion of two years of a foreign language, or the equivalent. The foreign language requirement can be met by passing a foreign language examination or by completing a foreign language course at Santa Monica College.
+Similarity score: 0.4727836847305298
+--------------------
+Question: What is the equivalent of the lab science requirement at Santa Monica College?
+Ideal response: ANATMY 1; ASTRON 3,4; BIOL 3, 4, 15, 21; BOTANY 1; CHEM 10, 11, 12; GEOL 4, 5; MCRBIO 1; PHYSCS 14, 21; ZOOL 5
+Model response: What is the equivalent of the lab science requirement at Santa Monica College? (A)
+What is the equivalent of the lab science requirement at Santa Monica College? (A)
+What is the equivalent of the lab science requirement at Santa Monica College? (A)
+What is the equivalent of the lab science requirement at Santa Monica College? (A)
+What is the equivalent of the lab science requirement at Santa Monica College? (A)
+What is the equivalent of the lab science requirement at Santa Monica College? (A)
+What is the equivalent of the lab science requirement at Santa Monica College? (A)
+Similarity score: 0.16006210446357727
+--------------------
+Question: What is the equivalent of ENG 101 at Orange Coast College?
+Ideal response: ENGL1 A100
+Model response: What is the equivalent of ENG 101 at Orange Coast College? What is the equivalent of ENG 102 at Orange Coast College? What is the equivalent of ENG 103 at Orange Coast College? What is the equivalent of ENG 104 at Orange Coast College? What is the equivalent of ENG 105 at Orange Coast College? What is the equivalent of ENG 106 at Orange Coast College? What is the equivalent of ENG 107 at Orange Coast College? What is the equivalent of ENG 108 at Orange Coast College? What is the equivalent of ENG 109 at Orange Coast College? What is the equivalent of ENG 110 at Orange Coast College? What is the equivalent of ENG 111 at Orange Coast College? What is the equivalent of ENG 112 at Orange Coast College? What is the equivalent of ENG 
+Similarity score: 0.2551895081996918
+--------------------
+Question: What is the equivalent of HUM 111 at Orange Coast College?
+Ideal response: HIST A180 or HIST A180H
+Model response: What is the equivalent of HUM 111 at Orange Coast College? How do I get it for credit?
+What is the equivalent of HUM 111 at Orange Coast College? How do I get it for credit?
+I have an interest in psychology, but I am not sure if it is a good fit for me.
+Similarity score: 0.11651378124952316
+--------------------
+Question: What is the equivalent of HUM 212 at Orange Coast College?
+Ideal response: HIST A185 or HIST A185H
+Model response: What is the equivalent of HUM 212 at Orange Coast College? I'm trying to find a class that will satisfy my HUM requirement for my degree.
+What is the equivalent of HUM 212 at Orange Coast College? I'm trying to find a class that will satisfy my HUM requirement for my degree.
+The HUM requirement is satisfied by any course with a HUM prefix.
+Similarity score: 0.23199132084846497
+--------------------
+Question: What is the equivalent of POSC 104 at Orange Coast College?
+Ideal response: PSCI A180 or A180H
+Model response: What is the equivalent of POSC 104 at Orange Coast College? (updated)
+What is the equivalent of POSC 104 at Orange Coast College?
+What is the equivalent of POSC 104 at Orange Coast College? (updated)
+What is the equivalent of POSC 104 at Orange Coast College? (updated)
+Similarity score: 0.2824881672859192
+--------------------
+Question: What is the equivalent of HIST 204 at Orange Coast College?
+Ideal response: HIST A170 and A175
+Model response: What is the equivalent of HIST 204 at Orange Coast College? HIST 204 is the equivalent of HIST 204 at Orange Coast College.
+How do I take a course at another community college?
+You can take classes at other community colleges by:
+  1. Registering for the classes at the other college.
+  2. Taking the courses for transfer credit at your college.
+  3. Paying the tuition and fees at the other college.
+  4. Submitting a transcript to your college.
+How do I take a class at another community college?
+How do I take classes at another college?
+  1. Check the college’s website for course availability.
+  2. Check the college’s website for course descriptions.
+  3. Check the college’s website for course
+Similarity score: 0.2338084578514099
+--------------------
+Question: What is the equivalent of ECON 200 at Orange Coast College?
+Ideal response: ECON A170, A170H, A175, or A175H
+Model response: What is the equivalent of ECON 200 at Orange Coast College? (1)
+What is the equivalent of ECON 201 at Orange Coast College? (1)
+What is the equivalent of ECON 202 at Orange Coast College? (1)
+What is the equivalent of ECON 203 at Orange Coast College? (1)
+What is the equivalent of ECON 205 at Orange Coast College? (1)
+What is the equivalent of ECON 220 at Orange Coast College? (1)
+What is the equivalent of ECON 300 at Orange Coast College? (1)
+What is the equivalent of ECON 310 at Orange Coast College? (1)
+What is the equivalent of ECON 320 at Orange Coast College? (1)
+What is the equivalent of ECON 350 at Orange
+Similarity score: 0.4038556218147278
+--------------------
+Question: What is the equivalent of PSYC 200 at Orange Coast College?
+Ideal response: PSYC A100 or A100H
+Model response: What is the equivalent of PSYC 200 at Orange Coast College? The equivalent of PSYC 200 at Orange Coast College is PSYC 200.
+What is the equivalent of PSYC 200 at Pasadena City College? The equivalent of PSYC 200 at Pasadena City College is PSYC 200.
+What is the equivalent of PSYC 200 at Rio Hondo College? The equivalent of PSYC 200 at Rio Hondo College is PSYC 200.
+What is the equivalent of PSYC 200 at Santa Ana College? The equivalent of PSYC 200 at Santa Ana College is PSYC 200.
+What is the equivalent of PSYC 200 at Saddleback College? The equivalent of PSYC 200 at Saddleback College is PSYC 200.
+What is the equivalent of
+Similarity score: 0.35258162021636963
+--------------------
+Question: What is the equivalent of SOC 200 at Orange Coast College?
+Ideal response: SOC A100 or A100H
+Model response: What is the equivalent of SOC 200 at Orange Coast College? 1
+What is the equivalent of SOC 200 at Orange Coast College? 2
+What is the equivalent of SOC 200 at Orange Coast College? 3
+What is the equivalent of SOC 200 at Orange Coast College? 4
+What is the equivalent of SOC 200 at Orange Coast College? 5
+What is the equivalent of SOC 200 at Orange Coast College? 6
+Similarity score: 0.2423969954252243
+--------------------
+Question: What is the equivalent of the foreign language requirement at Orange Coast College?
+Ideal response: FREN A280 ITAL A280 JPNS A280 SPAN A280
+Model response: What is the equivalent of the foreign language requirement at Orange Coast College? Is there a way to test out of it?
+I am a first generation college student and am having a hard time deciding what classes to take. I am currently enrolled in English 1A and 1B. I am having a hard time deciding if I should take another English class, or take a foreign language. I am currently taking English 1B and am doing well in it. I have taken Spanish 1A and 1B at another college, and I did not do well in it. I do not want to take another English class because I am afraid I will fail it. I would like to take a foreign language, but I am afraid I will fail it. I am also afraid I will fail a foreign language if
+Similarity score: 0.08597645908594131
+--------------------
+Question: What is the equivalent of the lab science requirement at Orange Coast College?
+Ideal response: ASTR A100/A100H & A100L; BIOL A100, A180, A182 &A182L, A183 & A183L, A220, A221, A225; CHEM A110, A130, A180; GEOL A105 & A105L; MR SC A100/100H & A100L, A180 &A180L, A185 &A185L; PHYS A110 & A111, A120, A130, A185
+Model response: What is the equivalent of the lab science requirement at Orange Coast College? What are the equivalent courses?
+What is the equivalent of the lab science requirement at Orange Coast College? What are the equivalent courses?
+The equivalent of the lab science requirement at Orange Coast College is BIO 100 and BIO 101, which together total 4 units.
+Similarity score: 0.21467603743076324
+--------------------
+Question: What is the equivalent of ENG 101 at Moorpark College?
+Ideal response: ENGL M01A, M01AH
+Model response: What is the equivalent of ENG 101 at Moorpark College? What is the equivalent of ENG 101 at Moorpark College?
+What is the equivalent of ENG 101 at Moorpark College?
+Similarity score: 0.3531317412853241
+--------------------
+Question: What is the equivalent of HUM 111 at Moorpark College?
+Ideal response: HIST M170 or HUM M10A
+Model response: What is the equivalent of HUM 111 at Moorpark College? What is the equivalent of HUM 111 at Moorpark College?
+What is the equivalent of HUM 111 at Moorpark College?
+What is the equivalent of HUM 111 at Moorpark College?
+Similarity score: 0.3305227756500244
+--------------------
+Question: What is the equivalent of HUM 212 at Moorpark College?
+Ideal response: HIST M180 or HUM M01B
+Model response: What is the equivalent of HUM 212 at Moorpark College? What is the equivalent of HUM 212 at Moorpark College?
+What is the equivalent of HUM 212 at Moorpark College?
+What is the equivalent of HUM 212 at Moorpark College?
+Similarity score: 0.3422287702560425
+--------------------
+Question: What is the equivalent of POSC 104 at Moorpark College?
+Ideal response: POLS M03 or M03H
+Model response: What is the equivalent of POSC 104 at Moorpark College? What are the equivalent courses?
+What is the equivalent of POSC 104 at Moorpark College? What are the equivalent courses?
+Similarity score: 0.11276122182607651
+--------------------
+Question: What is the equivalent of HIST 204 at Moorpark College?
+Ideal response: HIST M130 AND M140
+Model response: What is the equivalent of HIST 204 at Moorpark College? I'm taking HIST 204 at Moorpark College and I want to take HIST 205 at UCLA.
+HIST 204 at Moorpark College is equivalent to HIST 205 at UCLA.
+If you are planning on taking HIST 205 at UCLA, you should take HIST 204 at Moorpark College.
+Similarity score: 0.3406774699687958
+--------------------
+Question: What is the equivalent of ECON 200 at Moorpark College?
+Ideal response: ECON M201, M202 or M202H
+Model response: What is the equivalent of ECON 200 at Moorpark College? What is the equivalent of ECON 201 at Moorpark College? What is the equivalent of ECON 202 at Moorpark College? What is the equivalent of ECON 202L at Moorpark College? What is the equivalent of ECON 203 at Moorpark College? What is the equivalent of ECON 204 at Moorpark College? What is the equivalent of ECON 205 at Moorpark College? What is the equivalent of ECON 206 at Moorpark College? What is the equivalent of ECON 207 at Moorpark College? What is the equivalent of ECON 208 at Moorpark College? What is the equivalent of ECON 209 at Moorpark College? What is the equivalent of ECON 210
+Similarity score: 0.3213222026824951
+--------------------
+Question: What is the equivalent of PSYC 200 at Moorpark College?
+Ideal response: PSY M01 or M01H
+Model response: What is the equivalent of PSYC 200 at Moorpark College? (2023)
+1. PSYC 200 - Introduction to Psychology
+2. PSYC 201 - General Psychology
+3. PSYC 202 - Lifespan Development
+4. PSYC 203 - Social Psychology
+5. PSYC 204 - Abnormal Psychology
+6. PSYC 205 - Human Sexuality
+7. PSYC 206 - Research Methods
+8. PSYC 207 - Statistics
+9. PSYC 208 - Psychology of Gender
+10. PSYC 209 - Psychology of Religion
+11. PSYC 210 - Psychology of Diversity
+12. PSYC 211 - Psychology of Addiction
+13. PSYC 212 - Psychology of the Aging
+14. PSYC 213
+Similarity score: 0.24112863838672638
+--------------------
+Question: What is the equivalent of SOC 200 at Moorpark College?
+Ideal response: SOC M01 or M01H
+Model response: What is the equivalent of SOC 200 at Moorpark College? What is the equivalent of SOC 200 at Moorpark College?
+What is the equivalent of SOC 200 at Moorpark College?
+SOC 200 at Moorpark College is equivalent to SOC 200 at Chabot College.
+Similarity score: 0.3160550892353058
+--------------------
+Question: What is the equivalent of the foreign language requirement at Moorpark College?
+Ideal response: SPAN M03
+Model response: What is the equivalent of the foreign language requirement at Moorpark College? What is the equivalent of the foreign language requirement at Moorpark College?
+What is the equivalent of the foreign language requirement at Moorpark College?
+The equivalent of the foreign language requirement at Moorpark College is 3 units of a foreign language.
+Similarity score: 0.068832628428936
+--------------------
+Question: What is the equivalent of the lab science requirement at Moorpark College?
+Ideal response: ANAT M01; ANTH M01/M01H & M01L; AST M01 & M01L; BIOL M01, M02A, M02AH, M02B, M02C, M03, M05; BOT M01, M06; CHEM M01A, M01AH, M01B, M07A, M07B, M11, M13; ENSC M01 & M01L, M02; GEOG M01 & M01L; GEOL M02 (H) & M02L, M03 & M03L, M04, M121; MICR M01; PHYS M01 & M01L, M10A &M10AL, M10B & M10BL, M20A & M20AL, M20B & M20BL; PHSC M01 & MO1L; ZOO M01
+Model response: What is the equivalent of the lab science requirement at Moorpark College? Do I have to take a lab science course?
+What is the equivalent of the lab science requirement at Moorpark College? Do I have to take a lab science course?
+A. A
+A
+n
+d
+ 
+B
+o
+t
+a
+n
+i
+c
+a
+l
+ 
+G
+e
+n
+e
+t
+i
+c
+s
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Similarity score: 0.1773788332939148
+--------------------
+Average similarity score: 0.3230315511016615

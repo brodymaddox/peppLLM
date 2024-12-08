@@ -1,0 +1,84 @@
+Experiment,Model,Documents,Test Set,Multiple Choice,RAG Score,Fine-tuned Score
+llama-2-7b_similarity_contextual_test,meta-llama/llama-2-7b-hf,./Contextual_Docs,Similarity_Test_Sets/similarity_contextual.json,False,0.3077558199154962,0.3495457377284765
+llama-2-7b_similarity_all_test,meta-llama/llama-2-7b-hf,"./Contextual_Docs, ./Procedural_Docs, ./Factual_Docs",Similarity_Test_Sets/similarity_all.json,False,0.3329325647204008,0.4311727092973273
+llama-2-7b_similarity_factual_contextual_test,meta-llama/llama-2-7b-hf,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_factual_contextual.json,False,0.29123068834659666,0.38189821938361657
+llama-2-7b_similarity_factual_procedural_test,meta-llama/llama-2-7b-hf,"./Factual_Docs, ./Procedural_Docs",Similarity_Test_Sets/similarity_factual_procedural.json,False,0.3545062919554201,0.430016002735322
+llama-2-7b_similarity_factual_test,meta-llama/llama-2-7b-hf,./Factual_Docs,Similarity_Test_Sets/similarity_factual.json,False,0.26936359360229734,0.330571985200924
+llama-2-7b_similarity_procedural_contextual_test,meta-llama/llama-2-7b-hf,"./Procedural_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_procedural_contextual.json,False,0.3707076981269861,0.4430751784227381
+llama-2-7b_similarity_procedural_test,meta-llama/llama-2-7b-hf,./Procedural_Docs,Similarity_Test_Sets/similarity_procedural.json,False,0.43462450350992954,0.4765095995165981
+llama-2-7b_mcq_contextual_procedural_test,meta-llama/llama-2-7b-hf,"./Contextual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json,True,,
+llama-2-7b_mcq_contextual_test,meta-llama/llama-2-7b-hf,./Contextual_Docs,Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json,True,,
+llama-2-7b_mcq_factual_contextual_procedural_test,meta-llama/llama-2-7b-hf,"./Factual_Docs, ./Contextual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json,True,,
+llama-2-7b_mcq_factual_contextual_test,meta-llama/llama-2-7b-hf,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json,True,,
+llama-2-7b_mcq_factual_procedural_test,meta-llama/llama-2-7b-hf,"./Factual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json,True,,
+llama-2-7b_mcq_factual_test,meta-llama/llama-2-7b-hf,./Factual_Docs,Similarity_Test_Sets/mcq_questions_Factual Knowledge.json,True,,
+llama-2-7b_mcq_procedural_test,meta-llama/llama-2-7b-hf,./Procedural_Docs,Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json,True,,
+llama-3.1-8b_similarity_all_test,meta-llama/llama-3.1-8b,"./Contextual_Docs, ./Procedural_Docs, ./Factual_Docs",Similarity_Test_Sets/similarity_all.json,False,0.33341179372552204,0.39605602733606454
+llama-3.1-8b_similarity_factual_contextual_test,meta-llama/llama-3.1-8b,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_factual_contextual.json,False,0.282127109150304,0.33962845664480745
+llama-3.1-8b_similarity_factual_test,meta-llama/llama-3.1-8b,./Factual_Docs,Similarity_Test_Sets/similarity_factual.json,False,0.2741067927769002,0.3095200281480656
+llama-3.1-8b_similarity_procedural_test,meta-llama/llama-3.1-8b,./Procedural_Docs,Similarity_Test_Sets/similarity_procedural.json,False,0.4473561905324459,0.5131059304202119
+llama-3.1-8b_mcq_contextual_test,meta-llama/llama-3.1-8b,./Contextual_Docs,Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json,True,,
+llama-3.1-8b_mcq_factual_contextual_test,meta-llama/llama-3.1-8b,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json,True,,
+llama-3.1-8b_mcq_factual_test,meta-llama/llama-3.1-8b,./Factual_Docs,Similarity_Test_Sets/mcq_questions_Factual Knowledge.json,True,,
+llama-3.1-8b-instruct_similarity_factual_contextual_test,meta-llama/llama-3.1-8b-instruct,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_factual_contextual.json,False,0.29209694932753116,0.3642419583758517
+llama-3.1-8b-instruct_similarity_factual_test,meta-llama/llama-3.1-8b-instruct,./Factual_Docs,Similarity_Test_Sets/similarity_factual.json,False,0.28090454882704746,0.31180291299653407
+llama-3.1-8b-instruct_similarity_procedural_test,meta-llama/llama-3.1-8b-instruct,./Procedural_Docs,Similarity_Test_Sets/similarity_procedural.json,False,0.44122497882479084,0.5620596341681309
+llama-3.1-8b-instruct_mcq_contextual_test,meta-llama/llama-3.1-8b-instruct,./Contextual_Docs,Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json,True,,
+llama-3.1-8b-instruct_mcq_factual_contextual_test,meta-llama/llama-3.1-8b-instruct,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json,True,,
+llama-3.1-8b-instruct_mcq_factual_test,meta-llama/llama-3.1-8b-instruct,./Factual_Docs,Similarity_Test_Sets/mcq_questions_Factual Knowledge.json,True,,
+llama-3.2-1b_similarity_all_test,meta-llama/llama-3.2-1b,"./Contextual_Docs, ./Procedural_Docs, ./Factual_Docs",Similarity_Test_Sets/similarity_all.json,False,0.33461060188095954,0.4174613859658145
+llama-3.2-1b_similarity_contextual_test,meta-llama/llama-3.2-1b,./Contextual_Docs,Similarity_Test_Sets/similarity_contextual.json,False,0.2812343463829728,0.36717326985192056
+llama-3.2-1b_similarity_factual_contextual_test,meta-llama/llama-3.2-1b,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_factual_contextual.json,False,0.28228610768989104,0.3458135788417866
+llama-3.2-1b_similarity_factual_procedural_test,meta-llama/llama-3.2-1b,"./Factual_Docs, ./Procedural_Docs",Similarity_Test_Sets/similarity_factual_procedural.json,False,0.35523615649096596,0.41139546517752906
+llama-3.2-1b_similarity_factual_test,meta-llama/llama-3.2-1b,./Factual_Docs,Similarity_Test_Sets/similarity_factual.json,False,0.2738284925546716,0.2971735798260745
+llama-3.2-1b_similarity_procedural_contextual_test,meta-llama/llama-3.2-1b,"./Procedural_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_procedural_contextual.json,False,0.34843559675289326,0.44380077166455006
+llama-3.2-1b_similarity_procedural_test,meta-llama/llama-3.2-1b,./Procedural_Docs,Similarity_Test_Sets/similarity_procedural.json,False,0.4315683876450818,0.5015770576607722
+llama-3.2-1b_mcq_contextual_procedural_test,meta-llama/llama-3.2-1b,"./Contextual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-1b_mcq_contextual_test,meta-llama/llama-3.2-1b,./Contextual_Docs,Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json,True,,
+llama-3.2-1b_mcq_factual_contextual_procedural_test,meta-llama/llama-3.2-1b,"./Factual_Docs, ./Contextual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-1b_mcq_factual_contextual_test,meta-llama/llama-3.2-1b,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json,True,,
+llama-3.2-1b_mcq_factual_procedural_test,meta-llama/llama-3.2-1b,"./Factual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-1b_mcq_factual_test,meta-llama/llama-3.2-1b,./Factual_Docs,Similarity_Test_Sets/mcq_questions_Factual Knowledge.json,True,,
+llama-3.2-1b_mcq_procedural_test,meta-llama/llama-3.2-1b,./Procedural_Docs,Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json,True,,
+llama-3.2-1b-instruct_similarity_all_test,meta-llama/llama-3.2-1b-instruct,"./Contextual_Docs, ./Procedural_Docs, ./Factual_Docs",Similarity_Test_Sets/similarity_all.json,False,0.33375658555933746,0.41186539727960875
+llama-3.2-1b-instruct_similarity_contextual_test,meta-llama/llama-3.2-1b-instruct,./Contextual_Docs,Similarity_Test_Sets/similarity_contextual.json,False,0.2910979916293597,0.3798496110230377
+llama-3.2-1b-instruct_similarity_factual_contextual_test,meta-llama/llama-3.2-1b-instruct,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_factual_contextual.json,False,0.2901796099341395,0.3487387754341316
+llama-3.2-1b-instruct_similarity_factual_procedural_test,meta-llama/llama-3.2-1b-instruct,"./Factual_Docs, ./Procedural_Docs",Similarity_Test_Sets/similarity_factual_procedural.json,False,0.3584612046088119,0.42209545365598017
+llama-3.2-1b-instruct_similarity_factual_test,meta-llama/llama-3.2-1b-instruct,./Factual_Docs,Similarity_Test_Sets/similarity_factual.json,False,0.281088501689773,0.3199928480328298
+llama-3.2-1b-instruct_similarity_procedural_contextual_test,meta-llama/llama-3.2-1b-instruct,"./Procedural_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_procedural_contextual.json,False,0.35707649266097086,0.4627500762189947
+llama-3.2-1b-instruct_similarity_procedural_test,meta-llama/llama-3.2-1b-instruct,./Procedural_Docs,Similarity_Test_Sets/similarity_procedural.json,False,0.4420195753292109,0.5329618856239204
+llama-3.2-1b-instruct_mcq_contextual_procedural_test,meta-llama/llama-3.2-1b-instruct,"./Contextual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-1b-instruct_mcq_contextual_test,meta-llama/llama-3.2-1b-instruct,./Contextual_Docs,Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json,True,,
+llama-3.2-1b-instruct_mcq_factual_contextual_procedural_test,meta-llama/llama-3.2-1b-instruct,"./Factual_Docs, ./Contextual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-1b-instruct_mcq_factual_contextual_test,meta-llama/llama-3.2-1b-instruct,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json,True,,
+llama-3.2-1b-instruct_mcq_factual_procedural_test,meta-llama/llama-3.2-1b-instruct,"./Factual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-1b-instruct_mcq_factual_test,meta-llama/llama-3.2-1b-instruct,./Factual_Docs,Similarity_Test_Sets/mcq_questions_Factual Knowledge.json,True,,
+llama-3.2-1b-instruct_mcq_procedural_test,meta-llama/llama-3.2-1b-instruct,./Procedural_Docs,Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json,True,,
+llama-3.2-3b_similarity_all_test,meta-llama/llama-3.2-3b,"./Contextual_Docs, ./Procedural_Docs, ./Factual_Docs",Similarity_Test_Sets/similarity_all.json,False,0.3281281579765353,0.376244229839334
+llama-3.2-3b_similarity_contextual_test,meta-llama/llama-3.2-3b,./Contextual_Docs,Similarity_Test_Sets/similarity_contextual.json,False,0.2980235350347057,0.38742523095042436
+llama-3.2-3b_similarity_factual_contextual_test,meta-llama/llama-3.2-3b,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_factual_contextual.json,False,0.2915644242648204,0.3230315511016615
+llama-3.2-3b_similarity_factual_procedural_test,meta-llama/llama-3.2-3b,"./Factual_Docs, ./Procedural_Docs",Similarity_Test_Sets/similarity_factual_procedural.json,False,0.35931056459407207,0.38806297968015147
+llama-3.2-3b_similarity_factual_test,meta-llama/llama-3.2-3b,./Factual_Docs,Similarity_Test_Sets/similarity_factual.json,False,0.2783528582065129,0.2992913476191461
+llama-3.2-3b_similarity_procedural_contextual_test,meta-llama/llama-3.2-3b,"./Procedural_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_procedural_contextual.json,False,0.35119238768273325,0.44871785048747537
+llama-3.2-3b_similarity_procedural_test,meta-llama/llama-3.2-3b,./Procedural_Docs,Similarity_Test_Sets/similarity_procedural.json,False,0.44152311504317016,0.5273389223282441
+llama-3.2-3b_mcq_contextual_procedural_test,meta-llama/llama-3.2-3b,"./Contextual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-3b_mcq_contextual_test,meta-llama/llama-3.2-3b,./Contextual_Docs,Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json,True,,
+llama-3.2-3b_mcq_factual_contextual_procedural_test,meta-llama/llama-3.2-3b,"./Factual_Docs, ./Contextual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-3b_mcq_factual_contextual_test,meta-llama/llama-3.2-3b,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json,True,,
+llama-3.2-3b_mcq_factual_procedural_test,meta-llama/llama-3.2-3b,"./Factual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-3b_mcq_factual_test,meta-llama/llama-3.2-3b,./Factual_Docs,Similarity_Test_Sets/mcq_questions_Factual Knowledge.json,True,,
+llama-3.2-3b_mcq_procedural_test,meta-llama/llama-3.2-3b,./Procedural_Docs,Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json,True,,
+llama-3.2-3b-instruct_similarity_all_test,meta-llama/llama-3.2-3b-instruct,"./Contextual_Docs, ./Procedural_Docs, ./Factual_Docs",Similarity_Test_Sets/similarity_all.json,False,0.3349726678244155,0.4344775910018989
+llama-3.2-3b-instruct_similarity_contextual_test,meta-llama/llama-3.2-3b-instruct,./Contextual_Docs,Similarity_Test_Sets/similarity_contextual.json,False,0.31139162578379986,0.39710080769565914
+llama-3.2-3b-instruct_similarity_factual_contextual_test,meta-llama/llama-3.2-3b-instruct,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_factual_contextual.json,False,0.2992509204669664,0.3731945143572649
+llama-3.2-3b-instruct_similarity_factual_procedural_test,meta-llama/llama-3.2-3b-instruct,"./Factual_Docs, ./Procedural_Docs",Similarity_Test_Sets/similarity_factual_procedural.json,False,0.36599222180044766,0.45062565626305284
+llama-3.2-3b-instruct_similarity_factual_test,meta-llama/llama-3.2-3b-instruct,./Factual_Docs,Similarity_Test_Sets/similarity_factual.json,False,0.2821629852713907,0.34680893964261983
+llama-3.2-3b-instruct_similarity_procedural_contextual_test,meta-llama/llama-3.2-3b-instruct,"./Procedural_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_procedural_contextual.json,False,0.3603079486545639,0.475922305906071
+llama-3.2-3b-instruct_similarity_procedural_test,meta-llama/llama-3.2-3b-instruct,./Procedural_Docs,Similarity_Test_Sets/similarity_procedural.json,False,0.4394429745510794,0.5379100814819909
+llama-3.2-3b-instruct_mcq_contextual_procedural_test,meta-llama/llama-3.2-3b-instruct,"./Contextual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Contextual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-3b-instruct_mcq_contextual_test,meta-llama/llama-3.2-3b-instruct,./Contextual_Docs,Similarity_Test_Sets/mcq_questions_Contextual Knowledge.json,True,,
+llama-3.2-3b-instruct_mcq_factual_contextual_procedural_test,meta-llama/llama-3.2-3b-instruct,"./Factual_Docs, ./Contextual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-3b-instruct_mcq_factual_contextual_test,meta-llama/llama-3.2-3b-instruct,"./Factual_Docs, ./Contextual_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Contextual Knowledge.json,True,,
+llama-3.2-3b-instruct_mcq_factual_procedural_test,meta-llama/llama-3.2-3b-instruct,"./Factual_Docs, ./Procedural_Docs",Similarity_Test_Sets/mcq_questions_Factual Knowledge_Procedural Knowledge.json,True,,
+llama-3.2-3b-instruct_mcq_factual_test,meta-llama/llama-3.2-3b-instruct,./Factual_Docs,Similarity_Test_Sets/mcq_questions_Factual Knowledge.json,True,,
+llama-3.2-3b-instruct_mcq_procedural_test,meta-llama/llama-3.2-3b-instruct,./Procedural_Docs,Similarity_Test_Sets/mcq_questions_Procedural Knowledge.json,True,,

@@ -1,0 +1,1668 @@
+Question: When do classes start in the Fall of 2024?
+
+A. August 12, 2024, B: August 26, 2024, C: August 19, 2024, D: September 2, 2024;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When do classes start in the Fall of 2024?
+
+A. August 12, 2024, B: August 26, 2024, C: August 19, 2024, D: September 2, 2024;
+Correct: False
+--------------------
+Question: When is the last day of the add/drop period?
+
+A. August 20, 2024; B. August 25, 2024; C. August 18, 2024; D. August 23, 2024;
+Ideal response: D
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the last day of the add/drop period?
+
+A. August 20, 2024; B. August 25, 2024; C. August 18, 2024; D. August 23, 2024;
+Correct: False
+--------------------
+Question: When is the application deadline for international programs?
+
+A. September 30, 2024; B. September 23, 2024; C. September 15, 2024; D. September 29, 2024;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the application deadline for international programs?
+
+A. September 30, 2024; B. September 23, 2024; C. September 15, 2024; D. September 29, 2024; E. September 12, 2024
+
+
+What is the deadline for the application fee?
+
+A. October 1, 2024; B. October 31, 2024; C. November 1, 2024; D. October 5, 2024; E. October 15, 2024
+
+
+When is the application deadline for domestic programs?
+
+A. September 30, 2024; B. September 23, 2024; C. September 15, 2024; D. September 29, 2024; E. September 12, 2024
+
+
+When is the deadline for the application fee?
+
+A. October 1, 2024; B. October
+Correct: False
+--------------------
+Question: When is fall break?
+
+A. October 18-21, 2024 (Friday-Monday); B. October 4-7, 2024 (Friday-Monday); C. October 11-14, 2024 (Friday-Monday); D. October 25-28, 2024 (Friday-Monday);
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is fall break?
+
+A. October 18-21, 2024 (Friday-Monday); B. October 4-7, 2024 (Friday-Monday); C. October 11-14, 2024 (Friday-Monday); D. October 25-28, 2024 (Friday-Monday); E. None of the above.
+
+When is Thanksgiving break?
+
+A. November 22-25, 2024 (Friday-Monday); B. November 7-10, 2024 (Friday-Monday); C. November 14-17, 2024 (Friday-Monday); D. November 28-30, 2024 (Friday-Sunday); E. None of the above.
+
+When is winter break?
+
+A. December 20-23, 2024 (Friday-Monday); B. December 6-9, 2024 (Friday-Monday); C. December 13-16, 2024 (Friday-Monday); D. December 27-30,
+Correct: False
+--------------------
+Question: When is registration for the spring and summer terms?
+
+A. November 6, 2024; B. November 13, 2024; C. November 20, 2024; D. November 27, 2024;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is registration for the spring and summer terms?
+
+A. November 6, 2024; B. November 13, 2024; C. November 20, 2024; D. November 27, 2024; E. November 30, 2024; F. December 4, 2024; G. December 11, 2024; H. December 18, 2024; I. December 20, 2024; J. December 23, 2024; K. December 27, 2024; L. December 30, 2024; M. December 31, 2024; N. January 1, 2025; O. January 3, 2025; P. January 6, 2025; Q. January 8, 2025; R. January 9, 2025; S. January 10, 2025;
+Correct: False
+--------------------
+Question: When does the course evaluation period begin and end?
+
+A. November 11 - December 1, 2024; B. November 18 - December 8, 2024; C. November 25 - December 15, 2024; D. November 4 - November 24, 2024;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When does the course evaluation period begin and end?
+
+A. November 11 - December 1, 2024; B. November 18 - December 8, 2024; C. November 25 - December 15, 2024; D. November 4 - November 24, 2024;
+Correct: False
+--------------------
+Question: When is the last day to submit a change of final exam form?
+
+A. November 15, 2024; B. November 29, 2024; C. November 22, 2024; D. November 25, 2024;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the last day to submit a change of final exam form?
+
+A. November 15, 2024; B. November 29, 2024; C. November 22, 2024; D. November 25, 2024; E. None of the above.
+
+When is the last day to submit a change of final exam form?
+
+A. November 15, 2024; B. November 29, 2024; C. November 22, 2024; D. November 25, 2024; E. None of the above.
+
+When is the last day to submit a change of final exam form?
+
+A. November 15, 2024; B. November 29, 2024; C. November 22, 2024; D. November 25, 2024; E. None of the above.
+
+When is the last day to submit a change of final exam form?
+
+A. November 15, 
+Correct: False
+--------------------
+Question: When is the Thanksgiving holiday?
+
+A. November 28-December 2, 2024; B. November 21-25, 2024; C. November 25-29, 2024; D. November 18-22, 2024;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the Thanksgiving holiday?
+
+A. November 28-December 2, 2024; B. November 21-25, 2024; C. November 25-29, 2024; D. November 18-22, 2024; E. November 11-15, 2024
+
+A
+
+November 28-December 2, 2024
+Correct: False
+--------------------
+Question: When is the Seaver undergraduate Spring 2025 new student enrollment deadline?
+
+A. December 15, 2024; B. December 1, 2024; C. November 15, 2024; D. November 1, 2024;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the Seaver undergraduate Spring 2025 new student enrollment deadline?
+
+A. December 15, 2024; B. December 1, 2024; C. November 15, 2024; D. November 1, 2024; E. October 15, 2024; F. October 1, 2024; G. September 15, 2024; H. September 1, 2024; I. August 15, 2024; J. August 1, 2024
+
+
+When is the Seaver undergraduate Spring 2025 new student enrollment deadline?
+
+A. December 15, 2024; B. December 1, 2024; C. November 15, 2024; D. November 1, 2024; E. October 15, 2024; F. October 1, 2024; G. September 15, 2024; H. September 1
+Correct: False
+--------------------
+Question: When are final exams for the fall semester?
+
+A. December 2-5, 2024; B. December 16-19, 2024; C. December 9-12, 2024; D. December 11-14, 2024;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When are final exams for the fall semester?
+
+A. December 2-5, 2024; B. December 16-19, 2024; C. December 9-12, 2024; D. December 11-14, 2024; E. December 16-19, 2024; F. December 9-12, 2024; G. December 2-5, 2024; H. December 16-19, 2024; I. December 2-5, 2024; J. December 16-19, 2024; K. December 9-12, 2024; L. December 11-14, 2024; M. December 2-5, 2024; N. December 16-19, 2024; O. December 9-12, 2024; P. December 11-14, 2024; Q. December 2-
+Correct: False
+--------------------
+Question: When are Fall 2024 graduates conferred?
+
+A. December 10, 2024; B. December 17, 2024; C. December 13, 2024; D. December 15, 2024;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When are Fall 2024 graduates conferred?
+
+A. December 10, 2024; B. December 17, 2024; C. December 13, 2024; D. December 15, 2024; E. December 11, 2024.
+
+What is the deadline for completing the online application for Fall 2024 graduation?
+
+A. June 1, 2024; B. June 7, 2024; C. June 8, 2024; D. June 9, 2024; E. June 5, 2024.
+
+What is the deadline for submitting the application for Fall 2024 graduation to the Office of the Registrar?
+
+A. June 1, 2024; B. June 7, 2024; C. June 8, 2024; D. June 9, 2024; E. June 5, 2024.
+
+When are Fall
+Correct: False
+--------------------
+Question: When do residence halls close for the semester?
+
+A. December 12, 2024 at 5 pm; B. December 13, 2024 at 9 am; C. December 14, 2024 at 12 pm; D. December 11, 2024 at 3 pm;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When do residence halls close for the semester?
+
+A. December 12, 2024 at 5 pm; B. December 13, 2024 at 9 am; C. December 14, 2024 at 12 pm; D. December 11, 2024 at 3 pm; E. December 12, 2024 at 5 pm; F. December 14, 2024 at 5 pm; G. December 15, 2024 at 5 pm; H. December 16, 2024 at 5 pm
+
+What is the deadline to withdraw from a course with a "W" grade?
+
+A. December 12, 2024 at 5 pm; B. December 13, 2024 at 9 am; C. December 14, 2024 at 12 pm; D. December 11, 2024 at 3 pm; E. December 12, 2024 at 5 pm; F. December 14, 202
+Correct: False
+--------------------
+Question: When are all pepperdine offices closed for winter break?
+
+A. December 23, 2024 - January 1, 2025; B. December 24, 2024 - January 3, 2025; C. December 24, 2024 - January 2, 2025; D. December 25, 2024 - January 2, 2025;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When are all pepperdine offices closed for winter break?
+
+A. December 23, 2024 - January 1, 2025; B. December 24, 2024 - January 3, 2025; C. December 24, 2024 - January 2, 2025; D. December 25, 2024 - January 2, 2025;
+Correct: False
+--------------------
+Question: When do spring semester classes begin?
+
+A. January 6, 2025; B. January 13, 2025; C. January 20, 2025; D. January 10, 2025;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When do spring semester classes begin?
+
+A. January 6, 2025; B. January 13, 2025; C. January 20, 2025; D. January 10, 2025; E. January 2, 2025
+
+
+When do spring semester classes end?
+
+A. May 9, 2025; B. May 16, 2025; C. May 23, 2025; D. May 30, 2025; E. May 14, 2025
+
+
+When do summer semester classes begin?
+
+A. May 26, 2025; B. May 23, 2025; C. May 30, 2025; D. June 2, 2025; E. June 6, 2025
+
+
+When do summer semester classes end?
+
+A. June 28, 2025; B. July 4, 2025
+Correct: False
+--------------------
+Question: When is the Seaver undergraduate First-Year Regular Decision and Transfer Fall 2025 application deadline?
+
+A. January 1, 2025; B. January 15, 2025; C. February 1, 2025; D. February 15, 2025;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the Seaver undergraduate First-Year Regular Decision and Transfer Fall 2025 application deadline?
+
+A. January 1, 2025; B. January 15, 2025; C. February 1, 2025; D. February 15, 2025; E. March 1, 2025; F. March 15, 2025; G. April 1, 2025; H. April 15, 2025; I. May 1, 2025; J. May 15, 2025; K. June 1, 2025; L. June 15, 2025; M. July 1, 2025; N. July 15, 2025; O. August 1, 2025; P. August 15, 2025; Q. September 1, 2025; R. September 15, 2025; S. October 1, 2025;
+Correct: False
+--------------------
+Question: When is the last day of the add/drop period?
+
+A. January 20, 2025; B. January 15, 2025; C. January 17, 2025; D. January 22, 2025;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the last day of the add/drop period?
+
+A. January 20, 2025; B. January 15, 2025; C. January 17, 2025; D. January 22, 2025; E. January 21, 2025.
+
+When is the last day of the add/drop period?
+
+A. January 20, 2025; B. January 15, 2025; C. January 17, 2025; D. January 22, 2025; E. January 21, 2025.
+Correct: False
+--------------------
+Question: When is the regular application deadline for academic year and summer international programs?
+
+A. February 10, 2025; B. February 3, 2025; C. January 27, 2025; D. February 17, 2025;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the regular application deadline for academic year and summer international programs?
+
+A. February 10, 2025; B. February 3, 2025; C. January 27, 2025; D. February 17, 2025; E. February 10, 2025
+
+When is the early action deadline for academic year and summer international programs?
+
+A. February 3, 2025; B. February 3, 2025; C. January 27, 2025; D. February 17, 2025; E. February 10, 2025
+
+When is the deadline for the spring semester international programs?
+
+A. February 10, 2025; B. February 3, 2025; C. January 27, 2025; D. February 17, 2025; E. February 10, 2025
+
+When is the deadline for the fall semester international programs?
+
+A. February 
+Correct: False
+--------------------
+Question: When is spring break?
+
+A. March 10-14, 2025 (Monday-Friday); B. February 24-28, 2025 (Monday-Friday); C. March 3-7, 2025 (Monday-Friday); D. March 17-21, 2025 (Monday-Friday);
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is spring break?
+
+A. March 10-14, 2025 (Monday-Friday); B. February 24-28, 2025 (Monday-Friday); C. March 3-7, 2025 (Monday-Friday); D. March 17-21, 2025 (Monday-Friday); E. None of the above.
+
+What is the date of the last day of classes in spring 2025?
+
+A. March 7, 2025 (Friday); B. March 14, 2025 (Friday); C. March 21, 2025 (Friday); D. March 28, 2025 (Friday); E. None of the above.
+
+When is the last day of spring break in 2025?
+
+A. March 10, 2025 (Tuesday); B. March 17, 2025 (Tuesday); C. March 24, 2025 (Tuesday); D. March 31, 2025 (Tuesday); E. None of the above.
+Correct: False
+--------------------
+Question: When is the early registration period?
+
+A. March 4, 2025; B. March 18, 2025; C. March 11, 2025; D. March 25, 2025;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the early registration period?
+
+A. March 4, 2025; B. March 18, 2025; C. March 11, 2025; D. March 25, 2025; E. None of the above.
+
+When is the late registration period?
+
+A. March 18, 2025; B. March 25, 2025; C. March 4, 2025; D. March 11, 2025; E. None of the above.
+
+When does the final exam period begin?
+
+A. March 18, 2025; B. March 25, 2025; C. March 4, 2025; D. March 11, 2025; E. None of the above.
+
+When does the final exam period end?
+
+A. March 25, 2025; B. March 11, 2025; C. March 18,
+Correct: False
+--------------------
+Question: When does the fall registration period begin?
+
+A. March 5, 2025; B. March 12, 2025; C. March 19, 2025; D. March 26, 2025;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When does the fall registration period begin?
+
+A. March 5, 2025; B. March 12, 2025; C. March 19, 2025; D. March 26, 2025; E. March 1, 2025
+
+
+When does the spring registration period begin?
+
+A. October 5, 2025; B. October 12, 2025; C. October 19, 2025; D. October 26, 2025; E. October 1, 2025
+
+
+When does the summer registration period begin?
+
+A. April 5, 2025; B. April 12, 2025; C. April 19, 2025; D. April 26, 2025; E. April 1, 2025
+
+
+When does the fall registration period end?
+
+A. October 5, 2025; B. October 12,
+Correct: False
+--------------------
+Question: When is the Malibu reception for admitted students?
+
+A. April 11, 2025; B. April 18, 2025; C. April 4, 2025; D. April 25, 2025;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the Malibu reception for admitted students?
+
+A. April 11, 2025; B. April 18, 2025; C. April 4, 2025; D. April 25, 2025; E. April 5, 2025
+
+A
+
+When are the Malibu receptions for admitted students?
+
+A. April 11, 2025; B. April 18, 2025; C. April 4, 2025; D. April 25, 2025; E. April 5, 2025
+Correct: False
+--------------------
+Question: When is the last day to submit a change of final exam form for the spring semester?
+
+A. April 25, 2025; B. April 11, 2025; C. April 18, 2025; D. April 21, 2025;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the last day to submit a change of final exam form for the spring semester?
+
+A. April 25, 2025; B. April 11, 2025; C. April 18, 2025; D. April 21, 2025;
+Correct: False
+--------------------
+Question: When are final exams for the spring semester?
+
+A. April 21-24, 2025; B. May 5-8, 2025; C. April 28-May 1, 2025; D. April 14-17, 2025;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When are final exams for the spring semester?
+
+A. April 21-24, 2025; B. May 5-8, 2025; C. April 28-May 1, 2025; D. April 14-17, 2025;
+Correct: False
+--------------------
+Question: Where can I find more information about different majors at Pepperdine?
+
+A. https://www.pepperdine.edu/academics/majors/; B. https://www.pepperdine.edu/academics/programs/; C. https://www.pepperdine.edu/academics/degrees/; D. https://www.pepperdine.edu/academics/courses/;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Where can I find more information about different majors at Pepperdine?
+
+A. https://www.pepperdine.edu/academics/majors/; B. https://www.pepperdine.edu/academics/programs/; C. https://www.pepperdine.edu/academics/degrees/; D. https://www.pepperdine.edu/academics/courses/; E. https://www.pepperdine.edu/academics/programs/; F. https://www.pepperdine.edu/academics/programs/; G. https://www.pepperdine.edu/academics/programs/; H. https://www.pepperdine.edu/academics/programs/; I. https://www.pepperdine.edu/academics/programs/; J. https://www.pepperdine.edu/academics/programs/; K. https://www.pepperdine.edu/academics/programs/; L. https://www.pepperdine.edu/academics/programs/; M. https://www.pepperdine.edu/academics/
+Correct: False
+--------------------
+Question: What are the advantages of Pepperdine's philosophy minor?
+
+A. Philosophy provides a basic understanding of ethics but focuses solely on ancient texts; B. Philosophy explores foundational assumptions and challenges within human experience, prepares students for careers in law, journalism, government, public service, and business; C. Philosophy is primarily about memorizing theories without practical application to modern careers; D. Philosophy focuses on niche topics that are only relevant to academic research;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are the advantages of Pepperdine's philosophy minor?
+
+A. Philosophy provides a basic understanding of ethics but focuses solely on ancient texts; B. Philosophy explores foundational assumptions and challenges within human experience, prepares students for careers in law, journalism, government, public service, and business; C. Philosophy is primarily about memorizing theories without practical application to modern careers; D. Philosophy focuses on niche topics that are only relevant to academic research; E. Philosophy is a great minor for students who are interested in a variety of subjects, including the sciences, the arts, and the humanities.
+
+What are the advantages of Pepperdine's philosophy minor?
+
+A. Philosophy provides a basic understanding of ethics but focuses solely on ancient texts; B. Philosophy explores foundational assumptions and challenges within human experience, prepares students for careers in law, journalism, government, public service, and business; C. Philosophy is primarily about memorizing theories without practical application to modern careers; D. Philosophy focuses on niche topics that are only relevant to academic research; E. Philosophy is a great minor for students who are interested in a variety of subjects, including the sciences, the arts, and the humanities.
+Correct: False
+--------------------
+Question: What are the advantages of Pepperdine's physics major?
+
+A. The physics major focuses solely on theoretical physics with minimal practical applications; B. The physics major at Seaver College offers a well-balanced curriculum in experimental and theoretical physics, preparing students for careers in science, technology, and quantitative fields, as well as graduate education in physics, engineering, or environmental science; C. The physics major emphasizes experimental physics exclusively, neglecting theoretical frameworks; D. The physics major provides basic physics knowledge without preparation for advanced studies or professional careers;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are the advantages of Pepperdine's physics major?
+
+A. The physics major focuses solely on theoretical physics with minimal practical applications; B. The physics major at Seaver College offers a well-balanced curriculum in experimental and theoretical physics, preparing students for careers in science, technology, and quantitative fields, as well as graduate education in physics, engineering, or environmental science; C. The physics major emphasizes experimental physics exclusively, neglecting theoretical frameworks; D. The physics major provides basic physics knowledge without preparation for advanced studies or professional careers; E. The physics major is designed for students who wish to prepare for graduate studies in physics, engineering, or other quantitative fields; F. The physics major is designed for students who wish to prepare for careers in science, technology, and quantitative fields; G. The physics major is designed for students who wish to prepare for careers in science, technology, and quantitative fields, as well as graduate education in physics, engineering, or environmental science; H. The physics major is designed for students who wish to prepare for graduate studies in physics, engineering, or other quantitative fields; I. The physics major is designed for students who wish to prepare for careers in science, technology, and quantitative fields, as well as graduate education in physics, engineering, or environmental
+Correct: False
+--------------------
+Question: What is the physics major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=342; B. https://seaver.pepperdine.edu/physics/curriculum/; C. https://www.pepperdine.edu/academics/catalog/physics-major; D. https://seaver.pepperdine.edu/academics/physics-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the physics major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=342; B. https://seaver.pepperdine.edu/physics/curriculum/; C. https://www.pepperdine.edu/academics/catalog/physics-major; D. https://seaver.pepperdine.edu/academics/physics-programs/; E. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=342
+
+What is the physics minor curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=342; B. https://seaver.pepperdine.edu/physics/curriculum/; C. https://www.pepperdine.edu/academics/catalog/physics-major; D. https://seaver.pepperdine.edu/academics/physics-programs/; E. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=342
+
+What is the
+Correct: False
+--------------------
+Question: What are the advantages of the physics minor?
+
+A. The physics minor is designed exclusively for engineering majors and requires only two courses; B. The physics minor provides a basic introduction to physics and a foundation for careers requiring a background in mathematics and science, requiring 23-24 units from four required courses and two additional courses; C. The physics minor focuses only on theoretical physics and requires no lab courses; D. The physics minor is optional for all majors but lacks practical application;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are the advantages of the physics minor?
+
+A. The physics minor is designed exclusively for engineering majors and requires only two courses; B. The physics minor provides a basic introduction to physics and a foundation for careers requiring a background in mathematics and science, requiring 23-24 units from four required courses and two additional courses; C. The physics minor focuses only on theoretical physics and requires no lab courses; D. The physics minor is optional for all majors but lacks practical application; E. None of the above.
+
+What are the advantages of the physics major?
+
+A. The physics major is designed exclusively for engineering majors and requires only two courses; B. The physics major provides a basic introduction to physics and a foundation for careers requiring a background in mathematics and science, requiring 23-24 units from four required courses and two additional courses; C. The physics major focuses only on theoretical physics and requires no lab courses; D. The physics major is optional for all majors but lacks practical application; E. None of the above.
+
+What are the advantages of the physics major?
+
+A. The physics major is designed exclusively for engineering majors and requires only two courses; B. The physics major provides a basic introduction to physics and a foundation
+Correct: False
+--------------------
+Question: What are the advantages of the political science program?
+
+A. The program focuses solely on theoretical studies and does not offer internship opportunities; B. The Washington, DC Internship Program offers political science majors opportunities to intern in DC, Sacramento, and Los Angeles, collaborate on research, and publish. Students also participate in Model United Nations, the Sacramento Legislative Seminar, and study abroad in cities like London and Florence; C. The program offers internships only in Sacramento and Los Angeles, with no research or publication opportunities; D. The program focuses primarily on local politics and does not include study abroad options;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are the advantages of the political science program?
+
+A. The program focuses solely on theoretical studies and does not offer internship opportunities; B. The Washington, DC Internship Program offers political science majors opportunities to intern in DC, Sacramento, and Los Angeles, collaborate on research, and publish. Students also participate in Model United Nations, the Sacramento Legislative Seminar, and study abroad in cities like London and Florence; C. The program offers internships only in Sacramento and Los Angeles, with no research or publication opportunities; D. The program focuses primarily on local politics and does not include study abroad options;
+Correct: False
+--------------------
+Question: What is the political science curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=402; B. https://seaver.pepperdine.edu/political-science/curriculum/; C. https://www.pepperdine.edu/academics/catalog/political-science-major; D. https://seaver.pepperdine.edu/academics/political-science-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the political science curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=402; B. https://seaver.pepperdine.edu/political-science/curriculum/; C. https://www.pepperdine.edu/academics/catalog/political-science-major; D. https://seaver.pepperdine.edu/academics/political-science-programs/; E. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=402
+
+A
+Correct: False
+--------------------
+Question: Where can I find information about pre-law programs?
+
+A. https://seaver.pepperdine.edu/social-science/undergraduate/pre-law/; B. https://seaver.pepperdine.edu/academics/pre-law-programs/; C. https://www.pepperdine.edu/pre-law/; D. https://seaver.pepperdine.edu/social-science/pre-law-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Where can I find information about pre-law programs?
+
+A. https://seaver.pepperdine.edu/social-science/undergraduate/pre-law/; B. https://seaver.pepperdine.edu/academics/pre-law-programs/; C. https://www.pepperdine.edu/pre-law/; D. https://seaver.pepperdine.edu/social-science/pre-law-programs/; E. https://seaver.pepperdine.edu/social-science/undergraduate/pre-law/
+
+A
+Correct: False
+--------------------
+Question: What are common Psychology double majors?
+
+A. Psychology and economics, Psychology and communication, Psychology and sociology, Psychology and religion; B. Psychology and history, Psychology and communication, Psychology and biology, Psychology and sociology; C. Psychology and biology, Psychology and communication, Psychology and sociology, Psychology and religion; D. Psychology and philosophy, Psychology and communication, Psychology and biology, Psychology and sociology;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are common Psychology double majors?
+
+A. Psychology and economics, Psychology and communication, Psychology and sociology, Psychology and religion; B. Psychology and history, Psychology and communication, Psychology and biology, Psychology and sociology; C. Psychology and biology, Psychology and communication, Psychology and sociology, Psychology and religion; D. Psychology and philosophy, Psychology and communication, Psychology and biology, Psychology and sociology;
+Correct: False
+--------------------
+Question: What are my opportunities after graduating with a degree in psychology?
+
+A. Psychology majors are limited to careers in counseling and education; B. Recent graduates have pursued careers in industry, personnel, research, management, counseling, and special needs education. Psychology majors are also qualified for roles in state and county corrections and welfare, such as in the Department of Children's Services; C. Graduates can only work in corrections or welfare roles; D. Psychology majors primarily work in laboratory research with minimal opportunities in other fields;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are my opportunities after graduating with a degree in psychology?
+
+A. Psychology majors are limited to careers in counseling and education; B. Recent graduates have pursued careers in industry, personnel, research, management, counseling, and special needs education. Psychology majors are also qualified for roles in state and county corrections and welfare, such as in the Department of Children's Services; C. Graduates can only work in corrections or welfare roles; D. Psychology majors primarily work in laboratory research with minimal opportunities in other fields; and E. Psychology majors are limited to careers in research, teaching, and counseling.
+What are my opportunities after graduating with a degree in psychology?
+
+A. Psychology majors are limited to careers in counseling and education; B. Recent graduates have pursued careers in industry, personnel, research, management, counseling, and special needs education. Psychology majors are also qualified for roles in state and county corrections and welfare, such as in the Department of Children's Services; C. Graduates can only work in corrections or welfare roles; D. Psychology majors primarily work in laboratory research with minimal opportunities in other fields; and E. Psychology majors are limited to careers in research, teaching, and counseling.
+Correct: False
+--------------------
+Question: What is the psychology curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=404; B. https://seaver.pepperdine.edu/psychology/curriculum/; C. https://www.pepperdine.edu/academics/catalog/psychology-major; D. https://seaver.pepperdine.edu/academics/psychology-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the psychology curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=404; B. https://seaver.pepperdine.edu/psychology/curriculum/; C. https://www.pepperdine.edu/academics/catalog/psychology-major; D. https://seaver.pepperdine.edu/academics/psychology-programs/; E. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=404; F. https://www.pepperdine.edu/academics/catalog/psychology-major; G. https://www.pepperdine.edu/academics/catalog/psychology-major; H. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=404; I. https://www.pepperdine.edu/academics/catalog/psychology-major; J. https://seaver.pepperdine.edu/academics/psychology-programs/; K. https://seaver.pepperdine.edu/academics/content/
+Correct: False
+--------------------
+Question: What is the sport administration curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=165; B. https://seaver.pepperdine.edu/sport-administration/curriculum/; C. https://www.pepperdine.edu/academics/catalog/sport-administration-major; D. https://seaver.pepperdine.edu/academics/sport-administration-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the sport administration curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=165; B. https://seaver.pepperdine.edu/sport-administration/curriculum/; C. https://www.pepperdine.edu/academics/catalog/sport-administration-major; D. https://seaver.pepperdine.edu/academics/sport-administration-programs/; E. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=165; F. https://seaver.pepperdine.edu/sport-administration/curriculum/; G. https://www.pepperdine.edu/academics/catalog/sport-administration-major; H. https://seaver.pepperdine.edu/academics/sport-administration-programs/;
+
+What are the two types of courses offered in the Sport Administration curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=165; B. https://seaver.pepperdine.edu/sport-administration/curriculum
+Correct: False
+--------------------
+Question: What is the sport medicine curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=343; B. https://seaver.pepperdine.edu/sport-medicine/curriculum/; C. https://www.pepperdine.edu/academics/catalog/sport-medicine-major; D. https://seaver.pepperdine.edu/academics/sport-medicine-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the sport medicine curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=343; B. https://seaver.pepperdine.edu/sport-medicine/curriculum/; C. https://www.pepperdine.edu/academics/catalog/sport-medicine-major; D. https://seaver.pepperdine.edu/academics/sport-medicine-programs/;
+Correct: False
+--------------------
+Question: What is the theater major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page202; B. https://seaver.pepperdine.edu/theater/curriculum/; C. https://www.pepperdine.edu/academics/catalog/theater-major; D. https://seaver.pepperdine.edu/academics/theater-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the theater major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page202; B. https://seaver.pepperdine.edu/theater/curriculum/; C. https://www.pepperdine.edu/academics/catalog/theater-major; D. https://seaver.pepperdine.edu/academics/theater-programs/; E. https://seaver.pepperdine.edu/academics/theater-programs/theater-major; F. https://www.pepperdine.edu/academics/catalog/theater-major; G. https://seaver.pepperdine.edu/academics/theater-programs/theater-major; H. https://seaver.pepperdine.edu/academics/theater-programs/theater-major#curriculum
+
+
+What is the theater minor curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page202; B. https://seaver.pepperdine.edu/theater/curriculum/; C. https://www.pepperdine.edu/
+Correct: False
+--------------------
+Question: What is the English major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=239; B. https://seaver.pepperdine.edu/english/curriculum/; C. https://www.pepperdine.edu/academics/catalog/english-major; D. https://seaver.pepperdine.edu/academics/english-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the English major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=239; B. https://seaver.pepperdine.edu/english/curriculum/; C. https://www.pepperdine.edu/academics/catalog/english-major; D. https://seaver.pepperdine.edu/academics/english-programs/; E. https://www.pepperdine.edu/academics/catalog/english-major
+
+What is the English major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=239; B. https://seaver.pepperdine.edu/english/curriculum/; C. https://www.pepperdine.edu/academics/catalog/english-major; D. https://seaver.pepperdine.edu/academics/english-programs/; E. https://www.pepperdine.edu/academics/catalog/english-major
+Correct: False
+--------------------
+Question: What is the engineering curriculum?
+
+A. The 3/2 Engineering Program allows students to complete a B.S. in physics at Pepperdine over three years, followed by two years at an engineering partner university; B. The 3/2 Engineering Program allows students to complete a B.A. in natural science at Pepperdine over three years, followed by two years at an engineering partner university (USC or Washington University in St. Louis) to earn dual bachelor's degrees. Students complete foundational liberal arts, math, and science courses at Pepperdine before transferring; C. The engineering curriculum includes five years entirely at Pepperdine, focused exclusively on liberal arts and science; D. The 3/2 Engineering Program requires students to transfer after one year of study at Pepperdine;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the engineering curriculum?
+
+A. The 3/2 Engineering Program allows students to complete a B.S. in physics at Pepperdine over three years, followed by two years at an engineering partner university; B. The 3/2 Engineering Program allows students to complete a B.A. in natural science at Pepperdine over three years, followed by two years at an engineering partner university (USC or Washington University in St. Louis) to earn dual bachelor's degrees. Students complete foundational liberal arts, math, and science courses at Pepperdine before transferring; C. The engineering curriculum includes five years entirely at Pepperdine, focused exclusively on liberal arts and science; D. The 3/2 Engineering Program requires students to transfer after one year of study at Pepperdine; students complete foundational liberal arts and science courses at Pepperdine before transferring to one of our engineering partner universities to earn a bachelor's degree.
+
+D
+Correct: False
+--------------------
+Question: What is the film studies curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=243; B. https://seaver.pepperdine.edu/film-studies/curriculum/; C. https://www.pepperdine.edu/academics/catalog/film-studies-major; D. https://seaver.pepperdine.edu/academics/film-studies-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the film studies curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=243; B. https://seaver.pepperdine.edu/film-studies/curriculum/; C. https://www.pepperdine.edu/academics/catalog/film-studies-major; D. https://seaver.pepperdine.edu/academics/film-studies-programs/; 
+
+2
+.
+ 
+I
+n
+ 
+t
+h
+e
+ 
+f
+o
+l
+l
+o
+w
+i
+n
+g
+ 
+c
+a
+s
+e
+,
+ 
+w
+h
+i
+c
+h
+ 
+o
+f
+ 
+t
+h
+e
+ 
+f
+o
+l
+l
+o
+w
+i
+n
+g
+ 
+i
+s
+ 
+t
+h
+e
+ 
+c
+o
+r
+r
+e
+c
+t
+ 
+a
+n
+s
+w
+e
+r
+?
+
+
+A
+.
+ 
+I
+t
+ 
+i
+s
+ 
+t
+h
+e
+ 
+p
+r
+o
+f
+e
+s
+s
+
+Correct: False
+--------------------
+Question: what is the integrated marketing communications curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=159; B. https://seaver.pepperdine.edu/marketing-communications/curriculum/; C. https://www.pepperdine.edu/academics/catalog/marketing-communications-major; D. https://seaver.pepperdine.edu/academics/integrated-marketing-communications-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the integrated marketing communications curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=159; B. https://seaver.pepperdine.edu/marketing-communications/curriculum/; C. https://www.pepperdine.edu/academics/catalog/marketing-communications-major; D. https://seaver.pepperdine.edu/academics/integrated-marketing-communications-programs/; 
+
+A
+Correct: False
+--------------------
+Question: what is the finance curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=136; B. https://seaver.pepperdine.edu/finance/curriculum/; C. https://www.pepperdine.edu/academics/catalog/finance-major; D. https://seaver.pepperdine.edu/academics/finance-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the finance curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=136; B. https://seaver.pepperdine.edu/finance/curriculum/; C. https://www.pepperdine.edu/academics/catalog/finance-major; D. https://seaver.pepperdine.edu/academics/finance-programs/;
+Correct: False
+--------------------
+Question: what is the international business curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=136; B. https://seaver.pepperdine.edu/international-business/curriculum/; C. https://www.pepperdine.edu/academics/catalog/international-business-major; D. https://seaver.pepperdine.edu/academics/international-business-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the international business curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=136; B. https://seaver.pepperdine.edu/international-business/curriculum/; C. https://www.pepperdine.edu/academics/catalog/international-business-major; D. https://seaver.pepperdine.edu/academics/international-business-programs/; E. https://www.pepperdine.edu/academics/catalog/international-business-major; F. https://seaver.pepperdine.edu/academics/international-business-programs/; G. https://www.pepperdine.edu/academics/catalog/international-business-major; H. https://seaver.pepperdine.edu/academics/international-business-programs/; I. https://www.pepperdine.edu/academics/catalog/international-business-major; J. https://seaver.pepperdine.edu/academics/international-business-programs/; K. https://www.pepperdine.edu/academics/catalog/international-business-major; L. https://seaver.pepperdine.edu
+Correct: False
+--------------------
+Question: what is the math major curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=332; B. https://seaver.pepperdine.edu/math/curriculum/; C. https://www.pepperdine.edu/academics/catalog/math-major; D. https://seaver.pepperdine.edu/academics/math-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the math major curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=332; B. https://seaver.pepperdine.edu/math/curriculum/; C. https://www.pepperdine.edu/academics/catalog/math-major; D. https://seaver.pepperdine.edu/academics/math-programs/; E. https://seaver.pepperdine.edu/academics/math-programs/mathematics-education; F. https://seaver.pepperdine.edu/academics/math-programs/mathematics-education/; G. https://seaver.pepperdine.edu/academics/math-programs/mathematics-education/; H. https://seaver.pepperdine.edu/academics/math-programs/mathematics-education/; I. https://seaver.pepperdine.edu/academics/math-programs/mathematics-education/; J. https://seaver.pepperdine.edu/academics/math-programs/mathematics-education/; K. https://seaver.pepperdine.edu/acad
+Correct: False
+--------------------
+Question: what is the music major curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=197; B. https://seaver.pepperdine.edu/music/curriculum/; C. https://www.pepperdine.edu/academics/catalog/music-major; D. https://seaver.pepperdine.edu/academics/music-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the music major curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=197; B. https://seaver.pepperdine.edu/music/curriculum/; C. https://www.pepperdine.edu/academics/catalog/music-major; D. https://seaver.pepperdine.edu/academics/music-programs/; 
+
+A
+Correct: False
+--------------------
+Question: what is the accounting major curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=134; B. https://seaver.pepperdine.edu/accounting/curriculum/; C. https://www.pepperdine.edu/academics/catalog/accounting-major; D. https://seaver.pepperdine.edu/academics/accounting-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the accounting major curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=134; B. https://seaver.pepperdine.edu/accounting/curriculum/; C. https://www.pepperdine.edu/academics/catalog/accounting-major; D. https://seaver.pepperdine.edu/academics/accounting-programs/; 
+
+A
+Correct: False
+--------------------
+Question: what is the advertising major curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=134; B. https://seaver.pepperdine.edu/advertising/curriculum/; C. https://www.pepperdine.edu/academics/catalog/advertising-major; D. https://seaver.pepperdine.edu/academics/advertising-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the advertising major curriculum? 
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=134; B. https://seaver.pepperdine.edu/advertising/curriculum/; C. https://www.pepperdine.edu/academics/catalog/advertising-major; D. https://seaver.pepperdine.edu/academics/advertising-programs/;
+Correct: False
+--------------------
+Question: what is the business admin major curriculum?  
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=135; B. https://seaver.pepperdine.edu/business-admin/curriculum/; C. https://www.pepperdine.edu/academics/catalog/business-admin-major; D. https://seaver.pepperdine.edu/academics/business-admin-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the business admin major curriculum?  
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=135; B. https://seaver.pepperdine.edu/business-admin/curriculum/; C. https://www.pepperdine.edu/academics/catalog/business-admin-major; D. https://seaver.pepperdine.edu/academics/business-admin-programs/; 
+
+A
+
+
+what is the business admin major curriculum?  
+
+B
+
+
+what is the business admin major curriculum?  
+
+C
+
+
+what is the business admin major curriculum?  
+
+D
+
+
+what is the business admin major curriculum?  
+
+E
+Correct: False
+--------------------
+Question: what is the communication major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=157; B. https://seaver.pepperdine.edu/communication/curriculum/; C. https://www.pepperdine.edu/academics/catalog/communication-major; D. https://seaver.pepperdine.edu/academics/communication-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the communication major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=157; B. https://seaver.pepperdine.edu/communication/curriculum/; C. https://www.pepperdine.edu/academics/catalog/communication-major; D. https://seaver.pepperdine.edu/academics/communication-programs/; E. https://www.pepperdine.edu/academics/catalog/communication-major
+
+what are the communication program concentrations?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=157; B. https://seaver.pepperdine.edu/communication/curriculum/; C. https://www.pepperdine.edu/academics/catalog/communication-major; D. https://seaver.pepperdine.edu/academics/communication-programs/; E. https://www.pepperdine.edu/academics/catalog/communication-major
+
+what is the major in communication?
+
+A. https://seaver.pepperdine.edu/academics/content/
+Correct: False
+--------------------
+Question: what is the economics major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=401; B. https://seaver.pepperdine.edu/economics/curriculum/; C. https://www.pepperdine.edu/academics/catalog/economics-major; D. https://seaver.pepperdine.edu/academics/economics-programs/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the economics major curriculum?
+
+A. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=401; B. https://seaver.pepperdine.edu/economics/curriculum/; C. https://www.pepperdine.edu/academics/catalog/economics-major; D. https://seaver.pepperdine.edu/academics/economics-programs/; E. https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=401
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+
+Correct: False
+--------------------
+Question: who is my academic advisor if I am a Philosophy major?
+
+A. Emily Carter; 310.506.6149; emily.carter@pepperdine.edu; B. Noah Jordan; 310.506.6149; noah.jordan@pepperdine.edu; C. Sarah Miller; 310.506.6149; sarah.miller@pepperdine.edu; D. Michael Davis; 310.506.6149; michael.davis@pepperdine.edu;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am a Philosophy major?
+
+A. Emily Carter; 310.506.6149; emily.carter@pepperdine.edu; B. Noah Jordan; 310.506.6149; noah.jordan@pepperdine.edu; C. Sarah Miller; 310.506.6149; sarah.miller@pepperdine.edu; D. Michael Davis; 310.506.6149; michael.davis@pepperdine.edu;
+Correct: False
+--------------------
+Question: who is my academic advisor if I am a teacher education major?
+
+A. Sarah Miller; 310.506.6149; sarah.miller@pepperdine.edu; B. Emily Carter; 310.506.6149; emily.carter@pepperdine.edu; C. Noah Jordan; 310.506.6149; noah.jordan@pepperdine.edu; D. Michael Davis; 310.506.6149; michael.davis@pepperdine.edu;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am a teacher education major?
+
+A. Sarah Miller; 310.506.6149; sarah.miller@pepperdine.edu; B. Emily Carter; 310.506.6149; emily.carter@pepperdine.edu; C. Noah Jordan; 310.506.6149; noah.jordan@pepperdine.edu; D. Michael Davis; 310.506.6149; michael.davis@pepperdine.edu;
+Correct: False
+--------------------
+Question: who is my academic advisor if I am a social science major?
+
+A. Emily Carter; 310.506.6149; emily.carter@pepperdine.edu; B. Michael Davis; 310.506.6149; michael.davis@pepperdine.edu; C. Sarah Miller; 310.506.6149; sarah.miller@pepperdine.edu; D. Noah Jordan; 310.506.6149; noah.jordan@pepperdine.edu;
+Ideal response: D
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am a social science major?
+
+A. Emily Carter; 310.506.6149; emily.carter@pepperdine.edu; B. Michael Davis; 310.506.6149; michael.davis@pepperdine.edu; C. Sarah Miller; 310.506.6149; sarah.miller@pepperdine.edu; D. Noah Jordan; 310.506.6149; noah.jordan@pepperdine.edu;
+Correct: False
+--------------------
+Question: who is my academic advisor if I am a communication major?
+
+A. Ashley Castro; 310.506.4432; ashley.castro@pepperdine.edu; B. Emily Carter; 310.506.4432; emily.carter@pepperdine.edu; C. Sarah Miller; 310.506.4432; sarah.miller@pepperdine.edu; D. Noah Jordan; 310.506.4432; noah.jordan@pepperdine.edu;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am a communication major?
+
+A. Ashley Castro; 310.506.4432; ashley.castro@pepperdine.edu; B. Emily Carter; 310.506.4432; emily.carter@pepperdine.edu; C. Sarah Miller; 310.506.4432; sarah.miller@pepperdine.edu; D. Noah Jordan; 310.506.4432; noah.jordan@pepperdine.edu; E. All of the above.
+
+who is my academic advisor if I am a business major?
+
+A. Ashley Castro; 310.506.4432; ashley.castro@pepperdine.edu; B. Emily Carter; 310.506.4432; emily.carter@pepperdine.edu; C. Sarah Miller; 310.506.4432; sarah.miller@pepperdine.edu; D. Noah Jordan; 310.506.4432; noah.jordan@pepperdine.edu; E. All of the above.
+
+who is my academic advisor if I am a cinema and media studies major?
+
+A. Ashley Castro; 310.506.4432;
+Correct: False
+--------------------
+Question: who is my academic advisor if I am an Interdisciplinary Studies major?
+
+A. Noah Jordan; 310.506.4432; noah.jordan@pepperdine.edu; B. Emily Carter; 310.506.4432; emily.carter@pepperdine.edu; C. Ashley Castro; 310.506.4432; ashley.castro@pepperdine.edu; D. Sarah Miller; 310.506.4432; sarah.miller@pepperdine.edu;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am an Interdisciplinary Studies major?
+
+A. Noah Jordan; 310.506.4432; noah.jordan@pepperdine.edu; B. Emily Carter; 310.506.4432; emily.carter@pepperdine.edu; C. Ashley Castro; 310.506.4432; ashley.castro@pepperdine.edu; D. Sarah Miller; 310.506.4432; sarah.miller@pepperdine.edu;
+Correct: False
+--------------------
+Question: who is my academic advisor if I am a student athlete?
+
+A. Emily Carter; 310.506.4432; emily.carter@pepperdine.edu; B. Ashley Castro; 310.506.4432; ashley.castro@pepperdine.edu; C. Noah Jordan; 310.506.4432; noah.jordan@pepperdine.edu; D. Sarah Miller; 310.506.4432; sarah.miller@pepperdine.edu;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am a student athlete?
+
+A. Emily Carter; 310.506.4432; emily.carter@pepperdine.edu; B. Ashley Castro; 310.506.4432; ashley.castro@pepperdine.edu; C. Noah Jordan; 310.506.4432; noah.jordan@pepperdine.edu; D. Sarah Miller; 310.506.4432; sarah.miller@pepperdine.edu;
+Correct: False
+--------------------
+Question: who is my academic advisor if I am a business admin major?
+
+A. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; B. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu; C. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu; D. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am a business admin major?
+
+A. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; B. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu; C. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu; D. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; E. None of the above.
+
+who is my academic advisor if I am a business admin major?
+
+A. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; B. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu; C. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu; D. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; E. None of the above.
+
+who is my academic advisor if I am a business admin major?
+
+A. Jacob Moonen; 310.506.615
+Correct: False
+--------------------
+Question: who is my academic advisor if I am a languages major?
+
+A. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; B. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; C. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu; D. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am a languages major?
+
+A. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; B. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; C. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu; D. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu; 
+
+A
+Correct: False
+--------------------
+Question: who is my academic advisor if I am an international studies major?
+
+A. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu; B. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; C. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; D. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am an international studies major?
+
+A. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu; B. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; C. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; D. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu;
+Correct: False
+--------------------
+Question: who is my academic advisor if I am a religion major?
+
+A. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; B. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; C. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu; D. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am a religion major?
+
+A. Jacob Moonen; 310.506.6150; jacob.moonen@pepperdine.edu; B. Ashley Castro; 310.506.6150; ashley.castro@pepperdine.edu; C. Noah Jordan; 310.506.6150; noah.jordan@pepperdine.edu; D. Emily Carter; 310.506.6150; emily.carter@pepperdine.edu;
+Correct: False
+--------------------
+Question: who is my academic advisor if I am a Natural Science major? 
+
+A. Noah Jordan (last names A-G); Ashley Castro (last names H-N); Jacob Moonen (last names O-Z); B. Ashley Castro (last names A-M); Jacob Moonen (last names N-Z); C. Noah Jordan (last names A-F); Ashley Castro (last names G-M); Jacob Moonen (last names N-Z); D. Jacob Moonen (last names A-G); Ashley Castro (last names H-N); Noah Jordan (last names O-Z);
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am a Natural Science major? 
+
+A. Noah Jordan (last names A-G); Ashley Castro (last names H-N); Jacob Moonen (last names O-Z); B. Ashley Castro (last names A-M); Jacob Moonen (last names N-Z); C. Noah Jordan (last names A-F); Ashley Castro (last names G-M); Jacob Moonen (last names N-Z); D. Jacob Moonen (last names A-G); Ashley Castro (last names H-N); Noah Jordan (last names O-Z); 
+
+A
+Correct: False
+--------------------
+Question: who is my academic advisor if I am a Fine Arts major? 
+
+A. Noah Jordan (last names A-G); Ashley Castro (last names H-N); Jacob Moonen (last names O-Z); B. Ashley Castro (last names A-M); Jacob Moonen (last names N-Z); C. Jacob Moonen (last names A-G); Ashley Castro (last names H-N); Noah Jordan (last names O-Z); D. Noah Jordan (last names A-F); Ashley Castro (last names G-M); Jacob Moonen (last names N-Z);
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+who is my academic advisor if I am a Fine Arts major? 
+
+A. Noah Jordan (last names A-G); Ashley Castro (last names H-N); Jacob Moonen (last names O-Z); B. Ashley Castro (last names A-M); Jacob Moonen (last names N-Z); C. Jacob Moonen (last names A-G); Ashley Castro (last names H-N); Noah Jordan (last names O-Z); D. Noah Jordan (last names A-F); Ashley Castro (last names G-M); Jacob Moonen (last names N-Z); 
+
+A. 
+
+B. 
+
+C. 
+
+D.
+Correct: False
+--------------------
+Question: What scholarships can I apply for? 
+
+A. George Pepperdine Scholarship, Pepperdine Grant, Regents Scholarship; B. Pepperdine Achievement Grant, Pepperdine Research Grant, Regents Scholarship; C. George Pepperdine Scholarship, Regents Leadership Grant, Pepperdine Grant; D. Regents Scholarship, Pepperdine Leadership Grant, George Pepperdine Grant;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What scholarships can I apply for? 
+
+A. George Pepperdine Scholarship, Pepperdine Grant, Regents Scholarship; B. Pepperdine Achievement Grant, Pepperdine Research Grant, Regents Scholarship; C. George Pepperdine Scholarship, Regents Leadership Grant, Pepperdine Grant; D. Regents Scholarship, Pepperdine Leadership Grant, George Pepperdine Grant;
+Correct: False
+--------------------
+Question: Can you provide more information on the George Pepperdine scholarship? 
+
+A. The George Pepperdine Achievement Award is a renewable, four-year merit scholarship requiring no separate application, applicable only to tuition, and requiring a 2.0 GPA; B. The George Pepperdine Achievement Award is a non-renewable scholarship requiring a separate application and applies to both tuition and housing; C. The George Pepperdine Achievement Award is a one-time grant awarded based on need and does not consider academic performance; D. The George Pepperdine Achievement Award requires full-time enrollment but can be used for tuition, housing, and other expenses;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Can you provide more information on the George Pepperdine scholarship? 
+
+A. The George Pepperdine Achievement Award is a renewable, four-year merit scholarship requiring no separate application, applicable only to tuition, and requiring a 2.0 GPA; B. The George Pepperdine Achievement Award is a non-renewable scholarship requiring a separate application and applies to both tuition and housing; C. The George Pepperdine Achievement Award is a one-time grant awarded based on need and does not consider academic performance; D. The George Pepperdine Achievement Award requires full-time enrollment but can be used for tuition, housing, and other expenses;
+Correct: False
+--------------------
+Question: Can you provide more information on the Pepperdine Grant scholarship? 
+
+A. The Pepperdine Grant is a renewable, need-based award provided for up to four years, based on FAFSA-submitted financial need, requiring a 2.0 GPA and full-time enrollment, and applicable only to tuition; B. The Pepperdine Grant is a merit-based, one-time scholarship awarded for academic excellence and leadership skills; C. The Pepperdine Grant is a non-renewable, need-based scholarship that applies to both tuition and housing costs; D. The Pepperdine Grant is a renewable grant provided for any enrollment level, not limited to full-time students, and applicable to all educational expenses;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Can you provide more information on the Pepperdine Grant scholarship? 
+
+A. The Pepperdine Grant is a renewable, need-based award provided for up to four years, based on FAFSA-submitted financial need, requiring a 2.0 GPA and full-time enrollment, and applicable only to tuition; B. The Pepperdine Grant is a merit-based, one-time scholarship awarded for academic excellence and leadership skills; C. The Pepperdine Grant is a non-renewable, need-based scholarship that applies to both tuition and housing costs; D. The Pepperdine Grant is a renewable grant provided for any enrollment level, not limited to full-time students, and applicable to all educational expenses;
+Correct: False
+--------------------
+Question: Can you provide more information on the other grants I can apply for?
+
+A. Other institutional grants and scholarships such as the Tyler Trust End Scholarship, Malibu Seaver Scholarship, Frank R. Seaver End Scholarship, and University Supplemental Grant are renewable for up to four years, require a 2.0 GPA and full-time enrollment, and apply only to tuition; B. Other institutional grants and scholarships include one-time awards like the Tyler Trust End Scholarship and Frank R. Seaver End Scholarship, applicable to tuition and housing; C. Institutional grants include renewable awards with no GPA requirements or enrollment conditions, such as the University Supplemental Grant; D. Institutional scholarships like the Malibu Seaver Scholarship and Tyler Trust End Scholarship are merit-based and cover all educational expenses;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Can you provide more information on the other grants I can apply for?
+
+A. Other institutional grants and scholarships such as the Tyler Trust End Scholarship, Malibu Seaver Scholarship, Frank R. Seaver End Scholarship, and University Supplemental Grant are renewable for up to four years, require a 2.0 GPA and full-time enrollment, and apply only to tuition; B. Other institutional grants and scholarships include one-time awards like the Tyler Trust End Scholarship and Frank R. Seaver End Scholarship, applicable to tuition and housing; C. Institutional grants include renewable awards with no GPA requirements or enrollment conditions, such as the University Supplemental Grant; D. Institutional scholarships like the Malibu Seaver Scholarship and Tyler Trust End Scholarship are merit-based and cover all educational expenses; E. None of the above.
+Correct: False
+--------------------
+Question: Can you provide more information on the Regents Scholarship?
+
+A. The Regents Scholars Program is a highly competitive award for the top 8-10% of admitted first-year students, offering scholarships starting at $20,000 annually, renewable for up to four years with a required 3.25 GPA and SAT/ACT scores; B. The Regents Scholars Program offers $15,000 scholarships to all admitted students based on GPA only, renewable for up to two years; C. The Regents Scholars Program awards scholarships for community service and leadership, with no GPA or test score requirements; D. The Regents Scholars Program is a one-time scholarship granted to all admitted first-year students, regardless of academic merit;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Can you provide more information on the Regents Scholarship?
+
+A. The Regents Scholars Program is a highly competitive award for the top 8-10% of admitted first-year students, offering scholarships starting at $20,000 annually, renewable for up to four years with a required 3.25 GPA and SAT/ACT scores; B. The Regents Scholars Program offers $15,000 scholarships to all admitted students based on GPA only, renewable for up to two years; C. The Regents Scholars Program awards scholarships for community service and leadership, with no GPA or test score requirements; D. The Regents Scholars Program is a one-time scholarship granted to all admitted first-year students, regardless of academic merit; E. The Regents Scholars Program is a one-time scholarship granted to all admitted first-year students, regardless of academic merit; F. The Regents Scholars Program is a one-time scholarship granted to all admitted first-year students, regardless of academic merit; G. The Regents Scholars Program is a one-time scholarship granted to all admitted first-year students, regardless of academic merit; H. The Regents Scholars Program is a one-time scholarship granted to all admitted first-year students, regardless of academic merit; I. The Regents Scholars Program is a one-time scholarship granted to all admitted first-year students, regardless of academic merit; J. The Regents Scholars Program is a one-time scholarship granted to all admitted first-year students, regardless of academic merit; K. The Regents Scholars Program
+Correct: False
+--------------------
+Question: Where can I find more information about scholarships at Pepperdine?
+
+A. https://seaver.pepperdine.edu/admission/financial-aid/undergraduate/; B. https://seaver.pepperdine.edu/admission/financial-aid/graduate/; C. https://seaver.pepperdine.edu/admission/financial-aid/international/; D. https://seaver.pepperdine.edu/admission/financial-aid/transfer/;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Where can I find more information about scholarships at Pepperdine?
+
+A. https://seaver.pepperdine.edu/admission/financial-aid/undergraduate/; B. https://seaver.pepperdine.edu/admission/financial-aid/graduate/; C. https://seaver.pepperdine.edu/admission/financial-aid/international/; D. https://seaver.pepperdine.edu/admission/financial-aid/transfer/; E. https://seaver.pepperdine.edu/admission/financial-aid/need-based-scholarships/; F. https://seaver.pepperdine.edu/admission/financial-aid/merit-based-scholarships/; G. https://seaver.pepperdine.edu/admission/financial-aid/first-generation/; H. https://seaver.pepperdine.edu/admission/financial-aid/other-scholarships/; I. https://seaver.pepperdine.edu/admission/financial-aid/need-based-scholarships/
+Correct: False
+--------------------
+Question: What are the transfer application requirements?
+
+A. Transfer Application submission, official proof of high school completion, official college transcripts, academic recommendation, and SAT/ACT scores are optional; B. Transfer Application submission, official proof of college enrollment, academic recommendation, and SAT/ACT scores are required; C. Transfer Application submission, unofficial transcripts, optional recommendation, and SAT/ACT scores are mandatory; D. Transfer Application submission, proof of high school GPA, and SAT/ACT scores are required;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What are the transfer application requirements?
+
+A. Transfer Application submission, official proof of high school completion, official college transcripts, academic recommendation, and SAT/ACT scores are optional; B. Transfer Application submission, official proof of college enrollment, academic recommendation, and SAT/ACT scores are required; C. Transfer Application submission, unofficial transcripts, optional recommendation, and SAT/ACT scores are mandatory; D. Transfer Application submission, proof of high school GPA, and SAT/ACT scores are required; E. None of the above.
+
+Which of the following is true about the transfer application?
+
+A. The application is required to apply for admission; B. The application is required to apply for admission and to be considered for merit-based scholarships; C. The application is required to apply for admission and to be considered for merit-based and need-based scholarships; D. The application is required to apply for admission and to be considered for merit-based scholarships; E. None of the above.
+
+Which of the following is true about the transfer application?
+
+A. The application is required to apply for admission; B. The application is required to apply for admission and to be considered for merit-based scholarships; C. The application is required to apply for admission and to be
+Correct: False
+--------------------
+Question: When is the transfer application deadline for the spring term?
+
+A. October 15; B. October 1; C. November 1; D. September 15;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the transfer application deadline for the spring term?
+
+A. October 15; B. October 1; C. November 1; D. September 15; E. November 15; F. December 15
+
+When is the transfer application deadline for the summer term?
+
+A. February 15; B. February 1; C. March 1; D. January 15; E. March 15; F. April 15
+
+When is the transfer application deadline for the fall term?
+
+A. April 15; B. April 1; C. May 1; D. March 15; E. June 15; F. July 15
+Correct: False
+--------------------
+Question: When is the transfer application deadline for the fall term?
+
+A. January 1; B. February 1; C. January 15; D. March 1;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+When is the transfer application deadline for the fall term?
+
+A. January 1; B. February 1; C. January 15; D. March 1; E. April 1; F. May 1
+
+Which term is the fall term?
+
+A. Fall term; B. Fall; C. Fall I; D. Fall II; E. Fall III; F. Fall IV
+
+Which term is the spring term?
+
+A. Spring term; B. Spring; C. Spring I; D. Spring II; E. Spring III; F. Spring IV
+
+When is the spring term?
+
+A. January 1; B. February 1; C. January 15; D. March 1; E. April 1; F. May 1
+
+Which term is the winter term?
+
+A. Winter term; B. Winter; C. Winter I; D. Winter
+Correct: False
+--------------------
+Question: How many students apply and how many do you accept?
+
+A. This past application season (Fall 2024) we received 10,500 applications and admitted 7,515 students; B. This past application season (Fall 2024) we received 12,719 applications and admitted 6,000 students; C. This past application season (Fall 2024) we received 12,719 applications and admitted 7,515 students; D. This past application season (Fall 2024) we received 15,000 applications and admitted 7,515 students;
+Ideal response: C
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+How many students apply and how many do you accept?
+
+A. This past application season (Fall 2024) we received 10,500 applications and admitted 7,515 students; B. This past application season (Fall 2024) we received 12,719 applications and admitted 6,000 students; C. This past application season (Fall 2024) we received 12,719 applications and admitted 7,515 students; D. This past application season (Fall 2024) we received 15,000 applications and admitted 7,515 students;
+Correct: False
+--------------------
+Question: What is the average GPA and standardized test score for an admitted student?
+
+A. High School GPA: 3.55-3.75, ACT Composite: 29-31, Transfer GPA: 3.45-3.75, SAT Total: 1300-1400; B. High School GPA: 3.67-3.89 (unweighted), ACT Composite: 31-33 (superscored), Transfer GPA: 3.55-3.83 (unweighted), SAT Total: 1350-1450 (superscored); C. High School GPA: 3.50-3.80, ACT Composite: 30-32, Transfer GPA: 3.50-3.80, SAT Total: 1330-1430; D. High School GPA: 3.60-3.85 (weighted), ACT Composite: 30-32, Transfer GPA: 3.40-3.75 (unweighted), SAT Total: 1320-1420;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the average GPA and standardized test score for an admitted student?
+
+A. High School GPA: 3.55-3.75, ACT Composite: 29-31, Transfer GPA: 3.45-3.75, SAT Total: 1300-1400; B. High School GPA: 3.67-3.89 (unweighted), ACT Composite: 31-33 (superscored), Transfer GPA: 3.55-3.83 (unweighted), SAT Total: 1350-1450 (superscored); C. High School GPA: 3.50-3.80, ACT Composite: 30-32, Transfer GPA: 3.50-3.80, SAT Total: 1330-1430; D. High School GPA: 3.60-3.85 (weighted), ACT Composite: 30-32, Transfer GPA: 3.40-3.75 (unweighted), SAT Total: 1320-1420;
+Correct: False
+--------------------
+Question: Does Pepperdine offer interviews as part of the application process?
+
+A. Yes, Pepperdine offers evaluative interviews for first-year students applying for fall. Visit the Admission Interviews webpage for additional interview information and to register; B. No, Pepperdine does not offer interviews as part of the application process; C. Interviews are mandatory for all first-year and transfer applicants; D. Only transfer students are eligible for evaluative interviews at Pepperdine;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Does Pepperdine offer interviews as part of the application process?
+
+A. Yes, Pepperdine offers evaluative interviews for first-year students applying for fall. Visit the Admission Interviews webpage for additional interview information and to register; B. No, Pepperdine does not offer interviews as part of the application process; C. Interviews are mandatory for all first-year and transfer applicants; D. Only transfer students are eligible for evaluative interviews at Pepperdine; and
+
+E. The Pepperdine Office of Admission conducts interviews for all applicants, both first-year and transfer.
+
+The Office of Admission does not offer interviews as part of the application process. The Pepperdine Office of Admission conducts interviews for all applicants, both first-year and transfer.
+Correct: False
+--------------------
+Question: How many units must be completed to be considered a transfer student?
+
+A. Transfer applicants must have completed at least 12 college units; B. Transfer applicants are high school graduates who have taken any college units before or after graduating high school; C. Transfer applicants must have completed at least 30 college units before applying; D. Transfer applicants must have completed no college units and only need to graduate high school;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+How many units must be completed to be considered a transfer student?
+
+A. Transfer applicants must have completed at least 12 college units; B. Transfer applicants are high school graduates who have taken any college units before or after graduating high school; C. Transfer applicants must have completed at least 30 college units before applying; D. Transfer applicants must have completed no college units and only need to graduate high school; and E. None of the above.
+
+How many transfer units can be transferred to the University of San Diego?
+
+A. 6-12 units; B. 12-18 units; C. 18-24 units; D. 24-30 units; E. 30-36 units; and F. 36 or more units.
+
+If you are a transfer student, do you need to submit your high school transcripts?
+
+A. Yes; B. No; C. Yes, if you graduated high school in the U.S.; D. No, if you graduated high school in the U.S.; E. Yes, if you graduated high school in a foreign country; and F. No, if you graduated high school in a
+Correct: False
+--------------------
+Question: Does Pepperdine offer Early Action or Early Decision?
+
+A. Pepperdine offers Early Action admission for first-year fall applicants (excluding nursing) with a nonbinding deadline of November 1; decisions are released by January 10, with an enrollment deadline of May 1. Pepperdine does not offer Early Decision; B. Pepperdine offers Early Decision admission for first-year applicants with a binding deadline of November 1, and Early Action for all other programs; C. Pepperdine offers Early Action and Early Decision for first-year applicants, with deadlines in November and January respectively; D. Pepperdine does not offer Early Action or Early Decision;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Does Pepperdine offer Early Action or Early Decision?
+
+A. Pepperdine offers Early Action admission for first-year fall applicants (excluding nursing) with a nonbinding deadline of November 1; decisions are released by January 10, with an enrollment deadline of May 1. Pepperdine does not offer Early Decision; B. Pepperdine offers Early Decision admission for first-year applicants with a binding deadline of November 1, and Early Action for all other programs; C. Pepperdine offers Early Action and Early Decision for first-year applicants, with deadlines in November and January respectively; D. Pepperdine does not offer Early Action or Early Decision;
+Correct: False
+--------------------
+Question: what is the cost of attendance/tuition? 
+
+A. The estimated cost of attendance for the 2024-25 academic year is $95,234, including tuition, food, housing, and indirect costs such as books, transportation, and personal expenses. Approximately 92% of students receive financial assistance; B. The cost of attendance is $85,000 for the 2024-25 academic year, covering only tuition, food, and housing; C. Tuition for the 2024-25 academic year is $95,234, excluding food and housing; D. Pepperdine University does not provide cost estimates;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+what is the cost of attendance/tuition? 
+
+A. The estimated cost of attendance for the 2024-25 academic year is $95,234, including tuition, food, housing, and indirect costs such as books, transportation, and personal expenses. Approximately 92% of students receive financial assistance; B. The cost of attendance is $85,000 for the 2024-25 academic year, covering only tuition, food, and housing; C. Tuition for the 2024-25 academic year is $95,234, excluding food and housing; D. Pepperdine University does not provide cost estimates; instead, it offers a financial aid calculator to help students estimate their financial aid package.
+
+Which of the following is NOT a requirement for admission to Pepperdine University?
+
+A. A minimum GPA of 2.5 on a 4.0 scale; B. A minimum GPA of 3.0 on a 4.0 scale; C. A minimum GPA of 2.0 on a 4.0 scale; D. A minimum GPA of 3.5 on a 4.0 scale.
+
+What is the average class size at Pepperdine University?
+
+A. 20; B. 25; C. 30; D. 35.
+
+Which of the following is NOT a benefit of attending Pepperdine
+Correct: False
+--------------------
+Question: how many students become employed full time postgrad?
+
+A. 85% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military 6 months after graduation; B. 91% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military 6 months after graduation; C. 95% of 2023 graduates were employed full time 6 months after graduation, excluding other postgrad activities; D. 75% of 2023 graduates were employed or volunteering full time 6 months after graduation;
+Ideal response: B
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+how many students become employed full time postgrad?
+
+A. 85% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military 6 months after graduation; B. 91% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military 6 months after graduation; C. 95% of 2023 graduates were employed full time 6 months after graduation, excluding other postgrad activities; D. 75% of 2023 graduates were employed or volunteering full time 6 months after graduation; E. 85% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military 6 months after graduation; F. 75% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military 6 months after graduation; G. 75% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military 6 months after graduation; H. 91% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military 6 months after graduation; I. 75% of 2023 graduates were employed full time 6 months after graduation, excluding other
+Correct: False
+--------------------
+Question: Can I minor or double major? 
+
+A. You can only indicate one major on your application, but you can add an additional major or minor during your time at Pepperdine with help from Academic Advising; B. You must indicate all majors and minors on your application, and changes are not allowed after enrollment; C. Double majoring is not permitted at Pepperdine, but you may declare a minor; D. You are required to declare a minor when applying to Pepperdine, but double majoring is optional;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Can I minor or double major? 
+
+A. You can only indicate one major on your application, but you can add an additional major or minor during your time at Pepperdine with help from Academic Advising; B. You must indicate all majors and minors on your application, and changes are not allowed after enrollment; C. Double majoring is not permitted at Pepperdine, but you may declare a minor; D. You are required to declare a minor when applying to Pepperdine, but double majoring is optional; E. You can declare a minor, but you cannot double major; F. You can declare a minor, but you cannot double major; G. You can declare a minor, but you cannot double major; H. You can declare a minor, but you cannot double major; I. You can declare a minor, but you cannot double major; J. You can declare a minor, but you cannot double major; K. You can declare a minor, but you cannot double major; L. You can declare a minor, but you cannot double major; M. You can declare a minor, but you cannot double major; N. You can declare a minor, but you cannot double major; O. You can declare a minor, but you
+Correct: False
+--------------------
+Question: Which lower division courses will I need to do as a Business Admin major? 
+
+A. AC 224 Financial Accounting, AC 225 Managerial Accounting, BA 210 Introduction to Microeconomics, BA 212 Business Computing Applications, BA 216 Statistical Analysis for Business Decisions, ECON 211 Introduction to Macroeconomics, MATH 140 Calculus for Business and Economics, MATH 141 Probability, Linear Systems, and Multivariable Optimization; B. AC 224 Managerial Accounting, AC 225 Financial Accounting, BA 210 Introduction to Macroeconomics, BA 212 Statistical Analysis, BA 216 Business Computing Applications, ECON 211 Microeconomics, MATH 140 Linear Systems, MATH 141 Probability and Optimization; C. AC 224 Financial and Managerial Accounting, BA 210 Introduction to Business Statistics, BA 212 Business Applications, ECON 211 Microeconomics, MATH 140 Calculus for Business, MATH 141 Probability and Multivariable Optimization; D. AC 224 Financial Accounting, BA 210 Microeconomics, BA 212 Business Statistics, ECON 211 Macroeconomics, MATH 140 Calculus and Optimization;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which lower division courses will I need to do as a Business Admin major? 
+
+A. AC 224 Financial Accounting, AC 225 Managerial Accounting, BA 210 Introduction to Microeconomics, BA 212 Business Computing Applications, BA 216 Statistical Analysis for Business Decisions, ECON 211 Introduction to Macroeconomics, MATH 140 Calculus for Business and Economics, MATH 141 Probability, Linear Systems, and Multivariable Optimization; B. AC 224 Managerial Accounting, AC 225 Financial Accounting, BA 210 Introduction to Macroeconomics, BA 212 Statistical Analysis, BA 216 Business Computing Applications, ECON 211 Microeconomics, MATH 140 Linear Systems, MATH 141 Probability and Optimization; C. AC 224 Financial and Managerial Accounting, BA 210 Introduction to Business Statistics, BA 212 Business Applications, ECON 211 Microeconomics, MATH 140 Calculus for Business, MATH 141 Probability and Multivariable Optimization; D. AC 224 Financial Accounting, BA 210 Microeconomics, BA 212 Business Statistics, ECON 211 Macroeconomics, MATH 140 Calculus and Optimization; 
+
+A
+Correct: False
+--------------------
+Question: Which upper division courses will I need to do as a Business Admin major? 
+
+A. Financial Management, BA 352 Management Theory and Practice, BA 366 Organizational Behavior, BA 355 Principles of Marketing, BA 358 Legal and Regulatory Environment of Business, BA 445 Managerial Economics, BA 451 Operations Management, BA 452 Quantitative Analysis, BA 497 Business Policy, Strategy, and Ethics, BA 498 Service Leadership Project; B. BA 352 Principles of Marketing, BA 355 Management Theory and Practice, BA 366 Legal Environment of Business, BA 358 Organizational Behavior, BA 451 Quantitative Analysis, BA 497 Service Leadership Project, BA 498 Business Policy; C. Financial Management, BA 352 Legal Environment of Business, BA 355 Management Theory, BA 366 Principles of Marketing, BA 445 Quantitative Analysis, BA 451 Operations Management, BA 498 Business Ethics; D. Financial Analysis, BA 352 Marketing, BA 355 Organizational Management, BA 366 Business Strategy, BA 451 Managerial Economics, BA 497 Business Project, BA 498 Leadership Policy;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which upper division courses will I need to do as a Business Admin major? 
+
+A. Financial Management, BA 352 Management Theory and Practice, BA 366 Organizational Behavior, BA 355 Principles of Marketing, BA 358 Legal and Regulatory Environment of Business, BA 445 Managerial Economics, BA 451 Operations Management, BA 452 Quantitative Analysis, BA 497 Business Policy, Strategy, and Ethics, BA 498 Service Leadership Project; B. BA 352 Principles of Marketing, BA 355 Management Theory and Practice, BA 366 Legal Environment of Business, BA 358 Organizational Behavior, BA 451 Quantitative Analysis, BA 497 Service Leadership Project, BA 498 Business Policy; C. Financial Management, BA 352 Legal Environment of Business, BA 355 Management Theory, BA 366 Principles of Marketing, BA 445 Quantitative Analysis, BA 451 Operations Management, BA 498 Business Ethics; D. Financial Analysis, BA 352 Marketing, BA 355 Organizational Management, BA 366 Business Strategy, BA 451 Managerial Economics, BA 497 Business Project, BA 498 Leadership Policy; 
+
+Which upper division courses will I need to do as a Business Admin major? 
+
+A. Financial Management, BA 352 Management Theory and Practice, BA 366 Organizational Behavior, BA 355 Principles of Marketing, BA 358 Legal and Regulatory Environment of Business, BA 445 Managerial Economics, BA 451 Operations Management, BA 452 Quantitative Analysis, BA 497 Business Policy, Strategy, and Ethics, BA 498 Service Leadership Project; B. BA 352 Principles of Marketing, BA 355 Management Theory and Practice, BA 366 Legal Environment of Business, BA 358 Organizational Behavior, BA 451 Quantitative Analysis, BA 497 Service Leadership Project, BA 498 Business Policy; C. Financial Management, BA
+Correct: False
+--------------------
+Question: Which lower division courses will I need to do as a Biology major? 
+
+A. BA in Biology: BIOL 110 Colloquium for First-Year Biology Majors, BIOL 211 Biology of Cells, CHEM 120 General Chemistry I, CHEM 120L General Chemistry I Laboratory, CHEM 121 General Chemistry II, CHEM 121L General Chemistry II Laboratory, MATH 150 Calculus I, PHYS 202 General Physics I, PHYS 203 General Physics II, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants; BS in Biology: BIOL 110 Colloquium for First-Year Biology Majors, BIOL 211 Biology of Cells, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants, CHEM 120 General Chemistry I, CHEM 120L General Chemistry I Laboratory, CHEM 121 General Chemistry II, CHEM 121L General Chemistry II Laboratory, MATH 150 Calculus I, PHYS 202 General Physics I, PHYS 203 General Physics II, PHYS 210 Physics I, PHYS 211 Physics II; B. BA in Biology: BIOL 110 Biology Colloquium, BIOL 211 General Biology, CHEM 120 General Chemistry I, CHEM 121 General Chemistry II, MATH 150 Calculus I, PHYS 202 General Physics I, BIOL 212 Biology of Animals; BS in Biology: BIOL 110 General Colloquium, BIOL 211 Biology of Cells, CHEM 120 Chemistry I, CHEM 121 Chemistry II, PHYS 202 Physics I, PHYS 210 Physics II, BIOL 213 Biology of Plants; C. BA in Biology: BIOL 110 Intro to Biology, CHEM 120 General Chemistry I, MATH 150 Calculus I, PHYS 202 General Physics I, BIOL 213 Biology of Plants; BS in Biology: BIOL 110 General Biology, CHEM 120 General Chemistry I, MATH 150 Calculus I, PHYS 202 Physics I, BIOL 213 Advanced Biology; D. BA in Biology: BIOL 110 Colloquium, CHEM 120 General Chemistry I, BIOL 211 Cells and Systems, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants; BS in Biology: BIOL 110 Intro Colloquium, CHEM 120 General Chemistry I, PHYS 210 Physics I, PHYS 211 Physics II;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which lower division courses will I need to do as a Biology major? 
+
+A. BA in Biology: BIOL 110 Colloquium for First-Year Biology Majors, BIOL 211 Biology of Cells, CHEM 120 General Chemistry I, CHEM 120L General Chemistry I Laboratory, CHEM 121 General Chemistry II, CHEM 121L General Chemistry II Laboratory, MATH 150 Calculus I, PHYS 202 General Physics I, PHYS 203 General Physics II, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants; BS in Biology: BIOL 110 Colloquium for First-Year Biology Majors, BIOL 211 Biology of Cells, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants, CHEM 120 General Chemistry I, CHEM 120L General Chemistry I Laboratory, CHEM 121 General Chemistry II, CHEM 121L General Chemistry II Laboratory, MATH 150 Calculus I, PHYS 202 General Physics I, PHYS 203 General Physics II, PHYS 210 Physics I, PHYS 211 Physics II; B. BA in Biology: BIOL 110 Biology Colloquium, BIOL 211 General Biology, CHEM 120 General Chemistry I, CHEM 121 General Chemistry II, MATH 150 Calculus I, PHYS 202 General Physics I, BIOL 212 Biology of Animals; BS in Biology: BIOL 110 General Colloquium, BIOL 211 Biology of Cells, CHEM 120 Chemistry I, CHEM 121 Chemistry II, PHYS 202 Physics I, PHYS 210 Physics II, BIOL 213 Biology of Plants; C. BA in Biology: BIOL 110 Intro to Biology, CHEM 120 General Chemistry I, MATH 150 Calculus I, PHYS 202 General Physics I, BIOL 213 Biology of Plants; BS in Biology: BIOL 110 General Biology, CHEM 120 General Chemistry I, MATH 150 Calculus I, PHYS 202 Physics I, BIOL 213 Advanced Biology; D. BA in Biology: BIOL 110 Colloquium, CHEM 120 General Chemistry I, BIOL 211 Cells and Systems, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants; BS in Biology: BIOL 110 Intro Colloquium, CHEM 120 General Chemistry I, PHYS 210 Physics I, PHYS 211 Physics II;
+Correct: False
+--------------------
+Question: Which upper division courses will I need to do as a Bio major? 
+
+A. BA in Biology: Upper-Division Courses: 27-29 units - BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry, CHEM 310L Organic Chemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, two upper-division biology courses, three upper-division courses in biology; BS in Biology: Upper-Division Courses: 32-33 units - BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry I, CHEM 310L Organic Chemistry I Laboratory, CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), three upper-division biology courses; B. BA in Biology: Upper-Division Courses: 30 units - BIOL 311 Ecology, BIOL 350 Genetics, BIOL 491 Senior Seminar, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, CHEM 330 Biochemistry, two upper-division biology courses; BS in Biology: Upper-Division Courses: 35 units - BIOL 311 Ecology, BIOL 350 Genetics, BIOL 491 Senior Seminar, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, CHEM 330 Cellular Biochemistry, three upper-division biology courses; C. BA in Biology: Upper-Division Courses: 25 units - BIOL 311 Introduction to Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, two upper-division biology courses; BS in Biology: Upper-Division Courses: 30 units - BIOL 311 Introduction to Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, three upper-division biology courses; D. BA in Biology: Upper-Division Courses: 27 units - BIOL 311 Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, two upper-division biology courses; BS in Biology: Upper-Division Courses: 32 units - BIOL 311 Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, three upper-division biology courses;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which upper division courses will I need to do as a Bio major? 
+
+A. BA in Biology: Upper-Division Courses: 27-29 units - BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry, CHEM 310L Organic Chemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, two upper-division biology courses, three upper-division courses in biology; BS in Biology: Upper-Division Courses: 32-33 units - BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry I, CHEM 310L Organic Chemistry I Laboratory, CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), three upper-division biology courses; B. BA in Biology: Upper-Division Courses: 30 units - BIOL 311 Ecology, BIOL 350 Genetics, BIOL 491 Senior Seminar, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, CHEM 330 Biochemistry, two upper-division biology courses; BS in Biology: Upper-Division Courses: 35 units - BIOL 311 Ecology, BIOL 350 Genetics, BIOL 491 Senior Seminar, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, CHEM 330 Cellular Biochemistry, three upper-division biology courses; C. BA in Biology: Upper-Division Courses: 25 units - BIOL 311 Introduction to Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, two upper-division biology courses; BS in Biology: Upper-Division Courses: 30 units - BIOL 311 Introduction to Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, three upper-division biology courses; D. BA in Biology: Upper-Division Courses: 27 units - BIOL 311 Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry, MATH 316 Biostatistics, two upper-division biology courses; BS in Biology: Upper-Division Courses: 32 units - BIOL 311 Ecology, BIOL 350 Genetics, CHEM 310 Organic Chemistry I, MATH 316 Biostatistics, three upper-division biology courses;
+Correct: False
+--------------------
+Question: Which lower division courses will I need to do as an IMC major? 
+
+A. ADV 275 Introduction to Advertising, BA 220 Accounting and Finance for Non-business Majors, COM 205 Storytelling Through Media, PR 255 Principles of Public Relations; B. ADV 275 Advertising Theory, BA 220 Business Accounting, COM 205 Media Storytelling, PR 255 Public Relations Principles; C. ADV 275 Introduction to Advertising, BA 220 Basic Finance, COM 205 Media Strategies, PR 255 Public Relations Practices; D. ADV 275 Advertising Concepts, BA 220 Accounting Principles, COM 205 Media and Storytelling, PR 255 PR Foundations;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which lower division courses will I need to do as an IMC major? 
+
+A. ADV 275 Introduction to Advertising, BA 220 Accounting and Finance for Non-business Majors, COM 205 Storytelling Through Media, PR 255 Principles of Public Relations; B. ADV 275 Advertising Theory, BA 220 Business Accounting, COM 205 Media Storytelling, PR 255 Public Relations Principles; C. ADV 275 Introduction to Advertising, BA 220 Basic Finance, COM 205 Media Strategies, PR 255 Public Relations Practices; D. ADV 275 Advertising Concepts, BA 220 Accounting Principles, COM 205 Media and Storytelling, PR 255 PR Foundations;
+Correct: False
+--------------------
+Question: What upper div courses are needed as an IMC major?
+
+A. ADV 375 Advertising Media Planning and Strategy, BA 355 Principles of Marketing, BA 366 Organizational Behavior (CC, WI), BA 470 Marketing Research, BA 471 Marketing Strategy, COM 495 Communication Internship, IMC 385 Integrated Marketing Communication, IMC 485 Advanced Integrated Marketing Communication, Choose one of the following graphic design courses: ART 330 Digital Arts II, MSCO 371 Communication Graphics; B. ADV 375 Advertising Media Planning, BA 355 Marketing Principles, BA 366 Organizational Behavior, BA 470 Research Methods, BA 471 Strategic Marketing, IMC 385 Marketing Communications, IMC 485 Marketing Integration, COM 495 Communication Practicum, ART 330 Graphic Design; C. ADV 375 Advertising Strategies, BA 355 Marketing Techniques, BA 366 Behavioral Marketing, BA 470 Marketing Research Methods, BA 471 Marketing Tactics, IMC 385 Communication Strategy, IMC 485 Marketing Development, ART 330 Advanced Design; D. ADV 375 Media Planning, BA 355 Principles of Marketing, BA 366 Organizational Strategies, BA 470 Marketing Strategies, IMC 485 Marketing and Communication, Choose one: ART 330 Digital Arts, MSCO 371 Graphics Communication;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What upper div courses are needed as an IMC major?
+
+A. ADV 375 Advertising Media Planning and Strategy, BA 355 Principles of Marketing, BA 366 Organizational Behavior (CC, WI), BA 470 Marketing Research, BA 471 Marketing Strategy, COM 495 Communication Internship, IMC 385 Integrated Marketing Communication, IMC 485 Advanced Integrated Marketing Communication, Choose one of the following graphic design courses: ART 330 Digital Arts II, MSCO 371 Communication Graphics; B. ADV 375 Advertising Media Planning, BA 355 Marketing Principles, BA 366 Organizational Behavior, BA 470 Research Methods, BA 471 Strategic Marketing, IMC 385 Marketing Communications, IMC 485 Marketing Integration, COM 495 Communication Practicum, ART 330 Graphic Design; C. ADV 375 Advertising Strategies, BA 355 Marketing Techniques, BA 366 Behavioral Marketing, BA 470 Marketing Research Methods, BA 471 Marketing Tactics, IMC 385 Communication Strategy, IMC 485 Marketing Development, ART 330 Advanced Design; D. ADV 375 Media Planning, BA 355 Principles of Marketing, BA 366 Organizational Strategies, BA 470 Marketing Strategies, IMC 485 Marketing and Communication, Choose one: ART 330 Digital Arts, MSCO 371 Graphics Communication;
+Correct: False
+--------------------
+Question: Which lower division courses will I need to do as a Psychology major? 
+
+A. PSYC 210 Foundations of Psychology (GE), PSYC 250 Introductory Statistics (GE), PSYC 310 Research Methods in Psychology (PS, RM, WI), PSYC 315 Psychological Testing and Assessment; B. PSYC 210 Introduction to Psychology, PSYC 250 Statistics, PSYC 310 Research Methods, PSYC 315 Psychology Assessment; C. PSYC 210 Foundations of Psychology, PSYC 250 Basic Statistics, PSYC 310 Psychology Research, PSYC 315 Assessment Methods; D. PSYC 210 Introduction to Psychology (GE), PSYC 250 Statistics for Psychology (GE), PSYC 310 Methods in Research (PS, RM, WI), PSYC 315 Testing and Assessment in Psychology;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which lower division courses will I need to do as a Psychology major? 
+
+A. PSYC 210 Foundations of Psychology (GE), PSYC 250 Introductory Statistics (GE), PSYC 310 Research Methods in Psychology (PS, RM, WI), PSYC 315 Psychological Testing and Assessment; B. PSYC 210 Introduction to Psychology, PSYC 250 Statistics, PSYC 310 Research Methods, PSYC 315 Psychology Assessment; C. PSYC 210 Foundations of Psychology, PSYC 250 Basic Statistics, PSYC 310 Psychology Research, PSYC 315 Assessment Methods; D. PSYC 210 Introduction to Psychology (GE), PSYC 250 Statistics for Psychology (GE), PSYC 310 Methods in Research (PS, RM, WI), PSYC 315 Testing and Assessment in Psychology; 
+
+E. PSYC 210 Introduction to Psychology, PSYC 250 Statistics, PSYC 310 Research Methods, PSYC 315 Psychological Testing and Assessment; F. PSYC 210 Introduction to Psychology, PSYC 250 Statistics, PSYC 310 Research Methods, PSYC 315 Psychological Testing and Assessment; G. PSYC 210 Introduction to Psychology, PSYC 250 Statistics, PSYC 310 Research Methods, PSYC 315 Psychological Testing and Assessment; H. PSYC 210 Introduction to Psychology, PSYC 250 Statistics, PSYC 310 Research Methods, PSYC 315 Psychological Testing and Assessment; 
+
+I. PSYC 210 Introduction to Psychology, PSYC 250 Statistics, PSYC 310
+Correct: False
+--------------------
+Question: Which lower division courses will I need to complete as an economics major? 
+
+A. Foundation Courses (14 units): ECON 210 Introduction to Microeconomics (GE), ECON 211 Introduction to Macroeconomics (GE), ECON 212 Statistics for Economists; Choose one of the following: MATH 140 Calculus for Business and Economics (GE), MATH 150 Calculus I (GE); B. Foundation Courses (12 units): ECON 210 Microeconomics, ECON 211 Macroeconomics, ECON 212 Statistical Methods; Choose one of the following: MATH 140 Business Calculus, MATH 150 Calculus I; C. Foundation Courses (15 units): ECON 210 Microeconomic Principles, ECON 211 Macroeconomic Principles, ECON 212 Statistics for Economists, MATH 140 Business Calculus; D. Foundation Courses (13 units): ECON 210 Microeconomics, ECON 211 Macroeconomics, ECON 212 Econometric Statistics, MATH 150 Calculus I;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which lower division courses will I need to complete as an economics major? 
+
+A. Foundation Courses (14 units): ECON 210 Introduction to Microeconomics (GE), ECON 211 Introduction to Macroeconomics (GE), ECON 212 Statistics for Economists; Choose one of the following: MATH 140 Calculus for Business and Economics (GE), MATH 150 Calculus I (GE); B. Foundation Courses (12 units): ECON 210 Microeconomics, ECON 211 Macroeconomics, ECON 212 Statistical Methods; Choose one of the following: MATH 140 Business Calculus, MATH 150 Calculus I; C. Foundation Courses (15 units): ECON 210 Microeconomic Principles, ECON 211 Macroeconomic Principles, ECON 212 Statistics for Economists, MATH 140 Business Calculus; D. Foundation Courses (13 units): ECON 210 Microeconomics, ECON 211 Macroeconomics, ECON 212 Econometric Statistics, MATH 150 Calculus I;
+Correct: False
+--------------------
+Question: Which upper division courses will I need to complete as an economics major? 
+
+A. ECON 320 Intermediate Microeconomic Theory, ECON 321 Intermediate Macroeconomic Theory (4), ECON 330 Introduction to Econometrics (PS, RM, WI) (4); Elective Courses (16 units): 16 units of elective courses at the 400 level (excluding ECON 490 and ECON 499); B. ECON 320 Microeconomic Theory, ECON 321 Macroeconomic Theory, ECON 330 Econometrics (4); Elective Courses: 12 units of 400-level courses, excluding ECON 490; C. ECON 320 Intermediate Microeconomic Analysis, ECON 321 Advanced Macroeconomics, ECON 330 Econometric Methods; Elective Courses: 15 units of upper-division electives; D. ECON 320 Microeconomics, ECON 321 Macroeconomics, ECON 330 Applied Econometrics; Elective Courses: 16 units at the 300 level, excluding ECON 490 and ECON 499;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Which upper division courses will I need to complete as an economics major? 
+
+A. ECON 320 Intermediate Microeconomic Theory, ECON 321 Intermediate Macroeconomic Theory (4), ECON 330 Introduction to Econometrics (PS, RM, WI) (4); Elective Courses (16 units): 16 units of elective courses at the 400 level (excluding ECON 490 and ECON 499); B. ECON 320 Microeconomic Theory, ECON 321 Macroeconomic Theory, ECON 330 Econometrics (4); Elective Courses: 12 units of 400-level courses, excluding ECON 490; C. ECON 320 Intermediate Microeconomic Analysis, ECON 321 Advanced Macroeconomics, ECON 330 Econometric Methods; Elective Courses: 15 units of upper-division electives; D. ECON 320 Microeconomics, ECON 321 Macroeconomics, ECON 330 Applied Econometrics; Elective Courses: 16 units at the 300 level, excluding ECON 490 and ECON 499; 
+
+I.
+Correct: False
+--------------------
+Question: How much is Pepperdine'es application fee? 
+
+A. $70; B. $65; C. $80; D. $75;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+How much is Pepperdine'es application fee? 
+
+A. $70; B. $65; C. $80; D. $75; 
+
+E. $100; 
+
+F. $95; 
+
+G. $85; 
+
+H. $90; 
+
+I. $80; 
+
+J. $70; 
+
+K. $75; 
+
+L. $100; 
+
+M. $85; 
+
+N. $95; 
+
+O. $80; 
+
+P. $65; 
+
+Q. $85; 
+
+R. $70; 
+
+S. $65; 
+
+T. $70; 
+
+U. $80; 
+
+V. $90; 
+
+W. $75; 
+
+X. $85; 
+
+Y. $80; 
+
+Z. $90; 
+
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6.
+Correct: False
+--------------------
+Question: What percent of students appreciate the effort professors put into classes at Pepperdine?
+
+A. 83%; B. 80%; C. 85%; D. 78%;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What percent of students appreciate the effort professors put into classes at Pepperdine?
+
+A. 83%; B. 80%; C. 85%; D. 78%;
+Correct: False
+--------------------
+Question: What percent of students say it is easy to get the classes they want at Pepperdine?
+
+A. 62%; B. 65%; C. 60%; D. 58%;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What percent of students say it is easy to get the classes they want at Pepperdine?
+
+A. 62%; B. 65%; C. 60%; D. 58%;
+Correct: False
+--------------------
+Question: What percent of students say that the workload is easy to manage at Pepperdine?
+
+A. 51%; B. 48%; C. 53%; D. 50%;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What percent of students say that the workload is easy to manage at Pepperdine?
+
+A. 51%; B. 48%; C. 53%; D. 50%;
+Correct: False
+--------------------
+Question: What is the average class size at Pepperdine?
+
+A. 19; B. 21; C. 18; D. 20;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the average class size at Pepperdine?
+
+A. 19; B. 21; C. 18; D. 20; E. 15
+
+What is the average class size at Pepperdine?
+
+A. 19; B. 21; C. 18; D. 20; E. 15
+
+What is the average class size at Pepperdine?
+
+A. 19; B. 21; C. 18; D. 20; E. 15
+
+What is the average class size at Pepperdine?
+
+A. 19; B. 21; C. 18; D. 20; E. 15
+
+What is the average class size at Pepperdine?
+
+A. 19; B. 21; C. 18; D. 20; E. 15
+
+What
+Correct: False
+--------------------
+Question: How many degree programs are at Seaver College? 
+
+A. 19; B. 87; C. 100; D. 46;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+How many degree programs are at Seaver College? 
+
+A. 19; B. 87; C. 100; D. 46; 
+
+How many undergraduate students were enrolled at Seaver College in 2015? 
+
+A. 2,000; B. 3,000; C. 4,000; D. 5,000; 
+
+How many undergraduate students were enrolled at Seaver College in 2016? 
+
+A. 2,000; B. 3,000; C. 4,000; D. 5,000; 
+
+How many graduate students were enrolled at Seaver College in 2015? 
+
+A. 500; B. 1,000; C. 1,500; D. 2,000; 
+
+How many graduate students were enrolled at Seaver College in 2016? 
+
+
+Correct: False
+--------------------
+Question: Where is Pepperdine ranked nationally?
+
+A. 80th; B. 75th; C. 85th; D. 90th;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Where is Pepperdine ranked nationally?
+
+A. 80th; B. 75th; C. 85th; D. 90th; E. 95th; F. 100th; G. 105th; H. 110th; I. 115th; J. 120th; K. 125th; L. 130th; M. 135th; N. 140th; O. 145th; P. 150th; Q. 155th; R. 160th; S. 165th; T. 170th; U. 175th; V. 180th; W. 185th; X. 190th; Y. 195th; Z. 200th
+
+What is the average tuition and fees at Pepperdine?
+
+A. $50,000
+Correct: False
+--------------------
+Question: What is the four year graduation rate at Pepp?
+
+A. 75%; B. 70%; C. 80%; D. 72%;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+What is the four year graduation rate at Pepp?
+
+A. 75%; B. 70%; C. 80%; D. 72%;
+Correct: False
+--------------------
+Question: Am I required to live on campus?
+
+A. All new students must live on campus and have meal plans for their first two academic years, including transfer residents required to live on campus for the entire academic year; B. Only first-year students are required to live on campus, with no meal plan requirement; C. Campus housing is optional for all students but highly recommended for first-year students; D. Transfer students are not required to live on campus, and only first-year students need meal plans;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Am I required to live on campus?
+
+A. All new students must live on campus and have meal plans for their first two academic years, including transfer residents required to live on campus for the entire academic year; B. Only first-year students are required to live on campus, with no meal plan requirement; C. Campus housing is optional for all students but highly recommended for first-year students; D. Transfer students are not required to live on campus, and only first-year students need meal plans; and
+
+E. None of the above.
+
+A
+Correct: False
+--------------------
+Question: In the event that you can not house all intended students, how will you decide who receives priority? International students? Students without cars? Students from out of state?
+
+A. First and second-year students are required to live on campus and will generally be given first priority, with other considerations factored in; B. Students without cars are given top priority over all others; C. International students are automatically prioritized, with no consideration for others; D. Housing is assigned solely on a first-come, first-served basis;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+In the event that you can not house all intended students, how will you decide who receives priority? International students? Students without cars? Students from out of state?
+
+A. First and second-year students are required to live on campus and will generally be given first priority, with other considerations factored in; B. Students without cars are given top priority over all others; C. International students are automatically prioritized, with no consideration for others; D. Housing is assigned solely on a first-come, first-served basis; E. None of the above
+Correct: False
+--------------------
+Question: Where do sophomores live on campus? 
+
+A. Towers and Seaside housing; B. Freshman dorms and Seaside housing; C. Off-campus apartments and Towers; D. Freshman dorms and off-campus housing;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Where do sophomores live on campus? 
+
+A. Towers and Seaside housing; B. Freshman dorms and Seaside housing; C. Off-campus apartments and Towers; D. Freshman dorms and off-campus housing; E. Seaside housing and Towers; F. Off-campus apartments and Seaside housing.
+Correct: False
+--------------------
+Question: Where can upperclassmen apply to live on campus? And are upperclassmen guaranteed housing?
+
+A. Upperclassmen can apply to live in Drescher or Lovernich apartments, but housing is not guaranteed; B. Upperclassmen can live in freshman dorms, and housing is guaranteed; C. Upperclassmen are required to live off campus; D. Upperclassmen can live in Towers, and housing is guaranteed;
+Ideal response: A
+Model response: Please respond with only the one letter (A, B, C, or D) corresponding to the correct answer.
+
+Where can upperclassmen apply to live on campus? And are upperclassmen guaranteed housing?
+
+A. Upperclassmen can apply to live in Drescher or Lovernich apartments, but housing is not guaranteed; B. Upperclassmen can live in freshman dorms, and housing is guaranteed; C. Upperclassmen are required to live off campus; D. Upperclassmen can live in Towers, and housing is guaranteed; E. None of the above.
+
+What is the maximum number of upperclassmen who can live in Towers?
+
+A. 40; B. 50; C. 60; D. 70; E. 80.
+
+If an upperclassman is selected to live in Towers, what is the minimum number of upperclassmen who can live in Towers?
+
+A. 20; B. 30; C. 40; D. 50; E. 60.
+
+When do upperclassmen have to be in residence by?
+
+A. First day of classes; B. Second day of classes; C. Third day of classes; D. Fourth day of classes; E. None of the above.
+
+Can upperclassmen
+Correct: False
+--------------------
+Accuracy: 0.0

@@ -4,19 +4,20 @@ import json
 import datetime
 import argparse
 from transformers import AutoTokenizer, AutoModelForCausalLM
-from langchain.document_loaders import DirectoryLoader, PyPDFLoader
+from langchain_community.document_loaders import DirectoryLoader, PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import Chroma
+from langchain_huggingface.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from sentence_transformers import SentenceTransformer, util
-from langchain.llms import HuggingFacePipeline
+from langchain_community.llms import HuggingFacePipeline
 from transformers import pipeline
+from tqdm import tqdm
 
 def run_evaluation(model_name: str, test_questions_file: str, is_multiple_choice: bool):
-    fine_tuned_model = AutoModelForCausalLM.from_pretrained(model_name).to('cuda')
-    fine_tuned_tokenizer = AutoTokenizer.from_pretrained(model_name)
+    fine_tuned_model = AutoModelForCausalLM.from_pretrained("./fine_tuned_model").to('cuda')
+    fine_tuned_tokenizer = AutoTokenizer.from_pretrained("./fine_tuned_model")
 
     llm_pipeline = pipeline("text-generation", model=fine_tuned_model, tokenizer=fine_tuned_tokenizer)
     llm = HuggingFacePipeline(pipeline=llm_pipeline)
@@ -27,7 +28,7 @@ def run_evaluation(model_name: str, test_questions_file: str, is_multiple_choice
             question = prompt + question
         inputs = fine_tuned_tokenizer(question, return_tensors="pt").to('cuda')
         with torch.no_grad():
-            outputs = fine_tuned_model.generate(**inputs, max_length=100)
+            outputs = fine_tuned_model.generate(**inputs, max_new_tokens=150)
         response = fine_tuned_tokenizer.decode(outputs[0], skip_special_tokens=True)
         return response
 
@@ -50,7 +51,7 @@ def run_evaluation(model_name: str, test_questions_file: str, is_multiple_choice
     output_filename = f"fine_tuned_evaluation_{model_name_short}_{test_file_name}_{timestamp}.txt"
 
     with open(output_filename, "w") as output_file:
-        for test_item in test_questions:
+        for test_item in tqdm(test_questions):
             question = test_item["Question"]
             ideal_response = test_item["Expected Response"]
             model_response = query_model(question)
@@ -66,32 +67,24 @@ def run_evaluation(model_name: str, test_questions_file: str, is_multiple_choice
 
             output_file.write(f"Question: {question}\n")
             output_file.write(f"Ideal response: {ideal_response}\n")
-            output_file.write(f"Model response: {model_response}\n")
+            try:
+                output_file.write(f"Model response: {model_response}\n")
+            except:
+                output_file.write("Error with model response codec")
             if is_multiple_choice:
                 output_file.write(f"Correct: {is_correct}\n")
             else:
                 output_file.write(f"Similarity score: {similarity_score}\n")
             output_file.write("--------------------\n")
 
-            print(f"Question: {question}")
-            print(f"Ideal response: {ideal_response}")
-            print(f"Model response: {model_response}")
-            if is_multiple_choice:
-                print(f"Correct: {is_correct}")
-            else:
-                print(f"Similarity score: {similarity_score}")
-            print("--------------------")
-
         if is_multiple_choice:
             accuracy = correct_answers / len(test_questions)
             output_file.write(f"Accuracy: {accuracy}\n")
-            print(f"Accuracy: {accuracy}")
+            return accuracy
         else:
             avg_score = sum(scores) / len(scores)
             output_file.write(f"Average similarity score: {avg_score}\n")
-            print(f"Average similarity score: {avg_score}")
-
-    print(f"Evaluation results saved to {output_filename}")
+            return avg_score
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run fine-tuned model evaluation")

@@ -44,7 +44,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "How do I view or contact my advisor?\n\nA. On the Home page, click the \"Advising\" icon to view the \"My Advising Network\" section. You can contact your advisor by clicking the email link at the bottom of their profile.\nB. Go to the \"Student Services\" tab and select \"Advising\" to view your advisor's contact information.\nC. Select \"Academics,\" then \"Advisor Information,\" and use the \"Contact Advisor\" button to send an email.\nD. From the \"Financial Aid\" tab, select \"Advising Network\" to find your advisor\u2019s contact details.",
+    "Question": "How do I view or contact my advisor?\n\nA. On the Home page, click the \"Advising\" icon to view the \"My Advising Network\" section. You can contact your advisor by clicking the email link at the bottom of their profile.\nB. Go to the \"Student Services\" tab and select \"Advising\" to view your advisor's contact information.\nC. Select \"Academics,\" then \"Advisor Information,\" and use the \"Contact Advisor\" button to send an email.\nD. From the \"Financial Aid\" tab, select \"Advising Network\" to find your advisor's contact details.",
     "Expected Response": "A"
   },
   {
@@ -60,7 +60,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "How do I invite a guest on wavenet?\n\nA. Log in to WaveNet, go to the Student Center homepage, click \"Manage Guest Access\" under \"Popular Links,\" select \"Add Guest Access,\" enter the guest\u2019s email, set the permissions, and click \"Invite Guest.\"\nB. Go to the \"Student Services\" tab, select \"Guest Invitations,\" and email the invitation directly to the guest.\nC. From the \"Academics\" tab, click \"Guest Access,\" and select the \"Send Invitation\" option.\nD. Navigate to the \"Financial Aid\" section, click \"Invite Guest,\" and provide the guest\u2019s email address.",
+    "Question": "How do I invite a guest on wavenet?\n\nA. Log in to WaveNet, go to the Student Center homepage, click \"Manage Guest Access\" under \"Popular Links,\" select \"Add Guest Access,\" enter the guest's email, set the permissions, and click \"Invite Guest.\"\nB. Go to the \"Student Services\" tab, select \"Guest Invitations,\" and email the invitation directly to the guest.\nC. From the \"Academics\" tab, click \"Guest Access,\" and select the \"Send Invitation\" option.\nD. Navigate to the \"Financial Aid\" section, click \"Invite Guest,\" and provide the guest's email address.",
     "Expected Response": "A"
   },
   {
@@ -80,15 +80,15 @@
     "Expected Response": "B"
   },
   {
-    "Question": "Can I change the access the guest has to certain features on Wavenet?\n\nA. Yes, once a guest account is created, the student can update the guest\u2019s access at any time by adding or removing access to different features.\nB. No, the student must contact Tech Central to request any changes to the guest\u2019s access.\nC. Yes, but the guest must request any changes to their access from the student.\nD. No, access to features cannot be changed after the guest account is created.",
+    "Question": "Can I change the access the guest has to certain features on Wavenet?\n\nA. Yes, once a guest account is created, the student can update the guest's access at any time by adding or removing access to different features.\nB. No, the student must contact Tech Central to request any changes to the guest's access.\nC. Yes, but the guest must request any changes to their access from the student.\nD. No, access to features cannot be changed after the guest account is created.",
     "Expected Response": "A"
   },
   {
-    "Question": "How do I help mutiple students as a guest?\n\nA. The guest can only assist one student at a time and must log out to help another.\nB. The guest can contact Tech Central to request access to multiple student accounts.\nC. The guest may click the \"Select Another Student\" link at the bottom of the current student\u2019s Guest Access summary to switch to another student.\nD. The guest must create a separate account for each student they wish to assist.",
+    "Question": "How do I help mutiple students as a guest?\n\nA. The guest can only assist one student at a time and must log out to help another.\nB. The guest can contact Tech Central to request access to multiple student accounts.\nC. The guest may click the \"Select Another Student\" link at the bottom of the current student's Guest Access summary to switch to another student.\nD. The guest must create a separate account for each student they wish to assist.",
     "Expected Response": "C"
   },
   {
-    "Question": "How do I edit guest access permisions?\n\nA. The student must contact Tech Central to request any changes to the guest\u2019s permissions.\nB. The student logs into WaveNet, clicks \"Manage Guest Access\" under \"Popular Links,\" selects \"Edit\" next to the guest\u2019s name, modifies the permissions, and clicks \"Save\" when finished.\nC. The student sends an email to the guest with updated permissions.\nD. The student can only edit guest access permissions through the \"Student Services\" tab under \"Guest Permissions.\"",
+    "Question": "How do I edit guest access permisions?\n\nA. The student must contact Tech Central to request any changes to the guest's permissions.\nB. The student logs into WaveNet, clicks \"Manage Guest Access\" under \"Popular Links,\" selects \"Edit\" next to the guest's name, modifies the permissions, and clicks \"Save\" when finished.\nC. The student sends an email to the guest with updated permissions.\nD. The student can only edit guest access permissions through the \"Student Services\" tab under \"Guest Permissions.\"",
     "Expected Response": "B"
   },
   {
@@ -112,11 +112,11 @@
     "Expected Response": "B"
   },
   {
-    "Question": "How do I document an incomplete?\n\nA. Students must email their instructor and academic advisor to request an incomplete and submit a form to the Divisional Dean for approval.\nB. The student must start the request in Etrieve by completing the Incomplete Course Agreement Form after discussing the situation with the instructor. The form is then routed through the Director of Academic Advising, the instructor, and the Divisional Dean for approval before being finalized in the student\u2019s file.\nC. The student must submit a request to the Dean\u2019s Office, who will then approve or deny the incomplete without further steps.\nD. Students must call their instructor to explain the situation and then complete a form to be sent directly to the Registrar for processing.",
+    "Question": "How do I document an incomplete?\n\nA. Students must email their instructor and academic advisor to request an incomplete and submit a form to the Divisional Dean for approval.\nB. The student must start the request in Etrieve by completing the Incomplete Course Agreement Form after discussing the situation with the instructor. The form is then routed through the Director of Academic Advising, the instructor, and the Divisional Dean for approval before being finalized in the student's file.\nC. The student must submit a request to the Dean's Office, who will then approve or deny the incomplete without further steps.\nD. Students must call their instructor to explain the situation and then complete a form to be sent directly to the Registrar for processing.",
     "Expected Response": "B"
   },
   {
-    "Question": "How do I request my transcript?\n\nA. Complete a Transcript Order Form and return it by mail with cash, check, or money order for $10.00 per copy.\nB. Order your transcript by completing the Transcript Order Form and mailing it to Pepperdine University with payment by cash, check, or money order. Alternatively, you can order online via the National Student Clearinghouse for $10.00 per copy.\nC. Contact the Registrar\u2019s Office by phone or email to request your transcript.\nD. Submit your transcript request through your WaveNet account with no charge or payment required.",
+    "Question": "How do I request my transcript?\n\nA. Complete a Transcript Order Form and return it by mail with cash, check, or money order for $10.00 per copy.\nB. Order your transcript by completing the Transcript Order Form and mailing it to Pepperdine University with payment by cash, check, or money order. Alternatively, you can order online via the National Student Clearinghouse for $10.00 per copy.\nC. Contact the Registrar's Office by phone or email to request your transcript.\nD. Submit your transcript request through your WaveNet account with no charge or payment required.",
     "Expected Response": "B"
   },
   {
@@ -124,11 +124,11 @@
     "Expected Response": "B"
   },
   {
-    "Question": "What is the grade dispute process? \n\nA. The process starts by submitting a written appeal to the division dean with a copy to the instructor, followed by assembling relevant class materials. If unresolved, an ad hoc committee evaluates the case and the division dean makes the final decision.\nB. The student must first discuss the issue privately with the instructor. If the dispute is not resolved, the student submits a written appeal to the division dean, gathers relevant materials, and the instructor submits their documents. An ad hoc committee evaluates the case and the division dean makes the final decision.\nC. The student submits an online form to the Registrar\u2019s Office, and the grade dispute is resolved by the Associate Dean without the need for a committee.\nD. The student must directly appeal to the academic dean without involving the instructor or division dean, and a decision is made by the dean\u2019s office based on the student\u2019s case.",
+    "Question": "What is the grade dispute process? \n\nA. The process starts by submitting a written appeal to the division dean with a copy to the instructor, followed by assembling relevant class materials. If unresolved, an ad hoc committee evaluates the case and the division dean makes the final decision.\nB. The student must first discuss the issue privately with the instructor. If the dispute is not resolved, the student submits a written appeal to the division dean, gathers relevant materials, and the instructor submits their documents. An ad hoc committee evaluates the case and the division dean makes the final decision.\nC. The student submits an online form to the Registrar's Office, and the grade dispute is resolved by the Associate Dean without the need for a committee.\nD. The student must directly appeal to the academic dean without involving the instructor or division dean, and a decision is made by the dean's office based on the student's case.",
     "Expected Response": "B"
   },
   {
-    "Question": "How do I apply to graduate?\n\nA. Log in to WaveNet, go to the \"Student Services\" tab, and select \"Apply for Graduation\" to submit your intent, verify your major, choose whether you plan to attend the ceremony, and update your diploma name and mailing address.\nB. Log in to WaveNet, select \"Other Academic\" from the drop-down menu, and click the \"Apply for Graduation\" link. Verify your major, select your diploma mailing address, update your name if necessary, and contact your Academic Advising Associate if you have any questions about remaining requirements.\nC. Log in to WaveNet, go to the \"Graduation\" tab, and submit your application for graduation, including diploma name and address updates.\nD. Navigate to the \"Student Services\" tab, click on \"Apply for Graduation,\" and email the Registrar\u2019s Office with your graduation request.",
+    "Question": "How do I apply to graduate?\n\nA. Log in to WaveNet, go to the \"Student Services\" tab, and select \"Apply for Graduation\" to submit your intent, verify your major, choose whether you plan to attend the ceremony, and update your diploma name and mailing address.\nB. Log in to WaveNet, select \"Other Academic\" from the drop-down menu, and click the \"Apply for Graduation\" link. Verify your major, select your diploma mailing address, update your name if necessary, and contact your Academic Advising Associate if you have any questions about remaining requirements.\nC. Log in to WaveNet, go to the \"Graduation\" tab, and submit your application for graduation, including diploma name and address updates.\nD. Navigate to the \"Student Services\" tab, click on \"Apply for Graduation,\" and email the Registrar's Office with your graduation request.",
     "Expected Response": "B"
   },
   {
@@ -140,7 +140,7 @@
     "Expected Response": "A"
   },
   {
-    "Question": "How do I apply for a housing accomodation?\n\nA. Students must work with the Office of Student Accessibility (OSA) to register for a housing accommodation and renew it annually. Once approved, OSA and Housing and Residence Life (HRL) will work with the student to address the specifics of the accommodation.\nB. Students must complete a housing application form and submit it to Housing and Residence Life to request an accommodation.\nC. Students are automatically considered for housing accommodations upon applying for on-campus housing.\nD. Students must contact the Registrar\u2019s Office to apply for housing accommodations and submit medical documentation.",
+    "Question": "How do I apply for a housing accomodation?\n\nA. Students must work with the Office of Student Accessibility (OSA) to register for a housing accommodation and renew it annually. Once approved, OSA and Housing and Residence Life (HRL) will work with the student to address the specifics of the accommodation.\nB. Students must complete a housing application form and submit it to Housing and Residence Life to request an accommodation.\nC. Students are automatically considered for housing accommodations upon applying for on-campus housing.\nD. Students must contact the Registrar's Office to apply for housing accommodations and submit medical documentation.",
     "Expected Response": "A"
   },
   {
@@ -152,7 +152,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "How do I cancel my housing application? \n\nA. Email housing@pepperdine.edu and visit the Housing Portal to start the cancellation process. Cancellation fees may apply.\nB. Contact the Registrar\u2019s Office to cancel your housing application.\nC. Log into WaveNet and submit a cancellation request under \"Student Services.\"\nD. Call the Housing Office directly to request cancellation of your housing application.",
+    "Question": "How do I cancel my housing application? \n\nA. Email housing@pepperdine.edu and visit the Housing Portal to start the cancellation process. Cancellation fees may apply.\nB. Contact the Registrar's Office to cancel your housing application.\nC. Log into WaveNet and submit a cancellation request under \"Student Services.\"\nD. Call the Housing Office directly to request cancellation of your housing application.",
     "Expected Response": "A"
   },
   {
@@ -176,11 +176,11 @@
     "Expected Response": "A"
   },
   {
-    "Question": "Where can I get an ID card?\n\nA. Students can get their ID cards at the Registrar\u2019s Office, and replacement IDs are available at the Housing Office.\nB. Students can get an ID at Tech Central on the 2nd floor of Payson Library. Replacement IDs can be obtained at One Stop on the 2nd floor of the Thornton Administrative Center.\nC. Faculty and staff can obtain their replacement ID cards from the Center for Human Resources.\nD. Students should visit the Center for Student Services for both initial and replacement ID cards.",
+    "Question": "Where can I get an ID card?\n\nA. Students can get their ID cards at the Registrar's Office, and replacement IDs are available at the Housing Office.\nB. Students can get an ID at Tech Central on the 2nd floor of Payson Library. Replacement IDs can be obtained at One Stop on the 2nd floor of the Thornton Administrative Center.\nC. Faculty and staff can obtain their replacement ID cards from the Center for Human Resources.\nD. Students should visit the Center for Student Services for both initial and replacement ID cards.",
     "Expected Response": "B"
   },
   {
-    "Question": "How do I reserve a room for a function?\n\nA. Call Special Programs at 310.506.4264 for most room reservations. If it\u2019s not an area reserved by Special Programs, they will direct you to the appropriate department. For rooms in the HAWC, call Student Activities at 310.506.4201.\nB. Visit the Housing Office to reserve a room for any function on campus.\nC. Contact the Registrar\u2019s Office to reserve rooms for academic or non-academic functions.\nD. Call Public Safety to reserve a room for a function.",
+    "Question": "How do I reserve a room for a function?\n\nA. Call Special Programs at 310.506.4264 for most room reservations. If it's not an area reserved by Special Programs, they will direct you to the appropriate department. For rooms in the HAWC, call Student Activities at 310.506.4201.\nB. Visit the Housing Office to reserve a room for any function on campus.\nC. Contact the Registrar's Office to reserve rooms for academic or non-academic functions.\nD. Call Public Safety to reserve a room for a function.",
     "Expected Response": "A"
   },
   {
@@ -200,7 +200,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "Who can I contact with questions about parking on campus?\n\nA. Contact Housing and Residence Life at housing@pepperdine.edu for all parking-related questions.\nB. Email Public Safety at parking@pepperdine.edu or call 310.506.4700 for any parking inquiries.\nC. Reach out to the Registrar\u2019s Office at registrar@pepperdine.edu for parking-related concerns.\nD. Call the Student Services Office at 310.506.1234 for parking assistance.",
+    "Question": "Who can I contact with questions about parking on campus?\n\nA. Contact Housing and Residence Life at housing@pepperdine.edu for all parking-related questions.\nB. Email Public Safety at parking@pepperdine.edu or call 310.506.4700 for any parking inquiries.\nC. Reach out to the Registrar's Office at registrar@pepperdine.edu for parking-related concerns.\nD. Call the Student Services Office at 310.506.1234 for parking assistance.",
     "Expected Response": "B"
   },
   {
@@ -208,7 +208,7 @@
     "Expected Response": "A"
   },
   {
-    "Question": "How do I submit an event request on Peppervine? \n\nA. Log in to Peppervine, go to your club\u2019s page, and click \"Create Event.\" Fill out the necessary details, select a location, and submit the event request.\nB. Log in to Peppervine, navigate to your club\u2019s page, click \"Events,\" then \"Create Event,\" and fill out the event information. Use the \"Book Rooms\" feature to choose a location, and submit the event request.\nC. Submit an event request through the Housing Office by calling 310.506.7586 for room bookings.\nD. Log in to Peppervine, submit the event request form to Housing and Residence Life, and wait for approval to confirm the room.",
+    "Question": "How do I submit an event request on Peppervine? \n\nA. Log in to Peppervine, go to your club's page, and click \"Create Event.\" Fill out the necessary details, select a location, and submit the event request.\nB. Log in to Peppervine, navigate to your club's page, click \"Events,\" then \"Create Event,\" and fill out the event information. Use the \"Book Rooms\" feature to choose a location, and submit the event request.\nC. Submit an event request through the Housing Office by calling 310.506.7586 for room bookings.\nD. Log in to Peppervine, submit the event request form to Housing and Residence Life, and wait for approval to confirm the room.",
     "Expected Response": "B"
   },
   {
@@ -220,11 +220,11 @@
     "Expected Response": "C"
   },
   {
-    "Question": "How do I access funding for clubs?\n\nA. Submit a funding request through the Housing Office by emailing iccfinance@pepperdine.edu.\nB. Log in to Peppervine, go to your club\u2019s page, click \u201cMoney,\u201d then \u201cBudgeting,\u201d and fill out the request form. Specify between Promotional Material Request and ICC Funds Request. Requests over $1,000 require a meeting with the ICC E-Board.\nC. Submit a request through your club\u2019s membership page by calling the Registrar\u2019s Office for approval.\nD. Log into WaveNet, go to \u201cStudent Services,\u201d and submit your request for funding under the \"Clubs and Organizations\" tab.",
+    "Question": "How do I access funding for clubs?\n\nA. Submit a funding request through the Housing Office by emailing iccfinance@pepperdine.edu.\nB. Log in to Peppervine, go to your club's page, click  Money, then  Budgeting, and fill out the request form. Specify between Promotional Material Request and ICC Funds Request. Requests over $1,000 require a meeting with the ICC E-Board.\nC. Submit a request through your club's membership page by calling the Registrar's Office for approval.\nD. Log into WaveNet, go to  Student Services, and submit your request for funding under the \"Clubs and Organizations\" tab.",
     "Expected Response": "B"
   },
   {
-    "Question": "Who should I reach out to regarding the tranfer program?\n\nA. Contact Housing and Residence Life for questions about the transfer program and commuter life.\nB. Reach out to the Transfer Admissions Office for all questions regarding the transfer program.\nC. For questions about the transfer program, transfer mentors, or commuter life, contact Danielle Minke at danielle.minke@pepperdine.edu.\nD. Speak with the Dean\u2019s Office for guidance on transferring and commuter life.",
+    "Question": "Who should I reach out to regarding the tranfer program?\n\nA. Contact Housing and Residence Life for questions about the transfer program and commuter life.\nB. Reach out to the Transfer Admissions Office for all questions regarding the transfer program.\nC. For questions about the transfer program, transfer mentors, or commuter life, contact Danielle Minke at danielle.minke@pepperdine.edu.\nD. Speak with the Dean's Office for guidance on transferring and commuter life.",
     "Expected Response": "C"
   },
   {
@@ -236,7 +236,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "How do I know when and where to catch a shuttle?\n\nA. Shuttles run every day from 7:00 AM to 11:00 PM. There is no specific schedule, and you can catch a shuttle from any campus location at any time.\nB. Shuttles operate Monday through Friday from 7:00 AM to 7:00 PM, and on weekends from 10:00 AM to 6:00 PM. The schedule is posted on the Housing website.\nC. Shuttles run Monday through Friday from 7:22 AM to 10:10 PM, and from noon to 8 PM on weekends. The complete schedule is available on the Transit Services website.\nD. Shuttles run only in the morning, and schedules are provided at the Registrar\u2019s Office.",
+    "Question": "How do I know when and where to catch a shuttle?\n\nA. Shuttles run every day from 7:00 AM to 11:00 PM. There is no specific schedule, and you can catch a shuttle from any campus location at any time.\nB. Shuttles operate Monday through Friday from 7:00 AM to 7:00 PM, and on weekends from 10:00 AM to 6:00 PM. The schedule is posted on the Housing website.\nC. Shuttles run Monday through Friday from 7:22 AM to 10:10 PM, and from noon to 8 PM on weekends. The complete schedule is available on the Transit Services website.\nD. Shuttles run only in the morning, and schedules are provided at the Registrar's Office.",
     "Expected Response": "C"
   },
   {
@@ -280,7 +280,7 @@
     "Expected Response": "A"
   },
   {
-    "Question": "How do I register a new club?\n\nA. Contact the Housing Office, submit a club name, and wait for automatic approval without further steps.\nB. Contact the Student Organizations Coordinator, compile necessary documents (name, purpose, advisor, constitution, etc.), submit through Peppervine, and wait for approval from the ICC President and the Student Advisory Committee.\nC. Submit a club application directly through the Registrar\u2019s Office without needing any documentation or approval.\nD. Start the club on social media, and the university will automatically recognize it after one month.",
+    "Question": "How do I register a new club?\n\nA. Contact the Housing Office, submit a club name, and wait for automatic approval without further steps.\nB. Contact the Student Organizations Coordinator, compile necessary documents (name, purpose, advisor, constitution, etc.), submit through Peppervine, and wait for approval from the ICC President and the Student Advisory Committee.\nC. Submit a club application directly through the Registrar's Office without needing any documentation or approval.\nD. Start the club on social media, and the university will automatically recognize it after one month.",
     "Expected Response": "B"
   },
   {
@@ -312,7 +312,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "What requirements are there to apply for an IP program? \n\nA. Applicants must have a GPA of at least 3.0, have completed one full-time semester at Seaver College, and agree to comply with the IP's COVID-19 vaccine policy.\nB. Applicants must be a current Seaver College student in good standing, have completed one full-time semester at Seaver College, have at least a 2.5 GPA, and agree to comply with the IP\u2019s COVID-19 vaccine policy.\nC. Applicants must be enrolled in a graduate program, have a GPA of 3.5 or higher, and be nominated by a faculty member.\nD. Applicants must have completed two full-time semesters at Seaver College, have a GPA of at least 3.0, and do not need to comply with any vaccine policy.",
+    "Question": "What requirements are there to apply for an IP program? \n\nA. Applicants must have a GPA of at least 3.0, have completed one full-time semester at Seaver College, and agree to comply with the IP's COVID-19 vaccine policy.\nB. Applicants must be a current Seaver College student in good standing, have completed one full-time semester at Seaver College, have at least a 2.5 GPA, and agree to comply with the IP's COVID-19 vaccine policy.\nC. Applicants must be enrolled in a graduate program, have a GPA of 3.5 or higher, and be nominated by a faculty member.\nD. Applicants must have completed two full-time semesters at Seaver College, have a GPA of at least 3.0, and do not need to comply with any vaccine policy.",
     "Expected Response": "B"
   },
   {
@@ -356,11 +356,11 @@
     "Expected Response": "B"
   },
   {
-    "Question": "How do I add money to my Pepperdine ID card online? \n\nA. Visit the Pepperdine Card Services website, log in with your CWID, and deposit funds directly into your bank account.\nB. Go to the Pepperdine Payment Portal, select \"Pay My Tuition,\" and add money to your account for use on campus.\nC. Visit https://get.cbord.com/pepperdine/full/prelogin.php, click \"Deposit into a Student or Community User Card\u2019s Account,\" enter your CWID, specify the deposit amount, provide a credit card, and submit.\nD. Go to the Housing Office, fill out a form, and submit your payment in person for adding money to your ID card.",
+    "Question": "How do I add money to my Pepperdine ID card online? \n\nA. Visit the Pepperdine Card Services website, log in with your CWID, and deposit funds directly into your bank account.\nB. Go to the Pepperdine Payment Portal, select \"Pay My Tuition,\" and add money to your account for use on campus.\nC. Visit https://get.cbord.com/pepperdine/full/prelogin.php, click \"Deposit into a Student or Community User Card's Account,\" enter your CWID, specify the deposit amount, provide a credit card, and submit.\nD. Go to the Housing Office, fill out a form, and submit your payment in person for adding money to your ID card.",
     "Expected Response": "C"
   },
   {
-    "Question": "How do I add money to my Pepperdine ID card in person? \n\nA. Visit the Student Services Office and pay with a credit card.\nB. Go to the Housing Office and use a debit card to add funds to your ID card.\nC. Visit OneStop in the Thornton Administrative Center, pay with cash or check, and the payment will be immediately applied to your ID card.\nD. Go to the Registrar\u2019s Office, fill out a form, and pay with cash or credit card for ID card deposits.",
+    "Question": "How do I add money to my Pepperdine ID card in person? \n\nA. Visit the Student Services Office and pay with a credit card.\nB. Go to the Housing Office and use a debit card to add funds to your ID card.\nC. Visit OneStop in the Thornton Administrative Center, pay with cash or check, and the payment will be immediately applied to your ID card.\nD. Go to the Registrar's Office, fill out a form, and pay with cash or credit card for ID card deposits.",
     "Expected Response": "C"
   },
   {
@@ -372,11 +372,11 @@
     "Expected Response": "C"
   },
   {
-    "Question": "How do I make a payment as an INTL student?\n\nA. Log into WaveNet, access your bill, click on the \"International Payments \u2013 Flywire\" option, select your country, enter the amount due, and follow the payment instructions to send the payment through Flywire.\nB. Visit the Housing Office to pay your bill with international payment options.\nC. Log into WaveNet and pay through your personal banking system.\nD. Call the Financial Aid Office to process your payment by phone.",
+    "Question": "How do I make a payment as an INTL student?\n\nA. Log into WaveNet, access your bill, click on the \"International Payments - Flywire\" option, select your country, enter the amount due, and follow the payment instructions to send the payment through Flywire.\nB. Visit the Housing Office to pay your bill with international payment options.\nC. Log into WaveNet and pay through your personal banking system.\nD. Call the Financial Aid Office to process your payment by phone.",
     "Expected Response": "A"
   },
   {
-    "Question": "How do I obtain my F-1 student Visa? \n\nA. Request your Pepperdine I-20, complete the International Student Data Form, and apply for your F-1 Visa by scheduling an interview at the U.S. embassy or consulate.\nB. Contact the Housing Office for the necessary forms and apply for your visa at the nearest embassy.\nC. Submit an application through the Registrar\u2019s Office and receive your visa upon arrival at Pepperdine.\nD. Wait for Pepperdine to automatically apply for your visa once you have been admitted.",
+    "Question": "How do I obtain my F-1 student Visa? \n\nA. Request your Pepperdine I-20, complete the International Student Data Form, and apply for your F-1 Visa by scheduling an interview at the U.S. embassy or consulate.\nB. Contact the Housing Office for the necessary forms and apply for your visa at the nearest embassy.\nC. Submit an application through the Registrar's Office and receive your visa upon arrival at Pepperdine.\nD. Wait for Pepperdine to automatically apply for your visa once you have been admitted.",
     "Expected Response": "A"
   },
   {
@@ -384,7 +384,7 @@
     "Expected Response": "A"
   },
   {
-    "Question": "Where do I complete my International Student Data Form (ISD)?\n\nA. Submit the form directly to the Registrar\u2019s Office for processing. B. Complete the ISD form through the OISS portal.\nC. Complete the ISD form through the Housing Office website.\nD. Access the ISD form from the Student Affairs Office and submit it in person.",
+    "Question": "Where do I complete my International Student Data Form (ISD)?\n\nA. Submit the form directly to the Registrar's Office for processing. B. Complete the ISD form through the OISS portal.\nC. Complete the ISD form through the Housing Office website.\nD. Access the ISD form from the Student Affairs Office and submit it in person.",
     "Expected Response": "B"
   },
   {
@@ -392,7 +392,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "How can graduates get a copy of transcripts or a Degree Verification?\n\nA. Graduates can visit the Registrar\u2019s Office in person to request a copy of their transcript.\nB. Graduates can order transcripts online through the National Student Clearinghouse or submit a mail-in request to OneStop. Degree verifications are processed through the National Student Clearinghouse.\nC. Graduates must call the Registrar\u2019s Office to request transcripts, which will be mailed directly to the address on file.\nD. Graduates must email the Registrar\u2019s Office for a transcript request, which will be processed by the Housing Office.",
+    "Question": "How can graduates get a copy of transcripts or a Degree Verification?\n\nA. Graduates can visit the Registrar's Office in person to request a copy of their transcript.\nB. Graduates can order transcripts online through the National Student Clearinghouse or submit a mail-in request to OneStop. Degree verifications are processed through the National Student Clearinghouse.\nC. Graduates must call the Registrar's Office to request transcripts, which will be mailed directly to the address on file.\nD. Graduates must email the Registrar's Office for a transcript request, which will be processed by the Housing Office.",
     "Expected Response": "B"
   },
   {
@@ -408,11 +408,11 @@
     "Expected Response": "C"
   },
   {
-    "Question": "How can I request a refund?\n\nA. Refund requests must be submitted through the Housing Office.\nB. Refunds are only processed at the end of the semester, and students need to apply in writing to the Registrar\u2019s Office. \nC. Students should visit the Financial Aid Office in person to request a refund.\nD. Refunds from federal aid are processed automatically at the start of each term, but students should set up an eRefund account and check their WaveNet account to track the refund status.",
+    "Question": "How can I request a refund?\n\nA. Refund requests must be submitted through the Housing Office.\nB. Refunds are only processed at the end of the semester, and students need to apply in writing to the Registrar's Office. \nC. Students should visit the Financial Aid Office in person to request a refund.\nD. Refunds from federal aid are processed automatically at the start of each term, but students should set up an eRefund account and check their WaveNet account to track the refund status.",
     "Expected Response": "D"
   },
   {
-    "Question": "How do I obtain the 1098-T form? \n\nA. Visit the Housing Office to request the form in person.\nB. Log into WaveNet, go to the \"Finances\" section, and select \"Tax Information\" to download your 1098-T form.\nC. Call the Registrar\u2019s Office to request the form to be mailed to your home address.\nD. Send an email to your academic advisor to request the form.",
+    "Question": "How do I obtain the 1098-T form? \n\nA. Visit the Housing Office to request the form in person.\nB. Log into WaveNet, go to the \"Finances\" section, and select \"Tax Information\" to download your 1098-T form.\nC. Call the Registrar's Office to request the form to be mailed to your home address.\nD. Send an email to your academic advisor to request the form.",
     "Expected Response": "B"
   }
 ]

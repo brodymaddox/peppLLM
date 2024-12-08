@@ -260,7 +260,7 @@
     "Expected Response": "A"
   },
   {
-    "Question": "Can you provide more information on the other grants I can apply for?\n\nA. Other institutional grants and scholarships\u2014such as the Tyler Trust End Scholarship, Malibu Seaver Scholarship, Frank R. Seaver End Scholarship, and University Supplemental Grant\u2014are renewable for up to four years, require a 2.0 GPA and full-time enrollment, and apply only to tuition; B. Other institutional grants and scholarships include one-time awards like the Tyler Trust End Scholarship and Frank R. Seaver End Scholarship, applicable to tuition and housing; C. Institutional grants include renewable awards with no GPA requirements or enrollment conditions, such as the University Supplemental Grant; D. Institutional scholarships like the Malibu Seaver Scholarship and Tyler Trust End Scholarship are merit-based and cover all educational expenses;",
+    "Question": "Can you provide more information on the other grants I can apply for?\n\nA. Other institutional grants and scholarships such as the Tyler Trust End Scholarship, Malibu Seaver Scholarship, Frank R. Seaver End Scholarship, and University Supplemental Grant are renewable for up to four years, require a 2.0 GPA and full-time enrollment, and apply only to tuition; B. Other institutional grants and scholarships include one-time awards like the Tyler Trust End Scholarship and Frank R. Seaver End Scholarship, applicable to tuition and housing; C. Institutional grants include renewable awards with no GPA requirements or enrollment conditions, such as the University Supplemental Grant; D. Institutional scholarships like the Malibu Seaver Scholarship and Tyler Trust End Scholarship are merit-based and cover all educational expenses;",
     "Expected Response": "A"
   },
   {
@@ -620,7 +620,7 @@
     "Expected Response": "C"
   },
   {
-    "Question": "How do I access funding for clubs?\n\nA. Submit a funding request through the Housing Office by emailing iccfinance@pepperdine.edu.\nB. Log in to Peppervine, go to your club's page, click \u201cMoney,\u201d then \u201cBudgeting,\u201d and fill out the request form. Specify between Promotional Material Request and ICC Funds Request. Requests over $1,000 require a meeting with the ICC E-Board.\nC. Submit a request through your club's membership page by calling the Registrar's Office for approval.\nD. Log into WaveNet, go to \u201cStudent Services,\u201d and submit your request for funding under the \"Clubs and Organizations\" tab.",
+    "Question": "How do I access funding for clubs?\n\nA. Submit a funding request through the Housing Office by emailing iccfinance@pepperdine.edu.\nB. Log in to Peppervine, go to your club's page, click  Money, then  Budgeting, and fill out the request form. Specify between Promotional Material Request and ICC Funds Request. Requests over $1,000 require a meeting with the ICC E-Board.\nC. Submit a request through your club's membership page by calling the Registrar's Office for approval.\nD. Log into WaveNet, go to  Student Services, and submit your request for funding under the \"Clubs and Organizations\" tab.",
     "Expected Response": "B"
   },
   {

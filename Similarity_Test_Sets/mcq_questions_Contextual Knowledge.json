@@ -136,7 +136,7 @@
     "Expected Response": "C"
   },
   {
-    "Question": "Is there any support for returning students who are struggling with being back in Malibu?\n\nA. No, students are expected to adjust on their own without formal support.\nB. Yes, the Landed chapel series supports students returning for the spring semester, helping them process the transition and evaluate how they\u2019ve changed. Landed events are also held in the fall for students returning from the spring semester or academic year.\nC. Yes, but only informal peer support groups are available.\nD. No, but counseling services are offered for a fee.",
+    "Question": "Is there any support for returning students who are struggling with being back in Malibu?\n\nA. No, students are expected to adjust on their own without formal support.\nB. Yes, the Landed chapel series supports students returning for the spring semester, helping them process the transition and evaluate how they've changed. Landed events are also held in the fall for students returning from the spring semester or academic year.\nC. Yes, but only informal peer support groups are available.\nD. No, but counseling services are offered for a fee.",
     "Expected Response": "B"
   },
   {
@@ -148,7 +148,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "Do I need any vaccinations to study abroad?\n\nA. No vaccinations are required for any study abroad program.\nB. It depends on the program and destination. Some countries require specific vaccinations, while others recommend them. Students are responsible for getting information about necessary vaccinations and can contact International SOS at (215) 942-8226 or consult the CDC website for guidance.\nC. Yes, Pepperdine requires all students to be vaccinated against common diseases before studying abroad.\nD. Vaccinations are optional and entirely up to the student\u2019s discretion.",
+    "Question": "Do I need any vaccinations to study abroad?\n\nA. No vaccinations are required for any study abroad program.\nB. It depends on the program and destination. Some countries require specific vaccinations, while others recommend them. Students are responsible for getting information about necessary vaccinations and can contact International SOS at (215) 942-8226 or consult the CDC website for guidance.\nC. Yes, Pepperdine requires all students to be vaccinated against common diseases before studying abroad.\nD. Vaccinations are optional and entirely up to the student's discretion.",
     "Expected Response": "B"
   },
   {
@@ -160,7 +160,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "Do I travel on every weekend while abroad?\n\nA. Yes, students are required to travel every weekend to fully experience the culture.\nB. No, it\u2019s up to you! You can travel as much or as little as you like, but remember to explore your host country and immerse yourself in the local culture. Traveling every weekend can be exhausting, and you might miss out on valuable experiences where you\u2019re studying.\nC. Yes, traveling every weekend is included in the program itinerary.\nD. No, students are restricted from traveling outside the host country during weekends.",
+    "Question": "Do I travel on every weekend while abroad?\n\nA. Yes, students are required to travel every weekend to fully experience the culture.\nB. No, it's up to you! You can travel as much or as little as you like, but remember to explore your host country and immerse yourself in the local culture. Traveling every weekend can be exhausting, and you might miss out on valuable experiences where you're studying.\nC. Yes, traveling every weekend is included in the program itinerary.\nD. No, students are restricted from traveling outside the host country during weekends.",
     "Expected Response": "B"
   },
   {
@@ -172,11 +172,11 @@
     "Expected Response": "B"
   },
   {
-    "Question": "What is the Pendleton Learning Center (PLC) and where is it?\n\nA. The PLC is a recreational center for students located near the dormitories.\nB. The PLC houses separate study rooms for Payson Library, classrooms, offices, and one of Seaver College\u2019s largest lecture halls.\nC. The PLC is a student dining facility located next to Payson Library.\nD. The PLC is exclusively a faculty office building located on the edge of campus.",
+    "Question": "What is the Pendleton Learning Center (PLC) and where is it?\n\nA. The PLC is a recreational center for students located near the dormitories.\nB. The PLC houses separate study rooms for Payson Library, classrooms, offices, and one of Seaver College's largest lecture halls.\nC. The PLC is a student dining facility located next to Payson Library.\nD. The PLC is exclusively a faculty office building located on the edge of campus.",
     "Expected Response": "B"
   },
   {
-    "Question": "What is the Thornton Administrative Center and where is it?\n\nA. TAC is a student center located next to the library, offering dining and recreational facilities.\nB. TAC is a residential building for faculty members, located near the campus perimeter.\nC. TAC houses University administrative offices, admissions, fundraising offices, Seaver College\u2019s dean\u2019s office, and historical displays of founder George Pepperdine and namesake Blanche Seaver. It is the first building visitors encounter after entering the main gate, with visitor parking available in front of the building, behind it (token required), or on adjacent streets.\nD. TAC is a large lecture hall used exclusively for business and economics classes, located at the campus center.",
+    "Question": "What is the Thornton Administrative Center and where is it?\n\nA. TAC is a student center located next to the library, offering dining and recreational facilities.\nB. TAC is a residential building for faculty members, located near the campus perimeter.\nC. TAC houses University administrative offices, admissions, fundraising offices, Seaver College's dean's office, and historical displays of founder George Pepperdine and namesake Blanche Seaver. It is the first building visitors encounter after entering the main gate, with visitor parking available in front of the building, behind it (token required), or on adjacent streets.\nD. TAC is a large lecture hall used exclusively for business and economics classes, located at the campus center.",
     "Expected Response": "C"
   },
   {
@@ -192,7 +192,7 @@
     "Expected Response": "B"
   },
   {
-    "Question": "What is the Elkins Auditorium and where is it?\n\nA. The Elkins Auditorium is the University\u2019s largest lecture hall on the Seaver campus, located on the north side of Joslyn Plaza. It is accessible via Joslyn Plaza, adjacent to the Rockwell Academic Center, Black Family Plaza Classrooms, and the fountain, with internal connecting access via the Plaza Classrooms and Rockwell Academic Center.\nB. The Elkins Auditorium is a performing arts theater located near the Weisman Museum.\nC. The Elkins Auditorium is a small seminar room for graduate students, located within the Black Family Plaza Classrooms.\nD. The Elkins Auditorium is a dining facility for large student gatherings, located on the lower campus.",
+    "Question": "What is the Elkins Auditorium and where is it?\n\nA. The Elkins Auditorium is the University's largest lecture hall on the Seaver campus, located on the north side of Joslyn Plaza. It is accessible via Joslyn Plaza, adjacent to the Rockwell Academic Center, Black Family Plaza Classrooms, and the fountain, with internal connecting access via the Plaza Classrooms and Rockwell Academic Center.\nB. The Elkins Auditorium is a performing arts theater located near the Weisman Museum.\nC. The Elkins Auditorium is a small seminar room for graduate students, located within the Black Family Plaza Classrooms.\nD. The Elkins Auditorium is a dining facility for large student gatherings, located on the lower campus.",
     "Expected Response": "A"
   },
   {
@@ -208,7 +208,7 @@
     "Expected Response": "C"
   },
   {
-    "Question": "What is the Center for Communication and Business and where is it?\n\nA. The CCB is a recreational space for communication and business students, located near the Seaver Main Parking Lot.\nB. The CCB houses the academic divisions of Communication and Business, along with classrooms, offices, a live-feed broadcast studio, and Pepperdine\u2019s TV station, NewsWaves, which broadcasts to over 13,000 people in Malibu and Calabasas. It also contains the headquarters for the Department of Public Safety. Access is via Seaver Drive, with restricted parking in the CCB Parking Lot (card key required).\nC. The CCB is a performing arts building for media productions, located near Joslyn Plaza.\nD. The CCB is a student residence hall for business and communication majors, located on the south side of campus.",
+    "Question": "What is the Center for Communication and Business and where is it?\n\nA. The CCB is a recreational space for communication and business students, located near the Seaver Main Parking Lot.\nB. The CCB houses the academic divisions of Communication and Business, along with classrooms, offices, a live-feed broadcast studio, and Pepperdine's TV station, NewsWaves, which broadcasts to over 13,000 people in Malibu and Calabasas. It also contains the headquarters for the Department of Public Safety. Access is via Seaver Drive, with restricted parking in the CCB Parking Lot (card key required).\nC. The CCB is a performing arts building for media productions, located near Joslyn Plaza.\nD. The CCB is a student residence hall for business and communication majors, located on the south side of campus.",
     "Expected Response": "B"
   },
   {
@@ -236,11 +236,11 @@
     "Expected Response": "C"
   },
   {
-    "Question": "Do I need to order or reserve regalia?\n\nA. No, regalia will be provided to all graduates at the ceremony without prior reservation.\nB. No, regalia is not required to attend the ceremony.\nC. Yes, graduates attending the ceremony in person must reserve their regalia online through Herff Jones\u2019 website. In-person assistance is available during Graduation Kickoff at the Malibu campus bookstore on Tuesday, February 13, and Wednesday, February 14, from 10 AM to 4 PM.\nD. Yes, but graduates must purchase regalia directly at the bookstore without any online reservation options.",
+    "Question": "Do I need to order or reserve regalia?\n\nA. No, regalia will be provided to all graduates at the ceremony without prior reservation.\nB. No, regalia is not required to attend the ceremony.\nC. Yes, graduates attending the ceremony in person must reserve their regalia online through Herff Jones' website. In-person assistance is available during Graduation Kickoff at the Malibu campus bookstore on Tuesday, February 13, and Wednesday, February 14, from 10 AM to 4 PM.\nD. Yes, but graduates must purchase regalia directly at the bookstore without any online reservation options.",
     "Expected Response": "C"
   },
   {
-    "Question": "How do graduates get honor cords?\n\nA. Honor cords are given to undergraduate students with a minimum 3.5 GPA. Eligible students will be contacted by their school\u2019s commencement coordinator or academic advisor during the spring semester. Honor cords are free of charge.\nB. Honor cords are available for purchase at the campus bookstore for any student interested in receiving one.\nC. Honor cords are only given to graduate students who meet their program\u2019s specific requirements.\nD. Honor cords are awarded to all students attending the commencement ceremony, regardless of GPA.",
+    "Question": "How do graduates get honor cords?\n\nA. Honor cords are given to undergraduate students with a minimum 3.5 GPA. Eligible students will be contacted by their school's commencement coordinator or academic advisor during the spring semester. Honor cords are free of charge.\nB. Honor cords are available for purchase at the campus bookstore for any student interested in receiving one.\nC. Honor cords are only given to graduate students who meet their program's specific requirements.\nD. Honor cords are awarded to all students attending the commencement ceremony, regardless of GPA.",
     "Expected Response": "A"
   },
   {
@@ -260,11 +260,11 @@
     "Expected Response": "B"
   },
   {
-    "Question": "Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park?\n\nA. Yes, Seaver College\u2019s Commencement Ceremony at Alumni Park is open to all guests of graduating students. In the unlikely event of inclement weather requiring a change of venue, this policy may change. Graduates are encouraged to check the Seaver graduation webpage frequently for updates.\nB. No, attendance is restricted to immediate family members only.\nC. Yes, but each graduate is limited to a maximum of two guests.\nD. No, the ceremony is exclusively for graduating students and faculty members.",
+    "Question": "Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park?\n\nA. Yes, Seaver College's Commencement Ceremony at Alumni Park is open to all guests of graduating students. In the unlikely event of inclement weather requiring a change of venue, this policy may change. Graduates are encouraged to check the Seaver graduation webpage frequently for updates.\nB. No, attendance is restricted to immediate family members only.\nC. Yes, but each graduate is limited to a maximum of two guests.\nD. No, the ceremony is exclusively for graduating students and faculty members.",
     "Expected Response": "A"
   },
   {
-    "Question": "How do I apply for graduation? \n\nA. Log in to WaveNet and navigate to the \"Other Academic\" drop-down menu. Select \"Apply for Graduation\" and submit your intent. Confirm your major, indicate your ceremony attendance, update your diploma mailing address, and update your diploma name if necessary. Consult your Academic Advising Associate for questions about graduation requirements, and regularly check your Pepperdine email for updates from the graduation office.\nB. Complete a paper application available at the Registrar\u2019s Office and mail it to the graduation office.\nC. Email your Academic Advising Associate directly with your graduation intent and provide your diploma mailing address.\nD. Fill out a form at the commencement rehearsal to finalize your graduation application.",
+    "Question": "How do I apply for graduation? \n\nA. Log in to WaveNet and navigate to the \"Other Academic\" drop-down menu. Select \"Apply for Graduation\" and submit your intent. Confirm your major, indicate your ceremony attendance, update your diploma mailing address, and update your diploma name if necessary. Consult your Academic Advising Associate for questions about graduation requirements, and regularly check your Pepperdine email for updates from the graduation office.\nB. Complete a paper application available at the Registrar's Office and mail it to the graduation office.\nC. Email your Academic Advising Associate directly with your graduation intent and provide your diploma mailing address.\nD. Fill out a form at the commencement rehearsal to finalize your graduation application.",
     "Expected Response": "A"
   },
   {

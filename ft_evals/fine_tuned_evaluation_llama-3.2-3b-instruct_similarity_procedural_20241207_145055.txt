@@ -1,0 +1,1667 @@
+Question: How do I add a class by number?
+Ideal response: Within the Home view in the current or upcoming term, click the "Class Search" link under the Shopping Cart to add classes to your shopping cart. In the pop-up, add classes to the shopping cart by entering the class number (not the catalog number, i.e. For COM 180 do not input 180 but input 1156) into the "Enter Class Nbr." box and click the "Enter" button to continue. Click the "Next" button to add the class to your shopping cart.  A new pop-up window appears with the class added to the shopping cart. Then go back to the home page. Your shopping cart will display the class added. Once all of your classes are selected, click the "Add/Submit/Edit" button and again the "Add Classes to Shopping Cart" pop-up appears. Check the boxes to select the classes you wish to enroll.
+Click the Validate button to determine any potential problems.  A pop-up window appears with a status report.If the class(es) are OK to add, click the Shopping Cart button. Note: Use the Delete button to remove unwanted classes (select the check box for those classes you wish to delete). Back on the Add Classes to Shopping Cart window, select the check box for the class and click the Enroll button. A Confirm classes pop-up window appears, look over your schedule and click the "Finish Enrolling" button to complete registration.  You can also use the "Cancel" or "Previous" buttons to cancel your session or go back and change classes. Note: check the "I Agree" box and select the "Finish Enrolling" button. Your enrollment results will display on the next page.  To view your classes, click the "My Class Schedule" button. Click the "X" to dismiss the "View Results" pop-up window. To end your session, click "Logout" in the upper right-hand corner of the screen to end your WaveNet session. Close your browser window.
+Model response: How do I add a class by number? in HTML and CSS
+
+You can add a class by number in HTML and CSS using the following syntax:
+
+**HTML:**
+```
+<div class="class1 class2 class3"></div>
+```
+**CSS:**
+```
+.class1 {
+  background-color: #f00;
+}
+
+.class2 {
+  background-color: #0f0;
+}
+
+.class3 {
+  background-color: #00f;
+}
+```
+In this example, the `div` element has three classes: `class1`, `class2`, and `class3`. The CSS rules apply to each class individually, and the styles are applied in the order they are listed.
+
+You can also use the `&` symbol in CSS to refer to the class name
+Similarity score: 0.3080167770385742
+--------------------
+Question: How do I add a class by search?
+Ideal response: Within the Home view in the current or upcoming term, click the "Class Search" link under the Shopping Cart to add classes to your shopping cart. In the pop-up, add classes to the shopping cart by clicking the "Search" button to search for classes. Enter Search Criteria by Subject or enter a course number. Note: use the Subject pull down to narrow the search results by program.  Click on the Additional Search Criteria to expand and get a more comprehensive search criteria. Your results will pop up on the next page.  Click the "Select" button next to the class you wish to add.
+An enrollment preference box appears, click the "Next" button to add the class to your shopping cart.  Repeat this step as often as necessary to complete your course schedule. Back in the shopping cart, select the check box for those classes you wish to enroll.  Once all of your classes are selected, click the "Enroll" button.  Note: you may wish to validate to determine any potential problems.  A pop-up window appears with a status report. When you are ready to enroll, select your classes and then click the "enroll" button. Close your browser window. A Confirm Classes pop-up appears, look over your schedule and click the "Finish Enrolling" button to complete registration. You can also use the "Cancel" or "Previous" buttons to cancel your session or go back and change classes. Note: check the "I Agree" box and select the "Finish Enrolling" button. Your enrollment results will display on the next page. To view your classes, click the "My Class Schedule" button. If you still wish to add more classes, click the "Add Another Class" button. Click the "X" to dismiss the View Results light box. To end your session, click "Logout" in the upper right-hand corner of the screen to end your WaveNet session. 
+Model response: How do I add a class by search? in WordPress?
+You can add a class by search using the following method:
+
+1. Open your WordPress page or post.
+2. Click on the “Edit with Visual Editor” button in the top right corner of the page.
+3. In the Visual Editor, click on the “Find and Replace” button in the top left corner of the page.
+4. In the Find and Replace box, enter the class name you want to add (e.g. `my-class`) and select “Replace” from the dropdown menu.
+5. In the Replace box, enter the class name you want to add (e.g. `my-class`) and select “Add class” from the dropdown menu.
+
+Alternatively, you can also use the following method:
+
+1
+Similarity score: 0.5865640640258789
+--------------------
+Question: How do I drop a class?
+Ideal response: In the Home view, select a term, and your enrolled classes will be listed.  Select the Drop button.
+On the next page, select the classes that you wish to drop by clicking the boxes directly to their left then click the "Drop Selected Classes" button. A page listing the classes that you selected for drop will come up.  Review these selections and click the "Finish Dropping" button to finalize the drop.
+The results of the drop will show up on the next page.  Click the "My Class Schedule" link to review your class schedule post-drop. Close the window to return to the Student Center. Click "Logout" in the upper right-hand corner of the screen to end your WaveNet session. Close your browser window.
+Model response: How do I drop a class? or add a class?
+To drop a class, go to the Student Center and select the class you want to drop. Then click on the "Drop Class" button. You will be asked to confirm your decision. Once you have confirmed, the class will be removed from your schedule.
+To add a class, go to the Student Center and select the class you want to add. Then click on the "Add Class" button. You will be asked to confirm your decision. Once you have confirmed, the class will be added to your schedule.
+
+Alternatively, you can also drop or add classes through the MyU portal.
+
+To drop a class through MyU:
+
+1. Log in to MyU.
+2. Click on the "Student" tab.
+
+Similarity score: 0.7269737720489502
+--------------------
+Question: How do I view my finances on my student account?
+Ideal response: Log in to WaveNet and click on the Student tab. Scroll down and click on the "Finances" Icon.
+The next page will display all your financial services. To check account activity, scroll down to "Account Activity". To view activity between certain dates or during specific terms, change the "From" date and "To" date or select a term from the drop-down menu at the top of the activity summary. To return to the main screen, select the "Home" icon. Otherwise, to end your session, click "Logout" in the upper right-hand corner of the screen. Close your browser window.
+Model response: How do I view my finances on my student account? eCampus
+To view your finances on your student account, follow these steps:
+1. Go to the eCampus website at [www.ecampus.com](http://www.ecampus.com).
+2. Click on the "Student" tab at the top of the page.
+3. Select "My Account" from the drop-down menu.
+4. Click on "Account Summary" to view a summary of your account balance, payment history, and other account information.
+5. Click on "Payment History" to view a detailed list of all payments made on your account.
+6. Click on "Bill History" to view a list of all bills sent to you, including payment due dates.
+7. Click on "Account Settings" to manage your
+Similarity score: 0.6390261650085449
+--------------------
+Question: How do I view my financial aid? 
+Ideal response: Log in to WaveNet and click on the Student tab. Scroll down and click on the "Finances" Icon. The next page will display all your financial services, starting with View Financial Aid Status. Select the year that you wish to view by clicking on its corresponding tab. An awards summary will come up, showing all awards that have been offered and accepted that year. On Mobile: Click "View Financial Aid" and then select the year to see your awards summary. If any awards have not been accepted or declined. Click on the "Accept/Decline Awards" button at the top right to open the Accept/Decline window. On Mobile: The "Accept/Decline Awards button is underneath the awards summary. Choose the Aid Year from the list and you will be directed to a new list of awards for that year. On Mobile: Skip this step. Select the checkbox under the "Accept" column for each award you wish to accept, then select "Update Totals". Alternatively, you can simply select "Accept All" or "Decline All". Select "Submit" once you have accepted the awards you intend to include. Next, you will be prompted to the Accept/Decline authorization page. Select "Yes" to confirm your changes. Then select "OK". To return to View Financial Aid Status, close the pop-up window. To return to the main screen, select the "Home" icon. Otherwise, to end your session, click "Logout" in the upper right-hand corner of the screen. Close your browser window.
+Model response: How do I view my financial aid? 2023-2024
+To view your financial aid, follow these steps:
+1.   **Log in to your MyUofM portal**: Go to the University of Michigan's website and click on "MyUofM" in the top right corner. Enter your username and password to log in.
+2.  **Click on "Financial Aid"**: Once logged in, click on "Financial Aid" in the left-hand menu.
+3.  **Select "Student Financial Aid"**: Click on "Student Financial Aid" and then select "Student Financial Aid" from the dropdown menu.
+4.  **View your financial aid award**: On the Student Financial Aid page, you will see your financial aid award, including any federal, state
+Similarity score: 0.5984189510345459
+--------------------
+Question: How do I make a payment?
+Ideal response: Log in to WaveNet	Click on the Student tab.
+Access Finances	Scroll down and click on the "Finances" icon.
+View Account Summary	Scroll to the "Account Summary" section to view outstanding charges. Note the amount owed and ensure pop-up blocker is off before proceeding.
+Initiate Payment	Click the "Make a Payment" button under the outstanding charges summary.
+Complete Payment	In the new browser window, select the "Student Account Payment" link and follow on-screen instructions. You will receive an email receipt after the transaction.
+Return to Main Screen or Log Out	To return, select the "Home" icon. To end the session, click "Logout" in the upper right, then close the browser window.
+Model response: How do I make a payment? 
+To make a payment, follow these steps:
+
+1.  **Choose your payment method**: You can pay by credit or debit card, PayPal, or bank transfer.
+2.  **Enter your payment details**: If you're using a credit or debit card, enter the card number, expiration date, and security code. If you're using PayPal, enter your PayPal email and password.
+3.  **Enter the amount**: Enter the amount you want to pay, which should be the full amount due.
+4.  **Review your payment**: Double-check your payment details and the amount you're paying.
+5.  **Submit your payment**: Click the "Submit" or "Pay Now" button to complete your payment.
+
+    If you have
+Similarity score: 0.38614460825920105
+--------------------
+Question: How do I enroll in e Refund?
+Ideal response: Log in to WaveNet	Click on the Student tab.
+Access Finances	Scroll down and click on the "Finances" icon.
+Open Account Summary	Scroll to "Account Summary" and ensure pop-up blocker is off before continuing.
+Access eRefund	Click the "eRefund Account" link. A white box will appear with instructions to enable pop-ups and provide accurate bank details to prevent delays in receiving funds.
+Enable eRefund	In the new browser window, select "Yes, I want refunds deposited directly into my bank account" and click "Continue." Follow the on-screen instructions to complete the setup.
+Close eRefund Window	Once complete, close the new browser window, then close the white box by clicking "X."
+Log Out and Close Browser	To end the session, click "Logout" in the upper right corner, then close the browser window.
+Model response: How do I enroll in e Refund??
+To enroll in eRefund, you can follow these steps:
+1. Go to the eRefund website at [www.errefund.com](http://www.errefund.com).
+2. Click on the "Enroll" button.
+3. Fill out the enrollment form with your personal and payment information.
+4. Review and agree to the terms and conditions.
+5. Click on the "Enroll" button to complete the process.
+6. You will receive an email with instructions on how to activate your eRefund account.
+7. Follow the instructions to activate your account and start using eRefund.
+
+Alternatively, you can also enroll in eRefund through the website of the college or university that issued your refund.
+
+Note: You may
+Similarity score: 0.6065326929092407
+--------------------
+Question: How do I access my degree progress?
+Ideal response: Access Academics	Select the "Academics" icon.
+Open Degree Audit Report	Click on the "Degree Audit Report" link. A pop-up will appear with a button to view the report.
+View Degree Audit	Click the button in the pop-up to view your Degree Audit Report, which will display on the next page.
+Return to Previous Page	To go back, click the "X" in the upper right corner of the pop-up window.
+Log Out and Close Browser	Click "Logout" in the upper right corner to end your WaveNet session, then close your browser window.
+Model response: How do I access my degree progress??
+To access your degree progress, you can use the following methods:
+**Method 1: Online Student Portal**
+1. Go to your university's online student portal (e.g., Blackboard, Canvas, or your university's website).
+2. Log in with your username and password.
+3. Click on the "Student" or "Academics" tab.
+4. Select "Degree Progress" or "Degree Requirements."
+5. You will see a list of your completed and remaining courses, as well as any outstanding requirements.
+
+**Method 2: University Website**
+1. Visit your university's website.
+2. Click on the "Academics" or "Student Services" tab.
+3. Select "Degree Progress" or "Degree
+Similarity score: 0.5565692186355591
+--------------------
+Question: How do I check my grades? 
+Ideal response: Select the "Academics" icon. Scroll down the page to view the most recent academic year at the top followed by the previous academic years. On Mobile: Select the term you would like to view and then use the left and right arrows.  Change the term by selecting the "Change Term" option and selecting a new term. Click "Logout" in the upper right-hand corner of the screen to end your WaveNet session.  Close your browser window.
+Model response: How do I check my grades? 2023
+To check your grades, you can use the following methods:
+1.  **Student Portal**: Most colleges and universities have a student portal where you can access your grades, transcript, and other important information. You can log in to the portal using your student ID and password.
+2.  **MyU** or **MyNorthwestern**: If you're a Northwestern University student, you can check your grades through the MyU or MyNorthwestern portal.
+3.  **Academic Advising Office**: You can visit the academic advising office on campus to check your grades with the help of an advisor.
+4.  **Student Affairs Office**: The student affairs office may also be able to provide you with information about your grades.
+5
+Similarity score: 0.18510347604751587
+--------------------
+Question: How do I view my class schedule?
+Ideal response: On the Home page, a Weekly Schedule link will be under the Enrolled Courses section.
+On Mobile: Select the "Student Center" icon and scroll down to see "This Week's Schedule."
+For a detailed view of your classes, click "Weekly Schedule."  A pop-up appears displaying the current week with buttons to advance or go back a week at a time.  Additionally, the "Open Calendar" icon provides a way to advance weeks or months ahead.  Remember to select the "Refresh Calendar" button to update the selected week. 
+On Mobile: Click "Weekly Schedule" in "Other Links" under "This Week's Schedule".  The "Open Calendar" option is called "Display Options" on Mobile found at the bottom of the mobile page.
+Select the List View radio button to view the schedule in list detail sorted by date and time.
+On the next screen, select the term that you wish to view and click the "Continue" button.
+The following page will show your schedule in detail sorted by date and time
+To return the view your weekly schedule, click the "Weekly Calendar View" toward the top of the page.
+Click the "X" in the upper right-hand corner of the light box to dismiss the schedule view.
+Click "Logout" in the upper right-hand corner of the screen to end your WaveNet session.  Close your browser window.
+Model response: How do I view my class schedule??
+To view your class schedule, follow these steps:
+
+1.  Log in to your student portal: Go to [your university's website](https://www.youruniversity.edu) and click on "Student Portal" or "Login" at the top right corner of the page.
+2.  Enter your login credentials: Enter your student ID and password to access your portal.
+3.  Click on the "Academics" tab: Once logged in, click on the "Academics" tab at the top of the page.
+4.  Click on "Class Schedule": Click on the "Class Schedule" or "Course Schedule" link, depending on your university's portal.
+5.  View your schedule: Your class schedule
+Similarity score: 0.7359269857406616
+--------------------
+Question: How do I view registration and account holds?
+Ideal response: In the Home view of the student center, a box titled "Holds" will display any holds such as Transcript or Financial Aid holds.Click the link(s) to view details on the holds. 
+Click the link(s) to view details on the holds.
+Click "Logout" in the upper right-hand corner of the screen to end your WaveNet session.  Close your browser window.
+
+Model response: How do I view registration and account holds? in the Student Portal?
+To view your registration and account holds in the Student Portal, follow these steps:
+1.  Log in to the Student Portal with your username and password.
+2.  Click on the "My Student Account" tab.
+3.  Click on the "Account Status" or "Registration" tab.
+4.  Look for the "Registration Holds" or "Account Holds" section.
+5.  Click on the "View Holds" or "View Account Holds" link to view the details of your holds.
+
+Alternatively, you can also use the "Student Self-Service" module to view your registration and account holds. To do this:
+
+1.  Log in to the Student Portal with your username and password.
+2.
+Similarity score: 0.6461870074272156
+--------------------
+Question: How do I view or contact my advisor?
+Ideal response: On the left hand side of the home page, click the "Advising" icon.
+View the "My Advising Network" section to view and/or contact one or more advisors.
+On Mobile: Your advisors will be listed under the "My Advisors" section.  You can not view your advisor on Mobile.
+At the bottom of the Advisor profile, click the email link of the advisor you wish to contact.
+On Mobile: Click the checkbox next to your advisor's name and select "Notify Selected Advisors" at the bottom of the page or select "Notify All Advisors" to email all of your listed advisors.
+A pop-up window appears in email message form. Compose your message to the selected advisor and click "Send" to finish.
+Click the "X" in the upper right to exit
+Click "Logout" in the upper right-hand corner of the screen to end your WaveNet session.  Close your browser window.
+Model response: How do I view or contact my advisor??
+To view your advisor, you can:
+1.  Log in to the [MyU](https://my.uncg.edu/) portal.
+2.  Click on the "Student" tab.
+3.  Select "Academic Records" from the dropdown menu.
+4.  Click on "Advisor Information."
+
+You can also contact your advisor through email or in-person. To find their contact information, you can:
+1.  Log in to the [MyU](https://my.uncg.edu/) portal.
+2.  Click on the "Student" tab.
+3.  Select "Academic Records" from the dropdown menu.
+4.  Click on "Advisor Information."
+5.  Look for the advisor's email address
+Similarity score: 0.566209077835083
+--------------------
+Question: How do I add a class by number on mobile?
+Ideal response: From the Student Center, on the Student Tab, scroll down and select the "Enrollment Shopping Cart" link from the Other Links section.
+Choose the correct Term.
+Add classes to the shopping cart by entering the class number (not the catalog number, i.e. For COM 180 do not input 180. Instead, input 1156) into the "Enter Class Nbr." box and click the "Enter" button to continue.
+Click the "Next" button to add the class to your shopping cart.
+A confirmation will appear that reads "(Class #) has been added to your Shopping Cart." Your shopping cart will also display the class added.
+Once all of your classes are selected, check the boxes to select the classes you wish to enroll.
+Click the Validate button to determine any potential problems. A pop-up window appears with a status report.
+If the class(es) are OK to add, click the Shopping Cart button. NOTE: Use the Delete button to remove unwanted classes (select the check box for those classes you wish to delete).
+Back on the Add Classes to Shopping Cart window, select the check box for the class and click the Enroll button.
+Look over your schedule and click the "I Agree" box to confirm. Select the "Finish Enrolling" button to complete registration. You can also use the "Cancel" or "Previous" buttons to cancel your session or go back and change classes.
+Your enrollment results will display on the next page with a message that says "Success: This class has been added to your schedule." To view your classes, click the "My Class Schedule" button..
+Model response: How do I add a class by number on mobile??
+I've got a website that I'm trying to optimize for mobile, and I've noticed that many users are accessing it on their mobile devices. I want to make sure that my website is user-friendly and easy to navigate on a mobile device.
+To add a class by number on mobile, you can use JavaScript. Here's an example of how you can do it:
+```
+var count = 0;
+var button = document.createElement('button');
+button.textContent = 'Click me';
+button.addEventListener('click', function() {
+  count++;
+  button.classList.add('count-' + count);
+});
+document.body.appendChild(button);
+```
+This code creates a new button element, adds an event listener to it, and when the button is clicked, it
+Similarity score: 0.2406265139579773
+--------------------
+Question: How do I add a class by search on mobile?
+Ideal response: From the Student Center, on the Student Tab, scroll down and select the "Enrollment Shopping Cart" link from the Other Links section.
+Choose the correct Term.
+Add classes to the shopping cart by clicking the "Search" button to search for classes.
+Click on the small down arrow next to "Class Search" to open the search menu. You will need to enter at least two search terms. Select the Search button to perform your search. NOTE: Click on the Additional Search Criteria to include a more comprehensive search criteria selection.
+Your results will appear on the next page. Find the class you wish to select and use the right arrow key at the top right of the class to view more columns.
+Click the "Select" button next to the class you wish to add.
+Click the "Next" button to add the class to your shopping cart. Repeat this step as often as necessary to complete your course schedule.
+Once all of your classes are added, check the boxes to select the classes you wish to enroll.
+Click the Validate button to determine any potential problems. A pop-up window appears with a status report.
+If the class(es) are OK to add, click the Shopping Cart button. NOTE: Use the Delete button to remove unwanted classes (select the check box for those classes you wish to delete).
+Back on the Add Classes to Shopping Cart window, select the check box for the class and click the Enroll button.
+Look over your schedule and click the "I Agree" box to confirm. Select the "Finish Enrolling" button to complete registration. You can also use the "Cancel" or "Previous" buttons to cancel your session or go back and change classes.
+Your enrollment results will display on the next page with a message that says "Success: This class has been added to your schedule." To view your classes, click the "My Class Schedule" button.
+Model response: How do I add a class by search on mobile??
+In mobile browser, the "search" functionality is different from the desktop version. Instead of using the "search" box, you can use the "magnifying glass" icon to search for a class.
+Here's how to add a class by search on mobile:
+
+1.  Open the website on your mobile browser.
+2.  Tap the "magnifying glass" icon (usually located at the top right corner of the screen).
+3.  Type the name of the class you're looking for in the search bar.
+4.  Tap the "Search" button.
+5.  The search results will show a list of classes that match your search query.
+6.  Tap on the class you're looking for to add it
+Similarity score: 0.5155507326126099
+--------------------
+Question: How do I drop a class on mobile?
+Ideal response: From the Academics Tab, select a term, and your enrolled classes will be listed. From the Menu button on the right side of the screen, select Drop.
+On the next page, choose the term from which you need to drop classes. Select the classes that you wish to drop by clicking the boxes directly to their left then click the "Drop Selected Classes" button.
+A page listing the classes that you selected for drop will come up. Review these selections and click the "Finish Dropping" button to finalize the drop.
+The results of the drop will show up on the next page, along with a success message that the class has been removed. Click the "My Class Schedule" link to review your class schedule post-drop.
+Model response: How do I drop a class on mobile?
+To drop a class on your mobile device, follow these steps:
+1.  Log in to your MyUC (or your college's mobile app) with your student ID and password.
+2.  Navigate to the "My Classes" or "Class Schedule" section.
+3.  Locate the class you wish to drop and tap on it.
+4.  Tap the "Drop Class" or "Withdraw" button.
+5.  Confirm that you want to drop the class by tapping "Yes" or "Confirm."
+6.  If you have any outstanding financial obligations to the college, you may need to pay a fee to drop the class.
+7.  Once you've completed the process, you'll receive a confirmation email or notification that
+Similarity score: 0.7183784246444702
+--------------------
+Question: How do I invite a guest on wavenet?
+Ideal response: Each student can assign guest access so that others can review information, make payments, etc.
+Log into WaveNet.
+On the Student Center homepage, click Manage Guest Access under the heading "Popular Links." On the Student Guest Access page, click Add Guest Access. In the "Current Email Address" field, enter the guest's email address. Under "Guest Status", select the access permissions for the guest. Examples include:
+Show schedule
+Show grades
+Show financial aid
+Show account detail
+Allow making payment
+Receive billing reminder email
+Click Invite Guest to send an email invitation to the person.
+
+Model response: How do I invite a guest on wavenet??
+To invite a guest on WaveNet, you'll need to follow these steps:
+
+1.  **Make sure your account is verified**: Ensure that your WaveNet account is verified to receive and send voice messages. You can verify your account by following the instructions in the WaveNet app.
+2.  **Find the guest**: Identify the guest you want to invite and make sure they have a verified WaveNet account.
+3.  **Send a voice message**: Open the WaveNet app and start a voice message to the guest. You can do this by tapping the "Start" button and speaking to the guest.
+4.  **Add the guest**: Once you've started the voice message, tap the "Add" button and select the guest
+Similarity score: 0.630206823348999
+--------------------
+Question: How does a invited Wavenet guest receive their invitation?
+Ideal response: When a student authorizes a guest to access his/her student information, the guest is sent an invitation via email. The email invitation includes a link to the Guest Access Account Creation page.
+The guest should click the link in the email to initiate the guest account creation process.
+Model response: How does a invited Wavenet guest receive their invitation? 
+What is the expected response time for an invited guest?
+What is the expected response time for an invited guest who is unable to attend? 
+How do I know if my guest has accepted or declined the invitation?
+How do I know if my guest has responded to the invitation?
+What is the expected response time for an invited guest who needs to request a change to their reservation?
+How do I know if my Wavenet guest has made any changes to their reservation? 
+How do I know if my guest has requested a refund or cancellation? 
+How do I know if my guest has requested a special request or accommodation? 
+How do I know if my guest has requested a specific dining option or menu choice? 
+How do I know if my
+Similarity score: 0.5118432641029358
+--------------------
+Question: How does an invited Wavenet guest create their account?
+Ideal response: After clicking the link in the invitation email, the Guest Access Account Creation form will appear. The required fields are indicated with the asterisk (*) character (e.g. first name, last name, date of birth, etc.). This information allows Pepperdine to create a unique account for each guest within WaveNet, the University's online portal. The guest will enter the required personal information.
+Select and provide the answer for a "Guest Security Question" for validation purposes. Click Submit when finished. An email will be sent to the guest upon successful account creation. An additional email will be sent with the WaveNet link and login details.
+Model response: How does an invited Wavenet guest create their account? and what happens when they accept the invitation?
+When a guest accepts the invitation to attend a Wavenet event, they are invited to create a guest account. This is a special type of account that allows them to participate in the event without needing to have a Wavenet account.
+
+To create a guest account, the invited guest will:
+
+1.  Click on the "Create Guest Account" link in the invitation email.
+2.  Fill out the registration form with their name, email address, and other basic information.
+3.  Choose a username and password for their guest account.
+4.  Review and agree to the terms and conditions of the guest account.
+
+Once the guest account is created, they will receive an email with instructions on how
+Similarity score: 0.7849199771881104
+--------------------
+Question: How does a Wavenet guest use the guest access center?
+Ideal response: Once a guest has created an account, the person may now log into WaveNet and use the Guest Access Center. The guest user will log into WaveNet. Click the Guest Access Center link under the "Guest" tab. Navigate the options and information available. The details and links will vary based on the permissions chosen by the student. The following image is an example of the following options: Show schedule, Show financial aid, Show account detail, and allow making payment. 
+Model response: How does a Wavenet guest use the guest access center? 
+A) They use the main entrance.
+B) Wavenet guests use the guest access center.
+C) Wavenet guests can use the guest access center.
+D) Wavenet guests do not use the guest access center.
+The best answer is C.
+Similarity score: 0.652725100517273
+--------------------
+Question: What should a Wavenet guest do if they have forgotten their login information?
+Ideal response: 
+If you forgot your login information, contact Tech Central at 310.506.4357 (HELP).
+Model response: What should a Wavenet guest do if they have forgotten their login information? 
+If a Wavenet guest has forgotten their login information, they should contact Wavenet Customer Service to obtain a reset link. The reset link can be used to reset their login information. Please note that Wavenet is not responsible for any downtime or inconvenience caused by forgotten login information.
+Similarity score: 0.49532243609428406
+--------------------
+Question: Can I change the access the guest has to certain features on Wavenet?
+Ideal response: Once a guest account has been created, the student may update the guest's access at any time. The student may add or remove access to different features.
+Model response: Can I change the access the guest has to certain features on Wavenet??
+Yes, you can customize the access of a guest to certain features on Wavenet. Here are some ways you can do it:
+
+**Guest Access Control**
+
+You can control which features a guest has access to through the guest's account settings. Here's how:
+
+1. Go to the Wavenet dashboard and navigate to **Guests**.
+2. Click on the guest's name to view their account details.
+3. Scroll down to the **Access** section.
+4. Toggle the switch next to each feature you want to restrict or enable for the guest.
+
+**Feature-Level Access**
+
+You can also control access to specific features on a feature-by-feature basis. Here's how:
+
+1. Go to the Wavenet dashboard and navigate
+Similarity score: 0.6069689989089966
+--------------------
+Question: How do I help mutiple students as a guest?
+Ideal response: If the guest helps multiple students, the guest may click the "Select Another Student" link at the bottom of the current student's Guest Access summary to switch to another student.
+Model response: How do I help mutiple students as a guest? or host in a classroom?
+As a guest or host in a classroom, it's essential to establish clear boundaries and expectations to ensure a smooth and productive learning experience for all students. Here are some tips to help you help multiple students:
+
+1.  **Understand the teacher's lesson plan**: Before the lesson, review the teacher's lesson plan and objectives to understand what the students will be learning and what is expected of you.
+2.  **Establish clear expectations**: Discuss with the teacher what your role will be, what you will be responsible for, and what you expect from the students.
+3.  **Set clear boundaries**: Clearly communicate your expectations for student behavior, such as respect, attention, and participation.
+4.  **Prepare materials
+Similarity score: 0.5276551246643066
+--------------------
+Question: How do I edit guest access permisions?
+Ideal response: The student logs into WaveNet. On the Student Center homepage, click Manage Guest Access under the heading "Popular Links." On the Student Guest Access page, click the Edit button next to the guest's listing. Modify the information for the guest, e.g. check or uncheck options. Click Save when finished.
+Model response: How do I edit guest access permisions? for a specific folder in Google Drive
+To edit guest access permissions for a specific folder in Google Drive, follow these steps:
+
+1.  Open Google Drive and navigate to the folder you want to edit permissions for.
+2.  Right-click on the folder and select "Get link".
+3.  Click on the "Sharing" button.
+4.  Click on the "Edit" button next to "Guest access".
+5.  Click on the "Add" button.
+6.  Enter the email address of the person you want to add as a guest.
+7.  Choose the permission level you want to assign to the guest. You can choose from the following options:
+    *   "Editor": This person will have full control over the
+Similarity score: 0.436231791973114
+--------------------
+Question: Do I have to remove guest access when I graduate?
+Ideal response: When you graduate, the guest access feature in WaveNet will automatically be revoked for your guests. However, your information sharing preferences will remain after you graduate for any guests. If you wish to prevent future disclosure after graduation, be sure to use the edit guest access steps to edit guest access before your account transitions from student to alumni.
+Model response: Do I have to remove guest access when I graduate??
+Yes, when you graduate, you will no longer be a student and will no longer be eligible for guest access. You will need to request to be removed from the guest access list by contacting the IT department or your department's administrator. Once removed, you will no longer be able to access the system as a guest.
+Similarity score: 0.7068496346473694
+--------------------
+Question: Explain the steps of the class registration process. 
+Ideal response: Look over your degree audit report(DAR), build a course schedule and choose alternate course options in the event some get taken, clear all registration holds, add/drop classes within the designated period, and view your new schedule.
+Model response: Explain the steps of the class registration process.  Students who wish to register for classes should follow these steps:
+1.  **Check the course schedule**: Students should review the course schedule to determine which classes they are eligible to take. They should also consider their academic goals, course prerequisites, and any other requirements.
+2.  **Verify prerequisites**: Students should verify that they meet the prerequisites for each course they are interested in taking. This includes checking the course catalog, speaking with an advisor, or reviewing their academic records.
+3.  **Complete the online registration form**: Students should complete the online registration form, which will ask for their personal and academic information, as well as the courses they wish to register for.
+4.  **Choose a payment method**: Students should select a payment method,
+Similarity score: 0.5053144693374634
+--------------------
+Question: How do I use the Wavenet wishlist?
+Ideal response: Log in to WaveNet. Click on Student Services, then wish list. Pick the appropriate term and then search for classes. Each selected class will appear in your wish list. When your registration time comes, you can select classes from your wish list instead of browsing for each class. Keep in mind, just because a class is in your wish list doesn't mean that you are in the class or that you are guaranteed to get in a class. You still need to complete your registration at your appointed time.
+Model response: How do I use the Wavenet wishlist??
+I am having trouble finding the correct information on how to use the Wavenet wishlist.
+I've checked the website and I'm not sure where to start.
+Here are some details about my issue:
+I am using the Wavenet service for my business
+I have a Wavenet account and have been using the service for a while
+I am looking to add some new features or functionality to the service
+I want to provide feedback on the service
+I want to request new features or functionality
+
+To help you better assist me, could you please provide more information on how to use the Wavenet wishlist?
+
+Here is some additional information that may be helpful:
+My Wavenet account is [insert account details here]
+I have been
+Similarity score: 0.606705904006958
+--------------------
+Question: How do I view my DAR? 
+Ideal response: Navigate to Wavenet
+Log in using your username and password
+Select the Student Services tab
+Locate the Degree Audit link in the Student Records area
+Model response: How do I view my DAR? 2024
+To view your DAR (Department of Agriculture and Rural Development) report, you can follow these steps:
+1. Log in to your account on the Department of Agriculture and Rural Development's website (www.dardni.gov.in).
+2. Click on the "Reports" or "My Account" tab.
+3. Select "DAR" from the dropdown menu.
+4. You can then view your DAR report for the current year or for previous years.
+Note: The availability of your DAR report may depend on the status of your application and the processing time of your request.
+Alternatively, you can contact the Department of Agriculture and Rural Development's customer service department to inquire about the status of your DAR report and to request a copy of your report
+Similarity score: 0.2914714217185974
+--------------------
+Question: How do I become eligible for the Dean's List?
+Ideal response: A Dean's List of Seaver undergraduate students achieving high scholarship is published each semester (excluding the summer term).  To be eligible, a student must:
+
+Complete at least twelve letter-graded units during the semester,
+
+Receive no grade below "C" for the semester,
+
+Receive no grades of "I" or "NC,"
+
+Be in the top 10 percent of the class, and
+
+Have a term grade point average of at least 3.5.
+Model response: How do I become eligible for the Dean's List??
+To become eligible for the Dean's List, you must meet the following requirements:
+1.  **Maintain a minimum overall GPA**: The specific GPA requirement may vary by institution, but it is usually around 3.5 or higher.
+2.  **Complete the required number of credits**: Most institutions require students to complete a minimum number of credits per semester to be eligible for the Dean's List.
+3.  **Meet the residency requirement**: Some institutions may require students to be residents of the institution or the state to be eligible for the Dean's List.
+4.  **Maintain academic progress**: Students must also meet the institution's academic progress requirements, such as completing a certain percentage of credits with a grade of C- or higher
+Similarity score: 0.5924712419509888
+--------------------
+Question: How do I document an incomplete?
+Ideal response: If your professor allows you to have an incomplete ("I") this term, please follow the procedure below.   This procedure must be followed for each "I" assigned. 
+
+1.  Student Starts the Request in Etrieve (after having a verbal conversation with the instructor as a heads up regarding an emergency); Incomplete Course Agreement Form
+2.  The form is routed to the Director of Academic Advising (the academic director verifies the emergency and approves or denies)
+3.  The Director of Academic Advisor then routes it to the Instructor for approval or deny
+4.  The Instructor then routes it to the Divisional Dean for approval or denial. The instructor fills in the box regarding what final work is to be done for a final grade and the date of when it's to be done.
+5.  Process ends and into the student file.
+6.  Confirmation emails are sent upon completion of all signatures.
+Model response: How do I document an incomplete??
+A document that is incomplete can be a source of frustration, especially if you're trying to complete it or refer back to it later. Here are some tips on how to document an incomplete document:
+
+1.  **Clearly indicate the issue**: Start by clearly indicating the issue with the document. You can use phrases like "Incomplete", "Not fully documented", or "Needs additional information".
+2.  **Provide a clear explanation**: Explain why the document is incomplete. Was it due to a lack of information, a change in requirements, or a technical issue? Be specific and provide context.
+3.  **Outline the missing information**: Identify the specific information that is missing and outline what is needed to complete the document. This will help others understand
+Similarity score: 0.48663753271102905
+--------------------
+Question: How do I request my transcript?
+Ideal response: Order your transcript by filling out a Transcript Order Form and returning it to Pepperdine University. $10.00 per copy Payment options: Cash, check or money order
+Model response: How do I request my transcript??
+To request your transcript, follow these steps:
+1. **Determine the type of transcript you need**: You can request a:
+	* Official transcript (sent to a college or university)
+	* Unofficial transcript (sent to yourself or another party)
+	* Duplicate transcript (if you've lost or damaged your original transcript)
+2. **Choose the release method**: You can request a transcript through:
+	* Online portal (if available)
+	* Phone (call the registrar's office)
+	* Email (send a request to the registrar's office)
+	* Mail (send a request via postal mail)
+3. **Provide required information**: Make sure to include:
+	* Your name
+	* Student ID number (if available)
+
+Similarity score: 0.663041353225708
+--------------------
+Question: What is the grade point scale? 
+Ideal response: A	4.0
+A-	3.7
+B+	3.3
+B	3.0
+B-	2.7
+C+	2.3
+C	2.0
+C-	1.7
+D+	1.3
+D	1.0
+D-	0.7
+F	0.0
+Model response: What is the grade point scale?  The grade point scale is a system used by colleges and universities to measure a student's academic performance.  It is based on the grade points assigned to each letter grade.
+Typically, the grade point scale is as follows:
+A = 4.0
+B = 3.0
+C = 2.0
+D = 1.0
+F = 0.0
+Each letter grade is assigned a grade point value.  The grade points are then added up to give a student's overall grade point average.  The grade point average is a way to measure a student's academic performance.
+For example, if a student receives a B+ (3.3), a C- (1.3), and an A
+Similarity score: 0.40577182173728943
+--------------------
+Question: What is the grade dispute process? 
+Ideal response: 
+This policy outlines the procedure that a student must follow in the event that he/she wishes to dispute the grade
+received in a course at Seaver College.
+
+
+This process must be initiated by the student before the midpoint of the next non-summer semester, which
+immediately follows the course in question.
+
+
+Most grade issues can and should be resolved privately between the student and instructor. This is the starting
+point with all grade disputes. In case the matter is not satisfactorily resolved by these means, the following appeals
+procedure shall apply:
+
+
+1. The student shall submit a written appeal to the division dean with a copy to the instructor identifying the
+course, semester, grade received, and the reason for the appeal.
+2. The student shall assemble all relevant class materials (syllabi, returned assignments, tests, papers, etc.)
+distributed or returned by the instructor to the student. These materials need to be compiled within two
+weeks of the date of the written appeal. If the student cannot assemble all such documents, the grade dispute
+is concluded with no grade change.
+3. Concurrently, the instructor will assemble all relevant class materials that he or she retained for this student
+(final exams, midterms, etc.) within two weeks of the date of the written appeal. A copy of these documents
+along with the syllabus, grade book, and the instructor's written response to the student appeal is to be
+forwarded by the instructor to the division dean. If the instructor cannot produce all relevant documents
+pertinent to the student's work in the course, the grade dispute will be taken up by the instructor's division
+dean in consultation with the associate dean.
+4. The chair will appoint an ad hoc committee of two faculty members within the division who teach the course
+(or a similar one) in question. This committee will then evaluate the student's course materials based on the
+following criteria:
+
+
+ Have all assignments and examinations been administered in accordance with the guidelines set forth in
+the class syllabus?
+ Has all student work been graded fairly, consistently, and accurately?
+At the conclusion of the committee's evaluation of the course material, it will submit a written recommendation
+and explanation to the division dean. The recommendation must be one of the following:
+
+
+1. Uphold the grade given by the instructor, or
+2. Require that the instructor re-grade one or more assignments, followed by a recalculation of the student's
+grade, or
+3. Require that the instructor formulate a repeat of one or more class assignments or assessments, followed by
+a recalculation of the student's grade, or
+4. Recommend a specified grade change
+
+
+Based on the ad hoc committee's findings, it shall be the division dean's decision, in consultation with the
+associate dean of Seaver College, as to whether the grade shall be changed. This decision will be final. No further
+appeal is possible.
+Model response: What is the grade dispute process? 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 
+Similarity score: 0.5764601826667786
+--------------------
+Question: How do I apply to graduate?
+Ideal response: In order to submit your application to graduate, please follow these easy steps:
+
+Log on to WaveNet.
+Click on the "Other Academic" drop-down and select the "Apply for Graduation" link and submit your intent.
+Once you are in the graduation area, please be sure to verify your major and let us know if you are planning to attend the ceremony by checking the box.
+You will also be able to select your diploma mailing address and make any name changes (such as adding a middle name, etc). Obviously, we will need to validate with official documentation any totally strange name changes, so please keep that in mind. You can make these changes in the "Personal Information" section of your Student Center.
+To change your diploma name, please go to the "Names" link in the personal information box. Add the name that you wish and select the "Diploma" type.
+To change your diploma mailing address, go the "Addresses" link in the other personal information drop-down, add the address. After you save it, please select the "Diploma" address type.
+Contact your Academic Advising Associate should you have questions about how to meet your remaining requirements.
+Model response: How do I apply to graduate? to the University of the West of England (UWE Bristol) after completing my undergraduate degree?
+You can apply to graduate studies at UWE Bristol through the University and Colleges Admissions Service (UCAS) or directly through the UWE Bristol website. Here are the general steps to follow:
+
+**UCAS Route:**
+
+1. **Check your eligibility**: Make sure you meet the entry requirements for your chosen programme.
+2. **Choose your programme**: Select your desired graduate programme from the UWE Bristol website.
+3. **Create a UCAS account**: Register for a UCAS account and create a new application.
+4. **Submit your application**: Fill in the application form, providing all required information, including academic qualifications, work experience, and personal
+Similarity score: 0.48368462920188904
+--------------------
+Question: How do I get on campus housing as a first year student? 
+Ideal response: Newly admitted students for the 2024-2025 academic year follow a separate process. For more new student information, please visit our first-year housing or transfer housing web pages. 
+Model response: How do I get on campus housing as a first year student? 2023
+As a first-year student, getting on-campus housing is a popular option for many students. Here's a step-by-step guide to help you get started:
+1. **Check availability and deadlines**: Check the university's website or contact the housing office to see if on-campus housing is available for the upcoming academic year. Make sure to check the deadlines for applications, as they can vary.
+2. **Create an account**: If you're a new student, you'll need to create an account on the university's housing portal. This will allow you to access the application and track your progress.
+3. **Review housing options**: Familiarize yourself with the different types of housing options available, such as:
+	* Traditional residence halls
+
+Similarity score: 0.7018780708312988
+--------------------
+Question: How do I access the housing waitlist?
+Ideal response: To access the waitlist page please go to the Housing Portal > Academic Year Application > Application Status > Additional Steps > Waitlist. Students are welcome to sign up for one, some, or all waitlists that are available to them. Placements will be offered to students who sign up on a waitlist on a rolling basis based on availability. Offers will expire within 24 - 48 hours, so please be sure to monitor your Pepperdine email account consistently throughout the summer to avoid missing an offer.
+
+Model response: How do I access the housing waitlist??
+The housing waitlist is a list of individuals or families who are waiting for a home in a specific housing program. To access the housing waitlist, you can follow these steps:
+1. **Contact your local housing authority**: Reach out to the housing authority in your area to inquire about the waitlist. They can provide you with information on how to register for the waitlist and the eligibility criteria.
+2. **Check the housing authority's website**: Many housing authorities have a website that provides information on the waitlist, including the application process and eligibility criteria.
+3. **Visit the housing authority's office**: You can visit the housing authority's office in person to register for the waitlist and ask questions about the application process.
+4. **
+Similarity score: 0.6959428191184998
+--------------------
+Question: How do I apply for a housing accomodation?
+Ideal response: Students should work with the Office of Student Accessibility (OSA) to register for a housing accommodation. All current students with approved housing accommodations must renew and update their accommodations on an annual basis. For more information, please visit our Student Accessibility webpage.
+
+Once a student receives approval for their housing accommodation(s), Housing and Residence Life (HRL) and OSA will work with the student to address the specifics of the accommodation, based on availability.
+Model response: How do I apply for a housing accomodation? (Application process)
+The application process for housing accommodations varies depending on the type of accommodation and the organization or agency providing it. Here are some general steps to follow:
+1. **Research and choose a provider**: Look for organizations or agencies that provide the type of housing accommodation you need. Some examples include:
+	* Government agencies (e.g., Department of Housing and Urban Development (HUD) in the US)
+	* Non-profit organizations (e.g., The Arc, the National Alliance on Mental Illness (NAMI))
+	* Private companies (e.g., housing providers, property management companies)
+2. **Check eligibility criteria**: Review the eligibility criteria for the housing accommodation you're interested in. This may include factors such as:
+	* Income
+Similarity score: 0.5178329944610596
+--------------------
+Question: How do I sign up for a single room?
+Ideal response: At this time, we are not offering additional single-room options beyond what is provided at the Drescher Campus Apartments and through the disability accommodation process. Should you feel you need a single room accommodation or would like to request an exemption from the on-campus housing requirement, please follow these processes: Single Room Accommodation and Residency Exemption.
+Model response: How do I sign up for a single room??
+I'm not sure what the process is. 
+To sign up for a single room, you can follow these steps:
+
+1.  **Contact the Housing Office**: Reach out to the Housing Office at your university or college to inquire about their single room availability and to ask about their application process. You can usually find their contact information on the university's website or by visiting the Housing Office in person.
+2.  **Fill out an Application Form**: Once you've confirmed that single rooms are available, you'll need to fill out an application form. This form will typically ask for your personal and contact information, as well as your housing preferences.
+3.  **Provide Required Documents**: You may need to provide additional documents, such as proof of
+Similarity score: 0.5790892839431763
+--------------------
+Question: How do I apply for summer housing?
+Ideal response: The Housing Portal opens for summer housing applications on March 20 at 9 AM. For more information, please visit our Summer Housing webpage. 
+Model response: How do I apply for summer housing? 
+To apply for summer housing, please follow these steps:
+
+1.  **Check availability**: Review the summer housing calendar to determine if there are any available rooms or spaces for the desired dates.
+2.  **Submit the online application**: Visit the housing website and submit the online application. You will need to provide required documents, such as proof of enrollment, identification, and payment information.
+3.  **Pay the application fee**: The application fee is typically non-refundable and covers the cost of processing your application.
+4.  **Complete the housing questionnaire**: The housing questionnaire will ask about your preferences, such as room type, meal plan, and amenities.
+5.  **Submit supporting documents**: You may need to provide additional documents,
+Similarity score: 0.6660192608833313
+--------------------
+Question: How do I cancel my housing application? 
+Ideal response: Please email housing@pepperdine.edu and visit the Housing Portal to start the cancellation process. Please note that cancellation fees may apply. 
+Model response: How do I cancel my housing application?  If I am no longer interested in renting the property, I can cancel my housing application.  To cancel, please contact our office at (phone number) or (email address).  Please provide your name and the property address you applied for.  We will remove your application from our records and notify the landlord that you are no longer interested in renting the property.  Please note that if you have already been approved for the property, you will need to cancel your application and vacate the property in accordance with your lease agreement.
+How do I get a copy of my rental application?  If you need a copy of your rental application, please contact our office at (phone number) or (email address).  
+Similarity score: 0.6257200241088867
+--------------------
+Question: How do I select a meal plan? Am I required to have a meal plan?
+Ideal response: Meal plan requirements correspond with living areas and student classifications, so students will not be able to select a meal plan until they are officially placed in housing. Students may be required to purchase a meal plan depending on placement. For more details on required meal plans, please visit our Meal Plan Information or Meal Plan Rates page. If you are a commuter (off-campus) student, please email housing@pepperdine.edu with any meal plan requests! We are happy to assist you in enrolling in a meal plan.
+Model response: How do I select a meal plan? Am I required to have a meal plan? Do I need to have a medical doctor's approval?
+Are there any restrictions or limitations on the meal plans?
+Do I need to purchase any additional insurance to cover the meal plan?
+What is the cost of the meal plan?
+Are there any promotions or discounts available?
+What is the process for canceling a meal plan?
+How do I track my progress and receive feedback on my meal plan?
+Similarity score: 0.5507583618164062
+--------------------
+Question: How do parking permits work?
+Ideal response: Enter the vehicle information and purchase a parking permit in the parking portal website.
+License Plate Recognition (LPR) cameras scan license plates of vehicles entering and parking on campus. Using a mobile, hand-held, or vehicle-mounted system, they will scan license plates one vehicle and one area at a time.
+The system will identify unregistered vehicles or parked in an unauthorized location. Enforcement officers will determine whether to issue a citation when the system identifies a vehicle that does not have a permit or has the incorrect permit for the parking space.
+Physical permits allow for easy idenfication of registered community members.
+Model response: How do parking permits work? and are they mandatory?
+Parking permits are required for various types of vehicles and are issued by the city or local authorities. The purpose of a parking permit is to ensure that drivers who park in designated parking areas are authorized to do so and are aware of the parking rules and regulations.
+Types of Parking Permits:
+1. **Resident Parking Permits**: These permits are issued to residents of a specific neighborhood or area and allow them to park in designated resident parking zones.
+2. **Commercial Parking Permits**: These permits are issued to businesses and organizations that need to park vehicles in designated commercial parking areas.
+3. **Special Event Parking Permits**: These permits are issued for special events, such as festivals, concerts, or sporting events, and allow
+Similarity score: 0.4768812954425812
+--------------------
+Question: What if I get a new license plate or new vehicle?
+Ideal response: It is important that your license plate and vehicle information is current and correct to avoid a citation. Please update your information immediately after any change in the license plate number. It is also important to delete all old or unused vehicle listings from your account.
+Model response: What if I get a new license plate or new vehicle? How will that affect my insurance rates?
+If you get a new license plate or a new vehicle, it may not affect your insurance rates immediately. However, it's essential to update your vehicle information with your insurance company to avoid any potential issues or penalties.
+Here are some possible scenarios to consider:
+
+1.  **License plate change**: If you change your license plate, you'll need to notify your insurance company. They may ask for proof of the new plate, and this update will typically be reflected on your policy.
+2.  **New vehicle purchase**: If you buy a new vehicle, you'll need to update your vehicle information with your insurance company. This may involve providing the vehicle's make, model, year, and VIN (Vehicle Identification
+Similarity score: 0.6225922107696533
+--------------------
+Question: What if I have a personalized plate or special characters/symbols?
+Ideal response: If you have a personalized plate with less than 7 characters, or if you have a special character within your plate (heart, star, etc.), skip the special character when entering the number into the system and simply include the remaining characters on the plate.
+Model response: What if I have a personalized plate or special characters/symbols? Can I still get a plate with my name or special characters?
+Yes, some states allow personalized plates with special characters, symbols, or numbers, but the rules and regulations vary. Here's what you need to know:
+1. **Check with your state's Department of Motor Vehicles (DMV)**: Each state has its own set of rules and regulations regarding personalized plates. Some states allow special characters, while others do not. You can visit your state's DMV website or contact them directly to ask about their specific rules.
+2. **Special characters and symbols**: Some states allow special characters like:
+	* Punctuation marks (e.g., @, #, $, etc.)
+	* Symbols (e.g.,,, etc.)
+	
+Similarity score: 0.6618021726608276
+--------------------
+Question: What do I need to do if I want to store my vehicle on campus? 
+Ideal response: If you would like to leave your personal vehicle on campus for an extended period of time you must receive prior approval from the Department of Public Safety. All vehicles must be registered and display a valid parking permit to be eligible for storage on campus. A Vehicle Storage form must be filled out and approved by the department prior to your departure from campus, or the vehicle in question may be relocated or impounded off campus at the owner's expense.
+Model response: What do I need to do if I want to store my vehicle on campus?  Is there a fee?
+Yes, there is a fee for storing your vehicle on campus. The fee varies depending on the location of your vehicle and the type of parking permit you purchase. Here are some general guidelines:
+**Short-term parking (less than 3 months):**
+* Faculty and staff: $2 per day (max 15 days)
+* Graduate students: $2 per day (max 30 days)
+* Undergraduate students: $2 per day (max 30 days)
+
+**Long-term parking (3 months or more):**
+* Faculty and staff: $5 per month
+* Graduate students: $5 per month
+* Undergraduate students: $5 per month
+
+**Preferred parking spaces:**
+* Faculty and staff:
+Similarity score: 0.6694822311401367
+--------------------
+Question: Where can I get an ID card?
+Ideal response: If you are a student you may get an ID at Tech Central on the 2nd floor of Payson Library. Replacement I.D.s may be obtained at One Stop on the 2nd floor of the Thorton Administrative Center. The replacement fee can be charged to your student account. Faculty and staff may obtain a replacement card at the Center for Human Resources.
+Model response: Where can I get an ID card? 
+To obtain an ID card, you can follow these steps:
+1. Visit the local DMV office or a regional center.
+2. Fill out the application form (available on the California DMV website or at the DMV office).
+3. Provide required documents, such as proof of identity, residency, and citizenship.
+4. Pay the required fee (varies by county).
+5. Take a photo.
+6. Submit the application and supporting documents.
+7. Wait for the ID card to be processed and mailed to you.
+
+**Types of ID Cards:**
+
+*   California ID Card (Adult): For California residents aged 18 and older.
+*   California ID Card (Minor): For California residents under 18 years old.
+*  
+Similarity score: 0.357155978679657
+--------------------
+Question: How do I reserve a room for a function?
+Ideal response: Special Programs is in charge of most room reservations; call 310.506.4264. If it is not an area reserved by Special Programs, they should be able to direct you. To reserve rooms in the HAWC, call Student Activities at 310.506.4201. Public Safety is not authorized to grant access to areas not previously reserved.
+Model response: How do I reserve a room for a function? at a hotel?
+To reserve a room for a function at a hotel, you'll typically need to follow these steps:
+1. **Contact the hotel directly**: Reach out to the hotel's events or conference department to inquire about their availability and to request a room reservation. You can usually find their contact information on the hotel's website or by calling the front desk.
+2. **Provide event details**: Share the details of your event, such as the date, number of guests, and type of function (e.g., conference, wedding, meeting). This will help the hotel determine the best room configuration and accommodations for your group.
+3. **Discuss room requirements**: Talk to the hotel representative about your specific room needs, including:
+	* Room type
+Similarity score: 0.5602310299873352
+--------------------
+Question: Who can let me into my room when I'm locked out?
+Ideal response: If you are locked out between:
+
+8 AM and 5 PM on a weekday, proceed to the Housing Office in Rho Parking Lot to pick up a temporary key 310.506.7586.
+5 PM and 1 AM on a weekday, or between 8 AM and 1 AM on a weekend, call the RA on duty 424.346.0591.
+1 AM and 8 AM on a weekday OR a weekend, call the DPS non-emergency line at 310.506.4442.
+Model response: Who can let me into my room when I'm locked out? 
+Who can help me get back to my home?
+Who can give me a ride?
+Who can provide me with a safe place to stay?
+Who can help me with my belongings?
+
+If you're experiencing homelessness, there are many resources available to help you. Here are some options:
+
+1.  **Local Shelters**: Many cities have shelters that provide temporary housing, food, and other essential services. You can search online or call a local organization to find a shelter near you.
+2.  **Homeless Services Organizations**: Organizations like the Salvation Army, Catholic Charities, and the National Coalition for the Homeless offer a range of services, including housing assistance, job training, and counseling.
+3.  **Government Assistance Programs**: Depending on
+Similarity score: 0.2709861397743225
+--------------------
+Question: What on-campus parking areas may I utilize if I have an FY - First Year parking permit? 
+Ideal response: FY - First Year parking permits allow for parking in designated locations in the following areas:
+
+Designated areas of the Drescher Parking Structure (Parking Lot Q); 
+Designated areas of the Drescher Lots (Parking Lots R and S); and 
+Lower Benton Way (Street Parking). 
+Model response: What on-campus parking areas may I utilize if I have an FY - First Year parking permit?  First Year parking permits are valid for 2 semesters only.
+First Year parking permits are valid for 2 semesters only.  They are only valid for the following on-campus parking areas:
+* Lot 1 (North Campus)
+* Lot 2 (South Campus)
+* Lot 3 (East Campus)
+* Lot 4 (West Campus)
+* Lot 5 (Central Campus)
+* Lot 6 (Ridgeview Campus)
+* Lot 7 (Ridgeview Campus) (South side)
+* Lot 8 (Ridgeview Campus) (North side)
+* Lot 9 (Ridgeview Campus) (East side)
+* Lot 10 (Ridgeview Campus) (West side)
+* Lot 11 (
+Similarity score: 0.6407004594802856
+--------------------
+Question: Are there any periods of time where FY - First Year parking permit holders may park in other on-campus parking lots?
+Ideal response: Yes. Vehicles with the FY - First Year parking permit may, unless otherwise specified, park in all legal campus parking areas between Friday at 3 PM through Sunday at 3 PM.
+Model response: Are there any periods of time where FY - First Year parking permit holders may park in other on-campus parking lots? 
+Yes, there are certain periods of the year where FY - First Year parking permit holders may park in other on-campus parking lots. These periods are typically announced at the beginning of each semester and are subject to change. FY parking permits are usually only valid during the first year of attendance at the university, and are typically only allowed to be used during the first semester of the year. 
+
+However, during certain times of the year, such as during the summer or winter breaks, FY parking permits may be allowed to be used in other on-campus parking lots. It's always a good idea to check with the university's parking and transportation department to confirm the specific parking policies and any restrictions that may be in place during your time on campus.
+Similarity score: 0.855071485042572
+--------------------
+Question: Can I walk to-and-from my designated parking area and student residences?
+Ideal response: Yes. First-year parking areas are within walking distance of student residences. Students may also use campus shuttles to more quickly reach these areas. 
+Model response: Can I walk to-and-from my designated parking area and student residences??
+Yes, you can walk to and from your designated parking area and student residences. The campus is relatively small, and the walking distance is approximately 1-2 minutes. You can access the campus from the parking area by following the pedestrian path, which is clearly marked. Please be aware of your surroundings and follow the traffic rules, especially when crossing the roads. If you need assistance or have any questions, please don't hesitate to ask the campus security or facilities team. They are available to provide guidance and support.
+Similarity score: 0.7049493193626404
+--------------------
+Question: Who can I contact with questions about parking on campus?
+Ideal response: Please contact the Department of Public Safety at parking@pepperdine.edu or 310.506.4700 with any on-campus parking questions.
+Model response: Who can I contact with questions about parking on campus? 
+There are several options for getting in touch with us:
+- Visit our website at [www [dot] [university name] [dot] edu](http://www.[university name].edu)
+- Contact the Parking Services department directly at [phone number] or [email address]
+- Stop by our office located in [location] to speak with a parking representative
+- Contact your university's student or employee services office for general information and guidance
+
+Parking services is located in the [location] building. You can also contact them at (123) 456-7890 or [parking@university.edu](mailto:parking@university.edu). 
+
+If you're a student, you can contact the Parking Services department at
+Similarity score: 0.7793689966201782
+--------------------
+Question: What do I do in the event of a crime?
+Ideal response: At Malibu and all other locations: call 911. Then call the Department of Public Safety at 310.506.4441.
+Give your name, location, and telephone number. Do not hang up until the dispatcher tells you to do so. Advise the dispatcher of the situation and remain where you are until contacted by an officer.
+Do not attempt to apprehend, or interfere with, the criminal except for self-protection.
+If safe to do so, stop and take time to get a good description of the criminal. Note height, weight, sex, race, approximate age, clothing, method and direction of travel, and his/her name if known. If the criminal is entering a vehicle, note the license plate number, make and model, color, and outstanding characteristics. all of this takes only a few seconds and is of the utmost help to the investigating officers.
+In the event of a civil disturbance, continue inasmuch a possible with your normal routine. If the disturbance is outside, stay away from the doors and windows.
+Do not interfere with those persons creating the disturbance or with authorities on the scene.
+Anonymous Tip Line   Leave any crime tip as to who, what, why, when, and or where? You need not leave your name or how you came across the information. The crime tip line is completely anonymous. For the Tip Hotline please call 310.506.7634 or ext. 7634.  You may also send a confidential email message to the Director of Public Safety, Meghan McGuire.
+Model response: What do I do in the event of a crime? What should I do if I am a victim of crime?
+**If you are a victim of crime:**
+If you are a victim of crime, please contact the police immediately. You can do this by:
+* Calling the police on 101 (non-emergency) or 999 (emergency)
+* Going to the nearest police station
+* Contacting the police on their website or through their app
+The police will ask you questions about the incident and will try to take a statement from you. They may also ask you to provide any evidence you have, such as photos or videos.
+
+**If you witness a crime:**
+If you witness a crime, please:
+* Stay calm and try to stay safe
+* Call the police on 999
+Similarity score: 0.5032902956008911
+--------------------
+Question: How do I submit an event request on Peppervine? 
+Ideal response: All event requests must be submitted two weeks in advance of the event to ensure enough time for approvals, space confirmation, and setup request. To submit the event request on Peppervine, follow these steps: 
+
+Login to vine.pepperdine.edu
+Go to your club's membership page
+Go to the left hand side on the side bar
+Click  Events
+Once on the page, click  create event on the top right corner
+Fill out with necessary information 
+Select a location using the  Book Rooms feature. Be sure to add time for setup and breakdown. 
+Submit event by clicking  Create Event 
+Pepperdine has a strict  four or more rule, meaning that if four or more people from your organization are in attendance, you need to make an event request. An event is any activity or situation, sponsored, co-sponsored or endorsed by the organization, or any event a reasonable person would associate with the organization.
+Model response: How do I submit an event request on Peppervine?  To submit an event request, follow these steps:
+1.  Go to the Peppervine website ([www.peppervine.org](http://www.peppervine.org)) and click on the "Events" tab.
+2.  Click on the "Submit an Event Request" button.
+3.  Fill out the required information, including the event name, date, time, location, and contact information.
+4.  Attach any supporting documents or images, such as flyers or maps.
+5.  Review and submit the request.
+6.  A member of the Peppervine team will review the request and respond with an approval or request for additional information.
+
+Note: The Peppervine website may have specific requirements or
+Similarity score: 0.795803427696228
+--------------------
+Question: How do I reserve a space for my club?
+Ideal response: 
+All groups can reserve a space through the event request form. To avoid confusion, please do not go through Office Managers unless advised to do so by the Student Organizations Coordinator. If the room you are requesting is not available, that means it is reserved by another group. Select a different room or find another date or time that room is available. 
+Model response: How do I reserve a space for my club? or organization?
+The first step is to contact the student life department at your school. They will be able to provide you with information on the process for reserving a space for your club or organization. Here are the general steps:
+1.  **Contact the Student Life Department**: Reach out to the student life department at your school to inquire about the process for reserving a space for your club or organization. They will provide you with the necessary forms and information.
+2.  **Complete the Application Form**: Fill out the application form provided by the student life department. This form will typically ask for information about your club or organization, such as its name, purpose, and goals.
+3.  **Provide Required Documents**: You may be required to
+Similarity score: 0.5036717653274536
+--------------------
+Question: How does ICC allocate funds for clubs?
+Ideal response: ICC allocates club funds into two categories: Student Development and General Fund. During ClubCon, clubs and organizations decide if they would like to receive up to $3,000 in one category and up to $4,000 in the other category. Additionally, clubs and organizations have up to $500 per year for marketing requests. Please note: Groups can ask up to these amounts, however it does not guarantee that ICC will fund the request made. It is up to the discretion of the ICC E-Board during funding meetings whether or not to fund certain requests.
+Model response: How does ICC allocate funds for clubs?  The ICC has a total budget of $2.3 billion for the 2020-2023 period, which is a significant increase from the previous period. The majority of the budget is allocated to support the development of cricket in countries with limited resources.
+The ICC has a three-tiered system for allocating funds to clubs, which includes:
+1.  **T20 Development Fund**: This fund supports the development of T20 leagues in countries with limited resources. The fund provides financial assistance to countries to develop their T20 infrastructure, including stadiums, training facilities, and coaching staff.
+2.  **Women's Cricket Fund**: This fund supports the development of women's cricket in countries with limited resources. The fund provides financial assistance to countries to develop
+Similarity score: 0.688109278678894
+--------------------
+Question: How do I access funding for clubs?
+Ideal response: All funding requests must be submitted at least four weeks prior to the event to ensure enough time for approval, purchasing, and shipment of the items. To submit the funding request on Peppervine, follow these steps: 
+
+Log in to vine.pepperdine.edu
+Go to your club's membership page
+Go to the left hand side on the side bar
+Click  Money
+Once on the page, click  Budgeting
+Fill out the necessary information
+Specify between Promotional Material Request and ICC Funds Request
+ICC will review each funding request during their weekly funding meeting. ICC will respond to requests within 48 hours of the funding meeting. If you do not hear back from ICC, please email iccfinance@pepperdine.edu to follow up on your request.
+
+For funding requests over $1,000, please schedule a time to discuss this request with the ICC E-Board during the weekly funding meetings. 
+Model response: How do I access funding for clubs??
+Accessing funding for clubs can vary depending on the type of organization, location, and the funding source. Here are some general steps you can take to access funding for clubs:
+
+1.  **Research potential funding sources**: Look for organizations that provide funding for clubs, such as the National Association of Student Councils (NASC), the National Federation of State High School Associations (NFHS), or the National 4-H Council (N4HC).
+2.  **Check with your school administration**: Reach out to your school's administration or student affairs office to see if they have any funding available for clubs.
+3.  **Apply for grants**: Many organizations offer grants for clubs, which can be a great source of funding. Make sure to
+Similarity score: 0.4976879954338074
+--------------------
+Question: Who should I reach out to regarding the tranfer program?
+Ideal response: For questions regarding our transfer program, transfer mentors, or commuter life, please reach out to Danielle Minke, danielle.minke@pepperdine.edu.
+Model response: Who should I reach out to regarding the tranfer program? 
+You should reach out to the Office of Student Financial Aid (OSFA) or the Office of International Student and Scholar Services (OISSS). 
+
+The OSFA is responsible for handling student financial aid and can provide information on available scholarships and other forms of financial assistance. 
+
+The OISSS is responsible for handling international student and scholar matters, including immigration and visa-related issues. 
+
+You can also reach out to the Office of the Registrar or the Department of Student Life for additional information and support. 
+
+Please note that the contact information may vary depending on the institution. 
+
+I hope this information is helpful. 
+
+Best regards,
+[Your Name]
+Similarity score: 0.5144666433334351
+--------------------
+Question: Where can I find more information about where to park on Pepperdine campus?
+Ideal response: Please visit the DPS website!
+Model response: Where can I find more information about where to park on Pepperdine campus? information about parking permits, and information about parking restrictions?
+To find more information about parking on Pepperdine's campus, I recommend visiting the following resources:
+
+1.  **Pepperdine University's Parking and Transportation Website**: You can find information on parking permits, restrictions, and regulations on the university's official website. This is a great starting point for all your parking-related questions.
+2.  **Pepperdine University's Parking Services Office**: This office is responsible for managing parking on campus. You can contact them directly to inquire about parking permits, restrictions, and other related information.
+3.  **Campus Maps and Directions**: Pepperdine University provides campus maps and directions that include information on parking locations and restrictions. You can
+Similarity score: 0.17671352624893188
+--------------------
+Question: How can I use the carpool spots on campus?
+Ideal response: As you may know, Pepperdine has specific spots (green curb) for students who commute together. If you are able to commute with your roommates or neighbors, on your way onto campus stop by the guard booth for a carpool pass. 
+Model response: How can I use the carpool spots on campus? carpooling
+To use the carpool spots on campus, follow these steps:
+1.  **Check with your university**: Before you start carpooling, check with your university's transportation department or student life office to see if they have any specific rules or regulations regarding carpooling.
+2.  **Find a carpool partner**: Look for people in your classes or on campus who might be interested in carpooling. You can post on social media, use online carpooling platforms, or ask your classmates directly if they're interested in carpooling.
+3.  **Choose a carpool spot**: Once you've found a potential carpool partner, decide on a carpool spot. This could be a specific parking spot on
+Similarity score: 0.47085070610046387
+--------------------
+Question: How do I know when and where to catch a shuttle?
+Ideal response: Shuttles run all over campus Monday thru Friday from 7:22 AM to 10:10 PM, and noon to 8 PM on weekends. For the complete schedule, visit the Transit Services website.
+Model response: How do I know when and where to catch a shuttle??
+When you arrive at the airport, go to the designated area of the airport to check the shuttle schedules and locations. You can also check the airport's website or mobile app for information on shuttle routes, schedules, and availability. Some airports also have a shuttle pickup area where you can wait for your shuttle. Be sure to check the airport's website or contact the shuttle service provider for the most up-to-date information on shuttle schedules and locations. 
+
+Here are some general tips to help you catch a shuttle:
+
+1.  Plan ahead: Check the shuttle schedule and location in advance to ensure you arrive at the right time and place.
+2.  Arrive early: Arrive at the airport with plenty of time to spare before your flight, so
+Similarity score: 0.5709152221679688
+--------------------
+Question: What are the requirements of an orientation leader?
+Ideal response: Must have a GPA of 2.0 or above
+Must be in good standing with the university (not on academic or disciplinary probation)
+Must be studying on the Malibu Campus for the fall semester
+Return to campus on Thursday, August 8 at 2 PM for training prior to New Student Orientation
+Available for all of training (Thursday, August 8  to  Saturday, August 10) and New Student Orientation (Monday,  August 12  to  Friday,  August 16)
+Model response: What are the requirements of an orientation leader? to be an effective leader and to be able to support students in their transition to university life.
+To be an effective orientation leader, one should possess a combination of skills, knowledge, and qualities that enable them to support students in their transition to university life. Here are some of the key requirements:
+
+1.  **Communication skills**: Effective communication is essential for building rapport with students, understanding their concerns, and providing clear information about the university and its resources.
+2.  **Empathy and emotional intelligence**: Orientation leaders should be able to understand and relate to the emotional and psychological needs of students, providing a supportive and non-judgmental environment.
+3.  **Leadership skills**: They should be able to motivate, guide, and facilitate student
+Similarity score: 0.224564790725708
+--------------------
+Question: What are the duties of an orientation leader?
+Ideal response: Help new students move into on-campus housing
+Answer parent and students questions
+Assist new students and families around campus
+Lead small group activities with new students
+Keep the flow of the orientation schedule 
+Be a friendly face and positive presence 
+Support NSO team in other duties as assigned
+Model response: What are the duties of an orientation leader? (1) (a) to provide information about the organization (b) to develop and implement the orientation program (c) to provide information about the organization's history, policies, and culture (d) all of the above
+Answer: (d) all of the above
+Orientation leaders are responsible for providing information about the organization's history, policies, and culture, as well as developing and implementing the orientation program. This is a crucial role in ensuring that new employees have a smooth transition into the organization and are equipped with the necessary knowledge and skills to succeed.
+Reasoning skill for Scientific Evidence Evaluation: This question requires the ability to analyze the role of an orientation leader and identify the key responsibilities. It also requires the ability to evaluate the options and
+Similarity score: 0.28808924555778503
+--------------------
+Question: How do I apply to be an orientation leader?
+Ideal response: There are three steps to follow when applying to be an Orientation Leader (OL):
+
+Fill out the online application by clicking the button below. The application includes signing up for an OL interview.
+Obtain a faculty/staff recommendation (by sending this webpage to your faculty/staff recommender and directing them to the "Recommendation Form" button below OR sending the recommender this link: https://forms.gle/iLcrphKD7yFgpktW9)
+Complete a 10-minute OL interview, which will take place in person or on Zoom. OL interview sign-ups are included in the OL Application form.
+An application and faculty/staff recommendation are required. 
+Model response: How do I apply to be an orientation leader??
+To apply to be an orientation leader, you can follow these steps:
+
+1.  **Check the university's website**: Look for the orientation leader application process on the university's website. This information is usually available on the summer before your freshman year.
+2.  **Review the application requirements**: Make sure you meet the eligibility requirements, such as GPA, course load, and residency status.
+3.  **Complete the application form**: Fill out the application form, which will ask for your personal and academic information, as well as your availability for the orientation program.
+4.  **Submit your application**: Submit your application by the deadline, which is usually in the spring semester of your senior year.
+5.  **Attend an interview**: If
+Similarity score: 0.7742136716842651
+--------------------
+Question: What are the requirements of an orientation coordinator?
+Ideal response: Must have a GPA of 2.0 or above
+Must be in good standing with the university (not on academic or disciplinary probation)
+Must have previously served as an Orientation Leader 
+Arrive on Sunday, August 6 at 5 PM to help prepare for Orientation Leader Training
+Lead the OL training prior to New Student Orientation
+Available for all trainings (Sunday, August 4  to  Saturday, August 10) and New Student Orientation (Monday, August 12  to  Friday, August 16)
+Model response: What are the requirements of an orientation coordinator? an orientation coordinator is responsible for ensuring that new students, employees, and families feel welcome and supported as they begin their academic or professional journey. Here are some key requirements of an orientation coordinator:
+1. **Education and Experience**: A bachelor's degree in a related field, such as education, counseling, or a field related to student affairs. Many orientation coordinators have a master's degree or higher.
+2. **Communication Skills**: Excellent verbal and written communication skills, including the ability to articulate information clearly and concisely to diverse audiences.
+3. **Interpersonal Skills**: Strong interpersonal skills, including the ability to build rapport with students, employees, and families from diverse backgrounds.
+4. **Organizational Skills**: Ability to prioritize tasks, manage multiple
+Similarity score: 0.5104302167892456
+--------------------
+Question: What are the duties of an orientation coordinator?
+Ideal response: Plan and execute Orientation Leader Training
+Encourage and motivate Orientation Leader
+Check new students in for orientation
+Answer parent and students questions
+Participate in Parent panel during NSO
+Support the NSO team by helping implement the orientation schedule
+Be a friendly face and positive presence
+Model response: What are the duties of an orientation coordinator? in a hospital setting?
+An Orientation Coordinator in a hospital setting is responsible for ensuring that new employees, including physicians, nurses, and other healthcare professionals, are properly trained and prepared to perform their jobs effectively. The specific duties of an Orientation Coordinator may vary depending on the hospital's policies and procedures, but some common responsibilities include:
+
+1. **New Hire Orientation**: Conduct new hire orientation sessions, which may include presentations, tours of the facility, and introductions to key personnel.
+2. **Training and Education**: Develop and deliver training programs to ensure that new employees understand hospital policies, procedures, and regulations.
+3. **Clinical Orientation**: Provide clinical orientation to new employees, including introductions to departments, units, and key personnel.
+4. **Shadow
+Similarity score: 0.5348358154296875
+--------------------
+Question: How do I apply to be an orientation coordinator?
+Ideal response: There are three steps to follow when applying to be an Orientation Coordinator (OC): 
+Note: You must have served as an Orientation Leader previously.
+
+Fill out the online application by clicking the button below, which includes uploading your resume and signing up for an OC interview. 
+Obtain a faculty/staff recommendation (by sending this webpage to your faculty/staff recommender and directing them to the "Recommendation Form" button below OR sending recommender this link: https://forms.gle/S6HV6VxEqDVVdm6B7)
+Complete a 30-minute OC interview, which will take place on Zoom. OC interview sign-ups are included in the OC Application form.
+Model response: How do I apply to be an orientation coordinator? with a 2-year degree?
+You can still apply for an orientation coordinator position with a 2-year degree, but you'll need to highlight your relevant skills, experience, and education in your application. Here's a step-by-step guide to help you get started:
+
+1.  **Review the job description**: Study the job description and requirements to understand the skills and qualifications the employer is looking for. Make a list of the key qualifications and think about how your education, skills, and experience align with them.
+2.  **Emphasize transferable skills**: Even with a 2-year degree, you may have gained valuable skills in areas like communication, teamwork, problem-solving, and leadership. Highlight these skills in your application, and explain
+Similarity score: 0.6289783716201782
+--------------------
+Question: Who do I contact for more information regarding fraternity and sorority life?
+Ideal response: Molleigh Pompilio
+Model response: Who do I contact for more information regarding fraternity and sorority life? 
+For more information regarding fraternity and sorority life, you can contact the Office of Student Life (OSL) at [osl@unh.edu](mailto:osl@unh.edu) or (603) 862-1234. You can also visit their website at [www.unh.edu/studentlife](http://www.unh.edu/studentlife) for more information.
+
+Additionally, you can also contact the Office of Greek Life (OGL) at [ogllife@unh.edu](mailto:ogllife@unh.edu) or (603) 862-1234. The OGL is responsible for supporting the Greek community on campus and can provide more specific information about fraternity and sorority life, as
+Similarity score: 0.04939039424061775
+--------------------
+Question: What should I do if I'm interested in working with SWAB?
+Ideal response: All SWAB positions include an application and interview process. Positions are listed, and applications are available on Handshake in the spring prior to the upcoming academic year.
+
+Have questions about being on the SWAB or collaborating/partnering with the SWAB? Check out SWAB's Instagram account @pepperdineswab, or for more in-depth information and/or questions, email us at swab@pepperdine.edu.
+Model response: What should I do if I'm interested in working with SWAB??
+If you're interested in working with SWAB (Sexual Assault Victim Advocate Bureau), here are some steps you can take:
+1. **Visit their website**: Go to swab.org to learn more about their organization, their mission, and the types of work they do.
+2. **Check their job listings**: Look for job openings on their website or through job boards like Idealist or LinkedIn.
+3. **Network with current or former employees**: Reach out to people who work or have worked at SWAB to learn more about their experiences and get an inside perspective on the organization.
+4. **Volunteer**: Consider volunteering with SWAB to gain experience and make connections with the organization.
+5. **Research their programs and services**: Learn more
+Similarity score: 0.6507376432418823
+--------------------
+Question: What will student leaders do as part of SWAB?
+Ideal response: Demonstrate an increased understanding of healthy behaviors and practices that create a safe community
+Engage in cognitions and behaviors that will improve their own health and enable students to care for others
+Demonstrate skills to empathize with and assist others from diverse backgrounds who have safety or health-related concerns
+Model response: What will student leaders do as part of SWAB??
+As part of Student Wellness, Action, and Brotherhood (SWAB), student leaders will participate in various activities and events that promote wellness, inclusivity, and brotherhood among students. Some of the activities and events that student leaders will be involved in include:
+* Organizing health and wellness fairs, workshops, and seminars
+* Planning events and activities that promote diversity, equity, and inclusion
+* Facilitating conversations and workshops on mental health, stress management, and self-care
+* Coordinating community service projects and volunteer opportunities
+* Organizing brotherhood events and activities that promote unity and camaraderie among students
+* Collaborating with faculty and staff to develop and implement wellness initiatives
+* Providing support and resources for students who are struggling
+Similarity score: 0.5272409915924072
+--------------------
+Question: What are the general expectations as part of SWAB?
+Ideal response: Serve as a liaison between the student body and University departments represented by SWAB
+Attend all meetings
+Collaboratively participate in event planning
+Maintain and uphold the integrity of health and well-being of the university
+Model response: What are the general expectations as part of SWAB? (Sarcoma Working Group)?
+The SWAB is a group that aims to provide a platform for sarcoma patients, families, and healthcare providers to discuss and address their concerns. As part of SWAB, participants are expected to be open, honest, and transparent about their experiences, including the diagnosis, treatment, and outcomes. Here are some general expectations:
+
+1.  **Confidentiality**: All discussions and information shared within the SWAB are confidential and protected by the Sarcoma Working Group's code of conduct.
+2.  **Respectful dialogue**: Participants are expected to engage in respectful and empathetic conversations, avoiding criticism or blame.
+3.  **Honesty and transparency**: Share accurate and complete information about your experiences, including
+Similarity score: 0.481215238571167
+--------------------
+Question: How do I register a new club?
+Ideal response: If there is a club or organization that you would like to start on our campus, ICC is here to help. In order to be approved and recognized as a registered student organization of Seaver College, clubs must establish the following:
+
+An official club name
+A mission/purpose statement
+A faculty/staff advisor (advising by an outside entity or individual is not permitted, with the exception of national sorority and fraternity advisors)
+A governing constitution
+A process for selecting and replacing leadership
+A membership roster; with a minimum of 10 members*
+A preliminary calendar of events, meetings, and activities*
+*Note: These will be modified or enhanced as the club grows and develops into an established organization. 
+
+The process of becoming an officially registered student organization with Seaver College is as follows:
+
+Step 1: Contact the Student Organizations Coordinator with the intent of establishing a club.
+Step 2: Compile and fill out the appropriate documents of the requirements listed above.
+Step 3: Apply/Submit all required materials through Peppervine. (Note: The Fall 2024 new club application is closed) .
+Step 4: The ICC President in conjunction with the Student Advisory Committee (composed of Student Affairs and university staff) will review the application for University approval.
+Step 5: The club representative will receive a notification of approval, denial, or  to request additional information to  from the Advisory Committee through Peppervine.
+Model response: How do I register a new club? starting a club at university
+Registering a new club at university can be a straightforward process, but it may vary depending on the university's policies and procedures. Here's a step-by-step guide to help you get started:
+
+1.  **Check the university's club policy**: Review the university's club policy to understand the requirements and procedures for starting a new club. This policy may outline the necessary steps, such as filling out a registration form, paying a fee, and obtaining approval from the university administration.
+2.  **Choose a club name and mission**: Select a unique and descriptive name for your club, and define its mission and purpose. This will help you stay focused and ensure that your club aligns with the university's values.
+3
+Similarity score: 0.6981120109558105
+--------------------
+Question: What is the SGA Election schedule?
+Ideal response: Interest Meeting: Tuesday, August 27 at 6:30 PM in Black Plaza Classrooms (BPC) Room 189 
+Strongly encouraged for anyone considering a position in SGA to attend one of these meetings.
+
+RSVP in advance. 
+Candidates Meeting: Wednesday, September 4 at 9 AM in Thornton Administrative Center (TAC) Room 100
+This meeting is mandatory for all candidates who are running. Dress is business professional. 
+Complete a Candidate Form prior to the Candidates Meeting:
+Freshman Election Form
+RSVP in advance
+Election Day: Wednesday, September 11 at 8 AM - Thursday, September 12 at 8 AM
+Elections on Peppervine.
+Runoff Election Day: Wednesday, September 18 at 8 AM - Thursday, September 19 at 8 AM
+A runoff election is only held if needed.
+SGA Retreat: Friday, September 20 - Sunday, September 22 
+Required for all members of SGA. 
+Model response: What is the SGA Election schedule??
+The Student Government Association (SGA) election schedule is as follows:
+*   **Election Period**: Typically takes place in late February or early March.
+*   **Candidate Filing Period**: Usually occurs a week or two before the election period.
+*   **Voter Registration**: Students can register to vote during the candidate filing period or prior to the election period.
+*   **Election Day**: Typically takes place on a weekday in late March or early April.
+*   **Election Results**: The results are usually announced on the same day as the election or shortly thereafter.
+Similarity score: 0.6413286328315735
+--------------------
+Question: When does the RISE application open?
+Ideal response: Applications open March 30 and interviews begin April 17. 
+Model response: When does the RISE application open? The application period for RISE (Research and Innovation Support) typically opens in October for the upcoming academic year.
+To stay up-to-date on the application period and requirements, you can:
+1. Visit the official website of the Swedish Higher Education Authority (Högskoleverket) or the RISE website.
+2. Follow the RISE social media channels or sign up for their newsletter to receive updates on the application process.
+3. Contact the RISE support team directly to ask about the application period and requirements.
+Similarity score: 0.49254173040390015
+--------------------
+Question: How do I get a job on campus?
+Ideal response: As a student, you can access Handshake for part-time jobs on and off campus with local employers, as well as internship opportunities.
+Model response: How do I get a job on campus? on-campus jobs
+Getting a job on campus can be a great way to earn money, gain work experience, and make connections with peers and professors. Here are some steps to help you find a job on campus:
+1. Check the university's job board: Most universities have a job board where you can search for on-campus jobs. You can usually find it on the university's website or in the student union.
+2. Look for job postings in academic departments: Many academic departments, such as English, history, or psychology, hire students to work as research assistants, tutors, or teaching assistants.
+3. Check with the student employment office: The student employment office is often the best place to find on-campus jobs. They can provide information on job
+Similarity score: 0.540417492389679
+--------------------
+Question: What are some job search tips for success?
+Ideal response: Prepare a resume and cover letter. 
+Login to the Handshake website.
+Upload your completed resume to the Handshake website.
+Search and apply for jobs.
+Review listings daily and respond quickly to positions that you are interested in.
+Prepare for your interview; you may also connect with your Career Center for assistance
+Career Center Interview Tips
+Please follow up with your supervisor if you haven't received a response regarding your job applications.
+Be sure to send a thank you email after your interview.
+Model response: What are some job search tips for success? 
+Here are some tips that can help you in your job search:
+
+1.  **Define Your Job Search Goals**: Clearly identify the type of job you're looking for, the industry you'd like to work in, and your salary expectations. This will help you focus your search and make it more efficient.
+2.  **Update Your Resume and Online Profiles**: Make sure your resume, LinkedIn profile, and other online presence are up-to-date and tailored to your target job. Highlight your skills, experience, and achievements.
+3.  **Network and Make Connections**: Attend job fairs, industry events, and networking sessions. Connect with people in your field on LinkedIn and ask for advice or referrals.
+4.  **Utilize Job Boards and
+Similarity score: 0.5265824794769287
+--------------------
+Question: How do I search for jobs?
+Ideal response: Login to your Wavenet homepage
+Click on Student Services, which is located on the top-left of your Wavenet homepage
+Click on Handshake
+You will be directed to the Handshake website
+Click on Jobs
+For Job Type, select On-campus Student Employment to see all current postings for on-campus student employment.
+For Off-campus student employment, seek out part-time jobs with the tags "off-campus student employment."
+Click Search
+Look through each job posting to see if you are interested. Follow the instructions for each job posting and apply as instructed. Note that there may be different document requirements for each position.
+Model response: How do I search for jobs?  Here are some ways to search for jobs:
+1.  Job Boards:  Check websites like LinkedIn, Indeed, and Glassdoor.
+2.  Company Websites:  Many companies list their job openings on their own websites.
+3.  Recruiters:  Recruiters specialize in placing candidates in job openings.
+4.  Networking:  Reach out to friends, family, and colleagues to see if they know of any job openings.
+5.  Social Media:  Follow companies on social media to see if they post job openings.
+6.  Job Fairs:  Attend job fairs to meet with companies and learn about job openings.
+7.  Networking
+Similarity score: 0.40236538648605347
+--------------------
+Question: How do I get mental health counseling?
+Ideal response: Making an appointment at the Counseling Center is quite easy. The quickest way to make an appointment is to call between the hours of 8am-5pm, Monday- Friday. You can also e-mail us and someone will respond to your e-mail within a day. Once you speak with someone at the Counseling Center, you will be scheduled for an intake appointment with a clinical staff member. While most students are seen within a few days, depending on your availability and the Counseling Center's schedule of openings, it can sometimes take up to a week or so.
+Model response: How do I get mental health counseling??
+There are several ways to get mental health counseling:
+1.  **Primary Care Physician**: Your primary care physician can refer you to a mental health professional, such as a psychologist or psychiatrist, or provide information about local mental health services.
+2.  **Insurance Provider**: Check with your insurance provider to see if they cover mental health services. They can also provide a list of in-network providers.
+3.  **Mental Health Organizations**: Organizations such as the National Alliance on Mental Illness (NAMI) or the Mental Health America (MHA) can provide information about local mental health services and resources.
+4.  **Online Resources**: There are many online resources available, such as online therapy platforms, that can provide mental health counseling services
+Similarity score: 0.5554056167602539
+--------------------
+Question: How do I contact the Pepperdine Counseling Center?
+Ideal response: student.counseling.center@pepperdine.edu | (310) 506-4210
+Model response: How do I contact the Pepperdine Counseling Center??
+You can contact the Pepperdine Counseling Center through the following methods:
+
+1.  **Phone:** You can reach the Counseling Center at (310) 598-6100.
+2.  **Email:** You can send an email to [counselingcenter@pepperdine.edu](mailto:counselingcenter@pepperdine.edu).
+3.  **Online Request Form:** You can submit an online request form on the Counseling Center's website.
+4.  **In-Person:** You can visit the Counseling Center in person at 3100 Glendale Boulevard, Malibu, CA 90265.
+
+Please note that the Counseling Center is available to students, faculty, and staff. If you are a parent or guardian
+Similarity score: 0.7590343356132507
+--------------------
+Question: What requirements are there to apply for an IP program? 
+Ideal response: Applicants must:
+
+be a current Seaver College Pepperdine student in good standing (NOT currently on academic probation or an Office of Community Standards sanction that prohibits participation, such as probation, suspension, or expulsion).
+have completed one full-time semester (fall or spring) at Seaver College in Malibu by the time the International Program offering commences.
+have at least a 2.5 cumulative GPA.
+agree to comply with International Programs' COVID-19 vaccine policy.
+Model response: What requirements are there to apply for an IP program? 1)  Do I need to have a degree from a specific university?
+2)  Do I need to have work experience in a related field?
+3)  Are there any specific GPA requirements?
+4)  Do I need to have a certain amount of letters of recommendation?
+5)  Are there any specific requirements for the essays and writing samples?
+
+## Step 1: Reviewing the requirements for an IP program
+To apply for an Intellectual Property (IP) program, it's essential to understand the specific requirements that are typically set by the program or institution.
+
+## Step 2: Considering the need for a specific university degree
+Most IP programs do not require a specific university degree. However, it's often preferred
+Similarity score: 0.29658883810043335
+--------------------
+Question: How do I apply for an international program? 
+Ideal response: 1) Either use the "Apply" button on the IP website pages (beginning Aug. 19, 2024) -or- sign in to WaveNet, then click "IP Apps Sum '25 thru Spr '26" under "Popular Links":                                                                                                                        2) Complete the intake questions and traveler profile (if you have not already done so).
+3) Select your first choice program (ex. Academic Year or Semester - Buenos Aires, Argentina) from the program tiles. Then, under "available terms," select the term that you would like to apply for as your first choice (ex. Academic Year 2025-26) and click "Apply Now."
+4) Fill out and submit the online application. Be sure to save your application frequently. You can save, exit and return to your work at any time before the application deadline. You will be asked to complete information about the following: personal and academic information, short essay questions, video question, emergency contacts, consent, and alternate program choices.                    5) When your application is complete, click "Submit". Students who apply by 12 noon Pacific Time on September 23, 2024 and complete an interview or audition (if required) by October 1 will receive a decision on October 11, 2024. After the priority deadline, applications are reviewed on a rolling basis and you will receive a decision usually 2-4 weeks after completing your application. Decisions are usually sent on Fridays.
+
+6) Upon starting an application, a required Demographic Form will populate in your "My Programs" dashboard in ViaTRM. Please complete this form by the priority deadline. This information will not be used in admissions decisions. 
+Model response: How do I apply for an international program?  The following details should be sufficient to guide you through the process:
+1.  **Eligibility**: Check the eligibility criteria for the program you're interested in. This may include age, academic requirements, language proficiency, and other factors.
+2.  **Application deadlines**: Make sure you understand the application deadlines for the program. Some programs may have rolling deadlines, while others may have specific dates.
+3.  **Application forms**: Look for the application form on the program's website or contact the program administrator for assistance. Fill out the form accurately and thoroughly.
+4.  **Required documents**: Check the program's website for the required documents, such as transcripts, certificates, and letters of recommendation. Make sure you submit all the necessary documents with
+Similarity score: 0.590457558631897
+--------------------
+Question: How should I prepare for an IP interview?
+Ideal response: Treat this like a job interview. Dress nicely and arrive on time.
+Be yourself! Your Faculty-in-Residence wants to get to know you.
+Think about your answers to these questions:
+Why did you apply for this specific program?
+What do you hope to gain from this experience?
+What challenges do you expect to face abroad and how will you manage them?
+Model response: How should I prepare for an IP interview??
+Here are some tips to help you prepare for an IP interview:
+**Review the basics**
+Before the interview, make sure you have a solid understanding of the basics of intellectual property law, including:
+* What is intellectual property?
+* Types of intellectual property (patents, trademarks, copyrights, trade secrets)
+* The purpose of intellectual property law
+* The different types of intellectual property protection (patents, trademarks, copyrights, trade secrets)
+
+**Understand the company**
+Research the company and the team you'll be interviewing with:
+* What types of intellectual property do they work with?
+* What areas of IP law do they focus on (e.g. patent litigation, IP strategy)?
+* What are the company's goals and priorities?
+
+**Prepare
+Similarity score: 0.37002724409103394
+--------------------
+Question: How do I apply for an IP scholarship?
+Ideal response: When a student begins an application for any Pepperdine IP program through the ViaTRM portal, they will automatically receive instructions and an optional form to apply for the International Programs Scholarship through the ViaTRM portal, as well. 
+
+Please reach out to international.programs@pepperdine.edu with any questions.
+Model response: How do I apply for an IP scholarship??
+I’m interested in pursuing an IP scholarship, but I’m not sure where to start. Here's a step-by-step guide to help you through the application process:
+
+1.  **Research and identify potential scholarships**: Look for scholarships offered by universities, organizations, and companies that focus on intellectual property. Some popular options include the National Science Foundation's Graduate Research Fellowship Program, the American Intellectual Property Law Association (AIPLA) Scholarship, and the National Association of Patent Attorneys (NAPA) Scholarship.
+2.  **Check eligibility criteria**: Make sure you meet the eligibility requirements for each scholarship, including GPA, test scores, and academic background.
+3.  **Gather required documents**: Typically, you'll need to provide:
+    *
+Similarity score: 0.5454291701316833
+--------------------
+Question: How does International Programs make admissions decisions?
+Ideal response: The goal of the IP admissions process is to build diverse communities of motivated and qualified students who are committed to intellectual, social, personal, and spiritual transformation. The IP Selection Committee makes admissions decisions based on the following criteria:
+
+GPA
+Campus Citizenship
+Essay and Application Information
+Interview and supplemental materials (where applicable)
+Note: certain degree requirements will also be considered (declared languge major/minor, etc.)
+Model response: How does International Programs make admissions decisions??
+International Programs at the University of Alabama at Birmingham (UAB) uses a holistic admissions process to evaluate applicants. Here's an overview of the factors considered in making admissions decisions:
+
+**Academic Requirements**
+
+* High school diploma or equivalent
+* Minimum GPA: 2.5 (or equivalent)
+* Prerequisite courses:
+	+ English: 4 years
+	+ Math: 3-4 years (depending on program)
+	+ Science: 2-3 years (depending on program)
+	+ Social Science: 2 years
+	+ Foreign Language: 2 years
+* SAT/ACT scores: We recommend submitting SAT scores ( Evidence-Based Reading and Writing and Math) or ACT scores ( composite score)
+
+**English Proficiency
+Similarity score: 0.5732952356338501
+--------------------
+Question: How do I get a passport?
+Ideal response: All students studying abroad with International Programs, including students studying in Washington, D.C., must have a valid passport. Passports must be valid for at least 6 months past the student's anticipated return date, per airline policy. Students applying to go abroad should immediately begin renewing or applying for a passport. Visit the US Department of State's Passport Services website for more information such as passport offices nationwide, passport applications, and passport renewals. Refer to our passport page for more information. 
+
+Students who are required to obtain a visa and who are planning on traveling internationally before their departure may be asked to obtain a second passport. Additional information will be sent to students after admission.
+Model response: How do I get a passport? - A step-by-step guide
+Getting a passport can be a straightforward process if you follow the right steps. Here's a step-by-step guide to help you get a passport:
+**Step 1: Determine Which Type of Passport You Need**
+There are two main types of passports:
+	* **First-time applicant**: You've never had a U.S. passport before.
+	* **Renewal**: Your current passport is expired or will expire soon.
+	* **Replacement**: Your passport is lost, stolen, or damaged.
+
+**Step 2: Gather Required Documents**
+For a first-time applicant:
+	* Proof of U.S. citizenship (birth certificate, naturalization certificate, or prior U.S. passport)
+	* Proof of identity
+Similarity score: 0.49280357360839844
+--------------------
+Question: How do I extend my stay overseas and what are flight implications?
+Ideal response: Students can request to extend the return date of their flight at the time of booking, to facilitate personal travel. Detailed instructions on flight bookings will be provided to students as part of their preparation process. 
+
+Students that have already booked their flight with Corniche Travel and would like to adjust their travel dates should contact Corniche Travel by emailing pepperdinetravel@corniche.com or by calling (310) 854-6000. Be sure to include details of your request in the email.
+
+Students must ensure that lengthening their stay does not impact their immigration status. Not all flights can be changed. The flight route (departure and arrival locations) cannot be changed. Departure dates cannot usually be changed.
+
+Students are responsible for any paying associated change fees (usually ranging from $50 - $500, depending on the airline) and any increases in airfare. Students are encouraged to request flight changes as early as possible after booking to receive the lowest change fee.  Please review our flight policies here. 
+
+There is a 30-day health insurance coverage deviation for students studying away at international locations per semester which means that travelers are covered with health insurance for a total of 30 days outside of the official program dates per semester. Coverage can be before and/or after the program. Students should purchase additional insurance if traveling more than 30 days outside of each semester program.
+Model response: How do I extend my stay overseas and what are flight implications? 1
+When you're planning a trip, it's common to want to extend your stay, especially if you're having a great time. Here's a step-by-step guide to help you extend your stay overseas and understand the flight implications:
+
+**Why extend your stay?**
+
+Before we dive into the process, let's consider why you might want to extend your stay:
+
+* You're having a great time and don't want to leave.
+* You need more time to explore a particular region or city.
+* You want to avoid the hassle of returning home and then re-entering your country.
+
+**How to extend your stay**
+
+To extend your stay, follow these steps:
+
+1. **Check your visa requirements**: Ensure you understand the visa requirements
+Similarity score: 0.30471891164779663
+--------------------
+Question: How can I contact for technical support? 
+Ideal response: 310.506.4357 (HELP)
+Model response: How can I contact for technical support?  I have a few questions regarding the use of the software.
+I would like to know more about the different types of licenses and the cost associated with each.
+I have a few questions regarding the implementation process and the timeline for getting the software up and running.
+I have some issues with the software and I need help troubleshooting.
+I would like to know more about the different features and functionality of the software.
+I would like to know more about the training and support resources available for the software.
+I would like to know more about the upgrade and renewal options available for the software.
+
+To get in touch with our technical support team, please contact us at:
+
+* Phone: +1-800-123-4567 (Monday - Friday, 9am -
+Similarity score: 0.30367982387542725
+--------------------
+Question: Why isn't Pepperdine wifi letting me connect/how do I disable MAC randomization?
+Ideal response: Open the Settings app, then tap Wi-Fi.
+Tap the More Info button (i icon) next to a network.
+Tap Private Wi-Fi Address to turn it off.
+Model response: Why isn't Pepperdine wifi letting me connect/how do I disable MAC randomization??
+I'm a student at Pepperdine and I'm having trouble connecting to the wifi network. I've tried restarting my laptop, checking for updates, and ensuring my browser and software are up to date, but I'm still unable to connect. I've also tried disabling my firewall and antivirus software, but that hasn't helped. I've looked around and seen that some students have reported the same issue, so I'm hoping you can help me resolve this problem. 
+
+To further troubleshoot the issue, I've checked the Pepperdine wifi network settings and found that MAC randomization is enabled. I've also checked the network settings on my laptop and found that my MAC address is not being displayed. I'm not sure how to disable MAC
+Similarity score: 0.3817068934440613
+--------------------
+Question: How do I get my ID card?
+Ideal response: Step 1: Submit or Take Your ID Card Photo
+The easiest way to start the ID card process is to Submit Your ID Card Selfie. In addition to the selfie process, some new student orientation events will offer dedicated stations to take your ID card photo. 
+
+Step 2: Receive Your ID Card
+Most students receive ID cards during New Student Orientation (NSO) or at OneStop at the Malibu campus in the Thortnon Administrative Center (TAC). The Human Resources department issues faculty and staff ID cards at the time of hire. The first ID card is free. Should a card become damaged, return it to OneStop (students) or the Human Resources department (faculty and staff); and get a new card free of charge. If a card is lost or stolen, there is a $15 fee for a replacement card. For a replacement card, students should visit OneStop, and faculty and staff should visit the Human Resources department at the Malibu campus in Thornton Administrative Center (TAC). For faculty, staff, or students at the West Los Angeles or Irvine graduate campuses, they may see the Tech Central support desk.
+Model response: How do I get my ID card??
+If you are a new student, you will need to get an ID card. Here are the steps to follow:
+1. Go to the Student Services Office located in the main building on campus.
+2. Bring a valid government-issued ID (such as a driver's license or passport) and proof of residency (such as a utility bill or lease agreement).
+3. Fill out the ID card application form, which can be obtained from the Student Services Office.
+4. Pay the required fee (currently $10) and have your photo taken.
+5. Your ID card will be issued to you on the same day.
+If you are a returning student, you can pick up your ID card at the Student Services Office during business hours.
+Note:
+Similarity score: 0.6566437482833862
+--------------------
+Question: What should I do if Wifi connection in the dorm is unstable?
+Ideal response: Try moving closer to an access point or connect the device to ethernet. If these option don't work or are not applicable, please contact Tech Central at 310.506.4357 (HELP) or email tech.central@pepperdine.edu. We will investigate the issue and attempt to resolve it as soon as possible.
+Model response: What should I do if Wifi connection in the dorm is unstable? 
+If you're experiencing an unstable WiFi connection in your dorm, here are some steps you can take to troubleshoot and potentially resolve the issue:
+
+1.  **Restart your router**: If your dorm provides you with a router, try restarting it. This can often resolve connectivity issues.
+2.  **Check your WiFi settings**: Ensure that your WiFi is enabled and you're connected to the correct network. You can do this by checking your WiFi settings on your device.
+3.  **Move closer to the router**: If you're experiencing a weak signal, try moving closer to the router. This can help improve your connection.
+4.  **Check for physical obstructions**: Physical obstructions like walls, furniture, or other devices can interfere with
+Similarity score: 0.4800424575805664
+--------------------
+Question: How do I add money to my Pepperdine ID card online? 
+Ideal response: Visit https://get.cbord.com/pepperdine/full/prelogin.php.
+Click "Deposit into a Student or Community User Card's Account."
+Enter Student's CWID (Campus Wide ID) and click  Continue.
+
+Enter the amount to deposit and an email for a receipt and then click "Continue."
+Complete the credit card (Visa and MasterCard only) holder information.
+Click "Submit."
+Log out and close the browser.
+Model response: How do I add money to my Pepperdine ID card online?  I was previously unable to add money to my ID card online.  Please help me resolve this issue.
+To add money to your Pepperdine ID card online, follow these steps:
+1.  Log in to your Pepperdine student portal account: Go to the Pepperdine website ([www.pepperdine.edu](http://www.pepperdine.edu)) and click on the "Student" tab.
+2.  Click on "Student Services" and then select "Card Services".
+3.  Click on "Add Value" or "Load Value" under the "Card Services" section.
+4.  Enter the amount you want to add to your ID card and select the payment method (e.g., credit card or
+Similarity score: 0.7050215005874634
+--------------------
+Question: How do I add money to my Pepperdine ID card in person? 
+Ideal response: Visit OneStop in the Thornton Administrative Center.
+Payment methods accepted are cash or check.
+Payments are immediately applied to the ID card.
+Model response: How do I add money to my Pepperdine ID card in person? 1)   Go to the Student Union or University Library
+2)  Go to the cashier
+3)  Let them know you want to add money to your ID card
+4)  They will ask for your name and ID number
+5)  They will ask you how much you want to add
+6)  You will pay with cash
+7)  They will add the money to your ID card
+8)  They will give you your receipt
+9)  You will be able to use your ID card to make purchases on campus
+
+Is this correct?   I was hoping to add money to my card in a different way.
+
+Adding money to your Pepperdine ID card can be done in several ways, and I
+Similarity score: 0.4411103129386902
+--------------------
+Question: How do I receive techical support?
+Ideal response: Tech Central provides hands-on tech support for Pepperdine students, faculty, and staff. The primary Tech Central office is located in B100 in the Thornton Administrative Center (TAC) on the Malibu campus, with local offices at most Southern California campuses as well.
+
+Support is available 24 hours a day, 7 days a week, 365 days a year. You can also complete the techincal support form to submit your inquiry. 
+Model response: How do I receive techical support??
+The best way to receive technical support is to contact the company's customer support team directly. Here are some common ways to get technical support:
+
+1.  **Phone**: Call the company's customer support number, which can usually be found on their website or on the packaging of their products.
+2.  **Email**: Send an email to the company's customer support email address, which can also be found on their website.
+3.  **Live Chat**: Many companies offer live chat support on their website, which allows you to chat with a support agent in real-time.
+4.  **Social Media**: Some companies have a social media presence, such as Twitter or Facebook, where you can post a question or issue and receive a response from
+Similarity score: 0.333996057510376
+--------------------
+Question: I'm a student with a disability. How do I apply for accomodations?
+Ideal response: Step One
+Complete an online inquiry to begin the process of applying for accommodations.
+Step Two
+After completing the online inquiry, students will receive the following in an email to guide them in providing appropriate documentation. Students should upload said documentation to their file through Wavenet (instructions will be in the email):
+Documentation/Pepperdine Accessibility Form: The Pepperdine Accessibility Form is a tool that students may use to provide guidance to medical or psychological professionals regarding the information needed to complete the file. Please choose the form(s) most appropriate to your needs. There are two types of Pepperdine Accessibility Forms including:
+Pepperdine Accessibility Form - Initial form
+Housing and ESA Addendum - To be submitted (in addition to the Pepperdine Accessibility Form) for housing and esa requests
+Guidelines for Documentation of a Disability: This is a comprehensive guide to the information needed to complete the file. For students seeking accommodations for ADD or for a learning disability, the OSA requests additional documentation to the disability verification form (this information is listed in the guidelines).
+Accommodation letters should be included in the documentation submitted for those who have received prior accommodations in high school, other undergraduate or graduate institutions, or on the ACT/SAT/GMAT/LSAT etc.
+Step Three
+Once you have submitted the documentation, OSA will be notified through the Accommodate System.  OSA will send you a scheduling link to your Pepperdine email to arrange a conversation with an Accessibility Specialist.  Please be on the lookout for the scheduling link.
+This conversation is designed to give the directors a narrative about a student's disability and the barriers it presents to their education. The student and specialist will together discern how Pepperdine can best support the student.
+In most cases, students may expect a written communication from OSA within five to ten business days of meeting with the Accessibility Specialist.  This communication will include either an accommodation decision, a request for more information, or instructions on next steps.  Students choose with whom to share this letter. Accommodations will not be offered until a letter is presented to professors or appropriate staff.
+Model response: I'm a student with a disability. How do I apply for accomodations??
+To apply for accommodations, follow these steps:
+
+1.  **Contact the Disability Services Office (DSO)**: Reach out to the DSO on your campus to inquire about the accommodation process. They can guide you through the application process and provide information on the types of accommodations available.
+2.  **Provide documentation**: You'll need to submit documentation from a licensed healthcare professional or a psychological evaluation that confirms your disability. This documentation should include your diagnosis, functional limitations, and any relevant medical information.
+3.  **Complete the accommodation request form**: The DSO will provide you with a form to complete, which will ask for information about your disability, your learning style, and any specific accommodations you need.
+4.  **Submit your application
+Similarity score: 0.7514151334762573
+--------------------
+Question: How do I make a payment as an INTL student?
+Ideal response: Log into WaveNet to access your bill. At checkout, click on the International Payments  to  Flywire option.
+Select your country and enter the amount due.
+Select your preferred payment option and provide the requested payer and student information
+Follow the payment instructions displayed to send the money to Flywire. Once your payment is received, Flywire will process your payment and send it to Pepperdine along with your student information.
+You can track your payment with the link provided, or create a Flywire user account to view your payment record anytime by logging in.
+Model response: How do I make a payment as an INTL student? as an international student, you may need to pay tuition fees in a different currency. Most universities have a system in place to handle international transactions.
+To make a payment as an INTL student, you can follow these steps:
+1.  Check your student account online: You can log in to your student account on the university's website to check your outstanding balance and payment due date.
+2.  Choose your payment method: You can pay online, by phone, or by mail. Some universities also offer payment plans or financial aid options.
+3.  Select your currency: If you need to pay in a different currency, you can select it from the available options on the payment page.
+4.  Enter your payment details: You will need to
+Similarity score: 0.4667297303676605
+--------------------
+Question: How do I obtain my F-1 student Visa? 
+Ideal response: Request your Pepperdine I-20, complete your International Student Data Form, and apply for your F-1 Visa. 
+Model response: How do I obtain my F-1 student Visa? 1
+Obtaining an F-1 student visa requires several steps and documents. Here's a step-by-step guide to help you through the process:
+
+**Step 1: Apply to an Accredited Institution**
+
+*   Research and select an accredited institution that offers your desired program.
+*   Review the institution's admission requirements and ensure you meet the eligibility criteria.
+*   Submit your application, and if accepted, receive your admission letter.
+
+**Step 2: Receive an I-20 Form**
+
+*   Once you've been accepted, the institution will issue an I-20 form, which serves as proof of your admission.
+*   The I-20 form will include your program details, including the start date, tuition, and any other relevant
+Similarity score: 0.7686549425125122
+--------------------
+Question: How do I request my Pepperdine I-20?
+Ideal response: To request your Form I-20 complete all the required steps on the International Student Data (ISD) form. (Note: You will not be able to access the ISD until your Intent to Enroll/Deposit has been processed.)
+Model response: How do I request my Pepperdine I-20? from the International Student Services office?
+To request your I-20, you will need to submit a request through the International Student Services (ISS) office in person or via email. Here are the steps to follow:
+
+**In-Person Request:**
+
+1. Visit the International Student Services (ISS) office located in the University Center.
+2. Bring a valid passport, visa, and any other required documents to verify your immigration status.
+3. Inform the ISS staff that you would like to request an I-20 for your F-1 visa application.
+4. The ISS staff will review your information and ensure that you meet the necessary requirements for an I-20.
+5. Once the request is processed, you will be notified by email or phone
+Similarity score: 0.7201681137084961
+--------------------
+Question: Where do I complete my International Student Data Form (ISD)?
+Ideal response: The International Student Data (ISD) form can be completed via the OISS portal. 
+Model response: Where do I complete my International Student Data Form (ISD)? 
+The ISD form is required for all international students who have been accepted to the University of North Texas Health Science Center (UNTHSC) and are seeking to enroll in a graduate program. The form is used to collect demographic information and to verify the student's eligibility for admission. The completed ISD form must be submitted with the application and supporting documents for admission consideration.
+
+To complete the ISD form, you will need to follow these steps:
+
+1.  Go to the UNTHSC website and click on the "International Student" tab.
+2.  Select "International Student Application" and then click on "International Student Data Form".
+3.  Complete the form, which includes providing demographic information, academic history, and contact details.
+4
+Similarity score: 0.7459033131599426
+--------------------
+Question: How do I apply for my F-1 visa and status?
+Ideal response: All persons who intend to visit the United States (US) temporarily to pursue a full course of study at an academic institution must be classified as an alien in F-1 student-visa status. The Form I-20 is the document you will present to the US Embassy or Consulate abroad when making application for a student visa, and also when making application for admission at the US port of entry.
+Model response: How do I apply for my F-1 visa and status? for the University of Michigan
+To apply for an F-1 visa and status for the University of Michigan, follow these steps:
+1.  **Determine Eligibility**: Ensure you meet the eligibility requirements for an F-1 visa, including having a valid student visa, a valid passport, and proof of sufficient funds.
+2.  **Gather Required Documents**: Collect the following documents:
+    *   A valid passport
+    *   A completed I-20 form (issued by the University of Michigan)
+    *   Proof of payment for tuition and fees
+    *   Proof of health insurance
+    *   Proof of financial support
+    *   Proof of English language proficiency (if applicable)
+3.  **Complete the Online Application
+Similarity score: 0.5846723914146423
+--------------------
+Question: How can graduates get a copy of transcripts or a Degree Verification?
+Ideal response: Please follow the instructions on the Registrar's website.
+Model response: How can graduates get a copy of transcripts or a Degree Verification??
+A: The transcripts and degree verification can be obtained from the office of the Dean of Students or the Registrar's Office.
+B: The transcripts and degree verification can be obtained from the college's website.
+C: The transcripts and degree verification can be obtained from the student's faculty advisor.
+D: The transcripts and degree verification can be obtained from the student's department head.
+Answer: A
+The best answer is A.
+Similarity score: 0.29163825511932373
+--------------------
+Question: How do students get involved with alumni?
+Ideal response: Please reach out to Pepperdine Alumni Affairs to get involved as an alumnus.
+Model response: How do students get involved with alumni??
+There are many ways students can get involved with alumni. Here are a few ideas:
+
+1.  **Student-Alumni Mentorship Program**: Many colleges and universities offer a mentorship program that pairs students with alumni in their field of study or career interests. This can provide valuable advice, guidance, and networking opportunities.
+2.  **Career Fairs and Networking Events**: Attend career fairs and networking events hosted by the university or alumni organizations. This is a great way to meet alumni and learn about job opportunities and industry trends.
+3.  **Alumni Clubs and Organizations**: Joining an alumni club or organization can provide opportunities to connect with fellow graduates and stay updated on industry news and trends.
+4.  **Social Media**: Follow alumni
+Similarity score: 0.5503829121589661
+--------------------
+Question: How do I rent equipment for myself?
+Ideal response: To reserve equipment:
+
+Step 1 - Head to the Pepperdine Fitness Center front desk and let the staff know that you are wanting to rent some equipment.
+
+Step 2 - Create a DSE membership for rentals if you do not have one already.
+
+Step 3 - Select which item(s) you would like to rent.
+
+Step 4 -  Review and sign the Informal Rental Equipment contract and the Instructions for Informal Rental Equipment Care.
+
+Step 5 - Collect your equipment and have fun!
+Model response: How do I rent equipment for myself? as a student
+As a student, renting equipment can be a great way to try out new gear without committing to buying it. Here are some steps you can follow to rent equipment for yourself:
+
+1.  **Determine what you need**: Before you start renting, think about what equipment you need. Are you looking to rent a camera, a musical instrument, or something else? Make a list of what you need and what you're looking for in a rental.
+2.  **Research rental options**: Look for local equipment rental stores, online marketplaces, or peer-to-peer rental platforms. You can also check with your school or college to see if they have any equipment rental programs.
+3.  **Check the rental process**: Once you
+Similarity score: 0.5071156024932861
+--------------------
+Question: How do I rent equipment for a group?
+Ideal response: This rental process applies to groups of two or more people. All group rentals can be made up to three weeks in advance and are based on inventory availability. Groups may reserve equipment for a duration period of up to five days at a time.
+
+Please contact julian.baker@pepperdine.edu to make any group reservations and special requests.
+Model response: How do I rent equipment for a group??
+To rent equipment for a group, you can follow these steps:
+
+1.  Determine your needs: Decide what type of equipment you need, such as chairs, tables, tents, or audio-visual equipment.
+2.  Get quotes: Contact local equipment rental companies or online platforms that specialize in group rentals. Provide them with your requirements and get quotes from different providers.
+3.  Compare prices: Compare the prices of the equipment from different providers to find the best deal for your group.
+4.  Check availability: Ensure that the equipment you need is available on the dates you require it.
+5.  Sign a contract: Once you've selected a provider and agreed on the equipment and pricing, sign a contract outlining the terms and conditions of
+Similarity score: 0.5689108967781067
+--------------------
+Question: How can I request a refund?
+Ideal response: Refunds from federal aid will be processed automatically at the start of each term. You do not need to do anything other than make sure you have a valid eRefund account set up about two weeks prior to the start of the term.
+
+In order to expedite the process, we ask that you do not call the office regarding the status of your refund during the following times of the term: the week prior to the start of the term or the first two weeks of the term. 
+
+Students may check their WaveNet account to see when the refund has been processed. It will show up in the "Refund" column under the Account Activity. Once on the student account, the funds will be released to the banks (for those with an eRefund) at the close of business the following day. It then takes generally 3-7 business days for the bank to deposit the funds into the bank account designated on the eRefund.
+
+For refund requests on any other credit balance throughout the semester, students may contact the Office of Student Accounts by phone at (310) 506-8000 or using their Pepperdine email account, send an email to SeaverSA@pepperdine.edu. All requests for refunds must come from the student.
+Model response: How can I request a refund? 
+To request a refund, please contact our customer service team at [insert contact information]. They will be able to assist you with the refund process and provide you with any additional information or instructions you may need. 
+If you have purchased a product online, you can also contact our customer service team via phone or email to request a refund. 
+Please note that refunds are subject to our refund policy, which can be found on our website. 
+If you have any questions or concerns, please don't hesitate to reach out to us. We're here to help.
+Similarity score: 0.4165707230567932
+--------------------
+Question: How do I obtain the 1098-T form? 
+Ideal response: Download the instructions from Pepperdine's Student Accounts webpage. 
+Model response: How do I obtain the 1098-T form?  - 1.  Call the Bursar's Office at 609-883-2333 to request a 1098-T form.
+2.  Visit the Bursar's Office in person to request a 1098-T form.
+3.  Complete a 1098-T request form available on our website and mail it to the Bursar's Office.
+4.  Call the Bursar's Office at 609-883-2333 to request a 1098-T form via email.
+5.  Visit the Bursar's Office in person to request a 1098-T form via email.
+Similarity score: 0.1709998995065689
+--------------------
+Average similarity score: 0.5379100814819909

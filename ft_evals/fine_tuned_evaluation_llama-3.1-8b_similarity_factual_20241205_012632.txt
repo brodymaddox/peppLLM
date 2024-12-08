@@ -1,0 +1,1169 @@
+Question: When do classes start in the Fall of 2024?
+Ideal response: 19-Aug-24
+Model response: When do classes start in the Fall of 2024? 
+The Fall 2024 semester will start on August 20, 2024. 
+When do classes start in the Spring of 2025? 
+The Spring 2025 semester will start on January 13, 2025. 
+When do classes start in the Summer of 2025? 
+The Summer 2025 semester will start on May 20, 2025. 
+How many semesters are in a year at CSM?
+CSM operates on a two-semester academic calendar. The Fall semester starts in August and ends in December, and the Spring semester starts in January and ends in May. 
+What is the difference between a certificate and a degree?
+A certificate is a shorter, more focused program of study
+Similarity score: 0.2042502462863922
+--------------------
+Question: When is the last day of the add/drop period?
+Ideal response: 23-Aug-24
+Model response: When is the last day of the add/drop period? 
+When is the last day to withdraw from a course?
+What is the refund policy for the spring semester?
+When do I receive my spring semester grades?
+When is the last day of the add/drop period?
+The last day of the add/drop period is the Friday of the second week of classes. 
+When is the last day to withdraw from a course?
+The last day to withdraw from a course is the Friday of the eighth week of classes. 
+What is the refund policy for the spring semester?
+Students who officially withdraw from the University after the first day of classes will receive a 100 percent refund of tuition and fees. Students who officially withdraw from the University after the second day of classes will receive a 75 percent refund of tuition
+Similarity score: 0.20644250512123108
+--------------------
+Question: When is the application deadline for international programs?
+Ideal response: 23-Sep-24
+Model response: When is the application deadline for international programs? 
+For most international programs, the application deadline is February 15. However, some programs have a rolling deadline. Please check the specific program page for more information.
+What are the minimum GPA requirements?
+A minimum 2.5 GPA is required for admission to all programs.
+Is the GMAT or GRE required?
+No, the GMAT or GRE is not required for any program.
+Can I apply for more than one program?
+Yes, you may apply for multiple programs. However, you must submit separate applications and application fees for each program.
+What is the minimum TOEFL score required for admission?
+The minimum TOEFL score required for admission is 80. However, some programs may have a higher minimum score.
+What is the minimum I
+Similarity score: 0.12684838473796844
+--------------------
+Question: When is fall break?
+Ideal response: October 11 to 14, 2024 (Friday to Monday)
+Model response: When is fall break? When is spring break? When do I get a break from my classes?
+Fall break is scheduled for October 8th-9th and Spring break is scheduled for March 21st-25th. There is no break during the summer semester.
+How do I add a course?
+Students must be in good academic standing and have a cumulative GPA of 2.0 or higher to add a course. Students must meet the course prerequisites and have the necessary pre-requisites to add a course. Students may add courses during the add period of the semester. The add period for each semester is posted on the Academic Calendar.
+How do I drop a course?
+Students may drop a course during the drop period of the semester. The drop period for each semester
+Similarity score: 0.30134305357933044
+--------------------
+Question: When is registration for the spring and summer terms?
+Ideal response: 6-Nov-24
+Model response: When is registration for the spring and summer terms? 
+The registration for the spring and summer terms is held in the last week of the fall term. Students will receive an email when registration opens. 
+What are the minimum requirements for registering for the spring and summer terms? 
+To register for the spring and summer terms, you must have a minimum cumulative GPA of 2.0. 
+What if I don’t meet the minimum requirements to register for the spring and summer terms? 
+Students who do not meet the minimum requirements to register for the spring and summer terms may be able to register for the terms through the petition process. Students will be required to submit a petition to the Office of the Registrar. 
+What if I have an outstanding balance with the University? 
+Students with an outstanding balance will
+Similarity score: 0.07294316589832306
+--------------------
+Question: When does the course evaluation period begin and end?
+Ideal response: November 18  to  December 8, 2024
+Model response: When does the course evaluation period begin and end? How do I access my course evaluations? How do I complete my course evaluation? What is the difference between a course evaluation and a course survey? What if I have questions about the course evaluation process? How do I find out if I've completed my course evaluation? What if I didn't get a course evaluation? How do I get a copy of my course evaluation?
+The course evaluation period begins on the last day of classes and ends approximately three weeks after the end of the semester.  Course evaluations are available online through the Course Evaluation Portal.  You can access the course evaluation portal by logging in to the Student Portal.  Once logged in, click on the “Course Evaluation” link under the “My Courses” section on the left-hand side
+Similarity score: 0.07381195574998856
+--------------------
+Question: When is the last day to submit a change of final exam form?
+Ideal response: 22-Nov-24
+Model response: When is the last day to submit a change of final exam form? How do I submit the form?
+The last day to submit a change of final exam form is the Friday before the final exam week. You can submit the form in the Student Center, in person, or by email.
+Where do I go to take my final exam?
+The final exam schedule can be found in the Student Center. If you have any questions, please email the Registrar’s Office.
+How do I get an official transcript?
+You can request an official transcript online through the National Student Clearinghouse. There is a $5 fee for each transcript requested.
+How do I withdraw from a class?
+You can withdraw from a class in the Student Center, in person, or by email. If you withdraw from a class, you will receive a
+Similarity score: 0.17041246592998505
+--------------------
+Question: When is the Thanksgiving holiday?
+Ideal response: November 25 to 29, 2024
+Model response: When is the Thanksgiving holiday? What is the best way to travel to and from campus? How do I get my car out of the parking garage? What if I have to stay on campus over the break?
+Please read the information below to find out how to navigate Thanksgiving break.
+The Thanksgiving holiday is Thursday, November 23, 2017. The last day of classes before the break is Wednesday, November 22. Classes will resume on Monday, November 27.
+The last day to withdraw from a course with a “W” is Wednesday, November 22. After this date, students must receive a grade of “WU” or “WF” (withdrawal with failure) from the instructor.
+Students who need to stay on campus over Thanksgiving break should complete the
+Similarity score: 0.23653432726860046
+--------------------
+Question: When is the Seaver undergraduate Spring 2025 new student enrollment deadline?
+Ideal response: 1-Dec-24
+Model response: When is the Seaver undergraduate Spring 2025 new student enrollment deadline? 
+The Seaver undergraduate Spring 2025 new student enrollment deadline is November 1, 2024.
+Can I still apply after the Seaver undergraduate Spring 2025 new student enrollment deadline?
+Yes, we will continue to accept applications after the deadline, but we recommend applying as early as possible. 
+Can I be admitted after the Seaver undergraduate Spring 2025 new student enrollment deadline?
+Yes, we will continue to accept applications after the deadline, but we recommend applying as early as possible. 
+What is the Seaver undergraduate Spring 2025 new student enrollment deadline for international students?
+The Seaver undergraduate Spring 2025 new student enrollment deadline for international students is November 1, 2024.
+What is the Seaver undergraduate
+Similarity score: 0.2761543393135071
+--------------------
+Question: When are final exams for the fall semester?
+Ideal response: December 9 to 12, 2024
+Model response: When are final exams for the fall semester? How do I know which final exam I have?
+Final exams are held during the final exam period. The final exam period is the last two weeks of the fall and spring semesters. The final exam period is the first week of the summer session.
+The final exam schedule is posted on the Registrar’s Office website in early May for the summer session and in early November for the fall semester.
+The final exam schedule is also published in the schedule of classes and is available in the Academic Calendar.
+Similarity score: 0.30892106890678406
+--------------------
+Question: When are Fall 2024 graduates conferred?
+Ideal response: 13-Dec-24
+Model response: When are Fall 2024 graduates conferred? When are Fall 2024 degrees posted to transcripts?
+When are Fall 2024 graduates conferred? When are Fall 2024 degrees posted to transcripts?
+The Office of the Registrar is responsible for posting degrees to transcripts and conferring degrees.  Fall 2024 degrees will be posted to transcripts and conferred on Friday, December 13, 2024.  The date on which the degree is conferred is the date that will appear on the transcript.  This is the date the degree is awarded.
+Similarity score: 0.3224413990974426
+--------------------
+Question: When do residence halls close for the semester?
+Ideal response: December 13, 2024 at 9 am
+Model response: When do residence halls close for the semester? 
+The last day to move out of the residence halls for the Fall semester is Thursday, December 15, 2022 at 5:00 pm.  Students who live in the residence halls must be moved out by this date and time. 
+The last day to move out of the residence halls for the Spring semester is Thursday, May 11, 2023 at 5:00 pm.  Students who live in the residence halls must be moved out by this date and time. 
+How do I cancel my housing contract? 
+Students who wish to cancel their housing contract must complete the Housing Contract Cancellation Form.  The form is available on the Housing website.  Students who wish to cancel their housing contract must cancel by the
+Similarity score: 0.309123694896698
+--------------------
+Question: When are all pepperdine offices closed for winter break?
+Ideal response: December 24, 2024  to  January 2, 2025
+Model response: When are all pepperdine offices closed for winter break? Is there a list of the dates?
+The main campus offices will be closed from December 23, 2018 to January 2, 2019. The main campus offices will reopen on January 3, 2019.
+All offices at the Malibu campus will be closed from December 23, 2018 to January 2, 2019. All offices will reopen on January 3, 2019.
+The main campus offices will be closed from December 23, 2018 to January 2, 2019. The main campus offices will reopen on January 3, 2019.
+All offices at the Malibu campus will be closed from December 23, 2018 to January 2, 
+Similarity score: 0.30810338258743286
+--------------------
+Question: When do spring semester classes begin?
+Ideal response: 13-Jan-25
+Model response: When do spring semester classes begin? When do spring semester classes end?
+Spring semester classes begin the first week of January and end the last week of April.
+How many classes do I take per semester?
+Students take two to three classes per semester.
+Similarity score: 0.1745053231716156
+--------------------
+Question: When is the Seaver undergraduate First-Year Regular Decision and Transfer Fall 2025 application deadline?
+Ideal response: 15-Jan-25
+Model response: When is the Seaver undergraduate First-Year Regular Decision and Transfer Fall 2025 application deadline? 
+The application deadline is January 15, 2025.
+What are the Seaver undergraduate First-Year Regular Decision and Transfer Fall 2025 application requirements?
+You must submit your application and all supporting documents by the application deadline. 
+How do I apply to Seaver College?
+You can apply for admission to Seaver College through the Common Application or the Coalition Application. 
+How do I submit my application for admission?
+You can submit your application for admission through the Common Application or the Coalition Application. 
+When will I receive a decision?
+You will receive a decision within two weeks of your application being completed. 
+What is the Seaver College code?
+The Seaver College code is 4295. 
+How do I submit my application for admission
+Similarity score: 0.22851872444152832
+--------------------
+Question: When is the last day of the add/drop period?
+Ideal response: 17-Jan-25
+Model response: When is the last day of the add/drop period? What are the deadlines for adding and dropping classes?
+How can I add or drop a class?
+I'm having trouble adding or dropping a class. What should I do?
+What happens if I don't add or drop a class by the deadline?
+I want to add a class that is full. What should I do?
+I want to drop a class but I'm not sure if I can. What should I do?
+I'm taking a class Pass/No Pass. How does that affect my enrollment?
+I'm taking a class Pass/No Pass. How does that affect my financial aid?
+I'm taking a class Pass/No Pass. How does that affect my scholarships?
+I'm taking a class Pass/No Pass. How does that affect
+Similarity score: 0.09256846457719803
+--------------------
+Question: When is the regular application deadline for academic year and summer international programs?
+Ideal response: 3-Feb-25
+Model response: When is the regular application deadline for academic year and summer international programs?   
+The regular application deadline for academic year programs is March 1.  The regular application deadline for summer programs is April 1.  Please note that some programs have earlier deadlines.  Check the program website for details.
+When are the application deadlines for academic year and summer international programs?   
+The regular application deadline for academic year programs is March 1.  The regular application deadline for summer programs is April 1.  Please note that some programs have earlier deadlines.  Check the program website for details.
+When will I be notified of my application status?   
+You will be notified via email of your application status approximately 3-4 weeks after the application deadline.  If you have not received an email from us by then
+Similarity score: 0.39720430970191956
+--------------------
+Question: When is spring break?
+Ideal response: March 3 to 7, 2025 (Monday to Friday)
+Model response: When is spring break? Is it in March or April? We have the answer!
+Spring break is one of the most exciting times of the year for students. It is the perfect time to relax and recharge for the remainder of the school year. However, with the excitement of spring break comes the question, “When is spring break?”
+The answer to this question is not as straightforward as it may seem. The timing of spring break can vary depending on the school district and state in which you live. In some states, spring break is in March, while in others, it is in April.
+So, when is spring break for you? If you live in a state that has spring break in March, you can look forward to a week of fun in the sun.
+Similarity score: 0.390779972076416
+--------------------
+Question: When is the early registration period?
+Ideal response: 11-Mar-25
+Model response: When is the early registration period? The early registration period is open now and will end on February 10, 2023. All registrations after this date will be subject to a $50 late registration fee.
+When is the late registration period? The late registration period is from February 11, 2023 to February 24, 2023. All registrations after this date will be subject to a $50 late registration fee.
+When is the final registration period? The final registration period is from February 25, 2023 to March 10, 2023. All registrations after this date will be subject to a $50 late registration fee.
+When is the last day to withdraw from a class? The last day to withdraw from a class is March 10, 
+Similarity score: 0.22629567980766296
+--------------------
+Question: When does the fall registration period begin?
+Ideal response: 12-Mar-25
+Model response: When does the fall registration period begin? How long does it last?
+The fall registration period begins on the first business day after the last day of the spring semester. The fall registration period lasts until the end of the fall add/drop period.
+When does the spring registration period begin? How long does it last?
+The spring registration period begins on the first business day after the last day of the fall semester. The spring registration period lasts until the end of the spring add/drop period.
+When do I register for classes?
+You will register for classes during the registration period. The registration period is determined by your enrollment status (new, returning, etc.) and your class standing (freshman, sophomore, junior, senior, etc.).
+How do I find out when I can register for
+Similarity score: 0.26236826181411743
+--------------------
+Question: When is the Malibu reception for admitted students?
+Ideal response: 11-Apr-25
+Model response: When is the Malibu reception for admitted students? We have an admitted student reception in Malibu every year on the first Saturday in March. If you have any questions, please call us at (310) 506-4600.
+Where do I find the latest information about the Malibu campus? The latest information about the Malibu campus can be found on the University’s website at http://www.pepperdine.edu/.
+Where do I find the latest information about the Los Angeles campus? The latest information about the Los Angeles campus can be found on the University’s website at http://www.pepperdine.edu/.
+Where do I find information about housing at Pepperdine? Information about housing at Pepperdine can be found at http://www.pepperdine.edu/housing
+Similarity score: 0.24933665990829468
+--------------------
+Question: When is the last day to submit a change of final exam form for the spring semester?
+Ideal response: 18-Apr-25
+Model response: When is the last day to submit a change of final exam form for the spring semester? 
+The last day to submit a change of final exam form for the spring semester is Monday, April 26, 2021. 
+What are the last days to submit a final exam schedule change form for the spring semester? 
+The last day to submit a final exam schedule change form for the spring semester is Monday, April 26, 2021. 
+What is the last day to submit a request to change a final exam for a course that will be taken Pass/No Pass for the spring semester? 
+The last day to submit a request to change a final exam for a course that will be taken Pass/No Pass for the spring semester is Monday, April 26, 2021. 
+What is the last day to
+Similarity score: 0.2667326033115387
+--------------------
+Question: When are final exams for the spring semester?
+Ideal response: April 28  to  May 1, 2025
+Model response: When are final exams for the spring semester? When are the last days of class?
+Final exams are scheduled for Monday, May 14 through Friday, May 18. The last day of classes is Wednesday, May 16.
+What are the last days to drop a class?
+The last day to drop a class is Friday, April 20. The last day to withdraw from a class is Friday, May 11.
+What is the last day to submit a graduation application for the May 2018 commencement ceremony?
+The last day to submit a graduation application for the May 2018 commencement ceremony is Friday, April 20.
+Similarity score: 0.4711020588874817
+--------------------
+Question: Where can I find more information about different majors at Pepperdine?
+Ideal response: https://www.pepperdine.edu/academics/programs/
+Model response: Where can I find more information about different majors at Pepperdine? How do I schedule an appointment with an advisor? What are the requirements for my major? How do I apply for graduation? How do I change my major?
+The Registrar’s Office is here to help you with all of these questions and more.
+The Registrar’s Office is located in the Seaver College Academic Resource Center (ARC), room 110.
+Hours of operation are 8:00 a.m. to 5:00 p.m. Monday through Friday.
+The Registrar’s Office is open during the summer, but with limited hours.
+Similarity score: 0.6691839694976807
+--------------------
+Question: What are the advantages of Pepperdine's philosophy major?
+Ideal response: 
+Model response: What are the advantages of Pepperdine's philosophy major? Pepperdine's philosophy major is a rigorous program that provides students with a broad understanding of the discipline. The program emphasizes critical thinking, ethical reasoning, and the study of various philosophical traditions. It also prepares students for a wide range of careers, including law, business, education, and public policy. In addition, the major provides students with a solid foundation in the philosophical underpinnings of various fields, such as ethics, politics, and religion. Finally, the major offers students the opportunity to engage in meaningful research and to develop their own philosophical ideas and arguments.
+Similarity score: 0.08308303356170654
+--------------------
+Question: What are the advantages of Pepperdine's philosophy minor?
+Ideal response: Philosophy explores the foundational assumptions and challenges within the framework of human experience, critically evaluating these assumptions and proposing alternatives for improvement. Our philosophy degree program equips students with a strong educational foundation, preparing them for diverse careers in fields such as law, journalism, government, public service, and business.
+Model response: What are the advantages of Pepperdine's philosophy minor? 
+The minor in philosophy will provide students with a comprehensive understanding of the history of philosophy, the ability to read and understand philosophical texts, and the ability to analyze philosophical arguments. The minor will also provide students with a deeper understanding of the philosophical underpinnings of various fields, including the natural sciences, social sciences, and the humanities.
+What are the requirements for the minor in philosophy? 
+The minor in philosophy requires 18 units of coursework, including at least 6 units of upper-division coursework. Students must take at least 6 units of coursework in philosophy, including at least 3 units of coursework in either ancient or medieval philosophy, and at least 3 units of coursework in either modern or contemporary philosophy.
+Similarity score: 0.46267324686050415
+--------------------
+Question: What are the advantages of Pepperdine's physics major?
+Ideal response: 
+The physics major at Seaver College offers a well-balanced curriculum in experimental and theoretical physics that prepares students pursuing careers in science, technology, and similarly quantitative fields as well as those seeking a graduate education in physics, engineering, or environmental science.
+Model response: What are the advantages of Pepperdine's physics major? 
+The physics major at Pepperdine is designed to provide students with the foundation needed to pursue a career in the field of physics or a related discipline. The program includes a broad range of coursework in both classical and modern physics, as well as a strong emphasis on laboratory work and research. 
+The program is designed to provide students with a strong foundation in physics, including classical mechanics, electricity and magnetism, thermodynamics, quantum mechanics, and relativity. Students also take courses in mathematical methods and computer programming, which are essential for a career in physics.
+The program includes a strong emphasis on laboratory work and research, which allows students to gain hands-on experience in the field. Students have the opportunity to work on research projects with faculty members, which
+Similarity score: 0.5669775009155273
+--------------------
+Question: What is the physics major curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=342
+Model response: What is the physics major curriculum? How long does it take to complete the major? What courses are required? What courses are recommended? How do I register for a course? How do I declare a major?
+What is the physics major curriculum? How long does it take to complete the major? What courses are required? What courses are recommended? How do I register for a course? How do I declare a major?
+What is the physics major curriculum? How long does it take to complete the major? What courses are required? What courses are recommended? How do I register for a course? How do I declare a major?
+What is the physics major curriculum? How long does it take to complete the major? What courses are required? What courses are recommended? How do I register
+Similarity score: 0.0404253713786602
+--------------------
+Question: What are the advantages of the physics minor?
+Ideal response: Most popular with math majors, our physics minor provides a basic introduction to physics and a foundation for careers requiring a background in mathematics and science. Students minoring in physics must earn between 23 and 24 units by completing four required courses and two additional courses.
+Model response: What are the advantages of the physics minor? 
+The minor in physics provides students with a strong foundation in the fundamentals of physics, enabling them to pursue careers in a wide variety of fields. The minor also provides students with the opportunity to take upper-level physics courses that are not offered in the major. This can be especially beneficial for students who are interested in pursuing graduate studies in physics or related fields.
+How can I declare a minor in physics?
+To declare a minor in physics, you will need to meet with a physics faculty member to discuss your academic goals and to ensure that you are taking the appropriate courses to complete the minor. Once you have met with a faculty member and have been approved for the minor, you will need to fill out a Declaration of Minor form and submit it to the Office
+Similarity score: 0.7414872050285339
+--------------------
+Question: What are the advantages of the political science program?
+Ideal response: The Washington, DC Internship Program offers political science majors opportunities to intern in DC, Sacramento, and Los Angeles, collaborate on research, and publish. Students also participate in Model United Nations, the Sacramento Legislative Seminar, and study abroad in cities like London and Florence.
+Model response: What are the advantages of the political science program? What are the admission requirements?
+The political science major is designed to provide students with a strong background in the theory and practice of politics. Students will study the nature of the political process, the role of political institutions in society, and the relationship between politics and the economy, social groups, and individual behavior. The program is designed to develop students' analytical skills and to train them to think critically about political issues and events.
+The political science program offers a variety of courses that cover a wide range of topics, including American politics, comparative politics, international relations, and political theory. Students will have the opportunity to take courses that cover a variety of different perspectives on politics, including liberal, conservative, and Marxist.
+The program also offers a number of opportunities for
+Similarity score: 0.5942926406860352
+--------------------
+Question: What is the political science curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=402
+Model response: What is the political science curriculum? 
+The political science curriculum is designed to give students a broad understanding of the discipline and its key concepts, methods, and theories. 
+The curriculum is structured around a core set of courses that cover the major subfields of political science, including American politics, comparative politics, international relations, and political theory. 
+In addition to these core courses, students can also take electives in areas such as public policy, law, and political economy. 
+The curriculum is designed to be flexible, allowing students to tailor their studies to their own interests and career goals. 
+What are the benefits of studying political science? 
+There are many benefits to studying political science. 
+First, it can help you develop a better understanding of the world around you. 
+Political
+Similarity score: 0.08837202191352844
+--------------------
+Question: Where can I find information about pre-law programs?
+Ideal response: https://seaver.pepperdine.edu/social-science/undergraduate/pre-law/
+Model response: Where can I find information about pre-law programs? What are the benefits of a pre-law major?
+How do I apply to law school?
+What are the requirements for admission to law school?
+What are the differences between the JD and the LL.M.?
+What is the LSAT?
+What is the MCAT?
+What is the GMAT?
+What is the GRE?
+What is the PCAT?
+What is the DAT?
+What is the OAT?
+What is the HSGPA?
+What is the USGPA?
+What is the CASPA?
+What is the ADEA?
+What is the OAT?
+What is the PCAT?
+What is the MCAT?
+What is the LSAT?
+What is the GRE?
+What is the GMAT?
+What is the DAT?
+What is
+Similarity score: 0.5834414958953857
+--------------------
+Question: What are common Psychology double majors?
+Ideal response: Psychology and biology, Psychology and communication, Psychology and sociology, Psychology and religion
+Model response: What are common Psychology double majors? What Psychology double majors are most popular?
+Psychology is a popular major and is offered at a wide variety of colleges and universities. In 2019-2020, 49,265 bachelor's degrees were completed. This makes it the 4th most popular major in the country. From 2018-2019, college goers who completed Psychology at schools in the United States earned an average of $35,730 per year. After taking a look at the most common degrees for those who go on to study in more specific Psychology-related fields, we found that the most popular double major is  Business Administration and Management. Other common double majors include  Sociology and  Biology.
+Frequently Asked Questions about Psychology
+What
+Similarity score: 0.4987296462059021
+--------------------
+Question: What are my opportunities after graduating with a degree in psychology?
+Ideal response: Recent graduates have pursued careers in industry, personnel, research, management, counseling, and special needs education. Psychology majors are also qualified for roles in state and county corrections and welfare, such as in the Department of Children's Services.
+Model response: What are my opportunities after graduating with a degree in psychology? What are the skills I will develop during my time in the psychology major?
+The psychology major is designed to give students a strong foundation in the field of psychology, while also providing a broad liberal arts education. The major is also designed to provide a strong basis for graduate study in psychology, or to prepare students for a variety of careers in the field. The major requires students to take a variety of courses in the field, including courses in research methods, statistics, and experimental psychology. Students also have the opportunity to take courses in areas such as social psychology, developmental psychology, and cognitive psychology.
+The psychology major at the University of Rochester is designed to provide students with a strong foundation in the field of psychology, while also preparing them for a variety of careers
+Similarity score: 0.717988133430481
+--------------------
+Question: What is the psychology curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=404
+Model response: What is the psychology curriculum? What are the requirements for a psychology major? What are the requirements for a minor in psychology? What are the requirements for a double major in psychology and another discipline? What are the requirements for a double major in psychology and education? What are the requirements for a double major in psychology and a health-related field? What are the requirements for a double major in psychology and a social science? What are the requirements for a double major in psychology and a natural science? What are the requirements for a double major in psychology and a business-related field? What are the requirements for a double major in psychology and a fine arts or humanities field? What are the requirements for a double major in psychology and a foreign language? What are the requirements for a double major in
+Similarity score: 0.02489318512380123
+--------------------
+Question: What is the sport administration curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=165
+Model response: What is the sport administration curriculum? How can I use the degree? What are the career opportunities?
+The sport administration curriculum is designed to prepare students for a variety of careers in the sport industry. The sport administration curriculum combines a solid foundation in business and sport management with a strong emphasis on sport law, sport marketing, and sport finance. The sport administration curriculum is designed to prepare students for a variety of careers in the sport industry. The sport administration curriculum combines a solid foundation in business and sport management with a strong emphasis on sport law, sport marketing, and sport finance. The sport administration curriculum is designed to prepare students for a variety of careers in the sport industry. The sport administration curriculum combines a solid foundation in business and sport management with a strong emphasis on sport law, sport marketing,
+Similarity score: 0.0309338066726923
+--------------------
+Question: What is the sport medicine curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=343
+Model response: What is the sport medicine curriculum? 
+The sport medicine curriculum is a four-year program that prepares students to become physicians and coaches. It is designed to give students the knowledge and skills they need to be successful in their chosen fields. The program is divided into two parts: the first part covers the basics of medicine and coaching, while the second part focuses on specific topics such as sports injuries and rehabilitation.
+What are the benefits of a sport medicine curriculum?
+The benefits of a sport medicine curriculum are numerous. Some of the most important benefits include:
+1. It can help you become a better athlete. A sport medicine curriculum can help you become a better athlete by teaching you how to properly train and prepare for competition.
+2. It can help you stay healthy. A sport medicine curriculum can help
+Similarity score: 0.030888324603438377
+--------------------
+Question: What is the theater major curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page202
+Model response: What is the theater major curriculum? What is the theater minor curriculum?
+The Theater Major is designed to be a broad-based program that provides a thorough introduction to the performing arts, while also allowing students to focus on an area of specialization. The Theater Minor is designed to provide students with an introduction to the performing arts and is an excellent complement to a major in another discipline.
+The Theater Major is a 60-credit program that includes 36 credits in the major, 15 credits in the minor, and 9 credits in the general education program. The Theater Minor is a 30-credit program that includes 15 credits in the major and 15 credits in the minor.
+What are the requirements for the theater major?
+The theater major requires 60-65 credits, including 
+Similarity score: 0.03708232194185257
+--------------------
+Question: What is the English major curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=239
+Model response: What is the English major curriculum? 
+The English major requires 36 hours, including a 6-hour writing emphasis, 6 hours of literature, 6 hours of creative writing, and 12 hours of electives.  Students may choose to take an additional 6 hours of literature or creative writing, for a total of 42 hours. 
+What is the English minor curriculum? 
+The English minor requires 18 hours, including a 6-hour writing emphasis, 6 hours of literature, and 6 hours of creative writing.  Students may choose to take an additional 6 hours of literature or creative writing, for a total of 24 hours. 
+What are the differences between the English major and the English major with a concentration in creative writing? 
+The English
+Similarity score: 0.06609839200973511
+--------------------
+Question: What is the engineering curriculum?
+Ideal response: The 3/2 Engineering Program allows students to complete a B.A. in natural science at Pepperdine over three years, followed by two years at an engineering partner university (USC or Washington University in St. Louis) to earn dual bachelor's degrees. Students complete foundational liberal arts, math, and science courses at Pepperdine before transferring.
+Model response: What is the engineering curriculum? 
+The engineering curriculum consists of 12 courses, plus a capstone course. The curriculum is designed to be completed in four years, but students may take longer to complete it. Students must earn a minimum grade of C- in all engineering courses. A student may repeat a course only once. Students must earn a minimum cumulative GPA of 2.0 in order to be eligible to enroll in the next course in the curriculum. Students must earn a minimum cumulative GPA of 2.0 in order to be eligible to enroll in the next course in the curriculum.
+What is the engineering curriculum? 
+The engineering curriculum consists of 12 courses, plus a capstone course. The curriculum is designed to be completed in four years, but students may take
+Similarity score: 0.5586256980895996
+--------------------
+Question: What is the film studies curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=243
+Model response: What is the film studies curriculum?  What are the requirements for the major?
+The Film Studies major is a flexible program that allows students to focus on the study of film in a variety of ways. Students may choose to focus on the history of film, the theory of film, or the production of film. In addition, students may choose to focus on the study of a particular genre, or a particular period in film history.
+The major requires a minimum of 36 units, including:
+3-4 units of lower-division courses
+3-4 units of upper-division courses
+9-10 units of upper-division courses
+3-4 units of upper-division courses
+3-4 units of upper-division courses
+3-4 units of upper-division courses
+Similarity score: 0.11155609786510468
+--------------------
+Question: what is the integrated marketing communications curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=159
+Model response: what is the integrated marketing communications curriculum?  the integrated marketing communications curriculum is a sequence of courses that is designed to provide students with a broad understanding of marketing, advertising, public relations, and promotion.  the curriculum is designed to help students understand how to create effective marketing campaigns and how to use integrated marketing communications to achieve business goals.  the curriculum is also designed to help students understand how to use digital media to create and distribute content, and how to use social media to create and distribute content.
+what is the integrated marketing communications curriculum?  the integrated marketing communications curriculum is a sequence of courses that is designed to provide students with a broad understanding of marketing, advertising, public relations, and promotion.  the curriculum is designed to help students understand how to create effective marketing
+Similarity score: 0.18212392926216125
+--------------------
+Question: what is the finance curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=136
+Model response: what is the finance curriculum? 3
+what is the finance curriculum? 4
+what is the finance curriculum? 5
+what is the finance curriculum? 6
+what is the finance curriculum? 7
+what is the finance curriculum? 8
+what is the finance curriculum? 9
+what is the finance curriculum? 10
+what is the finance curriculum? 11
+what is the finance curriculum? 12
+what is the finance curriculum? 13
+what is the finance curriculum? 14
+what is the finance curriculum? 15
+what is the finance curriculum? 16
+what is the finance curriculum? 17
+what is the finance curriculum? 18
+what is the finance curriculum? 19
+what is the finance
+Similarity score: -0.05811406299471855
+--------------------
+Question: what is the international business curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=136
+Model response: what is the international business curriculum?  what are the requirements for international business?
+international business is an interdisciplinary major that combines the study of business and economics with the study of the world’s cultures and languages. the international business curriculum provides students with the knowledge and skills necessary to work in a global economy. the program is designed to prepare students for careers in international business, as well as for graduate study in international business, economics, or other related fields.
+the international business curriculum includes courses in economics, business, and the cultures and languages of the world’s major regions. students in the program are required to take courses in at least two languages, and to complete a study abroad experience. the program also includes a capstone course in which students apply their knowledge and skills to a real-world business
+Similarity score: 0.12360569834709167
+--------------------
+Question: what is the math major curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=332
+Model response: what is the math major curriculum? 1
+Mathematics is the study of quantity, structure, space, and change. Mathematicians seek out patterns, formulate new conjectures, and establish a factual foundation for human knowledge. Mathematics is used throughout the world as an essential tool in many fields, including natural science, engineering, medicine, and the social sciences. Applied mathematics, the branch of mathematics that concerns itself with mathematical methods that are typically used in science, is also called the “mathematics of the real world”.
+Similarity score: -0.024650514125823975
+--------------------
+Question: what is the music major curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=197
+Model response: what is the music major curriculum?  what are the required courses?
+The Bachelor of Arts in Music (B.A.) is designed for students who wish to pursue a career in music or a related field, or who wish to continue their education in music at the graduate level.  The Bachelor of Arts in Music (B.A.) is also appropriate for students who wish to pursue a double major or a minor in music.
+The Bachelor of Music (B.M.) is designed for students who wish to pursue a career as a professional musician or music teacher.
+The Bachelor of Music (B.M.) degree is available in the following concentrations:
+The Bachelor of Music Education (B.M.E.) degree is designed for students who wish to pursue a career as a music teacher in the public schools.
+The
+Similarity score: 0.06562060862779617
+--------------------
+Question: what is the accounting major curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=134
+Model response: what is the accounting major curriculum? 1
+what is the accounting major curriculum? 2
+what is the accounting major curriculum? 3
+what is the accounting major curriculum? 4
+what is the accounting major curriculum? 5
+what is the accounting major curriculum? 6
+what is the accounting major curriculum? 7
+what is the accounting major curriculum? 8
+what is the accounting major curriculum? 9
+what is the accounting major curriculum? 10
+what is the accounting major curriculum? 11
+what is the accounting major curriculum? 12
+what is the accounting major curriculum? 13
+what is the accounting major curriculum? 14
+what is the accounting major curriculum? 15
+what is the accounting major curriculum? 
+Similarity score: -0.03895314037799835
+--------------------
+Question: what is the advertising major curriculum? 
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=134
+Model response: what is the advertising major curriculum?  what is the advertising minor curriculum?  what is the advertising certificate curriculum?
+what is the curriculum for the marketing major?  what is the curriculum for the marketing minor?  what is the curriculum for the marketing certificate?
+what is the curriculum for the management major?  what is the curriculum for the management minor?  what is the curriculum for the management certificate?
+what is the curriculum for the finance major?  what is the curriculum for the finance minor?  what is the curriculum for the finance certificate?
+what is the curriculum for the human resource management major?  what is the curriculum for the human resource management minor?  what is the curriculum for the human resource management certificate?
+what is the
+Similarity score: 0.1255485564470291
+--------------------
+Question: what is the business admin major curriculum?  
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=135
+Model response: what is the business admin major curriculum?   What is the business administration major curriculum?
+The business administration major is designed to provide a foundation in business and management. It is intended to provide a broad background in business and to prepare students for graduate study in business, law, or other areas. The major consists of 12 courses (36 units) in the following areas:
+Business Core
+Management Core
+Economics Core
+The business administration major consists of 12 courses (36 units) in the following areas:
+Business Core
+Management Core
+Economics Core
+What is the business administration major curriculum?
+What is the business administration major curriculum?
+Similarity score: 0.05989794433116913
+--------------------
+Question: what is the communication major curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=157
+Model response: what is the communication major curriculum? 
+The Communication major is designed to provide students with a broad knowledge of the discipline of communication, as well as an opportunity to develop a more specialized area of interest. The curriculum is designed to provide a solid foundation in the liberal arts, while also allowing students to develop a more specialized area of interest within the discipline. The curriculum is designed to provide students with the skills and knowledge necessary to succeed in a variety of careers, including journalism, public relations, advertising, and marketing.
+what is the communication major curriculum? 
+The Communication major is designed to provide students with a broad knowledge of the discipline of communication, as well as an opportunity to develop a more specialized area of interest. The curriculum is designed to provide a solid foundation in the liberal arts, while
+Similarity score: 0.08160384744405746
+--------------------
+Question: what is the economics major curriculum?
+Ideal response: https://seaver.pepperdine.edu/academics/content/2023-seaver-catalog.pdf#page=401
+Model response: what is the economics major curriculum? 
+The economics major is designed to provide students with a strong foundation in microeconomics and macroeconomics, as well as a deeper understanding of the role of economics in society. The curriculum includes courses in microeconomics, macroeconomics, econometrics, and economic theory, as well as electives that allow students to specialize in areas such as environmental economics, international economics, and public economics.
+In addition to the core courses, the economics major also requires students to complete a capstone course that allows them to apply their knowledge and skills to real-world problems. This course may involve conducting original research, participating in an internship, or completing a senior thesis.
+what are the core courses in the economics major?
+The core courses in the economics major include
+Similarity score: 0.09344066679477692
+--------------------
+Question: who is my academic advisor if I am a Philosophy major?
+Ideal response: Noah Jordan; 310.506.6149
+noah.jordan@pepperdine.edu
+Model response: who is my academic advisor if I am a Philosophy major? 
+Dr. Michael Schneider, Director of Undergraduate Studies, is the academic advisor for Philosophy majors.  Dr. Schneider is located in  105 Wright Hall.  He can be reached at 419-372-2295 or  schneidm@bgsu.edu.
+what is the philosophy major like?
+Philosophy is a major that focuses on the central questions of life, such as the meaning of life, the nature of reality, and the basis for morality.  Philosophy majors learn how to think critically, write clearly, and communicate effectively.  They are trained to look at a problem from many different perspectives and to evaluate the strengths and weaknesses of different arguments. 
+Similarity score: 0.300808846950531
+--------------------
+Question: who is my academic advisor if I am a teacher education major?
+Ideal response: Noah Jordan; 310.506.6149
+noah.jordan@pepperdine.edu
+Model response: who is my academic advisor if I am a teacher education major? 
+Dr. Kristi Hines is the academic advisor for all teacher education majors.  She can be reached at khines@fhsu.edu or 620-341-6012.
+How do I register for classes?
+Registration is done online through FHSU’s MyFHSU system.  It is important to register as early as possible to ensure that you get the classes you want.  If you are a transfer student, you will receive an email with your registration time.  If you are a new freshman, you will receive an email from the Office of Admissions with your registration time.  If you are a returning student, you will need to contact the Office of the Registrar at 620-341-6330 or
+Similarity score: 0.3265450596809387
+--------------------
+Question: who is my academic advisor if I am a social science major?
+Ideal response: Noah Jordan; 310.506.6149
+noah.jordan@pepperdine.edu
+Model response: who is my academic advisor if I am a social science major? 
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+Similarity score: 0.09738798439502716
+--------------------
+Question: who is my academic advisor if I am a communication major?
+Ideal response: Ashley Castro; 310.506.4432
+ashley.castro@pepperdine.edu
+Model response: who is my academic advisor if I am a communication major? (or any other major)
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+What is the difference between a major and a minor?
+Similarity score: 0.06404342502355576
+--------------------
+Question: who is my academic advisor if I am an Interdisciplinary Studies major?
+Ideal response: Ashley Castro; 310.506.4432
+ashley.castro@pepperdine.edu
+Model response: who is my academic advisor if I am an Interdisciplinary Studies major? 
+The Interdisciplinary Studies major is not a traditional major with a departmental advisor.  Rather, you will be assigned an academic advisor from the Center for Academic Advising and Career Exploration (CAACE).  Your CAACE advisor will help you create a course plan and discuss your career options.  Your CAACE advisor will also be able to answer questions about the Interdisciplinary Studies major and direct you to appropriate faculty members. 
+What is the difference between a minor and a certificate?
+A minor is an area of study that allows you to focus on a specific area of interest and obtain additional knowledge and skills.  A minor consists of 15 to 18 units of coursework.  You can earn a minor in addition to your major. 
+Similarity score: 0.044609762728214264
+--------------------
+Question: who is my academic advisor if I am a student athlete?
+Ideal response: Ashley Castro; 310.506.4432
+ashley.castro@pepperdine.edu
+Model response: who is my academic advisor if I am a student athlete? 
+Athletes are advised by the athletic academic advisor.  If you have questions about your academic standing, your major, or your degree requirements, please contact the athletic academic advisor.
+what is the difference between an advisor and a counselor?
+An advisor is a person who can help you plan your classes and ensure that you are meeting your degree requirements.  A counselor is a person who can help you with personal issues such as stress, depression, anxiety, relationship problems, or drug/alcohol issues.  The athletic academic advisor is your advisor.  If you need a counselor, please contact the Counseling Center at 979-845-5138.
+what is an academic hold?
+An academic hold is a restriction placed on your account because you have not met
+Similarity score: 0.18733538687229156
+--------------------
+Question: who is my academic advisor if I am a business admin major?
+Ideal response: Jacob Moonen; 310.506.6150 jacob.moonen@pepperdine.edu 
+Model response: who is my academic advisor if I am a business admin major??
+What is the process for applying for a scholarship?
+How do I find out what classes I need to take?
+How do I declare a minor?
+How do I declare a major?
+What is the difference between a minor and a certificate?
+What is the difference between a certificate and a degree?
+How do I declare a certificate?
+What is a certificate?
+What is the difference between a minor and a certificate?
+How do I declare a minor?
+How do I declare a major?
+How do I find out what classes I need to take?
+What is the process for applying for a scholarship?
+How do I find out what classes I need to take?
+What is the difference between a minor and a certificate?
+How do I declare a minor?
+What is
+Similarity score: 0.057863522320985794
+--------------------
+Question: who is my academic advisor if I am a languages major?
+Ideal response: Jacob Moonen; 310.506.6150 jacob.moonen@pepperdine.edu 
+Model response: who is my academic advisor if I am a languages major?  
+what is the difference between a minor and a concentration?
+what is the difference between a minor and a certificate?
+what is the difference between a minor and a second major?
+what is the difference between a minor and a double major?
+can I take a course for a minor that is not listed on the minor's course list?
+can I take a course for a minor that is not listed on the minor's course list?
+can I take a course for a minor that is not listed on the minor's course list?
+can I take a course for a minor that is not listed on the minor's course list?
+can I take a course for a minor that is not listed on the minor's course list?
+can I take a course for a minor
+Similarity score: 0.04403778910636902
+--------------------
+Question: who is my academic advisor if I am an international studies major?
+Ideal response: Jacob Moonen; 310.506.6150 jacob.moonen@pepperdine.edu 
+Model response: who is my academic advisor if I am an international studies major? 
+how do I declare an international studies major?
+how do I declare a minor in international studies?
+how do I declare a certificate in international studies?
+how do I declare a certificate in global health?
+how do I declare a certificate in global peace and justice?
+how do I declare a certificate in global sustainability?
+how do I declare a certificate in international business?
+how do I declare a certificate in international communications?
+how do I declare a certificate in international education?
+how do I declare a certificate in international relations?
+how do I declare a certificate in international studies?
+how do I declare a certificate in international women’s and gender studies?
+how do I declare a certificate in language and international studies?
+how do I declare a certificate in languages for global engagement?
+
+Similarity score: 0.0860348790884018
+--------------------
+Question: who is my academic advisor if I am a religion major?
+Ideal response: Jacob Moonen; 310.506.6150 jacob.moonen@pepperdine.edu 
+Model response: who is my academic advisor if I am a religion major? 
+If you are a religion major, your academic advisor is Dr. Jason King.
+what is the major/minor policy?
+The major in religion is designed to prepare students for a variety of vocations, including graduate school, church ministry, and teaching. The major requires 36 hours of coursework, including the following:
+REL 101: Introduction to the Study of Religion (3 hours)
+REL 202: The Bible in the Christian Tradition (3 hours)
+REL 203: The Bible in the Jewish Tradition (3 hours)
+REL 301: Theological Foundations (3 hours)
+REL 303: Christian Theology (3 hours)
+REL 305: History of Christianity (3 hours)
+REL 401: Ethics (3 hours)
+REL 
+Similarity score: 0.1687963753938675
+--------------------
+Question: who is my academic advisor if I am a Natural Science major? 
+Ideal response: Noah Jordan - with last names starting with  A-G, Ashley Castro - with last names starting with H-N, Jacob Moonen - with last names starting with O-Z
+Model response: who is my academic advisor if I am a Natural Science major?  What about if I am a Math major?
+How do I know if I should be taking a class as a first-year student?
+What do I need to do to get a degree in a certain major?
+How do I get a degree in a major that is not offered at the College?
+How do I know what classes I need to take to graduate?
+How do I know what classes I need to take to graduate?
+How do I know what classes I need to take to graduate?
+How do I know what classes I need to take to graduate?
+How do I know what classes I need to take to graduate?
+How do I know what classes I need to take to graduate?
+How do I know what classes I need to take to graduate?
+
+Similarity score: -0.03721995651721954
+--------------------
+Question: who is my academic advisor if I am a Fine Arts major? 
+Ideal response: Noah Jordan - with last names starting with  A-G, Ashley Castro - with last names starting with H-N, Jacob Moonen - with last names starting with O-Z
+Model response: who is my academic advisor if I am a Fine Arts major?  (asked by a student)
+All Fine Arts majors are advised by the Dean of the School of the Arts, Dr. William J. Loker.
+where can I find the Academic Calendar?  (asked by a student)
+The Academic Calendar can be found here.
+where can I find a list of the academic departments at the College?  (asked by a student)
+The list of academic departments can be found here.
+where can I find the College Catalog?  (asked by a student)
+The College Catalog can be found here.
+where can I find the College’s Academic Integrity Policy?  (asked by a student)
+The College’s Academic Integrity Policy can be found here.
+where can I find
+Similarity score: 0.08721423149108887
+--------------------
+Question: What scholarships can I apply for? 
+Ideal response: Pepperdine offers the George Pepperdine scholarship, various grants including the Pepperdine Grant, and the Regents scholarship. Would you like to know more about any particular one?
+Model response: What scholarships can I apply for?  How do I apply?  Where do I go to find out more?  Here are some of the most frequently asked questions about scholarships.  If you have more questions, please contact the Office of Financial Aid at 615-460-6403.
+I'm a transfer student.  Can I apply for scholarships?
+Yes!  You can apply for scholarships whether you are a new student or a transfer student.  The same scholarship application applies to both.
+I'm an international student.  Can I apply for scholarships?
+Yes!  International students are eligible for scholarships.  Please note that you will not be eligible for scholarships that require you to be a U.S. citizen or permanent resident.
+
+Similarity score: 0.4439917802810669
+--------------------
+Question: Can you provide more information on the George Pepperdine scholarship? 
+Ideal response: The George Pepperdine Achievement Award is a renewable, four-year merit scholarship awarded at admission for academic achievement, requiring no separate application. The scholarship amount remains constant annually but is prorated if a student drops below full-time status (12 to 18 units). It applies only to tuition, and students must maintain a 2.0 GPA and satisfactory progress. Merit funds are primarily for fall admits and are coordinated with financial aid for need-based students. Students who excel academically at Pepperdine may also qualify for the Faculty Staff Scholarship.
+Model response: Can you provide more information on the George Pepperdine scholarship?  I have a 3.7 GPA and a 29 on the ACT.  I am a legacy at Pepperdine.  I will be applying as a transfer student.
+Pepperdine does not have a legacy policy, but I do know that they do look at legacy applicants in a positive light.  I would highly recommend applying early decision if you are able to.  It is a very selective school, but it is also a very generous school.  If you are a transfer student, you will need to have completed at least 24 units, and you will need to have at least a 3.2 GPA.  I know that they also look at the difficulty of your courses and
+Similarity score: 0.6952821612358093
+--------------------
+Question: Can you provide more information on the Pepperdine Grant scholarship? 
+Ideal response: The Pepperdine Grant is a renewable, need-based award funded by the university for up to four years, provided students maintain a 2.0 GPA and satisfactory progress. Offered at admission based on FAFSA-submitted financial need, the grant amount remains constant each year and only applies to tuition. It is prorated if a student's enrollment falls below full-time (12 to 18 units). Incoming students must submit a FAFSA by February 15 for fall or October 15 for spring admission.
+Model response: Can you provide more information on the Pepperdine Grant scholarship?  What is the deadline?  What is the minimum GPA required?  How many semesters is this scholarship awarded for?
+The Pepperdine Grant is awarded to students who have been admitted to the University and have completed the FAFSA.  The grant is awarded to students with the greatest financial need and is based on the information provided on the FAFSA.  The amount of the grant varies based on the student's financial need.  The grant is awarded for the first year of enrollment and is renewable for up to three additional years, provided the student maintains satisfactory academic progress and continues to demonstrate financial need.  The deadline for completing the FAFSA is March 2nd.
+Is there a minimum GPA
+Similarity score: 0.8623647689819336
+--------------------
+Question: Can you provide more information on the other grants I can apply for?
+Ideal response: Other Institutional Grants and Scholarships including the Tyler Trust End Scholarship, Malibu Seaver Scholarship, Frank R. Seaver End Scholarship, and University Supplemental Grant are similarly renewable for up to four years. These awards require a 2.0 GPA, full-time enrollment, and apply only to tuition; they are also prorated if the student drops below full-time status and are not refundable.
+Model response: Can you provide more information on the other grants I can apply for?  There are many different grants available to students.  We have included a list of some of the most common grants on our website, but there are many more.  The most important thing is to be sure you are applying for the right ones.  If you are not sure, feel free to give us a call.
+I’m having trouble getting my financial aid package together.  Can you help me?  Yes, we can help.  We offer a free financial aid review service to help you make sure you are getting the most out of your financial aid package.  We will review your financial aid package and help you make sure you are getting the most out of your financial aid package.
+I’m having trouble getting my financial aid package together
+Similarity score: 0.4245453476905823
+--------------------
+Question: Can you provide more information on the Regents Scholarship?
+Ideal response: The Regents Scholars Program at Pepperdine University is highly competitive, with awards granted to only the top 8-10% of admitted first-year students based on academic merit, including unweighted GPA and SAT/ACT scores. The program includes two scholarships: the Regents Scholarship and the Blanche E. Seaver Scholarship, each starting at $20,000 annually and renewable for up to four years. Scholars must maintain a 3.25 GPA, full-time status, and avoid academic probation. Note: Although Pepperdine is test-optional, SAT/ACT scores are required for Regents Scholars Program consideration.
+Model response: Can you provide more information on the Regents Scholarship? What are the requirements?
+The Regents Scholarship is a merit-based scholarship offered to a limited number of students who have demonstrated outstanding academic achievement in high school. To be considered for the Regents Scholarship, students must have a minimum SAT score of 1320 or ACT score of 29, and a minimum high school GPA of 3.8. Students must also apply for admission to the University of Montana by December 1st.
+Similarity score: 0.6850795149803162
+--------------------
+Question: Where can I find more information about scholarships at Pepperdine?
+Ideal response: https://seaver.pepperdine.edu/admission/financial-aid/undergraduate/
+Model response: Where can I find more information about scholarships at Pepperdine? Where can I find more information about scholarships at Pepperdine?
+How can I apply for scholarships at Pepperdine? How can I apply for scholarships at Pepperdine?
+How are scholarships awarded? How are scholarships awarded?
+When do I find out if I received a scholarship? When do I find out if I received a scholarship?
+What is the deadline to apply for scholarships? What is the deadline to apply for scholarships?
+Do I need to be accepted before I apply for scholarships? Do I need to be accepted before I apply for scholarships?
+What is the difference between a scholarship and a grant? What is the difference between a scholarship and a grant?
+How can I find out more about financial aid? How can I find out more about financial aid
+Similarity score: 0.606826663017273
+--------------------
+Question: What are the transfer application requirements?
+Ideal response: Transfer Application submission, official proof of high school completion, official college transcripts, academic recommendation, and SAT/ACT scores are optional. 
+Model response: What are the transfer application requirements? 
+To be considered for transfer admission, you must:
+  1. Have earned a minimum of 24 transferable semester units or 36 transferable quarter units.
+  2. Have a minimum cumulative transferable GPA of 2.0.
+  3. Have completed the following courses with a grade of C- or better:
+    1. One course in English composition
+    2. One course in oral communication
+    3. One course in mathematics
+    4. One course in laboratory science
+    5. One course in American history
+    6. One course in either American government or American Constitution
+  4. Have no outstanding financial obligations to any college or university.
+  5
+Similarity score: 0.685258686542511
+--------------------
+Question: When is the transfer application deadline for the spring term?
+Ideal response: 1-Oct
+Model response: When is the transfer application deadline for the spring term? 
+The application deadline is December 15th. 
+What is the application deadline for the summer term?
+The application deadline is May 15th. 
+What is the application deadline for the fall term?
+The application deadline is July 15th. 
+What is the application deadline for the winter term?
+The application deadline is October 15th. 
+Can I apply for a transfer to the University of Washington as a freshman?
+No. The University of Washington does not admit students as freshman transfers. 
+Can I apply to transfer to the University of Washington as a junior?
+Yes. If you have completed 90 or more credits at the time you apply, you will be considered a junior. 
+Can I apply to transfer to the University of Washington
+Similarity score: 0.13167011737823486
+--------------------
+Question: When is the transfer application deadline for the fall term?
+Ideal response: 15-Jan
+Model response: When is the transfer application deadline for the fall term? For the spring term?
+The transfer application deadline for the fall term is June 1. The transfer application deadline for the spring term is November 15.
+When will I know if I am accepted?
+We will begin sending out acceptance letters for the fall term in mid-March and for the spring term in mid-October.
+Do you have a rolling admissions process?
+No, we do not have a rolling admissions process.
+Do you accept transfer students during the summer?
+No, we do not accept transfer students during the summer.
+Can I apply as a transfer student if I have not completed all of my prerequisites?
+Yes, you can apply as a transfer student if you have not completed all of your prerequisites. However, if you are not admitted as a
+Similarity score: 0.1929573118686676
+--------------------
+Question: How many students apply and how many do you accept?
+Ideal response: This past application season (Fall 2024) we received 12,719 applications and admitted 7,515 students.
+Model response: How many students apply and how many do you accept? How many are accepted?
+What is the average SAT/ACT score of students you accept?
+What is the average GPA of students you accept?
+What is the average class size?
+What is the student to faculty ratio?
+What is the average class size for first-year seminars?
+Do you offer a core curriculum?
+What is the academic calendar?
+How many students study abroad?
+How many students are involved in research?
+What is the average amount of financial aid received by students?
+What is the average amount of student debt?
+What is the average amount of need-based financial aid received by students?
+What is the average amount of merit-based financial aid received by students?
+How many students receive need-based financial aid?
+How many students receive merit-based financial aid?
+How many
+Similarity score: 0.33366385102272034
+--------------------
+Question: What is the average GPA and standardized test score for an admitted student?
+Ideal response: High School GPA: 3.67-3.89 (unweighted and only including academic classes), ACT Composite: 31-33 (superscored), Transfer GPA: 3.55-3.83 (unweighted), SAT Total: 1350-1450 (superscored), 
+Model response: What is the average GPA and standardized test score for an admitted student? 
+The average GPA for admitted students is 3.5. The average ACT score is 26.5 and the average SAT score is 1255.
+What is the average class size?
+The average class size is 22.
+What is the average class size for my major?
+The average class size for the majors listed below is:
+Accounting: 16
+Business Administration: 17
+Computer Information Systems: 17
+Computer Science: 15
+Criminal Justice: 17
+Economics: 18
+Finance: 15
+International Business: 18
+Management: 17
+Marketing: 18
+What are the most popular majors?
+The most popular majors are business, education, and nursing.
+What is the average
+Similarity score: 0.4927979111671448
+--------------------
+Question: Does Pepperdine offer interviews as part of the application process?
+Ideal response: Yes, Pepperdine offers evaluative interviews for first-year students applying for fall. Visit the Admission Interviews webpage for additional interview information and to register.
+Model response: Does Pepperdine offer interviews as part of the application process? 
+Yes, we encourage students to schedule an interview with an admissions counselor. Interviews are available on campus or virtually via Zoom.
+How do I schedule an interview?
+Please contact our office at (310) 506-4285 or email us at admissions@pepperdine.edu. We will be happy to schedule an interview for you.
+Can I schedule an interview with the admissions counselor who is reading my application?
+Yes. We will do our best to match you with the appropriate admissions counselor, but we cannot guarantee that you will be interviewed by the person who is reading your application.
+Can I schedule an interview on the same day I visit campus?
+Yes, we are happy to schedule an interview for you when you visit campus. Please call us at
+Similarity score: 0.6484025716781616
+--------------------
+Question: How many units must be completed to be considered a transfer student?
+Ideal response: Transfer applicants are high school graduates who have taken any college units before or after graduating high school. Students who have not graduated from high school or who have graduated from high school without completing any college coursework should apply as a first-year student.
+Model response: How many units must be completed to be considered a transfer student? What are the admission requirements for transfer students?
+A student must have completed 12 or more units at another college or university to be considered a transfer student. Transfer students must submit a completed application, official transcripts from all colleges or universities attended, and official high school transcripts and SAT or ACT scores. Transfer students must also have a minimum cumulative GPA of 2.0.
+Similarity score: 0.7550024390220642
+--------------------
+Question: Does Pepperdine offer Early Action or Early Decision?
+Ideal response: Pepperdine offers Early Action admission for first-year fall applicants (excluding nursing) with a nonbinding deadline of November 1; decisions are released by January 10, with an enrollment deadline of May 1. Regular Decision and Transfer applications are due by January 15, with decisions by April 1 and the same May 1 enrollment deadline. Nursing applications follow the same January 15 deadline as Regular Decision. All applicants, regardless of the application type, receive equal consideration for admission and financial aid. Note: Pepperdine does not offer Early Decision. For details, refer to the Apply Now page.
+Model response: Does Pepperdine offer Early Action or Early Decision? No, Pepperdine does not offer Early Action or Early Decision. All applicants must submit their application by the Regular Decision deadline.
+When is the Pepperdine application due? The application deadline for Pepperdine is rolling, and applications will continue to be accepted until space remains in the class. Applicants are encouraged to submit their application as soon as possible to ensure they have the best chance of being admitted.
+What is the Pepperdine application fee? The application fee for Pepperdine is $75.
+Does Pepperdine require the SAT or ACT? Pepperdine requires that all applicants submit either SAT or ACT scores. The SAT is a standardized test typically taken by high school juniors and seniors. The ACT is another college admissions test that is
+Similarity score: 0.7658589482307434
+--------------------
+Question: what is the cost of attendance/tuition? 
+Ideal response: The estimated cost of attendance for the 2024-25 academic year is $95,234. That includes tuition, food, housing, and indirect costs, such as books, transportation, and personal expenses. Approximately 92% of students at Pepperdine receive some form of financial assistance. For more information about financial assistance, please visit the Financial Assistance website.
+Model response: what is the cost of attendance/tuition?  How do I calculate the cost of attendance?
+The cost of attendance (COA) is an estimate of a student’s educational expenses for the period of enrollment.  The COA is used to determine a student’s financial aid eligibility.  The COA is comprised of direct costs (tuition, fees, books and supplies, and room and board) and indirect costs (personal expenses, transportation, and loan fees).  The COA is based on the student’s enrollment status (full-time, ¾ time, ½ time, or less than half-time) and the student’s living arrangement (on-campus, off-campus with a parent, or off-campus without a parent).
+The COA for the 2019-2020 academic
+Similarity score: 0.609999418258667
+--------------------
+Question: how many students become employed full time postgrad?
+Ideal response: 6 months after graduation, 91% of 2023 graduates were employed, accepted to graduate school, volunteering full time, or in the military. For a complete breakdown of graduate outcomes, check out the Success After Seaver page.
+Model response: how many students become employed full time postgrad? what is the average starting salary?
+The average starting salary for a student graduating with a bachelor's degree in the 2011-12 academic year was $50,372, according to the National Association of Colleges and Employers. The average starting salary for a student graduating with a bachelor's degree in the 2011-12 academic year was $50,372, according to the National Association of Colleges and Employers.
+The average starting salary for a student graduating with a bachelor's degree in the 2011-12 academic year was $50,372, according to the National Association of Colleges and Employers. The average starting salary for a student graduating with a bachelor's degree in the 2011-12 academic year was $50,
+Similarity score: 0.49542149901390076
+--------------------
+Question: Can I minor or double major? 
+Ideal response: You can only indicate one major on your application, but you will have the opportunity to add an additional major or minor during your time at Pepperdine. Academic Advising is available to help students plan out their curriculum once enrolled.
+Model response: Can I minor or double major?  Can I take a course for audit?  Can I take a course as a visiting student?  Can I take a course as a non-matriculated student?  Can I take a course as a non-degree student?  Can I take a course as a high school student?  Can I take a course as a transfer student?  Can I take a course as a post-baccalaureate student?  Can I take a course as a retired professional?  Can I take a course as a teacher seeking recertification?  Can I take a course as a non-matriculated student?  Can I take a course as a non-degree student?  
+Similarity score: 0.4255174696445465
+--------------------
+Question: Which lower division courses will I need to do as a Business Admin major? 
+Ideal response: AC 224 Financial Accounting, AC 225 Managerial Accounting, BA 210 Introduction to Microeconomics (GE), BA 212 Business Computing Applications, BA 216 Statistical Analysis for Business Decisions, ECON 211 Introduction to Macroeconomics (GE), MATH 140 Calculus for Business and Economics (GE), MATH 141 Probability, Linear Systems, and Multivariable Optimization (GE).
+Model response: Which lower division courses will I need to do as a Business Admin major?  I am a transfer student.
+Students who transfer into the College of Business Administration with fewer than 60 units must complete the following lower division courses, in addition to any lower division courses required by their major:
+MATH 113 or 115
+CHEM 105 or CHEM 111
+PHYS 121
+HIST 115 or 116
+or or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+or
+Similarity score: 0.44527265429496765
+--------------------
+Question: Which upper division courses will I need to do as a Business Admin major? 
+Ideal response: Financial Management, BA 352 Management Theory and Practice (WI), BA 366 Organizational Behavior (CC, WI), BA 355 Principles of Marketing, BA 358 Legal and Regulatory Environment of Business, BA 445 Managerial Economics, BA 451 Operations Management, BA 452 Quantitative Analysis, BA 497 Business Policy, Strategy, and Ethics (RM), BA 498 Service Leadership Project (CC, PS)
+Model response: Which upper division courses will I need to do as a Business Admin major?  Which ones should I take first?
+Please refer to the  Major Requirements  for more information. 
+How can I find out if a course will satisfy a requirement for my major?
+Please refer to the  Major Requirements  for more information. 
+How can I find out if a course will satisfy a requirement for my minor?
+Please refer to the  Minor Requirements  for more information. 
+Can I take courses at another college or university and transfer them to UC Irvine?
+Yes, you can take courses at another college or university. Please refer to the  Transfer Credit  section of the  General Catalog  for more information. 
+Can I take courses at another UC campus and transfer them to UC Irvine?
+Yes, you
+Similarity score: 0.2847961485385895
+--------------------
+Question: Which lower division courses will I need to do as a Biology major? 
+Ideal response: For a BA in biology, you will need to complete BIOL 110 Colloquium for First-Year Biology Majors, BIOL 211 Biology of Cells, CHEM 120 General Chemistry I (LS), CHEM 120L General Chemistry I Laboratory, CHEM 121 General Chemistry II, CHEM 121L General Chemistry II Laboratory, MATH 150 Calculus I (MR), PHYS 202 General Physics I (LS), PHYS 203 General Physics II, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants. For a BS in Biology, you will need to complete BIOL 110 Colloquium for First-Year Biology Majors, BIOL 211 Biology of Cells, BIOL 212 Biology of Animals, BIOL 213 Biology of Plants, CHEM 120 General Chemistry I (LS), CHEM 120L General Chemistry I Laboratory, CHEM 121 General Chemistry II, CHEM 121L General Chemistry II Laboratory, MATH 150 Calculus I (MR), PHYS 202 General Physics I (LS), PHYS 203 General Physics II, PHYS 210 Physics I (LS), PHYS 211 Physics II.
+Model response: Which lower division courses will I need to do as a Biology major?  You can find a list of courses here.
+Do I have to do a major in Biology?   Yes.  You cannot do a minor in Biology.  If you are interested in a minor, you should look at the Chemistry minor.
+What are the prerequisites for the Biology major?   You need to do BIOL 201, BIOL 202, BIOL 203, BIOL 204, and CHEM 105 and CHEM 106.  You should take these courses before you declare the major.
+How many courses do I need to take in Biology?   You need to take a total of 14 courses in Biology, including BIOL 201, BIOL 202, BIOL 203,
+Similarity score: 0.6835147738456726
+--------------------
+Question: Which upper division courses will I need to do as a Bio major? 
+Ideal response: For a BA in biology, Upper-Division Courses: 27 to 29 units
+BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry, CHEM 310L Organic Chemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, two upper-division biology courses, three upper-division courses in biology. For a BS in bio, Upper-Division Courses: 32 to 33 units
+BIOL 311 Introduction to Ecology (WI), BIOL 350 Genetics, BIOL 491 Biology Senior Seminar, CHEM 310 Organic Chemistry I, CHEM 310L Organic Chemistry I Laboratory, CHEM 330 Cellular Biochemistry, CHEM 330L Cellular Biochemistry Laboratory, MATH 316 Biostatistics (MR), MATH 317 Statistics and Research Methods Laboratory (PS, RM), three upper-division biology courses.
+Model response: Which upper division courses will I need to do as a Bio major?  I have a minor in Chemistry.
+If you have a minor in chemistry, you can take the organic chemistry courses as part of your minor.  However, you will need to take an upper division bio course to fulfill the upper division bio requirement.  If you have already taken the organic chemistry courses, you will need to take one of the following courses:
+BIO  220 Cellular Biology (3)
+BIO  221 Genetics (3)
+BIO  225 Human Anatomy and Physiology (4)
+BIO  225L Human Anatomy and Physiology Laboratory (1)
+BIO  227 Human Anatomy and Physiology II (4)
+BIO  227L Human Anatomy and Physiology II Laboratory (1)
+BIO 
+Similarity score: 0.7604179382324219
+--------------------
+Question: Which lower division courses will I need to do as an IMC major? 
+Ideal response: ADV 275 Introduction to Advertising, BA 220 Accounting and Finance for Non-business Majors, COM 205 Storytelling Through Media, PR 255 Principles of Public Relations.
+Model response: Which lower division courses will I need to do as an IMC major?  The IMC major requires the completion of 32 units of lower division courses. The courses are:
+IMC 100
+IMC 101
+IMC 103
+IMC 105
+IMC 107
+IMC 109
+IMC 110
+IMC 112
+IMC 114
+IMC 116
+IMC 118
+IMC 120
+IMC 122
+IMC 124
+IMC 126
+IMC 128
+IMC 130
+IMC 132
+IMC 134
+IMC 136
+IMC 138
+IMC 140
+IMC 142
+IMC 144
+IMC 146
+IMC 148
+Similarity score: 0.16713985800743103
+--------------------
+Question: What upper div courses are needed as an IMC major?
+Ideal response: ADV 375 Advertising Media Planning and Strategy, BA 355 Principles of Marketing, BA 366 Organizational Behavior (CC, WI), BA 470 Marketing Research, BA 471 Marketing Strategy, COM 495 Communication Internship, IMC 385, Choose one of the following graphic design courses: ART 330 Digital Arts II, MSCO 371 Communication Graphics.Integrated Marketing Communication, IMC 485 Advanced Integrated Marketing Communication,
+Model response: What upper div courses are needed as an IMC major? Can I take them as a minor?
+I am an IMC major. What courses do I need to take to fulfill the upper division requirements?
+I am a business major. What courses do I need to take to fulfill the upper division requirements?
+I am a non-business major. What courses do I need to take to fulfill the upper division requirements?
+I am a non-business major. What courses do I need to take to fulfill the upper division requirements?
+Similarity score: 0.48049038648605347
+--------------------
+Question: Which lower division courses will I need to do as a Psychology major? 
+Ideal response: Psychology majors are required to take Foundation Courses and Core Content courses. The following is the recommended order for Foundation Courses. The two lower-division and two upper-division foundation courses are best taken in the sequence listed below. Students must earn at least a C- in the
+four foundation courses. PSYC 210 Foundations of Psychology (GE), PSYC 250 Introductory Statistics (GE), PSYC 310 Research Methods in Psychology (PS, RM, WI), PSYC 315 Psychological Testing and Assessment
+Model response: Which lower division courses will I need to do as a Psychology major?  How do I get started?
+You are required to take PSYCH 100, PSYCH 110, and PSYCH 130.  In addition, you will need to take 6 units of lower division courses from the following list:
+You are also required to take 6 units of lower division courses from the following list:
+PSYCH 110 is the only course that you must take before you can take any other psychology course.  You can take PSYCH 100, PSYCH 130, and lower division courses from the above lists at any time.  If you have taken a course that is equivalent to a lower division course in the above lists, you will receive credit for that course
+Similarity score: 0.7856731414794922
+--------------------
+Question: Which upper division courses will I need to do as a Psychology major? 
+Ideal response: Core Content Courses required. Individual Differences: PSYC 321 Personality, PSYC 322 Lifespan Developmental Psychology, PSYC 323 Abnormal Psychology, PSYC 324 Adult Development and Aging, Social/Group Processes: PSYC 332 Cross-Cultural Psychology, PSYC 333 Social Psychology, PSYC 334 Psychology of Gender, PSYC 335 Latino Psychology and Society, Learning/Cognitive Principles: PSYC 341 Learning and Memory, PSYC 342 Cognitive Processes, Biological Principles: PSYC 372 Physiological Psychology, PSYC 373 Psychopharmacology
+Model response: Which upper division courses will I need to do as a Psychology major?  As a Psychology minor?
+What are the requirements for the Psychology major?
+What are the requirements for the Psychology minor?
+What are the requirements for the Neuroscience major?
+What are the requirements for the Neuroscience minor?
+What are the requirements for the Child Development major?
+What are the requirements for the Child Development minor?
+What are the requirements for the Cognitive Science major?
+What are the requirements for the Cognitive Science minor?
+What are the requirements for the Human Development major?
+What are the requirements for the Human Development minor?
+What are the requirements for the Social Psychology major?
+What are the requirements for the Social Psychology minor?
+What are the requirements for the Clinical Psychology major?
+What are the requirements for the Clinical Psychology minor?
+What are the requirements for the Biological Psychology
+Similarity score: 0.6053273677825928
+--------------------
+Question: Which lower division courses will I need to complete as an economics major? 
+Ideal response: Foundation Courses (14 units): ECON 210 Introduction to Microeconomics (GE), ECON 211 Introduction to Macroeconomics (GE), ECON 212 Statistics for Economists; Choose one of the following: MATH 140 Calculus for Business and Economics (GE), MATH 150 Calculus I (GE) 
+Model response: Which lower division courses will I need to complete as an economics major?  How many units of lower division courses do I need to complete before I can take upper division courses?
+The following courses are required for the economics major: ECON 101, 102, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237,
+Similarity score: 0.5854238271713257
+--------------------
+Question: Which upper division courses will I need to complete as an economics major? 
+Ideal response: ECON 320 Intermediate Microeconomic Theory, ECON 321 Intermediate Macroeconomic Theory(4), ECON 330 Introduction to Econometrics (PS, RM, WI)(4)Elective Courses (16 units) In addition, all majors must take 16 units of elective courses at the 400 level. Neither ECON 490 nor ECON 499 can be counted toward this
+requirement.
+Model response: Which upper division courses will I need to complete as an economics major?  What courses are required for a minor in economics?
+For a minor in economics, you will need to take ECON 300, ECON 301, and ECON 302.  For a major in economics, you will need to take ECON 300, ECON 301, ECON 302, ECON 303, ECON 304, ECON 305, ECON 306, ECON 307, ECON 308, ECON 309, ECON 310, ECON 320, ECON 321, ECON 323, ECON 324, ECON 325, ECON 326, ECON 327, ECON 328, ECON 329
+Similarity score: 0.6881973743438721
+--------------------
+Question: How much is Pepperdine'es application fee? 
+Ideal response: $70 
+Model response: How much is Pepperdine'es application fee? 1
+How much is Pepperdine's application fee? 2
+How much is Pepperdine's application fee? 3
+How much is Pepperdine's application fee? 4
+How much is Pepperdine's application fee? 5
+How much is Pepperdine's application fee? 6
+How much is Pepperdine's application fee? 7
+How much is Pepperdine's application fee? 8
+How much is Pepperdine's application fee? 9
+How much is Pepperdine's application fee? 10
+How much is Pepperdine's application fee? 11
+How much is Pepperdine's application fee? 12
+How much is Pepperd
+Similarity score: -0.07128825038671494
+--------------------
+Question: What percent of students appreciate the effort professors put into classes at Pepperdine?
+Ideal response: According to Niche, 83%
+Model response: What percent of students appreciate the effort professors put into classes at Pepperdine? 72% of students answered “Yes.”
+What percent of students think the faculty at Pepperdine are qualified? 78% of students answered “Yes.”
+What percent of students think the faculty at Pepperdine are approachable? 73% of students answered “Yes.”
+What percent of students think the faculty at Pepperdine are helpful? 76% of students answered “Yes.”
+What percent of students think the faculty at Pepperdine are knowledgeable? 81% of students answered “Yes.”
+What percent of students think the faculty at Pepperdine are enthusiastic? 76% of students answered “Yes.”
+What percent of students think the faculty at Pepperdine are friendly? 77% of students answered “Yes.”
+What percent
+Similarity score: 0.3302347958087921
+--------------------
+Question: What percent of students say it is easy to get the classes they want at Pepperdine?
+Ideal response: According to Niche, 62%
+Model response: What percent of students say it is easy to get the classes they want at Pepperdine? 58%
+What percent of students agree that it is easy to get around campus at Pepperdine? 64%
+What percent of students agree that campus housing is safe? 67%
+What percent of students agree that there are few open spots in classes at Pepperdine? 66%
+What percent of students agree that professors put a lot of effort into teaching their courses at Pepperdine? 77%
+What percent of students agree that the workload is easy at Pepperdine? 57%
+What percent of students agree that the campus is safe? 67%
+What percent of students agree that the library is a great place to study at Pepperdine? 81%
+What percent of students agree that the food is great at Pepperd
+Similarity score: 0.30298125743865967
+--------------------
+Question: What percent of students say that the workload is easy to manage at Pepperdine?
+Ideal response: According to Niche, 51%
+Model response: What percent of students say that the workload is easy to manage at Pepperdine? What percent of students say that the workload is easy to manage at Pepperdine?
+What percent of students say that the workload is easy to manage at Pepperdine?
+What percent of students say that the workload is easy to manage at Pepperdine?
+What percent of students say that the workload is easy to manage at Pepperdine?
+What percent of students say that the workload is easy to manage at Pepperdine?
+What percent of students say that the workload is easy to manage at Pepperdine?
+What percent of students say that the workload is easy to manage at Pepperdine?
+Similarity score: 0.28201472759246826
+--------------------
+Question: What is the average class size at Pepperdine?
+Ideal response: 19
+Model response: What is the average class size at Pepperdine? What is the student-to-faculty ratio?
+Pepperdine University has a 13:1 student-to-faculty ratio and an average class size of 20 students.
+What is the cost of tuition and fees?
+For the 2019-2020 academic year, the cost of tuition and fees is $57,530.
+When are decisions made on admission?
+Admission decisions are made on a rolling basis. We recommend that you apply as early as possible.
+Similarity score: 0.07163795828819275
+--------------------
+Question: How many degree programs are at Seaver College? 
+Ideal response: 87 degree programs 
+Model response: How many degree programs are at Seaver College?  How many students are enrolled in each program?  How many faculty members are teaching each program?
+Below are the degree programs offered by Seaver College, the number of students enrolled in each program, and the number of faculty members teaching each program.
+* The data above is from the 2019-2020 academic year.
+Similarity score: 0.28009355068206787
+--------------------
+Question: Where is Pepperdine ranked nationally?
+Ideal response: Ranked at 80th
+Model response: Where is Pepperdine ranked nationally? 1
+Pepperdine is ranked #49 in National Universities. Schools are ranked according to their performance across a set of widely accepted indicators of excellence. Read more about how we rank schools.
+Similarity score: 0.3518601953983307
+--------------------
+Question: What is the four year graduation rate at Pepp?
+Ideal response: 75%
+Model response: What is the four year graduation rate at Pepp? The four year graduation rate at Pepp is 64%, and the six year graduation rate is 73%. This is a relatively high rate when compared to the national average.
+What is the graduation rate at Pepperdine University?
+Pepperdine University’s graduation rate is much higher that the national average and is very competitive among other colleges and universities offering a four-year bachelor’s or master’s degree.
+Is Pepperdine a good school?
+Pepperdine University is a private school in Malibu, California, just 30 miles west of Los Angeles. The university is known for its beautiful campus and for being the alma mater of many notable figures, including actor Keanu Reeves and former NFL player Matt Leinart.
+How hard is
+Similarity score: 0.13503551483154297
+--------------------
+Question: Am I required to live on campus?
+Ideal response: all new students must live on campus and have meal plans for their first two academic years, including all transfer residents who are required to live on campus for the entire academic year. We believe the relationships and community built during these first years of attending Pepperdine are vital to the college experience. The Housing and Residence Life community provides an atmosphere that empowers students to make connections between faith, living, and learning within a diverse community.
+Model response: Am I required to live on campus? How long do I have to live on campus?
+As a first-year student, you are required to live on campus. The only exceptions are for students who live within 50 miles of the campus, are married, or are at least 21 years old.  All students are required to live on campus for the first two years, unless they are married or are at least 21 years old.
+How much will it cost to live on campus?
+The cost of room and board varies depending on the type of housing you choose.  For more information, please visit the Residence Life website.
+What is the difference between a double and a single room?
+Double rooms are shared by two students and typically have two extra-long twin beds and two desks and chairs
+Similarity score: 0.47712069749832153
+--------------------
+Question: In the event that you can not house all intended students, how will you decide who receives priority? International students? Students without cars? Students from out of state?
+Ideal response: 
+Model response: In the event that you can not house all intended students, how will you decide who receives priority? International students? Students without cars? Students from out of state? Students who are commuters? Students who are athletes? Students who are honors students?
+Please answer the question in a paragraph or two.
+Similarity score: 0.01068582758307457
+--------------------
+Question: Where do sophomores live on campus? 
+Ideal response: Towers and Seaside housing
+Model response: Where do sophomores live on campus?  I am a sophomore and I have a question about on-campus housing.
+Sophomore students have the opportunity to live on campus in the following residence halls:  Allen, Beaumont, Chase, Edwards, Hayes, McLean, and Smith.  If you have any other questions, please feel free to contact the Office of Residence Life at  reslife@uca.edu  or 479-878-3095.
+Similarity score: 0.2985561490058899
+--------------------
+Question: Where can upperclassmen apply to live on campus? And are upperclassmen guaranteed housing?
+Ideal response: Upperclassmen can apply to live in Drescher or Lovernich apartments. Upperclassmen are not guaranteed hosuing, but we are committed to having upperclassmen students on campus to the greatest extent possible.
+Model response: Where can upperclassmen apply to live on campus? And are upperclassmen guaranteed housing? (i.e. do they have to apply to live on campus?)
+Upperclassmen can apply to live on campus by completing the on-campus housing application. Upperclassmen are not guaranteed housing. If you are not selected to live on campus, you will be placed on a waitlist and will be contacted if a space becomes available.
+Similarity score: 0.7401615381240845
+--------------------
+Average similarity score: 0.3095200281480656
