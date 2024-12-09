@@ -1,0 +1,71 @@
+[
+  {
+    "name": "llama-3.1-8b_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_all_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs",
+      "./Procedural_Docs",
+      "./Factual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_all.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_contextual.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_factual_procedural_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Factual_Docs",
+      "./Procedural_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_factual_procedural.json",
+    "is_multiple_choice": false
+  },
+  {
+    "name": "llama-3.1-8b-instruct_similarity_procedural_contextual_test",
+    "model_name": "meta-llama/llama-3.1-8b-instruct",
+    "doc_dirs": [
+      "./Procedural_Docs",
+      "./Contextual_Docs"
+    ],
+    "test_file": "Similarity_Test_Sets/similarity_procedural_contextual.json",
+    "is_multiple_choice": false
+  }
+]

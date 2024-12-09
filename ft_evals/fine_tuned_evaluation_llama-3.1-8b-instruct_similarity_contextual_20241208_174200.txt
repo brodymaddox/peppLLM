@@ -1,0 +1,904 @@
+Question: Which course satisfies the English GE requirement? 
+Ideal response: ENG 101
+Model response: Which course satisfies the English GE requirement?  ENGL 101
+Which course satisfies the Math GE requirement?  MATH 101
+Which course satisfies the Science GE requirement?  BIOL 201
+Which course satisfies the Social Science GE requirement?  PSYC 202
+Which course satisfies the Humanities GE requirement?  HIST 202
+Which course satisfies the Fine Arts GE requirement?  MUS 101
+Which course satisfies the Diversity GE requirement?  SOC 202
+Which course satisfies the Upper Division GE requirement?  PSYC 302
+Which course satisfies the Writing Intensive GE requirement?  ENGL 303
+Which course satisfies the Quantitative Reasoning GE requirement?  MATH 303
+Which course satisfies the Information Literacy GE requirement?  EN
+Similarity score: 0.4101962149143219
+--------------------
+Question: Which course satisfies the Literature GE requirement? 
+Ideal response: ENG 315, ENG 325, ENG 326, ENG 370, ENG 380, FRE 346, FRE 348, FRE 355, FRE 356, ITAL 451, SPAN 449, SPAN 451, SPAN 453, SPAN 455
+Model response: Which course satisfies the Literature GE requirement?  # What are the course requirements for the English major?  # What are the course requirements for the English minor?  # What are the course requirements for the English Education major?  # What are the course requirements for the English Education minor?  # What are the course requirements for the Creative Writing major?  # What are the course requirements for the Creative Writing minor?  # What are the course requirements for the Technical Communication major?  # What are the course requirements for the Technical Communication minor?  # What are the course requirements for the Professional Writing major?  # What are the course requirements for the Professional Writing minor?  # What are the course requirements for the Linguistics major?  # What are the course requirements for the Lingu
+Similarity score: 0.18752869963645935
+--------------------
+Question: Which courses satisfy the Religion GE requirements? 
+Ideal response: REL 101, REL 102, REL 301
+Model response: Which courses satisfy the Religion GE requirements? 1. REL 100: World Religions 2. REL 110: The Bible in the Modern World 3. REL 120: The Religions of Asia 4. REL 130: The Religions of Africa 5. REL 150: Introduction to Islam 6. REL 200: Theology and Ethics 7. REL 210: Christianity and Other Religions 8. REL 220: Jewish Thought and Culture 9. REL 230: The Holocaust and Its Impact 10. REL 240: Ethics and Human Rights 11. REL 250: Theology and Literature 12. REL 260: Women and Religion 13. REL 270: Religion and the Environment 
+Similarity score: 0.23417100310325623
+--------------------
+Question: Which courses satisfy the Humanities GE requirements? 
+Ideal response: HUM 111, HUM 212, HUM 313
+Model response: Which courses satisfy the Humanities GE requirements?  The following courses satisfy the Humanities GE requirement:
+African American Studies 101, 102, 201, 202, 301, 302, 401, 402, 501, 502, 601, 602
+Asian American Studies 101, 102, 201, 202, 301, 302, 401, 402, 501, 502, 601, 602
+Classics 101, 102, 201, 202, 301, 302, 401, 402, 501, 502, 601, 602
+English 101, 102, 201, 202, 301, 302, 401, 
+Similarity score: 0.153083935379982
+--------------------
+Question: Which course satisfies the World Civilizations GE requirement? 
+Ideal response: ARTH 300, ARTH 442, ARTH 446, ASIA 301, ASIA 305, ASIA/HIST 310, ASIA 325, ASIA/HIST 330, ASIA/HIST 331, ASIA 340, ASIA 345, ASIA 350, ASIA 365, ASIA 370, COM 313, FILM 365, GSHU 425, HIST 320, HIST 390, HIST 409, INTS 445, POSC 456, REL 501, and REL 526
+Model response: Which course satisfies the World Civilizations GE requirement? 2. Which course satisfies the U.S. History GE requirement? 3. Which course satisfies the U.S. Government GE requirement? 4. Which course satisfies the International Relations GE requirement? 5. Which course satisfies the Philosophy GE requirement? 6. Which course satisfies the Western Civilization GE requirement? 7. Which course satisfies the Non-Western Civilization GE requirement? 8. Which course satisfies the International Business GE requirement? 9. Which course satisfies the International Business GE requirement? 10. Which course satisfies the International Business GE requirement? 11. Which course satisfies the International Business GE requirement? 12. Which course satisfies the International Business GE requirement? 13. Which course satisfies the International Business GE requirement? 14
+Similarity score: 0.18096870183944702
+--------------------
+Question: Which courses satisfy the Amerian Experience/American History GE requirements? 
+Ideal response: POSC 104, HIST 204
+Model response: Which courses satisfy the Amerian Experience/American History GE requirements? 2013-2014 Catalog
+Amerian Experience/American History GE requirements are satisfied by courses that focus on the history, culture, politics, and social movements of the United States from the earliest times to the present. Courses may be taken in any department, but must have a significant focus on the American experience. The following courses satisfy the American Experience/American History GE requirement:
+HIST 103: American History to 1865
+HIST 104: American History since 1865
+HIST 105: The American West
+HIST 106: The American South
+HIST 107: The American Presidency
+HIST 108: The American Civil Rights Movement
+HIST 109: The American Indian Experience
+H
+Similarity score: 0.13135439157485962
+--------------------
+Question: Which course satisfy the Human Institutions and Behavior GE requirements? 
+Ideal response: ECON 200, PSYC 200, SOC 200
+Model response: Which course satisfy the Human Institutions and Behavior GE requirements?  The following courses satisfy the Human Institutions and Behavior General Education requirement:
+ANT 101: Cultural Anthropology
+ANT 102: Human Evolution
+ANT 202: Human Origins
+ANT 203: Human Variation
+ANT 204: Human Adaptation
+ANT 205: Human Culture
+ANT 206: Human Ecology
+ANT 207: Human Society
+ANT 208: Human Culture and the Environment
+ANT 209: Human Behavior and Culture
+ANT 210: Human Diversity
+ANT 211: Human Culture and Society
+ANT 212: Human Behavior in a Global Context
+ANT 213: Human Culture and Globalization
+ANT 214: Human Behavior and the Environment
+ANT 215: Human Culture and the Environment
+ANT 
+Similarity score: 0.21763139963150024
+--------------------
+Question: Which course satisfies the Foreign Language GE requirement? 
+Ideal response: Student must complete the third (college-level) semester of the language, selected from the following:
+Placement is based on competency testing or prior college classes. CHIN 251, FRE 251, FRE 282, GER 251, GER 282, ITAL 251,
+JAPN 251, SPAN 251, SPAN 282, GRE 320, HEB 502
+Model response: Which course satisfies the Foreign Language GE requirement?  I'm interested in taking a course that also has a cultural component.
+You can satisfy the Foreign Language GE requirement by taking a course that is designated as a "Foreign Language and Culture" (FLC) course.  These courses are designed to teach you a language and also provide you with a deeper understanding of the culture associated with that language.  Some examples of FLC courses include:
+French and Francophone Studies 100:  Introduction to French and Francophone Culture
+Spanish 100:  Introduction to Spanish and Latin American Culture
+German 100:  Introduction to German and German Culture
+Chinese 101:  Chinese Language and Culture
+These courses are usually 4 units and are taught in a way that combines language instruction with cultural content
+Similarity score: 0.541114330291748
+--------------------
+Question: Which course satisfies the Lab Science GE requirement? 
+Ideal response: BIOL 105, BIOL 106, BIOL 107, BIOL 108, BIOL 109, BIOL/SPME 230, BIOL/SPME 270, CHEM 120 & CHEM 120L, NASC 101, NASC 108, NASC 109, NASC 155, NASC 156, NUTR 210, PHYS 202, PHYS 210, SPME 106, SPME 108
+Model response: Which course satisfies the Lab Science GE requirement? 1) MATH 201 2) MATH 202 3) MATH 203 4) MATH 204
+## Step 1: Identify the Lab Science GE requirement
+The Lab Science GE requirement is typically satisfied by courses that involve hands-on experimentation and observation, such as biology, chemistry, physics, or geology.
+
+## Step 2: Review the course options
+We need to review the course options provided to see if any of them satisfy the Lab Science GE requirement. The courses listed are MATH 201, MATH 202, MATH 203, and MATH 204.
+
+## Step 3: Determine if any of the courses are Lab Science courses
+None of the courses listed (MATH
+Similarity score: 0.3235304057598114
+--------------------
+Question: Which courses satisfiy the Math GE requirement? 
+Ideal response: MATH 120. This requirement may also be satisfied by COM 240, MATH 140, MATH 141, MATH 150, POSC/PSYC/SOC 250, MATH 270 (for the liberal arts major), or MATH 316
+Model response: Which courses satisfiy the Math GE requirement?  There are several options, but the most common ones are:
+MATH 10A: Calculus I
+MATH 10B: Calculus II
+MATH 20: Calculus III
+MATH 30A: Linear Algebra
+MATH 30B: Differential Equations
+MATH 30C: Probability and Statistics
+MATH 30D: Discrete Math
+MATH 30E: Number Theory
+MATH 40: Introduction to Mathematical Proofs
+MATH 50: Mathematical Modeling
+MATH 60: Abstract Algebra
+MATH 70: Topology
+MATH 80: Real Analysis
+MATH 90: Complex Analysis
+MATH 100: Differential Geometry
+M
+Similarity score: 0.6140546798706055
+--------------------
+Question: Which course satisfies the Speech and Rhetoric GE requirement? 
+Ideal response: COM 180
+Model response: Which course satisfies the Speech and Rhetoric GE requirement?  Speech 101
+What is the typical format of a speech class?  Typically, a speech class is divided into two parts: lecture and lab.  The lecture portion is usually held in a classroom setting, and the lab portion is usually held in a computer lab or other audio-visual setting.  In the lecture portion, the instructor will introduce the topic of the day, discuss key concepts, and provide examples.  In the lab portion, students will practice their speeches and receive feedback from the instructor and their peers.
+What is the difference between a speech and a presentation?  While both speeches and presentations are forms of oral communication, a speech is typically a more formal, structured presentation that is designed to persuade
+Similarity score: 0.049440834671258926
+--------------------
+Question: Which courses satisfies the Fine Arts GE requirement? 
+Ideal response: ART 101, ART 103, ART 210, ART 230, ART 250, ART 315, ART 368, ART 372, ART 374, ARTH 200, ARTH 300, ARTH 422, ARTH 424, ARTH 425, ARTH 426, ARTH 428, ARTH 430, ARTH 432, ARTH 434, ARTH 436, ARTH 440, ARTH 442, ARTH 446, FA 240, FA 241, FA 313 (for liberal arts majors only), FA 314 (for liberal arts majors only), FILM 111, FILM 311, GSHU 111, GSHU 112, GSHU 113, MUS 105, MUS 106, MUS 110, MUS 114, MUS 118, MUS 135, MUS 136, MUS 137, MUS 138, MUS 139, MUS 140, MUS 141, MUS 143, MUS 145, MUS 184, MUS 200, MUS 280, MUS 305, MUS 335, MUS 336, MUS 337, MUS 338, MUS 339, MUS 340, MUS 341, MUS 343, MUS 384, MUS 467, MUS 468, THEA 200, THEA 210, THEA 226, THEA 227, THEA 243, THEA 342, PE 180, PE 185
+Model response: Which courses satisfies the Fine Arts GE requirement?  What are the requirements for the Fine Arts GE?
+The Fine Arts GE requirement is satisfied by completing one course in Fine Arts (ART, DANCE, MUS, THEA, or FINE) with a grade of C- or better.  Some courses may have prerequisites or additional requirements.  Please check with the course instructor or department for more information.  Some courses that satisfy the Fine Arts GE requirement include:
+ART 100: Introduction to Art
+ART 101: Art Appreciation
+ART 102: Art History
+ART 103: Art Appreciation: Special Topics
+ART 104: Art Appreciation: World Art
+ART 105: Art Appreciation: American Art
+DANCE 101: Dance
+Similarity score: 0.43219688534736633
+--------------------
+Question: How is the First Year Seminar requirement fulfilled? 
+Ideal response: GS 199 First-Year Seminars * Students enrolled in the Great Books Colloquium or the Social Action and Justice Colloquium complete the FirstYear Seminar requirement by completing the colloquium
+Model response: How is the First Year Seminar requirement fulfilled?  The First Year Seminar (FYS) is a one-credit course that is required of all first-year students.  The course is designed to introduce students to the academic expectations and resources of the college, and to help them develop skills and strategies for success in college.  There are several ways to fulfill the FYS requirement, including:
+Taking a designated FYS course, which is typically a 1-credit course that meets for one hour per week.  These courses are designed to introduce students to the academic expectations and resources of the college, and to help them develop skills and strategies for success in college.
+Completing a Bridge Program, which is a 2-3 week program that introduces students to the academic expectations and
+Similarity score: 0.44065389037132263
+--------------------
+Question: How is the Junior Writing Portfolio requirement fulfilled?
+Ideal response: A cover letter from the student, approximately two pages, double-spaced, that explains the choice of papers included in the portfolio and describes their writing experiences during first two years at Pepperdine. See sample cover letter. Four papers from classes taken at Pepperdine. Record of Portfolio Submission form, detailing the name of the instructor and the class for which the paper was written, and the date the paper was submitted for grading. All papers that are submitted are subject to verification for plagiarism and authorship.
+Model response: How is the Junior Writing Portfolio requirement fulfilled? The Junior Writing Portfolio is a requirement for all students in the College of Arts and Sciences. The portfolio is designed to help students demonstrate their ability to think critically and write effectively. Students must complete the following steps to fulfill the Junior Writing Portfolio requirement: Step 1: Choose a Portfolio Option Students must choose one of the following portfolio options: Option 1: English Composition Course Portfolio (ENGL 110 or ENGL 120) Students who take ENGL 110 or ENGL 120 must submit their portfolio through the course's online submission process. Option 2: Expository Writing Portfolio (ENGL 205) Students who take ENGL 205 must submit their portfolio through the course's online submission process. Option 3: Special Topic Portfolio
+Similarity score: 0.55077064037323
+--------------------
+Question: What are suggestions for completing Junior Writing Portfolio?
+Ideal response: A selection of papers from at least 3 different courses. One paper from the student's major. (If no class has been taken in the student's major then submit a paper in a related discipline.) One paper that required research, At least two papers written during the sophomore and/or junior years. One paper from your first year as a college student (if available). If you did not take any of these courses, please substitute another paper. The entire portfolio should include at least 20 pages of writing. (20 pages is the minimum required number of pages. It is fine to include more than 20 pages.) Transfer students may use up to two (2) papers from other institutions. At least two (2) papers should be from Pepperdine University.
+Model response: What are suggestions for completing Junior Writing Portfolio? (JWP)
+The Junior Writing Portfolio (JWP) is a requirement for graduation from high school in some states, including Arizona. It is a collection of a student's best writing samples from their junior year. The purpose of the JWP is to demonstrate a student's writing skills and progress over time. Here are some suggestions for completing the Junior Writing Portfolio:
+1.  Start early:  Begin collecting and organizing your writing samples as early as possible in your junior year. This will give you time to reflect on your progress and make sure you have a good selection of writing pieces.
+2.  Choose a variety of writing samples:  Include a range of writing types, such as essays, stories, poetry, and persuasive
+Similarity score: 0.5861384272575378
+--------------------
+Question: What are the Foundations Requirements? 
+Ideal response: COM 180, ENG 101, REL 100, REL 200, REL 300, FOR 101
+Model response: What are the Foundations Requirements? 2023-2024
+The Foundations program is designed for students who have a strong academic record and are interested in pursuing a Bachelor of Science in Engineering (BSE) degree. The program is designed to provide students with a comprehensive introduction to the principles and practices of engineering, while also allowing them to explore various engineering disciplines.
+To be eligible for the Foundations program, students must meet the following requirements:
+1. High school diploma or equivalent
+2. Minimum 3.5 GPA
+3. SAT or ACT scores (minimum scores: SAT 1240 or ACT 28)
+4. Two letters of recommendation from a teacher or counselor
+5. Personal statement (1-2 pages) outlining academic and career goals
+6. Completion of a math
+Similarity score: 0.22674748301506042
+--------------------
+Question: What are the Connections Requirements? 
+Ideal response: A course in each of the following requirements: Creative Arts, Diverse Perpsectives, Global Perspectives, Historical Thinking, Human Institutions and Behavior, Interpretation, Laboratory Science, Language and Culture, Mathematical Reasoning, U.S. Experience
+Model response: What are the Connections Requirements? 1. The system shall be able to connect to the internet and access the required web services. 2. The system shall be able to connect to the required databases. 3. The system shall be able to connect to the required printers and scanners. 4. The system shall be able to connect to the required network devices (e.g. routers, switches, etc.). 5. The system shall be able to connect to the required peripherals (e.g. barcode scanners, card readers, etc.). 6. The system shall be able to connect to the required third-party systems (e.g. payment gateways, etc.). 7. The system shall be able to connect to the required external systems (e.g. EDI,
+Similarity score: 0.23900368809700012
+--------------------
+Question: What are the skills requirements?
+Ideal response: RISE 101, BA 101, GSGS 200, 1 PE class taken in Malibu or abroad.
+Model response: What are the skills requirements? To be eligible to apply for the program, you must have a bachelor's degree in a relevant field, such as computer science, engineering, or mathematics. You should also have a strong understanding of computer programming, data structures, and algorithms. Proficiency in a programming language such as Python or Java is also required. Additionally, you should have experience with data analysis and visualization tools, such as Pandas, NumPy, and Matplotlib. The program is designed to be completed in one year, and you will be expected to take a minimum of 12 credits per semester. The program is highly competitive, and admission is based on a holistic review of your application, including your academic record, work experience, and personal statement. You can check the program
+Similarity score: 0.12242790311574936
+--------------------
+Question: Which courses satisfy the cultural competence requirement?
+Ideal response: BA 354, BA 366, BA 498, COM 313, COM 410, COM 412, COM 413, COM 485, EDUC 465, ENG 301, ENG 340, ENG 370, ENG 440, ENG 475, FILM 321, FRE 345, FRE 366, FRE 430, FRE 470, GSHU 333, HIST 326, HIST 335, HIST 336, HIST 405, HIST 420, HIST 422, HIST 424, HIST 425, HIST 428, HIST 433, HIST 450, HIST 530, INTS 250, INTS 459, NPM 300, NPM 301, NPM 302, NPM 330, NUTR 210, NUTR 212, NUTR 370, NUTR 440, NUTR 460, POSC 435, POSC 437, POSC 455, PSYC 458, REL 300C, REL 544, SART 202, SAAJ 100, SOC 200, SOC 421, SOC 422, SOC 431, SOC 436, SOC 444, SOC 450, SOC 452, SOC 455, SOC 458, SOC 462, SOC 497, SPAN 348, SPAN 430, SPAN 461, SPAN 470, THEA 313.
+Model response: Which courses satisfy the cultural competence requirement? 
+The following courses satisfy the cultural competence requirement:
+ANT 203: Cultural Diversity in the United States
+ANT 301: Cultural Anthropology
+ANT 302: Cultural Diversity and Social Justice
+ENG 303: American Multicultural Literature
+HIS 302: American Cultural History
+HIS 303: Global History
+PSY 305: Multicultural Psychology
+SOC 303: Race and Ethnicity in the United States
+SOC 304: Global Inequality
+SOC 306: Cultural Diversity and Social Justice
+Note: This list is subject to change and may not be comprehensive. Students are encouraged to check with the Office of International Studies and Programs or the department offering the course to confirm that it satisfies the cultural competence requirement. 
+What
+Similarity score: 0.18419422209262848
+--------------------
+Question: What is required as part of the IP application?
+Ideal response: Applicants must complete the online application which includes providing personal data and background information and answering short answer and essay questions. Some programs also require applicants to complete an interview, video question, audition, or submit additional materials such as a resume. More information on the application process is available here.
+Model response: What is required as part of the IP application? - PowerPoint PPT Presentation
+What is required as part of the IP application?. An IP application must include: A description of the invention or design A claim or claims that define the scope of the invention or design A drawing or drawings that illustrate the invention or design
+PowerPoint Slideshow about 'What is required as part of the IP application' - calvin
+What is required as part of the IP application?
+An IP application must include:
+A description of the invention or design
+A claim or claims that define the scope of the invention or design
+A drawing or drawings that illustrate the invention or design
+An abstract that summarizes the invention or design
+A statement of the inventor(s) and their relationship to the invention or design
+A statement
+Similarity score: 0.3194223940372467
+--------------------
+Question: Should I apply for one semester or a year?
+Ideal response: Many students who choose to study abroad for one semester later ask to extend their contract to remain abroad for a longer period of time. We accommodate these students when possible, but can only accommodate extensions on a space available basis and if visas regulations allow for it. Therefore it's best for students to apply for the academic year from the beginning (if their academic plan can allow for it) in order to hold their space in that program and in order to secure a visa if necessary. Students who have only attended one semester tell us time and time again that they wished they had stayed the full academic year.
+Model response: Should I apply for one semester or a year? That is a great question! Here are some things to consider when deciding whether to apply for one semester or a year:
+Semester Application:
+Pros of a semester application:
+You can take a course or two and test the waters without committing to a full year.
+It can be a great way to gain international experience without having to take a full year off from your studies.
+You can use the semester abroad as a stepping stone to a longer-term program, such as a year abroad.
+Cons of a semester application:
+You may not have as many course options available to you as you would with a year-long program.
+You may not be able to take as many credits as you would with a year-long program.
+You may have to apply for a student visa
+Similarity score: 0.7016177177429199
+--------------------
+Question: Should I have other study abroad locations in mind when I apply?
+Ideal response: Yes! Due to space constraints, our programs cannot always accommodate all applicants. Historically, about 2 out of 3 students who apply are admitted to their first choice program. Therefore we ask students to be open to multiple locations and apply by the priority deadline for the greatest chance of admission.
+Model response: Should I have other study abroad locations in mind when I apply? 
+Yes, it's a good idea to have other study abroad locations in mind when you apply. Here's why:
+1. Flexibility: Having multiple options can give you flexibility in case your first choice doesn't work out. This might be due to various reasons such as visa issues, program availability, or personal preferences.
+2. Back-up plans: Having a back-up plan can reduce stress and anxiety. If you don't get accepted into your first choice, you'll have a plan B to fall back on.
+3. Increased chances of acceptance: If you apply to multiple programs, you may increase your chances of getting accepted into one of them. This is especially true if you're applying to programs with similar requirements and deadlines.
+4. Personal
+Similarity score: 0.5962771773338318
+--------------------
+Question: Can I apply for more than one program?
+Ideal response: Students have the option to be considered for up to six programs and terms with one application. Students will be considered for their first choice first, then their second choice, etc. Programs and terms that have reached capacity will not be available as an alternate choice. Programs that require an interview or audition, such as Faculty-led, internship, and language-intensive programs will not be available as an alternate choice.
+Model response: Can I apply for more than one program? Yes, you can apply to multiple programs. However, you will need to submit a separate application for each program. The application fee is non-refundable, so please make sure you are applying to the correct programs before submitting your applications.
+Do I need to submit an English proficiency test? If your native language is not English, you will need to submit an English proficiency test (TOEFL or IELTS) as part of your application. The test results are valid for two years from the date of the test. Please see the English Proficiency Test Requirements for more information.
+Do I need to submit a resume? A resume is not required for the application process. However, if you have relevant work experience, you may want to include a
+Similarity score: 0.5493648052215576
+--------------------
+Question: When will I know whether or not I am accepted?
+Ideal response: First, ensure that you have completed all required steps including submitting all parts of your online application, and interviewing or auditioning if required. Be sure to pay attention to all deadlines indicated on the application. Click here to learn more about the requirements for each program.
+
+Applicants who apply by the priority deadline (September 23, 2024) will receive a decision on October 11, 2024. Applicants will be notified via email (make sure to allow emails from @via-trm.com to be able to receive a decision). Applicants who apply after the priority deadline will be notified on a rolling basis, usually on Fridays (this usually takes 2-4 weeks).
+Model response: When will I know whether or not I am accepted? The Admissions Committee will review your application and notify you of the decision by email within 4-6 weeks after the application deadline. If you are accepted, you will receive a letter from the Admissions Committee with information about the program, including the start date, tuition, and other important details. If you are not accepted, you will receive a letter from the Admissions Committee with information about why you were not accepted and suggestions for improvement for future applications.
+What are the application deadlines? The application deadlines for the program are as follows:
+Fall semester: June 1st
+Spring semester: October 1st
+Summer semester: March 1st
+What are the program requirements? The program requirements are as follows:
+A bachelor's degree from
+Similarity score: 0.6585761904716492
+--------------------
+Question: Are there jobs for students while abroad?
+Ideal response: Yes, we have many student positions available. IPRAs, media coordinators, and librarians are hired in Malibu before studying abroad. Check out the positions and applications here. Other positions are also available once in your program. Program directors will be reaching out to students the first month of the program
+Model response: Are there jobs for students while abroad? 
+Yes, there are jobs for students while abroad. Many students take advantage of internships, part-time jobs, or volunteer opportunities while studying abroad to gain work experience, build their resume, and earn money to support themselves during their time abroad. Some popular options include:
+Internships: Many universities and companies offer internships for students while abroad, which can be a great way to gain work experience and build connections in a new country.
+Part-time jobs: Students can find part-time jobs in various industries, such as retail, hospitality, or food service, to earn money and gain work experience.
+Volunteer work: Students can participate in volunteer programs, which can be a great way to give back to the community, learn new skills, and earn a
+Similarity score: 0.5066717863082886
+--------------------
+Question: Why are priority applications due about a month after the beginning of the fall semester?
+Ideal response: Prior to going on a semester or Academic Year International Program, students are required to take the first level of a language class (151) for all fall and spring programs (except Washington, D.C. and London programs), as well as other prerequisite courses prior to attending their international program. Students will register for these spring classes in early to mid-November. Due to this registration timeline, International Programs has created an application process and timeline to review students, give them a decision, and leave enough time for them to review their contracts and commit to the program prior to the November registration dates. This allows students to register in the appropriate classes before going abroad, so that they can complete all necessary prerequisites.
+Model response: Why are priority applications due about a month after the beginning of the fall semester? 
+The priority application deadline is set about a month after the start of the fall semester because it is a time when many students are still deciding on their college plans. The deadline is set after the start of the semester so that students have a chance to finalize their plans and apply to their top choices. The priority deadline is also a time when students are typically taking the SAT or ACT, and the scores from these tests are usually available around this time. This allows students to submit their scores with their application.
+In addition, the priority deadline is a time when many students are receiving acceptance letters from colleges and universities, and they may need to make a decision about which college to attend. The priority deadline allows students to submit their application and supporting materials, such
+Similarity score: 0.5282741785049438
+--------------------
+Question: Who teaches the courses in International Programs?
+Ideal response: The Pepperdine Program Director, the faculty-in-residence, and local faculty who are approved by academic divisional deans at the Malibu campus teach courses.
+Model response: Who teaches the courses in International Programs? Our faculty are comprised of experienced educators and professionals who are experts in their fields. They have been carefully selected for their ability to teach and mentor students in an international setting.
+What types of courses are offered in International Programs? Our courses are designed to provide a unique and enriching educational experience. We offer a wide range of courses, from language and culture to business and engineering. Our courses are designed to meet the needs of students from all academic backgrounds.
+What kind of academic support services are available in International Programs? We offer a range of academic support services, including academic advising, tutoring, and language support. Our staff is dedicated to helping students succeed in their academic pursuits.
+What kind of extracurricular activities are available in International Programs? We offer
+Similarity score: 0.3811243772506714
+--------------------
+Question: What does it mean if I was waitlisted for a program and what should I do?
+Ideal response: Due to space constraints and other factors, we often cannot accept all applicants for a given program. Students placed on the waitlist may choose to remain on the waitlist for the chance to be admitted at a later date if space becomes available, or they may choose to reapply for an alternate program, as long as that program is accepting new applications. Click here for more information.
+Model response: What does it mean if I was waitlisted for a program and what should I do? 
+A waitlist is a list of applicants who have not been accepted or denied into a program. It means that the admissions committee is considering your application, but they are unsure if you will be accepted. Being on a waitlist is not a guarantee of admission, and it does not mean that you are not qualified for the program. 
+If you are on a waitlist, here are some steps you can take:
+1. Respond to the waitlist notification: If you receive a waitlist notification, it is essential to respond to the admissions committee as soon as possible. This shows that you are still interested in the program and willing to wait.
+2. Update your application: If you have new information that was not included in your original application,
+Similarity score: 0.6662609577178955
+--------------------
+Question: What happens after I am accepted?
+Ideal response: Students who have been accepted are asked to sign an IP contract to officially commit to their program and term. The contract is a legally binding document that details your responsibilities as an IP student, so make sure you read it carefully and have consulted your family, healthcare providers, academic and financial aid advisors, etc. before signing. Once you have signed a contract, if you need to withdraw for any reason in the future, financial penalties as detailed in the contract apply. Students who have signed a contract should begin preparing to go abroad. Information on preparation is available here.
+Model response: What happens after I am accepted? What are the next steps?
+After you are accepted, you will receive a welcome package from our Admissions Office with information about next steps, including:
+Registering for classes and orientation
+Completing financial aid and scholarship applications
+Obtaining a parking permit and student ID
+Activating your email and online accounts
+Paying tuition and fees
+Arranging for housing and meals (if applicable)
+Additional information about your program and academic requirements
+How do I register for classes and orientation?
+Once you are accepted, you will receive a registration packet with information about registering for classes and orientation. You can also register online through our student portal, MyHumber.
+What are the tuition and fees for my program?
+Tuition and fees for your program will be
+Similarity score: 0.4724448323249817
+--------------------
+Question: Do Pepperdine's international programs have Monday-Friday classes?
+Ideal response: The programs in Buenos Aires and D.C. have classes 5 days per week. The European campus programs may have classes 4 or 5 days per week.
+Model response: Do Pepperdine's international programs have Monday-Friday classes? Yes, Pepperdine offers Monday-Friday classes for many of its international programs. However, some programs may offer a more flexible schedule, including weekend classes or online courses.
+Do Pepperdine's international programs have a variety of course options? Yes, Pepperdine's international programs offer a wide range of courses, including business, communications, education, fine arts, humanities, international relations, languages, natural sciences, and social sciences.
+Do Pepperdine's international programs offer internships? Yes, many of Pepperdine's international programs offer internships, which provide students with hands-on experience and professional development opportunities in their field of study.
+Do Pepperdine's international programs offer language courses? Yes, Pepperdine's international programs offer
+Similarity score: 0.5291077494621277
+--------------------
+Question: From where do the programs depart?
+Ideal response: Students in most programs* can request their preferred departure location when booking their flight. Students are required to book flights through Pepperdine's travel partner, Corniche Travel. Detailed instructions on flight booking will be provided to students as part of their preparation process. *Some Faculty-led programs require students to join a group flight departing from and returning to Los Angeles International Airport (LAX). Review our flight policies here.
+Model response: From where do the programs depart? Are there any other departure points available?
+All our programs depart from the following locations:
+- For the 7-day program: The program starts in Hanoi and ends in Hanoi.
+- For the 10-day program: The program starts in Hanoi and ends in Hanoi.
+- For the 14-day program: The program starts in Hanoi and ends in Hanoi.
+- For the 21-day program: The program starts in Hanoi and ends in Hanoi.
+- For the 30-day program: The program starts in Hanoi and ends in Hanoi.
+- For the 45-day program: The program starts in Hanoi and ends in Hanoi.
+- For the 60-day program: The program starts in H
+Similarity score: 0.2545396387577057
+--------------------
+Question: Can I arrange my own travel to the program?
+Ideal response: No. When signing a contract, a student agrees to the flight policies, which require them to book through Pepperdine's travel partner, Corniche Travel. Booking with Corniche provides students with a variety of benefits, including:
+Model response: Can I arrange my own travel to the program? Yes, you can arrange your own travel to the program. However, please note that you will be responsible for any travel costs and arrangements, including flights, accommodation, and transfers to and from the program location. Can I request a refund if I am unable to attend the program? If you are unable to attend the program, you may be eligible for a refund, depending on the circumstances and the program's refund policy. Please contact us to discuss your options. Can I request a transfer to a different program or location? In some cases, it may be possible to transfer to a different program or location. However, this will depend on the program's capacity, availability, and any associated costs. Please contact us to discuss your options. What are the
+Similarity score: 0.36859315633773804
+--------------------
+Question: What opportunities are there for travel?
+Ideal response: Traveling to selected destinations will definitely be a part of your educational experience. However, these are serious academic programs and your studies must come first. Also, don't overlook exploring and learning about the city and country in which your program is located by visiting only distant places. There is an educational field trip in both the fall and spring terms of each academic year program. Be sure to review our flight policies here.
+Model response: What opportunities are there for travel? Are there any programs that offer travel grants or scholarships?
+Yes, there are many opportunities for travel, and there are several programs that offer travel grants or scholarships. Here are a few examples:
+1. The Fulbright Program: The Fulbright Program offers grants to students and young professionals to study, research, or teach abroad.
+2. The National Science Foundation (NSF) Graduate Research Fellowship Program: The NSF offers fellowships to graduate students to conduct research abroad.
+3. The U.S. Department of State's Critical Language Scholarship (CLS) Program: The CLS Program offers scholarships to students to study critical languages abroad.
+4. The International Student Internship Program (ISIP): ISIP offers internships to students in various fields, including business
+Similarity score: 0.49959099292755127
+--------------------
+Question: I'm going overseas for a year. What do I do over the winter break?
+Ideal response: Pepperdine campuses close at the end of the fall term and re-open at the beginning of the spring term. Students cannot stay on campuses during winter break. Students living in a homestay may inquire about accommodations with their host family but it is not guaranteed. Students studying abroad for the full academic year may leave their belongings in their rooms during the winter break, but they will not be able to access them until the campus reopens.
+Model response: I'm going overseas for a year. What do I do over the winter break? | Jonny Blair
+by Jonny Blair · Published November 16, 2017 · Updated November 16, 2017
+I’m going overseas for a year. What do I do over the winter break?
+Winter break is just around the corner and you’re off to a year abroad. You have a few options for what to do during the winter break. Some of them might be expensive, some might be cheap, but all of them are great ways to spend your time before heading off to your year abroad.
+1. Stay in your hometown
+You could stay in your hometown and spend some time with family and friends. It’s a great opportunity to catch up with the people you love and make some memories before you head off.
+
+Similarity score: 0.4214341938495636
+--------------------
+Question: Is there any support for returning students who are struggling with being back in Malibu?
+Ideal response: Yes! We have the Landed chapel series for students returning for the spring semester. Together we meet to process the transition of returning from abroad and to help evaluate how we have changed from our experiences. We also have Landed events in the fall for students returning from the spring semester or academic year.
+Model response: Is there any support for returning students who are struggling with being back in Malibu? 
+Yes, Pepperdine University is committed to supporting students who may be experiencing challenges as they return to campus. The university offers a variety of resources to help students transition back to campus life, including:
+Academic Support Services:
+The Center for Academic Advising and Support (CAAS) provides academic advising, tutoring, and study skills workshops to help students succeed in their courses.
+The Writing Center offers one-on-one writing consultations and workshops to support students with writing assignments and projects.
+The Math Center provides tutoring and support for students taking math courses.
+Wellness and Counseling Services:
+The Counseling Center offers individual and group counseling sessions to support students with mental health concerns, including anxiety, depression, and adjustment to college life.
+The Health and Wellness Center provides medical
+Similarity score: 0.38263460993766785
+--------------------
+Question: How can I get involved after returning from my program?
+Ideal response: We love having program alumni participate back in Malibu! In the beginning of the year we have our annual event, The Return! Join us as we celebrate your time abroad and share all your adventures with the new freshmen class. We also partner with alumni for all our events and orientations. If you are interested in sharing about your time abroad, please reach out to the program ambassador.
+Model response: How can I get involved after returning from my program? 
+The following are some ways you can get involved with the Office of International Studies and Programs (OISP) after returning from your program:
+Attend OISP events:  We host various events throughout the year, such as study abroad fairs, cultural festivals, and guest speaker series. These events are a great way to stay connected with the OISP community and learn about different cultures and global issues.
+Become a study abroad representative:  If you have a positive study abroad experience, consider becoming a study abroad representative for your college or department. As a representative, you will be able to share your experiences with prospective students and help them make informed decisions about their own study abroad programs.
+Join the Global Ambassadors Program:  The Global Amb
+Similarity score: 0.5068970918655396
+--------------------
+Question: What are the withdrawal fees if I decide to break my contract?
+Ideal response: It depends on the term for which you signed your contract, and the date that you withdraw. The withdrawal fees can be found in your contract, as well as below: If you are considering withdrawing from your program, you must contact the International Programs Office in order complete a withdrawal form. Please contact us at 310.506.4230 or at international.programs@pepperdine.edu for more information.
+Model response: What are the withdrawal fees if I decide to break my contract? Early termination fees are often referred to as "penalties" or "fees" for breaking a contract. The amount of the fee will depend on the specific contract you have and the terms outlined in the contract. These fees can be a percentage of the total cost of the contract, a flat rate, or a combination of both. If you are unsure about the terms of your contract or the amount of the fee, you should review your contract carefully or contact the company directly to inquire about the details.
+If you decide to break your contract, you will typically be charged a fee for the remaining months of the contract, minus any months already paid. This is often referred to as the "unpaid balance" or "outstanding balance." The amount
+Similarity score: 0.635442852973938
+--------------------
+Question: Do I need any vaccinations to study abroad?
+Ideal response: It is a student's responsibility to get information about vaccinations that are specific to their program. Sometimes vaccinations are required by a country and other times vaccinations are recommended. If you have any questions, you can call International SOS at (215) 942-8226. You can also find helpful information on the CDC website.
+Model response: Do I need any vaccinations to study abroad? It depends on the country you're planning to study in. Some countries require specific vaccinations, while others may not. Here's a list of some countries that require specific vaccinations:
+1.  **Yellow Fever Vaccine**: If you're traveling to or living in certain countries in Africa or South America, you may need to get a yellow fever vaccine. These countries include Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo (Brazzaville), Congo (Kinshasa), Côte d'Ivoire, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Gambia, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone
+Similarity score: 0.5570850968360901
+--------------------
+Question: Can I only study abroad sophomore year?
+Ideal response: No! Any Pepperdine student who meets the minimum admissions requirements and prerequisites can apply for any program that is currently accepting new applications. Our abroad locations offer many courses during the fall, spring, and summer terms so start planning with your academic advisor as early as possible to ensure your study abroad plans keep you on track to make progress toward graduation. Let's say you want to travel abroad your junior year or during a summer session: go for it! Don't you hear the bells of the Heidelberg church, don't you smell the buttery croissant calling your name?
+Model response: Can I only study abroad sophomore year? Or can I study abroad in other years?
+You can study abroad in any semester, including sophomore year, junior year, or even spring semester of senior year. However, it's essential to plan ahead and research programs that fit your academic needs and interests. Some programs have restrictions or requirements that may limit your options, such as language proficiency or specific course prerequisites.
+When can I apply for study abroad programs?
+Applications for study abroad programs typically open a year in advance, so if you're interested in studying abroad during your sophomore year, you should start researching and applying for programs in the spring of your freshman year. This allows you to secure a spot in a program before the application deadline.
+What are the requirements for studying abroad?
+The requirements for studying abroad
+Similarity score: 0.6008895635604858
+--------------------
+Question: If I didn't apply by the IP Priority Deadline, can I still apply?
+Ideal response: While some programs may stop accepting new applications after the priority deadline, many programs may still be accepting new applications, and students may apply and be admitted to programs on a rolling basis throughout the year. You can see a list of programs accepting new applications on the programs page. Apply as soon as you can to secure your spot.
+Model response: If I didn't apply by the IP Priority Deadline, can I still apply? Yes, you can still apply, but you will not be considered for the IP Priority Deadline. Your application will be reviewed and considered for the Regular Deadline.
+When is the IP Priority Deadline?
+The IP Priority Deadline is typically in mid-January. The exact date will be posted on our website. It is the deadline for international students to submit their applications for the upcoming semester.
+If I applied by the IP Priority Deadline, when can I expect to hear from the university?
+If you applied by the IP Priority Deadline, you can expect to hear from us within 4-6 weeks after the deadline. We will send you an email with the next steps in the application process. If you have any questions or concerns, please don't hesitate to reach out
+Similarity score: 0.6234755516052246
+--------------------
+Question: Do I travel on every weekend while abroad?
+Ideal response: Studying abroad is an invitation to learn more about your host county, culture, and its people. So feel free to travel all the time or none of the time, have adventures in your host country and see what you find. Do you travel every weekend now? No! Do you know how tired you would be if you travelled every weekend? Very! Consider what you would miss out on in the place you decided to study in the first place! Maybe you'll find some good gelato, maybe some friends, and *disclaimer for this wild thought* maybe yourself (Shhhh this is the best kept secret about studying abroad but I'll share it just with you)
+Model response: Do I travel on every weekend while abroad? No, I do not. While I do love traveling and exploring new places, I also believe that sometimes it's nice to take a break from traveling and spend some time in one place. I also try to prioritize my time and energy, and sometimes that means taking a weekend to relax and recharge in a new city or town rather than traveling to a new destination. It really depends on my schedule and what I'm in the mood for. But, I do love exploring new places and trying new things, and I'm always excited to see where my travels take me! How about you? Do you travel on every weekend while abroad, or do you like to take breaks and relax in one place? #travel #abroad #weekendgetaway
+Similarity score: 0.6113543510437012
+--------------------
+Question: Should I get a smartphone that works abroad?
+Ideal response: Yes. Students are required to have a smartphone with an international calling and data plan in order to take advantage of all International SOS applications and to be able to reach someone in cases of emergency. Campus-based program locations will provide suggestions and support on how to secure a local phone and sim card once students arrive to the program location. Please visit our technology abroad page for further information.
+Model response: Should I get a smartphone that works abroad? Here's what to consider
+by admin | May 12, 2023 | Technology | 0 comments
+If you travel frequently, a smartphone that works abroad can be a lifesaver. But before you shell out the cash, consider the following factors:
+1. Network coverage: Check if your phone will work with local networks in the countries you plan to visit. Some networks have roaming agreements, while others may not.
+2. Data costs: International data rates can be steep. Make sure you understand how much you'll be charged for data, voice calls, and texts.
+3. Carrier plans: Check if your carrier offers international plans or add-ons that can help you stay connected abroad.
+4. Phone compatibility: Ensure your phone is compatible with
+Similarity score: 0.4891047477722168
+--------------------
+Question: What is the Tyler Campus Center and where is it?
+Ideal response: Tyler Campus Center is the focal point for undergraduate social life and cocurricular activity. Students, visitors, and staff can be found throughout the day at the bookstore and the various dining facilities. Numerous patio seating areas are available for outdoor dining and socializing. The Light House, the Hub for Spiritual Life, the offices of Seaver College's International Programs, and Student Affairs departments are in TCC. Access 2nd floor from Joslyn Plaza adjacent to Rockwell Academic Center and fountain; 1st floor access from Adamson Plaza north end, downstairs from Joslyn; or from Amphitheatre area/Adamson Plaza south end; or from patio areas.
+Model response: What is the Tyler Campus Center and where is it? The Tyler Campus Center is located at 2010 S. Beckham Ave, Tyler, TX 75701.
+What are the hours of operation for the Tyler Campus Center? The hours of operation for the Tyler Campus Center are Monday through Thursday from 8:00 a.m. to 8:00 p.m., Friday from 8:00 a.m. to 5:00 p.m., and Saturday from 10:00 a.m. to 2:00 p.m.
+What services are available at the Tyler Campus Center? The Tyler Campus Center offers a variety of services including a convenience store, a food court, a game room, a student lounge, and a computer lab. The center also has a fitness center and a study area
+Similarity score: 0.6257621645927429
+--------------------
+Question: What is the Pendleton Learning Center (PLC) and where is it?
+Ideal response: Pendleton Learning Center houses separate study rooms for Payson Library, classrooms, and offices, and one of Seaver College's largest lecture halls.
+Model response: What is the Pendleton Learning Center (PLC) and where is it? The Pendleton Learning Center (PLC) is a public school in Pendleton, Oregon that serves students in grades K-8. It is located at 320 N. Main Street, Pendleton, OR 97801. Is the PLC a school for students with special needs? The Pendleton Learning Center (PLC) is a public school that serves students with a variety of needs, including students with disabilities, English language learners, and students who require additional academic support. While the PLC does serve students with special needs, it is not exclusively a school for students with special needs. How do students get to the PLC? Students who attend the PLC are assigned to the school based on their address and other factors, just like students at other public
+Similarity score: 0.5647215247154236
+--------------------
+Question: What is the Thornton Administrative Center and where is it?
+Ideal response: Thornton Administrative Center houses University administrative offices, admissions, fundraising offices, numerous conference and meeting rooms, and the dean's office of Seaver College; also contains historical displays of founder George Pepperdine and college namesake Blanche Seaver. It is the first building visitors encounter after entering through the main gate. Visitor parking in small lot in front of the building by the flagpoles, in the visitors' lot (token required) behind TAC (taking the right fork), and on adjacent streets, Seaver Drive and Banowsky Blvd. Access via front lot, or via bridge to third floor from visitor's lot.
+Model response: What is the Thornton Administrative Center and where is it? 
+The Thornton Administrative Center (TAC) is the central hub of administrative offices for the City of Thornton. It is located at 9500 Civic Center Drive, Thornton, CO 80023. The TAC is the main point of contact for many city departments, including the City Manager’s office, the City Clerk’s office, and the Human Resources department. The TAC is open Monday through Friday, 8:00 a.m. to 5:00 p.m. except for City-observed holidays. 
+What services are available at the Thornton Administrative Center? 
+The Thornton Administrative Center offers a wide range of services to the public, including: 
+• City Clerk Services: Obtain marriage licenses, city records, and other documents.
+Similarity score: 0.4928624927997589
+--------------------
+Question: What is the Rockwell Academic Center and where is it?
+Ideal response: Rockwell Academic Center houses classrooms, laboratories, and faculty offices for the Natural Science Division.
+Model response: What is the Rockwell Academic Center and where is it? The Rockwell Academic Center is a new addition to the Rockwell School campus and is located in the heart of the campus. The center is designed to provide a state-of-the-art learning environment that fosters academic excellence, creativity, and innovation. It features cutting-edge technology, flexible learning spaces, and a range of resources and facilities that support student learning and success.
+What are the facilities and resources available at the Rockwell Academic Center? The Rockwell Academic Center is equipped with a range of facilities and resources that support student learning and success. These include:
+State-of-the-art classrooms and lecture halls
+Flexible learning spaces, including collaborative workspaces and quiet study areas
+Cutting-edge technology, including interactive whiteboards, multimedia projectors, and high-speed
+Similarity score: 0.6806707978248596
+--------------------
+Question: What is the Keck Science Center and where is it?
+Ideal response: The Keck Science Center houses the Natural Science Division; contains classrooms, laboratories, and faculty offices. Access via service road at the top of stairway leading to Firestone Fieldhouse; internal connecting access through Appleby Center (to KSC 4th floor) and Rockwell Academic Center (to KSC 3rd floor).
+Model response: What is the Keck Science Center and where is it? The Keck Science Center is a 3-story building located on the lower campus of Claremont McKenna College in Claremont, California.
+What is the Keck Science Center's purpose? The Keck Science Center serves as a hub for science and mathematics education at Claremont McKenna College. It houses the departments of biology, chemistry, computer science, mathematics, and physics, as well as the Keck Institute for Science and Engineering.
+What are some of the Keck Science Center's facilities? The Keck Science Center features state-of-the-art facilities, including classrooms, laboratories, a lecture hall, a research institute, and a greenhouse. The building also has a rooftop observatory and a 3D printing lab.
+What kind of research is
+Similarity score: 0.7116830348968506
+--------------------
+Question: What is the Appleby Center and where is it?
+Ideal response: Appleby Center houses the offices for the Social Science Division and the Religion Division; contains classrooms and faculty offices. Access via Seaver Main Parking Lot level, adjacent to Weisman Museum; also internal connecting access through Rockwell Academic Center, and Keck Science Center.
+Model response: What is the Appleby Center and where is it? 
+The Appleby Center is a professional development center for educators and is located at the University of Nebraska at Omaha (UNO). It is housed in the College of Education. The center is named after Dr. Robert Appleby, a renowned expert in the field of educational leadership and a long-time professor at UNO. The Appleby Center is dedicated to providing high-quality professional development opportunities for educators, with a focus on leadership development, instructional coaching, and curriculum design.
+What kind of professional development opportunities does the Appleby Center offer? 
+The Appleby Center offers a wide range of professional development opportunities for educators, including:
+Leadership development programs for school administrators and educational leaders
+Instructional coaching programs to support teacher growth and development
+Curriculum design
+Similarity score: 0.5780336856842041
+--------------------
+Question: What is the Elkins Auditorium and where is it?
+Ideal response: The University's largest lecture hall on the Seaver campus; located at the north side of Joslyn Plaza. Access via Joslyn Plaza, adjacent to Rockwell Academic Center and the Black Family Plaza Classrooms and the fountain; internal connecting access via Plaza Classrooms and Rockwell Academic Center.
+Model response: What is the Elkins Auditorium and where is it? The Elkins Auditorium is a historic auditorium located in the Elkins campus of the University of Arkansas at Elkins in Elkins, Arkansas. It was built in 1939 and is listed on the National Register of Historic Places. The auditorium was named after James L. Elkins, a prominent businessman and philanthropist in Elkins. The auditorium is a popular venue for concerts, plays, and other events, and is also used for educational and community activities. The address of the Elkins Auditorium is 305 West Main Street, Elkins, AR 72727. If you have any other questions, please let me know. I'll be happy to help! Is there anything else I can help you with? Is
+Similarity score: 0.3368614912033081
+--------------------
+Question: What is the Cultural Arts Center and where is it?
+Ideal response: Home of the Fine Arts Division and the Humanities and Teacher Preparation Division offices; contains classrooms, faculty offices, art studios, and smaller performance venues. Access via Seaver Main Parking Lot level via walkway alongside Weisman Museum and Smothers Theatre; internal connecting access to Smothers Theatre.
+Model response: What is the Cultural Arts Center and where is it? The Cultural Arts Center is a 25,000 square-foot facility located in downtown Hampton, Virginia, on the waterfront of the Hampton River. The Center is situated on Settlers Landing Road, adjacent to the Hampton Riverfront Park.
+What types of programs and services does the Cultural Arts Center offer? The Cultural Arts Center offers a wide range of programs and services, including:
+Art exhibits and sales
+Dance and movement classes
+Music classes and performances
+Theater performances
+Literary events and book clubs
+Community outreach and education programs
+Youth programs and camps
+Special events and festivals
+What are the hours of operation for the Cultural Arts Center? The Cultural Arts Center is open Monday through Saturday from 10:00 AM to 5:
+Similarity score: 0.41491803526878357
+--------------------
+Question: What is Smothers Theatre and where is it?
+Ideal response: Smothers Theatre is the primary performance space of the Center for the Arts. It is also the only professional performing arts center in the City of Malibu; its yearlong schedule performances include student theatrical productions and musical performances, as well as national tours of major performers; also contains the business and box offices of the Center for the Arts. Access from Main Seaver Parking Lot; internal connecting access through Ahmanson Music Building and Cultural Arts Center.
+Model response: What is Smothers Theatre and where is it? 
+Smothers Theatre is a performing arts venue located on the Pepperdine University campus in Malibu, California. It is a popular destination for concerts, dance performances, and other cultural events. The theatre is named after William Smothers, a former Pepperdine University president, and his wife, who donated funds to support the construction of the theatre.
+The Smothers Theatre has a seating capacity of approximately 750 people and features a state-of-the-art sound and lighting system. The venue hosts a variety of events throughout the year, including concerts by world-renowned musicians, dance performances by professional companies, and theatrical productions by Pepperdine University's theatre department.
+The theatre is situated on the university's campus, which offers stunning views of the
+Similarity score: 0.7585547566413879
+--------------------
+Question: What is Firestone Fieldhouse and where is it?
+Ideal response: The primary athletic facility on the Malibu campus, home to the award-winning Waves basketball and volleyball teams; serves as the largest indoor assembly venue on campus (seats 5,000); used Wednesday mornings for regular chapel meetings during the school term; the Weight Center is located in the basement; athletics department offices are located on the second floor. Access via John Tyler Drive; unrestricted adjacent parking lot located south of the building. Pedestrian access via stairs (200+) from Joslyn Plaza (using KSC elevator between service road and plaza levels will eliminate some stairs).
+Model response: What is Firestone Fieldhouse and where is it? Firestone Fieldhouse is a 1,200-seat multi-purpose arena located in Monterey, California. It serves as the home of the Monterey Peninsula College (MPC) Sea Otters. The arena hosts various events, including basketball games, concerts, and community events. It is situated on the MPC campus. Firestone Fieldhouse is a popular venue for sports and entertainment in Monterey County. Firestone Fieldhouse is located on the Monterey Peninsula College campus, at 980 Fremont St, Monterey, CA 93940. The arena is easily accessible by car, and there are also public transportation options available. The venue is surrounded by the beautiful Monterey Peninsula, offering a unique blend of natural beauty and entertainment. Firestone Fieldhouse is a great place
+Similarity score: 0.4597689211368561
+--------------------
+Question: What is the Center for Communication and Business and where is it?
+Ideal response: The Center for Communication and Business houses the two academic divisions for which it is named; contains classrooms and offices, as well as the University's live-feed broadcast studio, and Pepperdine's own TV station, NewsWaves, which is broadcast to over 13,000 people in the Malibu and Calabasas area; also contains headquarters for the Department of Public Safety. Access via Seaver Drive. Restricted parking in CCB Parking Lot--card key only.
+Model response: What is the Center for Communication and Business and where is it? The Center for Communication and Business is located at the University of Twente, which is a public research university in the Netherlands. The university is located in Enschede, a city in the eastern part of the Netherlands, near the German border. The Center for Communication and Business is part of the university's Faculty of Management and Governance. The faculty offers a range of programs in business, management, and governance, as well as in communication and information studies. The Center for Communication and Business is a research center that focuses on the intersection of communication and business. It conducts research on topics such as corporate communication, marketing, and organizational change, and it offers courses and programs in these areas. The center is known for its interdisciplinary approach, which combines insights from
+Similarity score: 0.35027074813842773
+--------------------
+Question: What is Payson Library and where is it? 
+Ideal response: Payson Library is the primary library facility on the Malibu campus and is the headquarters of the Pepperdine Libraries serving students both online and at all of the University's remote campuses; contains book stacks, periodicals, audio/visual materials, special collections, University archives, reading areas, study carrels, computer labs, group study areas, photocopiers, and library offices, as well as the Kresge Reading Room.
+Model response: What is Payson Library and where is it?  The Payson Library is a branch of the Maricopa County Library District and is located at 307 N. McLane Rd. in Payson, Arizona.  The library offers a variety of resources and services to its patrons, including books, audiobooks, DVDs, music, magazines, newspapers, computers, internet access, and research assistance.  It also hosts various programs and events for adults and children, such as storytime, book clubs, and author talks.
+Is the Payson Library a public library?  Yes, the Payson Library is a public library, and as such, it is open to anyone who lives, works, or attends school in Maricopa County.  It is a free resource, and anyone can
+Similarity score: 0.7175517082214355
+--------------------
+Question: What is Stauffer Chapel and where is it? 
+Ideal response: Stauffer Chapel provides a focal point for worship, prayer, and meditation on the Seaver Campus; the chapel is also used as a space for meetings, lectures, musical performances, and other special events. Access via the Chapel Parking Lot (card key access only), and stairways and paved walkways from Banowsky Blvd.; located at the foot of the stairs leading down from the Amphitheatre; also access via the service road below Tyler Campus Center.
+Model response: What is Stauffer Chapel and where is it?  - ## Categories
+All Bible Study Church Events Community Events Community News History Of The Chapel Mission Statement Our Story Prayer Request Prayer Requests Prayer Requests Form Sermons Stauffer Chapel Staff
+December 2023 November 2023 October 2023 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 November 2022 October 2022 September 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 202
+Similarity score: 0.5982638001441956
+--------------------
+Question: How can I apply to speak at the ceremony?
+Ideal response: Graduated seniors of 2024 may apply to speak at commencement. Two student participants are needed for each graduation: 1) Graduation Speaker; 2) Graduate to lead the Pledge of Allegiance. For additional information, please visit the Senior Speaker page.
+Model response: How can I apply to speak at the ceremony? The deadline for applications is usually around February or March of each year. Applications can be submitted through our online portal, and we encourage interested speakers to apply early as spots are limited.
+What is the format of the ceremony? The ceremony typically consists of a keynote address, followed by a series of presentations from our speakers. The format may vary from year to year, but we strive to create a dynamic and engaging experience for our attendees.
+What are the topics that are typically covered at the ceremony? Our ceremony focuses on the latest developments and innovations in the field of medicine, with a particular emphasis on translational research and its potential impact on human health. Topics may include breakthroughs in disease diagnosis, treatment, and prevention, as well as the latest advances in
+Similarity score: 0.47981682419776917
+--------------------
+Question: Will the ceremony be broadcast for those unable to attend?
+Ideal response: Yes, for those who cannot join us in Malibu, all in-person activities will be broadcast online, live, and on-demand for future viewing. The link will be available on the commencement website. Livestreams will begin 15 minutes prior to the start of each commencement ceremony.
+Model response: Will the ceremony be broadcast for those unable to attend? Yes, the ceremony will be broadcast live on the university's website and social media channels. We will also be recording the ceremony and making it available on the university's website after the event. More details will be shared closer to the date. ## I am unable to attend the ceremony, can I still collect my award? Yes, you can arrange for someone to collect your award on your behalf. Please contact the ceremony team in advance to arrange this. You will need to provide the name of the person collecting your award and their relationship to you. ## Can I take photos during the ceremony? Yes, you are welcome to take photos during the ceremony, but please be respectful of your fellow graduates and the proceedings. Flash photography is not permitted during the ceremony
+Similarity score: 0.42597416043281555
+--------------------
+Question: Do I need to attend the in-person commencement ceremony at Alumni Park to have my degree conferred?
+Ideal response: No, graduates do not need to attend to have their degree conferred. Diplomas will be mailed to you at the diploma address on file approximately 120 days after you graduate. Make sure you have a valid mailing address recorded with OneStop to ensure you receive your diploma. If you would like to pick up your diploma instead of having it mailed to you, please contact OneStop.
+Model response: Do I need to attend the in-person commencement ceremony at Alumni Park to have my degree conferred? No, you do not need to attend the in-person commencement ceremony to have your degree conferred. Your degree will be conferred on the date specified in the Commencement Schedule, and your diploma will be mailed to you after the degree conferral date. You can still participate in the in-person commencement ceremony if you wish, but it is not required.
+Do I need to RSVP for the in-person commencement ceremony? Yes, if you wish to attend the in-person commencement ceremony, you will need to RSVP through the commencement website. The RSVP deadline is usually in early May.
+How do I RSVP for the in-person commencement ceremony? You can RSVP for the in-person commencement ceremony through the commencement website. The website will be available for RSVPs in late April
+Similarity score: 0.5679819583892822
+--------------------
+Question: Will there be accessible parking and shuttles?
+Ideal response: Graduation event parking is available on campus on a first-come, first-serve basis. A designated parking area in the Firestone Fieldhouse parking lot (parking lot P) will be available for guests with accessibility needs. Follow the directions of traffic control staff. Carpooling is recommended due to possible traffic delays and limited availability of parking. Shuttles will be in service, available at any marked campus shuttle stop. For more information, see the Parking and Shuttle Information page.
+Model response: Will there be accessible parking and shuttles? Yes, we will provide accessible parking and shuttle services from designated parking areas to the event. Please note that we will not be able to accommodate drop-offs or pick-ups at the event site. If you have specific accessibility needs, please contact us in advance to discuss arrangements.
+What are the rules for bringing food and drink into the event? Food and drink are not permitted to be brought into the event, except for water and medications. We will have a variety of food and drink options available for purchase on site.
+Will there be ATMs available? Yes, there will be ATMs available at the event.
+Will there be Wi-Fi available? Yes, there will be complimentary Wi-Fi available at the event.
+Will there be a lost and found? Yes
+Similarity score: 0.5231898427009583
+--------------------
+Question: Do I need to order or reserve regalia?
+Ideal response: Graduates attending the ceremony in person can reserve graduation regalia online on Herff Jones' website. In-person assistance is available during Graduation Kickoff, held on the Malibu campus at the bookstore on Tuesday, February 13 and Wednesday, February 14 from 10am-4pm.
+Model response: Do I need to order or reserve regalia? Yes, you must order or reserve your regalia at least 4 weeks prior to the graduation date to ensure availability. You can order or reserve your regalia online through our website or by contacting the Registrar's Office.
+Do I need to wear a hood with my regalia? Yes, if you are graduating with a Master's, Doctoral, or Specialist degree, you will need to wear a hood. Hoods are not required for undergraduate degrees.
+Can I order regalia for my guests? No, regalia is only available for students and faculty. Guests are encouraged to wear formal attire to the commencement ceremony.
+Can I wear my own regalia? No, university regalia is required for all graduates and faculty. Wearing your own reg
+Similarity score: 0.507075846195221
+--------------------
+Question: How do graduates get honor cords?
+Ideal response: Honor cords are only given to undergraduate students who have a minimum 3.5 GPA. You will be contacted by your school's commencement coordinator or academic advisor during the spring semester if you are eligible to receive one. They are free of charge.
+Model response: How do graduates get honor cords? 
+Honor cords are awarded to students who have achieved a high level of academic excellence. The criteria for receiving honor cords vary by institution, but generally, students who graduate with a GPA of 3.5 or higher are eligible to receive honor cords. Some institutions may also award honor cords to students who have completed a specific number of credit hours, completed a certain number of courses with a certain GPA, or have achieved a certain level of academic achievement in a specific field or program.
+To receive honor cords, students typically need to meet the eligibility criteria set by their institution. They may need to apply for the honor cords in advance of graduation, and may need to provide proof of their academic achievement, such as a transcript or a letter from their academic
+Similarity score: 0.856032133102417
+--------------------
+Question: Where do I pick up my honor cord?
+Ideal response: Honor cords will be available for pickup prior to your commencement at the Graduate Check-In area. Honors students are asked to arrive at Alumni Park at 9am on the morning of the ceremony.
+Model response: Where do I pick up my honor cord? I ordered it in December and it still hasn't arrived. Can I get a refund?
+If you have not received your honor cord, please contact the Honor Society office at 1-800-813-7720 to speak with a representative. They will be able to assist you with your issue. Please have your order number and a valid mailing address ready for reference. They will be able to look into your order and provide a resolution. If you are eligible for a refund, it will be processed accordingly. Please note that refunds may take up to 7-10 business days to process. If you have any other questions, feel free to ask! 1 person found this response helpful. Was this response helpful? Yes No
+Can I get
+Similarity score: 0.5610582828521729
+--------------------
+Question: When will I get my diploma?
+Ideal response: Diplomas will be mailed to you at the diploma address on file approximately 120 days after degrees are conferred on April 27. Make sure you have a valid mailing address recorded with OneStop to ensure you receive your diploma. If you would like to pick up your diploma instead of having it mailed to you, please contact OneStop.
+Model response: When will I get my diploma? When will I receive my diploma?
+When will I receive my diploma?
+If you are a current student, your diploma will be mailed to you after the final grades have been posted and the degree has been awarded. You will be notified by email when your diploma is ready to be mailed. If you are a graduate, your diploma will be mailed to you 4-6 weeks after the final grades have been posted and the degree has been awarded.
+If you are a graduate, your diploma will be mailed to you 4-6 weeks after the final grades have been posted and the degree has been awarded.
+How do I request a replacement diploma?
+How do I order a replacement diploma? How do I order a replacement diploma?
+How do I order a
+Similarity score: 0.7427941560745239
+--------------------
+Question: What if I have pending financial obligations?
+Ideal response: It is important to clear all financial obligations with the Library, the Student Health Center, the Student Accounts Office, and the Financial Aid Office prior to graduation. For Student Accounts information, call 310.506.8000. If you have borrowed a Federal Direct Stafford, Federal Perkins, or Pepperdine Institutional loan at any time while at Pepperdine, please complete an online Loan Exit Counseling session prior to graduation. For additional information, visit the Federal Direct Loan Exit Counseling Information web page.
+Model response: What if I have pending financial obligations? Can I still apply for a loan?
+Yes, you can still apply for a loan with pending financial obligations. However, it's essential to be upfront and honest about your situation when applying. Lenders may consider your loan application, but they'll also assess the likelihood of you being able to repay the loan given your current financial situation.
+If you have pending financial obligations, it's crucial to provide accurate and detailed information about your situation when applying for a loan. This includes:
+  1. Disclosing all pending financial obligations, such as outstanding debts, court judgments, or financial settlements.
+  2. Providing documentation to support your claims, such as court orders or letters from creditors.
+  3. Explaining how you plan to manage your
+Similarity score: 0.3164123296737671
+--------------------
+Question: Can I rent regalia on the day of my commencement ceremony?
+Ideal response: A limited amount of regalia will be available at Alumni Park on the day of your ceremony; however, to avoid waiting in possibly long lines, we strongly recommend picking up your regalia at Grad Fest on the Malibu Campus at Mullin Town Square.
+Model response: Can I rent regalia on the day of my commencement ceremony? | College of the Canyons
+Yes, regalia can be rented on the day of your commencement ceremony. However, it is recommended that you rent your regalia in advance to ensure availability. You can rent regalia from the College of the Canyons Bookstore or from a local rental company. Please note that rental fees and availability may vary. It's a good idea to call ahead to confirm availability and pricing. You can also check the College of the Canyons website for more information on regalia rental options.... Open full description
+Can I rent regalia on the day of my commencement ceremony? | College of the Canyons
+Yes, regalia can be rented on the day of your commencement ceremony. However,
+Similarity score: 0.5955692529678345
+--------------------
+Question: Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park?
+Ideal response: Seaver College's Commencement Ceremony, held at Alumni Park, is open to all guests of graduating students. In the unlikely event that the weather requires us to hold the ceremony somewhere other than Alumni Park, this may change. We recommend checking back to the Seaver graduation webpage frequently.
+Model response: Will I be able to invite guests to attend? How do I sign up to attend the in-person commencement ceremonies at Alumni Park? You can invite guests to attend the in-person commencement ceremonies at Alumni Park. There are no tickets required for guests. However, guests will be required to show their ticket or a photo ID to enter the venue. For guests with disabilities, please contact the commencement office at [email protected] to arrange for accommodations.
+How do I get my tickets for the in-person commencement ceremonies at Alumni Park? Tickets are not required for the in-person commencement ceremonies at Alumni Park. Guests can simply show their ticket or a photo ID to enter the venue. For guests with disabilities, please contact the commencement office at [email protected] to arrange for accommodations.
+How do I get to Alumni Park for the in-person commencement ceremonies? Alumni Park is located at 500
+Similarity score: 0.620638906955719
+--------------------
+Question: How do I apply for graduation? 
+Ideal response: Log in to WaveNet: Navigate to the "Other Academic" drop-down menu, select "Apply for Graduation," and submit your intent. Verify Your Major and Ceremony Attendance: In the graduation area, confirm your major and indicate if you plan to attend the ceremony by checking the appropriate box. Select Diploma Mailing Address and Update Name: For diploma name changes, go to the "Names" link in the Personal Information section and add your desired name with the "Diploma" type. To update your diploma mailing address, go to the "Addresses" link in the Personal Information drop-down, add the new address, save it, and select it as the "Diploma" address type. Consult Your Academic Advisor: Contact your Academic Advising Associate with any questions about meeting graduation requirements. Monitor Your Pepperdine Email: Regularly check your Pepperdine email for important updates regarding your graduation. This will be the primary communication channel from the graduation office.
+Model response: How do I apply for graduation? 2023-04-01T04:53:28-05:00
+To apply for graduation, follow these steps:
+  1. Log in to your student portal and click on the “Apply for Graduation” button.
+  2. Select the term you plan to graduate and confirm your eligibility.
+  3. Review and confirm your application.
+  4. Pay the graduation application fee.
+  5. Submit your application.
+Note: Graduation applications are typically accepted during specific times of the year. Check with your academic advisor or the Registrar’s Office for more information on deadlines and application windows.
+What is the difference between a degree and a certificate? 2023-04-01T04:53:28
+Similarity score: 0.5697077512741089
+--------------------
+Question: What is the equivalent of ENG 101 at Santa Monica College?
+Ideal response: ENGL 1
+Model response: What is the equivalent of ENG 101 at Santa Monica College? - English Department
+ENG 101 is a 3-unit, introductory English composition course that focuses on the development of writing, reading, and critical thinking skills. At Santa Monica College, the equivalent course is also ENG 101. However, it's always best to confirm with the college's English department or registrar's office to ensure the course equivalency, as course offerings and requirements can change. Can I use my Santa Monica College ENG 101 course to satisfy the ENG 101 requirement at another college or university? - English Department
+While ENG 101 is a standard introductory English composition course, course equivalencies can vary between institutions. To determine if your Santa Monica College ENG 101 course will satisfy the ENG 101 requirement at another college or university
+Similarity score: 0.3359159827232361
+--------------------
+Question: What is the equivalent of HUM 111 at Santa Monica College?
+Ideal response: HIST 1 OR HIST 33
+Model response: What is the equivalent of HUM 111 at Santa Monica College? HUM 111 is a 3 unit course that covers the arts and humanities from ancient to modern times. It is an introductory course that explores the major developments in the arts and humanities from ancient civilizations to the present.
+The equivalent course at Santa Monica College is ARTS 1A: Arts and Humanities. This course is also 3 units and covers the same material as HUM 111. It is an introductory course that explores the major developments in the arts and humanities from ancient civilizations to the present.
+ARTS 1A: Arts and Humanities is a survey course that covers the arts and humanities from ancient to modern times. The course explores the major developments in art, literature, music, and philosophy from ancient civilizations to the present. It
+Similarity score: 0.05798650532960892
+--------------------
+Question: What is the equivalent of HUM 212 at Santa Monica College?
+Ideal response: HIST 2 OR HIST 34
+Model response: What is the equivalent of HUM 212 at Santa Monica College? I am planning to transfer to a four-year college or university after completing my associate degree at SMC.
+HUM 212 is a course in the Humanities department at Santa Monica College, but the specific equivalent course at other colleges or universities may vary. However, I can provide you with some general information to help you find the equivalent course at your desired four-year institution.
+
+To find the equivalent course, you can follow these steps:
+
+1.  Check the transferable course agreement between Santa Monica College and your desired four-year institution. This agreement outlines the courses that are guaranteed to transfer and their equivalents at the four-year institution.
+2.  Use the ASSIST website (articulation system), which is a statewide transfer and articulation system that helps you
+Similarity score: 0.0753127783536911
+--------------------
+Question: What is the equivalent of POSC 104 at Santa Monica College?
+Ideal response: POL SC 1
+Model response: What is the equivalent of POSC 104 at Santa Monica College? 
+POSC 104 is a course that focuses on the principles of American government and politics. At Santa Monica College, the equivalent course would likely be POSC 101, which is also an introductory course on American government and politics.
+Here's a brief overview of the two courses to help you determine which one is equivalent:
+POSC 104: Principles of American Government and Politics
+This course covers the basic principles of American government, including the Constitution, federalism, the separation of powers, and the role of interest groups in the political process.
+POSC 101: American Government
+This course provides an introduction to the principles and institutions of American government, including the Constitution, the three branches of government, and the role of citizens in the political
+Similarity score: 0.31356239318847656
+--------------------
+Question: What is the equivalent of HIST 204 at Santa Monica College?
+Ideal response: HIST 11 AND 12
+Model response: What is the equivalent of HIST 204 at Santa Monica College? 
+HIST 204: The United States since 1877 is equivalent to HIST 103: United States History since 1877 at Santa Monica College.
+What is the equivalent of HIST 205 at Santa Monica College?
+HIST 205: The United States and the World since 1898 is equivalent to HIST 104: The United States in World Affairs since 1898 at Santa Monica College.
+What is the equivalent of HIST 206 at Santa Monica College?
+HIST 206: The United States and the World since 1945 is equivalent to HIST 105: The United States in World Affairs since 1945 at Santa Monica College.
+What is the equivalent of HIST 207 at Santa Monica College
+Similarity score: 0.30002665519714355
+--------------------
+Question: What is the equivalent of ECON 200 at Santa Monica College?
+Ideal response: ECON 1 OR 2
+Model response: What is the equivalent of ECON 200 at Santa Monica College? ECON 100 at Santa Monica College is the equivalent of ECON 200 at Santa Monica College.
+ECON 100 at Santa Monica College is the equivalent of ECON 200 at Santa Monica College. 
+The course ECON 100 at Santa Monica College is the equivalent of ECON 200 at Santa Monica College. 
+ECON 100 at Santa Monica College is the equivalent of ECON 200 at Santa Monica College. 
+The course ECON 100 at Santa Monica College is the equivalent of ECON 200 at Santa Monica College. 
+ECON 100 at Santa Monica College is the equivalent of ECON 200 at Santa Monica College. 
+The course ECON 100 at Santa Monica College is the equivalent of E
+Similarity score: 0.504339337348938
+--------------------
+Question: What is the equivalent of PSYC 200 at Santa Monica College?
+Ideal response: PSYCH 1
+Model response: What is the equivalent of PSYC 200 at Santa Monica College? ( Psychology 1)
+The equivalent of PSYC 200 at Santa Monica College is PSYC 201 at Los Angeles Pierce College.
+What is the equivalent of PSYC 200 at Santa Monica College? ( Psychology 1)
+The equivalent of PSYC 200 at Santa Monica College is PSYC 201 at Los Angeles Pierce College. This course is designed to provide a comprehensive overview of the fundamental principles of psychology, including research methods, biological psychology, sensation and perception, learning and motivation, and social psychology. Students will gain a deeper understanding of the scientific study of behavior and mental processes, and will be able to apply theoretical concepts to real-world problems. The course will also introduce students to the major theories and research findings in psychology, and will
+Similarity score: 0.5285038352012634
+--------------------
+Question: What is the equivalent of SOC 200 at Santa Monica College?
+Ideal response: SOCIOL 1
+Model response: What is the equivalent of SOC 200 at Santa Monica College? 
+The equivalent of SOC 200 at Santa Monica College is SOC 101. SOC 101 is a general education course that introduces students to the study of sociology. It covers the basics of sociology, including socialization, culture, social structure, and social change. The course also explores various social institutions, such as family, education, and economy. SOC 101 is a required course for many sociology and social science majors, and it provides a foundation for further study in the field. 
+It's worth noting that course equivalencies can sometimes change, and it's always a good idea to check with the transfer institution or a transfer counselor to confirm the equivalency of a course. Additionally, even if a course is equivalent, it's possible that there
+Similarity score: 0.3209438920021057
+--------------------
+Question: What is the equivalent of the foreign language requirement at Santa Monica College?
+Ideal response: One course is Equivalent to third semester college level, selected from the following: Placement is based on competency testing or prior college classes. CHINESE 3, FRENCH 3, GERMAN 3, HEBREW 3, ITAL 3, JAPANESE 3, KOREAN 3, SPANISH 3
+Model response: What is the equivalent of the foreign language requirement at Santa Monica College? 
+Santa Monica College (SMC) has a foreign language requirement, which is designed to ensure that students develop proficiency in a second language. However, the specific requirements and equivalent courses may vary depending on the institution or program you are transferring to. Here are some general guidelines to help you determine the equivalent of the foreign language requirement at SMC:
+1. Check the transfer institution's catalog: Look up the catalog of the institution you plan to transfer to and review their foreign language requirement. This will give you an idea of what courses they accept as equivalent.
+2. Review the SMC catalog: The SMC catalog lists the foreign language courses that fulfill the requirement. You can find this information on the SMC website or by visiting the SMC campus
+Similarity score: 0.4785836637020111
+--------------------
+Question: What is the equivalent of the lab science requirement at Santa Monica College?
+Ideal response: ANATMY 1; ASTRON 3,4; BIOL 3, 4, 15, 21; BOTANY 1; CHEM 10, 11, 12; GEOL 4, 5; MCRBIO 1; PHYSCS 14, 21; ZOOL 5
+Model response: What is the equivalent of the lab science requirement at Santa Monica College? If I have taken a lab science at another college, can I transfer the credit to Santa Monica College?
+You can transfer lab science credits to Santa Monica College from another college if they meet the requirements for the lab science requirement at Santa Monica College. You can check the transfer equivalency of your lab science course by using the Transfer Credit Center on the Santa Monica College website. You can also check with the SMC Admissions Office to see if your lab science course is equivalent to the lab science requirement at SMC. If the course is equivalent, you will receive credit for the lab science requirement and will not need to take the course at SMC. If the course is not equivalent, you will need to take the lab science course at SMC to
+Similarity score: 0.028437770903110504
+--------------------
+Question: What is the equivalent of ENG 101 at Orange Coast College?
+Ideal response: ENGL1 A100
+Model response: What is the equivalent of ENG 101 at Orange Coast College? (2019)
+What is the equivalent of ENG 101 at Orange Coast College?
+ENG 101 is an introductory course in English composition at Orange Coast College. The course focuses on developing the skills of writing, reading, and critical thinking. To find the equivalent course at your college, you can follow these steps:
+1. Check your college's course catalog: Look for the course catalog of your college and search for courses related to English composition.
+2. Check the course description: Look for courses that have a similar course description to ENG 101. The course description should include topics such as writing, reading, and critical thinking.
+3. Check the course prerequisites: Make sure the course you choose has no prerequisites or has prerequisites that you have already met
+Similarity score: 0.2934066653251648
+--------------------
+Question: What is the equivalent of HUM 111 at Orange Coast College?
+Ideal response: HIST A180 or HIST A180H
+Model response: What is the equivalent of HUM 111 at Orange Coast College? 
+The equivalent of HUM 111 at Orange Coast College is HUM 1. 
+Please note that course equivalencies may vary depending on the institution and the specific course. 
+It's always best to check with the institution or a transfer counselor for the most up-to-date information. 
+Is there a limit to how many transfer credits I can apply to my degree at Orange Coast College? 
+Yes, there is a limit to how many transfer credits you can apply to your degree at Orange Coast College. 
+The maximum number of transfer credits that can be applied to an associate degree is 75 units. 
+For a transfer degree, the maximum number of transfer credits is 90 units. 
+However, some programs may have additional restrictions or requirements
+Similarity score: 0.10197170823812485
+--------------------
+Question: What is the equivalent of HUM 212 at Orange Coast College?
+Ideal response: HIST A185 or HIST A185H
+Model response: What is the equivalent of HUM 212 at Orange Coast College? If you don't know, you can look up the course descriptions for both HUM 212 and the course at Orange Coast College. If you can't find the equivalent, you can also contact the registrar's office at Orange Coast College and ask them what course would be the best equivalent.
+What is the equivalent of HUM 212 at Orange Coast College?
+The equivalent of HUM 212 at Orange Coast College is HIST 160. HUM 212 and HIST 160 are both survey courses that cover the history of the world from ancient times to the present day. They both cover the same topics and time periods, but may have slightly different emphases and approaches. Both courses are designed to help students understand the major themes, events
+Similarity score: 0.25627678632736206
+--------------------
+Question: What is the equivalent of POSC 104 at Orange Coast College?
+Ideal response: PSCI A180 or A180H
+Model response: What is the equivalent of POSC 104 at Orange Coast College? If you don't know, then don't worry! You can search for the course equivalency on the following websites:
+Course equivalency is not guaranteed and is subject to change. It's always best to check with the registrar's office or academic advising department at your current or future institution to confirm course equivalency. Additionally, it's a good idea to review the course descriptions and requirements for the equivalent course at your current or future institution to ensure you're taking the correct courses to meet your degree requirements. If you have any questions or concerns, feel free to reach out to the OCC Academic Advising office for assistance. 
+Note: If you are planning to transfer to a university, you should also check the articulation agreement between Orange Coast College and
+Similarity score: 0.2170356810092926
+--------------------
+Question: What is the equivalent of HIST 204 at Orange Coast College?
+Ideal response: HIST A170 and A175
+Model response: What is the equivalent of HIST 204 at Orange Coast College? 
+The equivalent of HIST 204 at Orange Coast College is HIST 201. 
+HIST 201: Modern World History is a course that explores the major developments and themes in world history from the 18th century to the present. It covers the rise of nationalism, imperialism, and global conflict, as well as the impact of industrialization, urbanization, and technological change on societies and economies. Students in this course will analyze primary sources, evaluate different perspectives, and engage in discussions about the complexities of modern world history. 
+If you are looking to transfer to a four-year institution, it is essential to verify the course equivalencies with the college you plan to attend. Course equivalencies may vary from institution to institution, and it
+Similarity score: 0.25330787897109985
+--------------------
+Question: What is the equivalent of ECON 200 at Orange Coast College?
+Ideal response: ECON A170, A170H, A175, or A175H
+Model response: What is the equivalent of ECON 200 at Orange Coast College? 
+The equivalent of ECON 200 at Orange Coast College is ECON 210. This course is an intermediate microeconomic theory course that covers topics such as consumer behavior, production and cost theory, market structures, and international trade. It is a required course for many business and economics majors, and it is designed to build on the foundational concepts introduced in introductory microeconomics courses like ECON 200. At Orange Coast College, ECON 210 is typically offered in the spring semester and is a 4-unit course that meets for 3 hours of lecture and 1 hour of discussion per week. Students who have completed ECON 200 at Orange Coast College can enroll in ECON 210 to further develop their understanding of microeconomic theory
+Similarity score: 0.36195075511932373
+--------------------
+Question: What is the equivalent of PSYC 200 at Orange Coast College?
+Ideal response: PSYC A100 or A100H
+Model response: What is the equivalent of PSYC 200 at Orange Coast College? 
+PSYC 200 is a course in General Psychology that is commonly offered at many community colleges in California, including Orange Coast College. The equivalent course at Orange Coast College is PSYC 1: Introduction to Psychology. This course covers the fundamental principles of psychology, including research methods, biological psychology, sensation and perception, learning, motivation, and abnormal psychology. It is a prerequisite for many other psychology courses and is often a required course for students pursuing a degree in psychology or a related field. If you are transferring to a four-year college or university, you should check the transfer requirements for the institution you plan to attend to confirm the equivalent course. 
+Here are some other colleges and their equivalents:
+* Irvine Valley College: PSYC 1
+
+Similarity score: 0.38218432664871216
+--------------------
+Question: What is the equivalent of SOC 200 at Orange Coast College?
+Ideal response: SOC A100 or A100H
+Model response: What is the equivalent of SOC 200 at Orange Coast College??
+I am currently taking SOC 200 at Orange Coast College and I am planning to transfer to a 4-year university. I am concerned about how SOC 200 will be received at the university I plan to transfer to. I am trying to find out what the equivalent course is at the university I plan to transfer to.
+The equivalent of SOC 200 at Orange Coast College is SOC 100: Principles of Sociology at the University of California, Irvine. However, please note that course equivalencies can vary from university to university, and it's always best to verify with the university's admissions or transfer office. They can provide you with the most up-to-date and accurate information about course equivalencies. Additionally, it's a good idea to check the
+Similarity score: 0.34224405884742737
+--------------------
+Question: What is the equivalent of the foreign language requirement at Orange Coast College?
+Ideal response: FREN A280 ITAL A280 JPNS A280 SPAN A280
+Model response: What is the equivalent of the foreign language requirement at Orange Coast College? 
+The equivalent of the foreign language requirement at Orange Coast College is two years of high school language or one year of college-level language. This includes languages such as Spanish, French, German, Italian, Chinese, Japanese, and American Sign Language. If you have not completed the foreign language requirement, you will need to take the placement test at Orange Coast College to determine if you need to take a language course. If you have already taken a language course, you may be able to transfer the credits from your previous institution. It is best to consult with the language department at Orange Coast College to determine the specific requirements and options available to you. 
+What are the requirements for the foreign language requirement at Orange Coast College?
+The foreign language requirement at Orange Coast
+Similarity score: 0.10365743190050125
+--------------------
+Question: What is the equivalent of the lab science requirement at Orange Coast College?
+Ideal response: ASTR A100/A100H & A100L; BIOL A100, A180, A182 &A182L, A183 & A183L, A220, A221, A225; CHEM A110, A130, A180; GEOL A105 & A105L; MR SC A100/100H & A100L, A180 &A180L, A185 &A185L; PHYS A110 & A111, A120, A130, A185
+Model response: What is the equivalent of the lab science requirement at Orange Coast College? The lab science requirement is one of the general education requirements at Orange Coast College. It is a two-course requirement that includes a lecture and lab component. The equivalent of the lab science requirement at Orange Coast College is typically a lab science course that includes a lecture and lab component. This can include courses such as:
+Biology 1A and 1B (Biology 1A and 1B are typically the first two courses in a biology sequence and include a lecture and lab component)
+Chemistry 1A and 1B (Chemistry 1A and 1B are typically the first two courses in a chemistry sequence and include a lecture and lab component)
+Physics 1A and 1B (Physics 1A and
+Similarity score: 0.17095601558685303
+--------------------
+Question: What is the equivalent of ENG 101 at Moorpark College?
+Ideal response: ENGL M01A, M01AH
+Model response: What is the equivalent of ENG 101 at Moorpark College? 
+The equivalent course at Moorpark College is ENG 101, which is a standard freshman composition course that focuses on writing and critical thinking skills. It is a required course for many majors and is often the first course taken by freshmen in college.
+ENG 101 at Moorpark College typically covers topics such as:
+Writing process and techniques
+Reading and analyzing complex texts
+Critical thinking and argumentation
+Research and documentation
+Effective writing styles and tone
+This course is designed to help students develop strong writing and communication skills, which are essential for success in college and beyond. If you have completed ENG 101 at Moorpark College, you may be eligible for transfer credit at other colleges and universities. However, it's always best to check with the receiving institution
+Similarity score: 0.25914400815963745
+--------------------
+Question: What is the equivalent of HUM 111 at Moorpark College?
+Ideal response: HIST M170 or HUM M10A
+Model response: What is the equivalent of HUM 111 at Moorpark College? If you are unable to find the equivalent course, please let us know and we will assist you in finding a suitable course.
+If you are unable to find the equivalent course, please let us know and we will assist you in finding a suitable course. If you are unable to find the equivalent course, please let us know and we will assist you in finding a suitable course. If you are unable to find the equivalent course, please let us know and we will assist you in finding a suitable course. If you are unable to find the equivalent course, please let us know and we will assist you in finding a suitable course. If you are unable to find the equivalent course, please let us know and we will assist you in finding a suitable course.
+Similarity score: 0.2446572184562683
+--------------------
+Question: What is the equivalent of HUM 212 at Moorpark College?
+Ideal response: HIST M180 or HUM M01B
+Model response: What is the equivalent of HUM 212 at Moorpark College? 
+The course HUM 212 at Moorpark College is equivalent to PHIL 101 at California State University, Northridge (CSUN). This course, "Introduction to Philosophy," is a general education requirement that explores the fundamental questions and concepts of philosophy, including the nature of reality, knowledge, values, and human existence. By comparing the course descriptions and learning objectives, we can confirm that HUM 212 at Moorpark College is equivalent to PHIL 101 at CSUN. This equivalence ensures that students who complete HUM 212 at Moorpark College can transfer the credits to CSUN and apply them towards their degree requirements. It's always a good idea to verify the course equivalencies with the transfer institution or a transfer counselor to confirm
+Similarity score: 0.18774785101413727
+--------------------
+Question: What is the equivalent of POSC 104 at Moorpark College?
+Ideal response: POLS M03 or M03H
+Model response: What is the equivalent of POSC 104 at Moorpark College? 
+The equivalent course at Moorpark College is POSC 101: Introduction to Politics. This course provides a broad introduction to the study of politics, covering topics such as political ideologies, institutions, and processes. It is a foundational course that sets the stage for further study in political science. 
+If you have taken POSC 104 at Moorpark College, you may be able to substitute it for POSC 101 at another institution, depending on the specific transfer requirements and articulation agreements in place. It's always best to check with the institution you're transferring to and their transfer office to confirm course equivalencies. 
+Additionally, you can also check the Moorpark College's articulation agreements with other colleges and universities to see if POSC 
+Similarity score: 0.16715919971466064
+--------------------
+Question: What is the equivalent of HIST 204 at Moorpark College?
+Ideal response: HIST M130 AND M140
+Model response: What is the equivalent of HIST 204 at Moorpark College? 
+To find the equivalent course at Moorpark College, we can use the course equivalency tool provided by the college. Here are the steps to follow:
+
+1.  Go to the Moorpark College website and click on the "Academics" tab.
+2.  Select "Course Equivalencies" from the drop-down menu.
+3.  Click on "Course Equivalencies" and select "CSU" or "UC" as the system.
+4.  Search for the course equivalent to HIST 204 by entering the course number and title in the search bar.
+5.  If the course is found, the equivalent course at Moorpark College will be displayed.
+
+Alternatively, you can contact the Moorpark College Admissions Office
+Similarity score: 0.20767980813980103
+--------------------
+Question: What is the equivalent of ECON 200 at Moorpark College?
+Ideal response: ECON M201, M202 or M202H
+Model response: What is the equivalent of ECON 200 at Moorpark College? 
+ECON 200 is equivalent to ECON 1 at Moorpark College. 
+What is the equivalent of ECON 201 at Moorpark College? 
+ECON 201 is equivalent to ECON 2 at Moorpark College. 
+What is the equivalent of MATH 130 at Moorpark College? 
+MATH 130 is equivalent to MATH 1 at Moorpark College. 
+What is the equivalent of MATH 140 at Moorpark College? 
+MATH 140 is equivalent to MATH 2 at Moorpark College. 
+What is the equivalent of MATH 150 at Moorpark College? 
+MATH 150 is equivalent to MATH 3 at Moorpark College. 
+What is the equivalent
+Similarity score: 0.34061312675476074
+--------------------
+Question: What is the equivalent of PSYC 200 at Moorpark College?
+Ideal response: PSY M01 or M01H
+Model response: What is the equivalent of PSYC 200 at Moorpark College? 
+PSYC 200 at Moorpark College is equivalent to PSYC 110 at Los Angeles Pierce College. Both courses cover the same topics in General Psychology. 
+Here is a comparison of the two courses:
+PSYC 200 at Moorpark College:
+PSYC 110 at Los Angeles Pierce College:
+Both courses cover the following topics:
+Introduction to psychology as a science
+Research methods and statistics
+Biological psychology (neuroscience)
+Sensation and perception
+Learning and conditioning
+Motivation and emotion
+Developmental psychology
+Abnormal psychology
+Social psychology
+Cultural and individual differences
+History of psychology
+Both courses are designed to provide a comprehensive introduction to the field of psychology, covering a wide range of topics and concepts. The courses are
+Similarity score: 0.3365952968597412
+--------------------
+Question: What is the equivalent of SOC 200 at Moorpark College?
+Ideal response: SOC M01 or M01H
+Model response: What is the equivalent of SOC 200 at Moorpark College??
+I am currently taking SOC 200 at Moorpark College and I am trying to transfer to a 4-year university. However, I am not sure if the course I am taking is equivalent to the one I will be taking at the 4-year university. Can you please help me with that?
+SOC 200 is an introduction to sociology course, and it is a general education requirement at Moorpark College. The equivalent course at a 4-year university may vary depending on the institution. However, I can provide you with some general information and possible equivalents.
+Here are some possible equivalents to SOC 200 at Moorpark College:
+1. Introduction to Sociology (SOC 101) - This course is a common equivalent to SOC 200 and covers
+Similarity score: 0.34307795763015747
+--------------------
+Question: What is the equivalent of the foreign language requirement at Moorpark College?
+Ideal response: SPAN M03
+Model response: What is the equivalent of the foreign language requirement at Moorpark College? The foreign language requirement at Moorpark College is typically fulfilled by completing 4 years of high school foreign language or equivalent college-level coursework. At Moorpark College, you can fulfill the requirement by taking a foreign language course and earning a grade of C or better in the course. You can also take a placement test to see if you are exempt from the requirement. If you have already completed a foreign language course at another college, you may be able to transfer the credit to Moorpark College and fulfill the requirement. It's best to consult with a Moorpark College counselor to determine the best course of action for your individual situation. Is there a limit to the number of credits I can transfer from another college? Yes, there is a limit to the number
+Similarity score: 0.012635648250579834
+--------------------
+Question: What is the equivalent of the lab science requirement at Moorpark College?
+Ideal response: ANAT M01; ANTH M01/M01H & M01L; AST M01 & M01L; BIOL M01, M02A, M02AH, M02B, M02C, M03, M05; BOT M01, M06; CHEM M01A, M01AH, M01B, M07A, M07B, M11, M13; ENSC M01 & M01L, M02; GEOG M01 & M01L; GEOL M02 (H) & M02L, M03 & M03L, M04, M121; MICR M01; PHYS M01 & M01L, M10A &M10AL, M10B & M10BL, M20A & M20AL, M20B & M20BL; PHSC M01 & MO1L; ZOO M01
+Model response: What is the equivalent of the lab science requirement at Moorpark College? If you're interested in transferring to a 4-year institution, it's essential to fulfill the lab science requirement at Moorpark College. This requirement is crucial for many majors, including biology, chemistry, environmental science, and more.
+The lab science requirement at Moorpark College is typically fulfilled by completing a specific set of courses, which may vary depending on the major and transfer institution. Here are some general guidelines to help you determine the equivalent of the lab science requirement at Moorpark College:
+1. Check the Moorpark College catalog: Review the college's catalog to see the specific lab science courses required for your major. You can also consult with a counselor or academic advisor to ensure you're taking the correct courses.
+2. Consult with a counselor or academic
+Similarity score: 0.1394294798374176
+--------------------
+Average similarity score: 0.4062568048764135

@@ -1,0 +1,5 @@
+Experiment,Model,Documents,Test Set,Multiple Choice,RAG Score,Fine-tuned Score
+llama-3.1-8b_similarity_contextual_test,meta-llama/llama-3.1-8b,./Contextual_Docs,Similarity_Test_Sets/similarity_contextual.json,False,0.31287295294483913,0.3853962689100467
+llama-3.1-8b_similarity_procedural_contextual_test,meta-llama/llama-3.1-8b,"./Procedural_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_procedural_contextual.json,False,0.35929880900984973,0.45251645638018995
+llama-3.1-8b-instruct_similarity_contextual_test,meta-llama/llama-3.1-8b-instruct,./Contextual_Docs,Similarity_Test_Sets/similarity_contextual.json,False,0.31861313033042493,0.4062568048764135
+llama-3.1-8b-instruct_similarity_procedural_contextual_test,meta-llama/llama-3.1-8b-instruct,"./Procedural_Docs, ./Contextual_Docs",Similarity_Test_Sets/similarity_procedural_contextual.json,False,0.36505700014902287,0.48521485882093063
